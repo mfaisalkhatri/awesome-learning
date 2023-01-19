@@ -33,7 +33,10 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Java Design Patterns - Refactoring Guru](https://refactoring.guru/design-patterns)
 - [Java Design Patterns - Github](https://github.com/iluwatar/java-design-patterns)
 - [Introduction to Computer Science using Java](https://chortle.ccsu.edu/Java5/index.html#10)
-
+- [W3Schools](https://www.w3schools.com/java/)
+- [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/)
+- [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)
+- [Refactoring](https://refactoring.guru/refactoring)
 </details>
 <br>
 
@@ -80,8 +83,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Free Code Camp](https://www.freecodecamp.org/news/tag/software-testing/) 
 - [Postman Learning Centre](https://learning.postman.com/docs/getting-started/introduction/)
 - [BlazeMeter University](https://www.blazemeter.com/university)
-
-
 </details>
 
 <details>
@@ -133,9 +134,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 </details>
 <br>
 
-
 # Free Software Testing Books
-
 
 # Learn Git
 
@@ -171,22 +170,15 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 # Learn Mobile Automation
 
-
 # Learn Security Testing
 
 # Learn Performance Testing
 
-
-
 # Learn DevOps
-
-
 
 # What is Test Pyramid?
 
-
 # Setting up Github Actions
-
 
 # Learn Penetration Testing
 
