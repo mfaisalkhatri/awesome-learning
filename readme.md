@@ -4,7 +4,7 @@
 # Awesome Learning
 
 <div align="center">
-<img src="assets/poster.gif" width="500" height="340"/>
+<img src="assets/poster.gif" width="500" height="300"/>
 </div>
 
 I have been into Software Testing role since last 14+ years, however I must tell you that my most of the time was spent in manual testing the applications. When I got into this role, specifically it was the time when there used to be a lot of desktop applications. I started my career in 2008, being a Commerce graduate and not knowing the basic alphabets of engineering, initially it was very difficult to understand what programming, testing, releases was all about! Thanks to all my mentors and guides, they helped me a lot to understand those basic concepts about testing and how the actual process works.
