@@ -18,7 +18,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Java</summary>
 
-- [Java Programming Course by Angie Jones](https://testautomationu.applitools.com/java-programming-course/)
+- [Java Programming Course by Angie Jones](target="_blank"https://testautomationu.applitools.com/java-programming-course/)
 - [Beginners Book - Java Tutorials](https://beginnersbook.com/java-tutorial-for-beginners-with-examples/)
 - [Learn Java Online](https://www.learnjavaonline.org/)
 - [Learn Java - Codecademy](https://www.codecademy.com/learn/learn-java)
