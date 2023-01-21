@@ -42,26 +42,31 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)
 - [Refactoring](https://refactoring.guru/refactoring)
 </details>
-<br>
 
 <details>
 <summary>JavaScript</summary>
 
+- [FreeCodeCamp.org](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
+- [learn-js](https://www.learn-js.org/)
+- [Javascript.info](https://javascript.info/)
+- [JavaScript Tutorial on Test Automation University](https://testautomationu.applitools.com/javascript-tutorial/)
+- [Javascript.com](https://www.javascript.com/try)
+- [W3Schools](https://www.w3schools.com/js/)
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [Full Stack Academy](https://www.fullstackacademy.com/blog/learn-javascript-for-free-13-online-tutorials-resources)
 
 </details>
-<br>
+
 
 <details>
 <summary>TypeScript</summary>
 
 </details>
-<br>
 
 <details>
 <summary>Python</summary>
 
 </details>
-<br>
 
 <details>
 <summary>Data Structures & Algorithms</summary>
@@ -144,7 +149,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 # Learn Web Automation
 
-
 # Learn API Testing
 <details>
 <summary>Postman</summary>
@@ -152,23 +156,10 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [15 days of Postman for Testers](https://www.postman.com/postman/workspace/15-days-of-postman-for-testers/overview)
 
 </details>
-
-<details>
-<summary>Gatling</summary>
-
-- [Free Galing Courses on Gatling Academy](https://academy.gatling.io/collections)
-</details>
-
 <details>
 <summary>Rest Assured</summary>
 
 - [Rest Assured Usage Guide](https://github.com/rest-assured/rest-assured/wiki/Usage)
-</details>
-
-<details>
-<summary>K6</summary>
-
-- [Usage Guide and Docs](https://k6.io/docs/)
 </details>
 <br>
 
@@ -177,6 +168,17 @@ I have been asked by many about my career transformation journey from Manual Tes
 # Learn Security Testing
 
 # Learn Performance Testing
+<details>
+<summary>Gatling</summary>
+
+- [Free Galing Courses on Gatling Academy](https://academy.gatling.io/collections)
+</details>
+<details>
+<summary>K6</summary>
+
+- [Usage Guide and Docs](https://k6.io/docs/)
+</details>
+<br>
 
 # Learn DevOps
 
