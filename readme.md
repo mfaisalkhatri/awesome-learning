@@ -14,9 +14,9 @@ I have been asked by many about my career transformation journey from Manual Tes
 ## Don't forget to give a :star: to make the project popular
 - Check out links to my LinkedIn Profile, Medium blogs and other social media sites on [LinkTree](https://linktr.ee/faisalkhatri)
 
-# QA Roadmap
+# Roadmaps
 - [QA Roadmap by Anas Fitiani](https://github.com/fityanos/awesome-quality-assurance-roadmap)
-
+- [DevOps Roadmap by Milan Milanovic](https://github.com/milanm/DevOps-Roadmap)
 
 # Learn a Programming language 
 <details>
@@ -54,13 +54,27 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [W3Schools](https://www.w3schools.com/js/)
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [Full Stack Academy](https://www.fullstackacademy.com/blog/learn-javascript-for-free-13-online-tutorials-resources)
-
 </details>
-
 
 <details>
 <summary>TypeScript</summary>
 
+- [Learn TypeScript from Scratch](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
+- [TypeScript Course for Beginners](https://www.youtube.com/watch?v=BwuLxPH8IDs)
+- [Learn TypeScript - The Ultimate Beginners Guide](https://www.freecodecamp.org/news/learn-typescript-beginners-guide/)
+- [TypeScript Tutorial](https://www.typescripttutorial.net/)
+- [LearnTypeScript.dev](https://learntypescript.dev/)
+- [TypeScriptLang.org](https://www.typescriptlang.org/)
+- [TotalTypeScript](https://www.totaltypescript.com/tutorials)
+- [TypeScript Full Tutorial by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
+- [TypeScript Beginner's Course by Sam Pigott](https://dev.to/sam_piggott/full-typescript-beginner-s-course-free-22mg)
+- [TypeScript Online Tests - Tutorials Teacher](https://www.tutorialsteacher.com/online-test/typescript-test)
+- [TypeScript Tutorial in VSCode](https://code.visualstudio.com/docs/typescript/typescript-tutorial)
+- [TypeScript](https://github.com/Microsoft/TypeScript)
+- [Awesome TypeScript](https://github.com/semlinker/awesome-typescript)
+- [Awesome TypeScript projects](https://github.com/brookshi/awesome-typescript-projects)
+- [TypeScript Tips](https://github.com/jellydn/typescript-tips)
+- [A curated list of awesome TypeScript resources](https://github.com/ellerbrock/awesome-typescript)
 </details>
 
 <details>
@@ -76,9 +90,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [DS & A in JavaScript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
 - [DS & A Problems](https://github.com/mandliya/algorithms_and_data_structures)
 - [Algo Deck](https://github.com/teivah/algodeck)
-
 </details>
-<br>
+</br>
 
 # Learn Software Testing
 <details>
@@ -154,8 +167,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Postman</summary>
 
 - [15 days of Postman for Testers](https://www.postman.com/postman/workspace/15-days-of-postman-for-testers/overview)
-
 </details>
+
 <details>
 <summary>Rest Assured</summary>
 
@@ -173,6 +186,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [Free Galing Courses on Gatling Academy](https://academy.gatling.io/collections)
 </details>
+
 <details>
 <summary>K6</summary>
 
