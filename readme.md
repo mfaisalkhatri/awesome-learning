@@ -139,6 +139,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Google Testing Blog](https://testing.googleblog.com/)
 - [TestProject's Blog](https://blog.testproject.io/)
 - [LambdaTest Blog](https://www.lambdatest.com/blog/)
+- [LambdaTest Learning Hub](https://www.lambdatest.com/learning-hub/)
 - [pCloudy Blog ](https://www.pcloudy.com/blog/)
 - [VTest Software Corp Blog](https://www.vtestcorp.com/blog/)
 - [BrowserStack Blog](https://www.browserstack.com/blog/)
@@ -174,6 +175,78 @@ I have been asked by many about my career transformation journey from Manual Tes
 # Git
 
 # Web Automation 
+
+<details>
+<Summary>Selenium WebDriver</Summary>
+
+- [Selenium WebDriver Documentation](https://www.selenium.dev/documentation/)
+- [Selenium Locator Strategies](https://www.selenium.dev/documentation/webdriver/elements/locators/)
+- [Selenium WebDriver with Java](https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/)
+- [Selenium 4 in Java](https://testautomationu.applitools.com/selenium-4-java/)
+- [Selenium WebDriver with Python](https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/)
+- [Selenium with JavaScript](https://www.selenium.dev/selenium/docs/api/javascript/index.html)
+- [From Scripting to Framework with Selenium and C#](https://testautomationu.applitools.com/test-automation-framework-csharp/)
+- [Codeless Test automation with Selenium IDE](https://testautomationu.applitools.com/codeless-test-automation-with-selenium-ide/)
+- [Intro to Selenium WebDriver with .NET Core](https://testautomationu.applitools.com/intro-to-selenium-webdriver-with-net-core/)
+- [Selenium WebDriver with Ruby](https://testautomationu.applitools.com/selenium-webdriver-with-ruby/)
+- [Free Selenium WebDriver Course](https://automationintesting.com/selenium/java/course/)
+- [Seleniumeasy.com](https://www.seleniumeasy.com/)
+- [Selenium Tutorial - SoftwareTestingMaterial](https://www.softwaretestingmaterial.com/selenium-tutorial/)
+- [Selenium Tutorial - SoftwareTestingHelp](https://www.softwaretestinghelp.com/selenium-tutorial-1/)
+- [Selenium 4 WebDriver Hierarchy](https://www.lambdatest.com/blog/selenium-4-webdriver-hierarchy/)
+- [How to handl dynamic dropdowns in Selenium](https://www.lambdatest.com/blog/handling-dropdowns-in-selenium-webdriver-java/)
+- [How To Automate Shadow DOM In Selenium WebDriver](https://www.lambdatest.com/blog/shadow-dom-in-selenium/)
+- [Writing Selenium Web Automation tests in Fluent way!](https://medium.com/@iamfaisalkhatri/writing-selenium-web-automation-tests-in-fluent-way-864db95ee67a)
+- [End to End Testing using Selenium WebDriver and Java](https://medium.com/@iamfaisalkhatri/end-to-end-testing-using-selenium-webdriver-and-java-4ff8667716ca)
+- [Blogs related to Selenium WebDriver by LambdaTest](https://www.lambdatest.com/blog/?s=selenium+webdriver)
+- [Understanding CSS Selectors in Selenium](https://www.pcloudy.com/blogs/understanding-css-selectors-in-selenium/)
+- [Everything you need to know about the Selenium IDE: Tutorial](https://www.pcloudy.com/blogs/everything-you-need-to-know-about-the-selenium-ide-tutorial/)
+- [Executing Parallel Test Sessions with TestNG and Selenium WebDriver](https://www.pcloudy.com/blogs/executing-parallel-test-sessions-with-testng-and-selenium-webdriver/)
+- [Parallel Execution of Tests using Selenium Grid 4 with Docker Compose](https://medium.com/@iamfaisalkhatri/parallel-execution-of-tests-using-selenium-grid-4-with-docker-compose-2dc243f4fe8b)
+</details>
+
+<details>
+<summary>Playwright</summary>
+
+- [Playwright Documentation - Nodejs](h)ttps://playwright.dev/docs/intro)
+- [Playwright Documentation - Java](https://playwright.dev/java/docs/intro)
+- [Playwright Documentation - Python](https://playwright.dev/python/docs/intro)
+- [Playwright Documentation - .NET](https://playwright.dev/dotnet/docs/intro)
+- [Playwright Locators](https://playwright.dev/docs/locators)
+- [Playwright with JavaScript](https://testautomationu.applitools.com/js-playwright-tutorial/)
+- [What is Microsoft Playwright JS?](https://testguild.com/what-is-microsoft-playwright-js/)
+- [An End To End Playwright Testing with TypeScript](https://www.youtube.com/watch?v=wawbt1cATsk)
+- [Playwright Tutorial: Getting Started With Playwright Framework](https://www.lambdatest.com/blog/playwright-framework/)
+- [Playwright - Github](https://github.com/microsoft/playwright)
+- [Playing with Playwright](https://applitools.com/blog/playing-with-playwright/)
+- [Interactive website to learn playwright](https://try.playwright.tech/)
+
+</details>
+
+<details> 
+<summary>Cypress</summary>
+
+- [Cypress Documentation](https://docs.cypress.io/guides/overview/why-cypress)
+- [Introduction to Cypress](https://testautomationu.applitools.com/cypress-tutorial/)
+- [Cypress with TypeScript](https://testautomationu.applitools.com/cypress-with-typescript/)
+- [Advanced Cypress](https://testautomationu.applitools.com/advanced-cypress-tutorial/)
+- [Filip Hric's blogs on Cypress](https://filiphric.com/blog)
+- [Cypress Testing Tutorial](https://www.youtube.com/watch?v=jX3v3N6oN5M)
+- [Learn Cypress](https://learn.cypress.io/)
+</details>
+
+<details>
+<summary>WebDriverIO </summary>
+
+- [WebdriverIO](https://webdriver.io/)
+- [UI Automation with WebdriverIO v7](https://testautomationu.applitools.com/webdriverio-7-tutorial/)
+- [Automated Visual Testing with WebdriverIO](https://testautomationu.applitools.com/automated-visual-testing-javascript-webdriverio/)
+- [WebApp Testing with WebdriverIO - Crash Course](https://www.youtube.com/watch?v=RJ2kwpzX8so)
+- [WebDriverIo v8 Must Know Features with Christian Bromann](https://www.youtube.com/watch?v=OZXVcK-dJkQ)
+- [WebDriverIO and Extended Debugging with Christian Bromann](https://www.youtube.com/watch?v=aX5TLGKhTKM)
+- [WebDriverIO Wednesdays with Kevin](https://www.youtube.com/watch?v=k6FFwurWhf0&list=PL0y7qCn3hjLYGdFtm_qvF0mCdFnBKs2C7)
+- [WebdrivreIO - Github](https://github.com/webdriverio/webdriverio)
+</details>
 
 # API Testing 
 <details>
