@@ -208,7 +208,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Playwright</summary>
 
-- [Playwright Documentation - Nodejs](h)ttps://playwright.dev/docs/intro)
+- [Playwright Documentation - Nodejs](https://playwright.dev/docs/intro)
 - [Playwright Documentation - Java](https://playwright.dev/java/docs/intro)
 - [Playwright Documentation - Python](https://playwright.dev/python/docs/intro)
 - [Playwright Documentation - .NET](https://playwright.dev/dotnet/docs/intro)
