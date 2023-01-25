@@ -18,7 +18,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [QA Roadmap by Anas Fitiani](https://github.com/fityanos/awesome-quality-assurance-roadmap)
 - [DevOps Roadmap by Milan Milanovic](https://github.com/milanm/DevOps-Roadmap)
 
-# Learn a Programming language 
+# Programming languages 
 <details>
 <summary>Java</summary>
 
@@ -46,6 +46,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>JavaScript</summary>
 
+- [Beginners Series to JavaScript](https://learn.microsoft.com/en-us/shows/beginners-series-to-javascript/)
 - [FreeCodeCamp.org](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 - [learn-js](https://www.learn-js.org/)
 - [Javascript.info](https://javascript.info/)
@@ -54,6 +55,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [W3Schools](https://www.w3schools.com/js/)
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [Full Stack Academy](https://www.fullstackacademy.com/blog/learn-javascript-for-free-13-online-tutorials-resources)
+
 </details>
 
 <details>
@@ -62,6 +64,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Learn TypeScript from Scratch](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
 - [TypeScript Course for Beginners](https://www.youtube.com/watch?v=BwuLxPH8IDs)
 - [Learn TypeScript - The Ultimate Beginners Guide](https://www.freecodecamp.org/news/learn-typescript-beginners-guide/)
+- [TypeScript Cash Course with Matt Pocock](https://learn.microsoft.com/en-us/shows/vs-code-livestreams/typescript-crash-course-with-matt-pocock)
 - [TypeScript Tutorial](https://www.typescripttutorial.net/)
 - [LearnTypeScript.dev](https://learntypescript.dev/)
 - [TypeScriptLang.org](https://www.typescriptlang.org/)
@@ -80,6 +83,18 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Python</summary>
 
+- [Learn Python](https://www.learnpython.org/)
+- [Python Programming course on FreeCodeCamp](https://www.freecodecamp.org/news/python-programming-course/)
+- [Getting Started with Python - Python.org](https://www.python.org/about/gettingstarted/)
+- [Python for Beginners](https://learn.microsoft.com/en-us/windows/python/beginners)
+- [Introduction to Python](https://learn.microsoft.com/en-us/training/modules/intro-to-python/)
+- [Python Tutorial - Test Automation University ](https://testautomationu.applitools.com/python-tutorial/)
+- [Awesome Python](https://github.com/vinta/awesome-python)
+- [Awesome Python Books](https://github.com/junnplus/awesome-python-books)
+- [Python Tutorial - W3Schools](https://www.w3schools.com/python/)
+- [Python Programming - Programiz](https://www.programiz.com/python-programming)
+- [Learn Python - Kaggle.com](https://www.kaggle.com/learn/python)
+- [Python Full Course - Bro Code](https://www.youtube.com/watch?v=XKHEtdqhLK8)
 </details>
 
 <details>
@@ -93,7 +108,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 </details>
 </br>
 
-# Learn Software Testing
+# Software Testing
 <details>
 <summary>Free Tutorials and Courses</summary>
 
@@ -154,15 +169,14 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Sauce Labs](https://www.youtube.com/@SauceLabs_Official)
 - [Faisal Khatri](https://www.youtube.com/@faisalkhatriqa)
 </details>
-<br>
 
-# Free Software Testing Books
+# Software Testing Books
 
-# Learn Git
+# Git
 
-# Learn Web Automation
+# Web Automation 
 
-# Learn API Testing
+# API Testing 
 <details>
 <summary>Postman</summary>
 
@@ -174,13 +188,13 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [Rest Assured Usage Guide](https://github.com/rest-assured/rest-assured/wiki/Usage)
 </details>
-<br>
 
-# Learn Mobile Automation
 
-# Learn Security Testing
+# Mobile Automation
 
-# Learn Performance Testing
+# Security Testing
+
+# Performance Testing
 <details>
 <summary>Gatling</summary>
 
@@ -192,9 +206,9 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [Usage Guide and Docs](https://k6.io/docs/)
 </details>
-<br>
 
-# Learn DevOps
+
+# DevOps
 
 # What is Test Pyramid?
 
