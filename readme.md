@@ -106,7 +106,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [DS & A Problems](https://github.com/mandliya/algorithms_and_data_structures)
 - [Algo Deck](https://github.com/teivah/algodeck)
 </details>
-</br>
 
 # Software Testing
 <details>
@@ -214,7 +213,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 # Setting up Github Actions
 
-# Learn Penetration Testing
+# Penetration Testing
 
 <!-- 
 <details>
