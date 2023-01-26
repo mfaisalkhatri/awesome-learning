@@ -55,7 +55,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [W3Schools](https://www.w3schools.com/js/)
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [Full Stack Academy](https://www.fullstackacademy.com/blog/learn-javascript-for-free-13-online-tutorials-resources)
-
 </details>
 
 <details>
@@ -160,8 +159,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [O'Reilly](https://www.youtube.com/@oreilly)
 - [Programming with Mosh](https://www.youtube.com/@programmingwithmosh)
 - [Free Code Camp](https://www.youtube.com/@freecodecamp)
-- [Postman end to end Tutorials Saravanan Seenivasan](https://www.youtube.com/@SaravananSeenivasan)
-- [API Testing Videos by Dimpy Adhikary - DTestHive](https://www.youtube.com/@DTestHive)
 - [LambdaTest](https://www.youtube.com/@LambdaTest)
 - [Automation Testing with Joe Colantonio](https://www.youtube.com/@JoeColantonio)
 - [Front-end Testing with Kevin](https://www.youtube.com/@frontendtesting)
@@ -191,6 +188,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Selenium WebDriver with Ruby](https://testautomationu.applitools.com/selenium-webdriver-with-ruby/)
 - [Free Selenium WebDriver Course](https://automationintesting.com/selenium/java/course/)
 - [Seleniumeasy.com](https://www.seleniumeasy.com/)
+- [Selenium WebDriver example code](https://github.com/mfaisalkhatri/selenium4poc)
 - [Selenium Tutorial - SoftwareTestingMaterial](https://www.softwaretestingmaterial.com/selenium-tutorial/)
 - [Selenium Tutorial - SoftwareTestingHelp](https://www.softwaretestinghelp.com/selenium-tutorial-1/)
 - [Selenium 4 WebDriver Hierarchy](https://www.lambdatest.com/blog/selenium-4-webdriver-hierarchy/)
@@ -212,15 +210,16 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Playwright Documentation - Java](https://playwright.dev/java/docs/intro)
 - [Playwright Documentation - Python](https://playwright.dev/python/docs/intro)
 - [Playwright Documentation - .NET](https://playwright.dev/dotnet/docs/intro)
+- [Playwright - YouTube](https://www.youtube.com/channel/UC46Zj8pDH5tDosqm1gd7WTg)
 - [Playwright Locators](https://playwright.dev/docs/locators)
 - [Playwright with JavaScript](https://testautomationu.applitools.com/js-playwright-tutorial/)
 - [What is Microsoft Playwright JS?](https://testguild.com/what-is-microsoft-playwright-js/)
+- [Testing Modern Web Apps with Playwright | OD110](https://www.youtube.com/watch?v=sAY9FmBih08)
 - [An End To End Playwright Testing with TypeScript](https://www.youtube.com/watch?v=wawbt1cATsk)
 - [Playwright Tutorial: Getting Started With Playwright Framework](https://www.lambdatest.com/blog/playwright-framework/)
 - [Playwright - Github](https://github.com/microsoft/playwright)
 - [Playing with Playwright](https://applitools.com/blog/playing-with-playwright/)
 - [Interactive website to learn playwright](https://try.playwright.tech/)
-
 </details>
 
 <details> 
@@ -233,12 +232,14 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Filip Hric's blogs on Cypress](https://filiphric.com/blog)
 - [Cypress Testing Tutorial](https://www.youtube.com/watch?v=jX3v3N6oN5M)
 - [Learn Cypress](https://learn.cypress.io/)
+- [Cypress - Youtube](https://www.youtube.com/@Cypressio)
 </details>
 
 <details>
 <summary>WebDriverIO </summary>
 
 - [WebdriverIO](https://webdriver.io/)
+- [WebDriverIO - YouTube](https://www.youtube.com/watch?v=GAc031zGWTM&list=PLPO0LFyCaSo3oedws079pCNtppXAZdjv6)
 - [UI Automation with WebdriverIO v7](https://testautomationu.applitools.com/webdriverio-7-tutorial/)
 - [Automated Visual Testing with WebdriverIO](https://testautomationu.applitools.com/automated-visual-testing-javascript-webdriverio/)
 - [WebApp Testing with WebdriverIO - Crash Course](https://www.youtube.com/watch?v=RJ2kwpzX8so)
@@ -249,16 +250,92 @@ I have been asked by many about my career transformation journey from Manual Tes
 </details>
 
 # API Testing 
+
+<details>
+<summary>Introduction to API Testing</summary>
+
+- [REST API Concepts and examples](https://www.youtube.com/watch?v=7YcW25PHnAA)
+- [What is an API? API for Beginners](https://www.youtube.com/watch?v=GZvSYJDk-us)
+- [What is API Testing?](https://mfaisalkhatri.github.io/2020/08/08/apitesting/)
+- [API Testing Tutorial](https://www.softwaretestinghelp.com/api-testing-tutorial/)
+- [A Comprehensive API Testing Guide](https://www.softwaretestingmaterial.com/api-testing/)
+- [JSON.org](https://www.json.org/json-en.html)
+- [What is JSON?](https://www.w3schools.com/whatis/whatis_json.asp)
+</details>
+
 <details>
 <summary>Postman</summary>
 
+- [Postman Learning Center](https://learning.postman.com/docs/getting-started/introduction/)
 - [15 days of Postman for Testers](https://www.postman.com/postman/workspace/15-days-of-postman-for-testers/overview)
+- [Postman Beginner's Course - API Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
+- [Postman API Crash Course - Clever Programmer](https://www.youtube.com/watch?v=Iq7eh6DhN6M)
+- [Postman end to end Tutorials Saravanan Seenivasan](https://www.youtube.com/@SaravananSeenivasan)
+- [API Testing Videos by Dimpy Adhikary - DTestHive](https://www.youtube.com/@DTestHive)
+- [API Test Automation with Postman](https://testautomationu.applitools.com/postman-tutorial/)
+- [Exploring Service APIs through Test Automation](https://testautomationu.applitools.com/exploring-service-apis-through-test-automation/)
+- [newman](https://github.com/postmanlabs/newman)
+- [Postman blogs](https://blog.postman.com/)
+- [Using Postman Environment Variables & Auth Tokens](https://medium.com/@codebyjeff/using-postman-environment-variables-auth-tokens-ea9c4fe9d3d7)
+- [API Testing using Postman](https://medium.com/aubergine-solutions/api-testing-using-postman-323670c89f6d)
 </details>
 
 <details>
 <summary>Rest Assured</summary>
 
+- [rest-assured.io](https://rest-assured.io/)
 - [Rest Assured Usage Guide](https://github.com/rest-assured/rest-assured/wiki/Usage)
+- [Automating your API tests with REST Assured](https://testautomationu.applitools.com/automating-your-api-tests-with-rest-assured/)
+- [A Guide to REST-assured](https://www.baeldung.com/rest-assured-tutorial)
+- [End to End API Testing using rest-assured](https://medium.com/@iamfaisalkhatri/end-to-end-api-testing-using-rest-assured-a58c4ea80255)
+- [How to perform API testing with REST Assured](https://techbeacon.com/app-dev-testing/how-perform-api-testing-rest-assured)
+- [James Willett - Rest Assured blogs](https://www.james-willett.com/blog/restassured/)
+- [Rest Assured Example code](https://github.com/mfaisalkhatri/rest-assured-examples)
+- [REST API Automation From Scratch](https://blog.testproject.io/2021/07/28/rest-api-automation-from-scratch/)
+- [Rest Assured Tutorial](https://mindmajix.com/rest-assured-tutorial)
+- [Creating data driven API tests with REST Assured and TestNG](https://www.ontestautomation.com/creating-data-driven-api-tests-with-rest-assured-and-testng/)
+- [How to perform JSON Schema Validation using Rest-Assured?](https://medium.com/@iamfaisalkhatri/how-to-perform-json-schema-validation-using-rest-assured-64c3b6616a91)
+</details>
+
+<details>
+<summary>SuperTest</summary>
+
+- [SuperTest](https://www.npmjs.com/package/supertest)
+- [API Testing in JavaScript](https://testautomationu.applitools.com/javascript-api-testing/)
+- [Dead-Simple API Tests With SuperTest, Mocha, and Chai](https://dev-tester.com/dead-simple-api-tests-with-supertest-mocha-and-chai/)
+- [API Testing using SuperTest](https://medium.com/@iamfaisalkhatri/api-testing-using-supertest-ea37522fa329)
+- [API Testing using Jest and SuperTest](https://www.testingwithmarie.com/post/api-testing-using-jest-and-supertest)
+</details>
+
+<details>
+<summary>Playwright</summary>
+
+- [API Testing with Playwright](https://playwright.dev/docs/test-api-testing)
+- [Using Playwright for API testing](https://reflect.run/articles/using-playwright-for-api-testing/)
+- [API Testing with Playwright - GitHub](https://github.com/microsoft/playwright/blob/main/docs/src/test-api-testing-js.md)
+</details>
+
+<details>
+<summary>Cypress</summary>
+
+- [API & Integration Tests](https://learn.cypress.io/advanced-cypress-concepts/integration-and-api-tests)
+- [A Step-By-Step Guide To Cypress API Testing](https://www.lambdatest.com/blog/cypress-api-testing/)
+- [Cypress basics: API testing](https://filiphric.com/cypress-basics-api-testing)
+- [API Testing with Cypress Series' Articles](https://dev.to/murillowelsi/series/12873)
+- [Advanced Cypress](https://testautomationu.applitools.com/advanced-cypress-tutorial/)
+- [How To Test API With Cypress | Filip Hric | Testμ 2022 | LambdaTest](https://www.youtube.com/watch?v=kENXELkT4O4)
+</details>
+
+<details>
+<summary>GraphQL</summary>
+
+- [GraphQL](https://graphql.org/)
+- [GraphQL - GitHub](https://github.com/graphql)
+- [A Beginner’s Guide to GraphQL](https://www.freecodecamp.org/news/a-beginners-guide-to-graphql-86f849ce1bec/)
+- [Testing GraphQL API](https://blog.testproject.io/2020/06/23/testing-graphql-api/)
+- [How to Test your GraphQL Endpoints](https://escape.tech/blog/testing-your-graphql-api/)
+- [Writing Tests for GraphQL APIs using REST Assured](https://applitools.com/blog/writing-tests-graphql-apis-rest-assured/)
+- [GraphQL Guides](https://www.graphql.com/guides/)
 </details>
 
 
