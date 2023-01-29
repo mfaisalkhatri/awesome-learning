@@ -249,6 +249,14 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [WebdrivreIO - Github](https://github.com/webdriverio/webdriverio)
 </details>
 
+<details>
+<summary>Capybara</summary>
+
+- [Introduction to Capybara](https://testautomationu.applitools.com/capybara-ruby/)
+</details>
+
+
+
 # API Testing 
 
 <details>
@@ -340,6 +348,68 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 
 # Mobile Automation
+
+<details>
+<summary>Mobile Testing</summary>
+
+- [Guide to Mobile Testing](https://medium.com/@iamfaisalkhatri/guide-to-mobile-testing-d0dd2d9b59f1)
+- [Mobile App Testing Guide](https://blog.qatestlab.com/2020/09/04/mobile-app-testing-guide/)
+- [Mobile Automation Testing Tools](https://www.lambdatest.com/blog/best-mobile-automation-testing-tools/)
+- [What is an Android Emulator? How to Start and use it?](https://medium.com/@iamfaisalkhatri/what-is-an-android-emulator-how-to-start-and-use-it-66fdcf52be7e)
+- [Emulator vs Simulator For Mobile Testing: Differences & Setup](https://www.lambdatest.com/blog/difference-between-emulator-vs-simulator-for-mobile-testing/)
+- [Mobile App Testing Tutorials (A Complete Guide With 30+ Tutorials)](https://www.softwaretestinghelp.com/beginners-guide-to-mobile-application-testing/)
+- [Mobile App Testing Tutorial: A Comprehensive Guide With Examples and Best Practices](https://www.lambdatest.com/learning-hub/mobile-app-testing)
+- [Mobile Application Testing using Automation frameworks](https://www.browserstack.com/guide/mobile-application-testing-frameworks)
+</details>
+
+<details>
+<summary>Appium</summary>
+
+- [Appium Conference](https://www.youtube.com/playlist?list=PL9Z-JgiTsOYRCcJhDfmKAah9XmAp2b903)
+- [Appium.io](https://appium.io/)
+- [Appium Desired Capabilities](https://appium.io/docs/en/writing-running-appium/caps/)
+- [Appium 2.0 Documentation](https://appium.github.io/appium/docs/en/2.0/)
+- [Appium Inspector](https://github.com/appium/appium-inspector)
+- [Appium Desktop](https://github.com/appium/appium-desktop)
+- [Setting up Appium on MAC for automating iOS App](https://wasiqb.github.io/blogs/appium-automation-ios)
+- [BEGINNERS GUIDE TO APPIUM AUTOMATION WITH JAVA FOR ANDROID APPS](https://wasiqb.wordpress.com/2017/04/19/beginners-guide-to-appium-automation-with-java-for-android-apps-part-2/)
+- [Inspecting elements of an app using Appium Inspector and BrowserStack!](https://medium.com/@iamfaisalkhatri/inspecting-elements-of-an-app-using-appium-inspector-and-browserstack-32c095a5333c)
+- [Mobile Automation with Appium in Java](https://testautomationu.applitools.com/appium-java-tutorial/)
+- [Mobile Automation with Appium in JavaScript](https://testautomationu.applitools.com/appium-javascript-tutorial/)
+- [Automated Mobile App Testing using Appium and Python](https://blog.testproject.io/2019/07/16/automated-mobile-app-using-appium-and-python/)
+- [Appium Version 2.0 Fundamentals](https://university.blazemeter.com/)
+- [Getting started with Appium 2.0: Your beginner’s guide](https://bitrise.io/blog/post/getting-started-with-appium-2-0-your-beginners-guide)
+- [How To Identify Locators In Appium [With Examples]](https://www.lambdatest.com/blog/locators-in-appium/)
+- [Automated App testing using Appium with TestNG](https://www.lambdatest.com/blog/appium-with-testng-tutorial/)
+- [How To Test React Native Apps On iOS And Android](https://www.lambdatest.com/blog/test-react-native-apps-on-ios-and-android/)
+- [Complete Tutorial On Appium Parallel Testing [With Examples]](https://www.lambdatest.com/blog/appium-parallel-testing/)
+- [How to start Appium Server Programmatically?](https://medium.com/@iamfaisalkhatri/how-to-start-appium-server-programmatically-ec07292ab59)
+- [Appium 2.0 Plugins](https://appium.github.io/appium/docs/en/2.0/ecosystem/#plugins)
+- [Appium Gestures Plugin](https://github.com/AppiumTestDistribution/appium-gestures-plugin)
+- [Build your own Appium 2.0 Driver by Srinivasan Sekar & Sai Krishna #SeConf 2022](https://www.youtube.com/watch?v=DWoqcZc3D5Y)
+</details>
+
+<details>
+<summary>Flutter</summary>
+
+- [Automating Tests for Flutter Apps](https://testautomationu.applitools.com/testing-flutter-apps/)
+- [Flutter Testing Guide for Beginners - Part 1: Unit Tests & Setup](https://www.youtube.com/watch?v=hUAUAkIZmX0)
+- [Flutter Testing Guide for Beginners – Part 2: Widget & Integration Tests](https://www.youtube.com/watch?v=Ghqry5dtgH4)
+- [Testing Flutter apps](https://docs.flutter.dev/testing)
+- [APPIUM For Android & iOS Mobile Apps Testing In Flutter](https://medium.flutterdevs.com/appium-for-android-ios-mobile-apps-testing-in-flutter-709cee06f3)
+- [Automating Flutter Apps with Appium Flutter Driver using Appium Java Client](https://testsigma.com/blog/automating-flutter-apps-with-appium-flutter-driver/)
+</details>
+
+<details>
+<summary>WebdriverIO </summary>
+
+- [WebdriverIO documentation](https://webdriver.io/docs/gettingstarted)
+- [Mobile Selectors](https://webdriver.io/docs/selectors#mobile-selectors)
+- [Appium boilerplate](https://github.com/webdriverio/appium-boilerplate/)
+- [Mobile e2e tests using WebdriverIO and Appium](https://dev.to/fmo91/mobile-e2e-tests-using-webdriverio-and-appium-4071)
+- [Appium Service](https://webdriver.io/docs/appium-service)
+- [Guide to setup appium webdriverIO project to test android | ios application](https://www.youtube.com/watch?v=Sk9CQ3BaW_w)
+</details>
 
 # Security Testing
 
