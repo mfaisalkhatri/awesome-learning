@@ -413,6 +413,81 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 # Security Testing
 
+<details>
+<summary>Tutorials</summary>
+
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+- [ZAProxy](https://www.zaproxy.org/)
+- [Security Testing Guide](https://github.com/OWASP/wstg/tree/master/document)
+- [Security Testing Tutorial](https://www.softwaretestingmaterial.com/security-testing-tutorial/)
+- [OWASP Web Security Testing Guide](https://www.softwaretestinghelp.com/how-to-test-application-security-web-and-desktop-application-security-testing-techniques/)
+- [Web Application Security Testing Guide](https://www.softwaretestinghelp.com/security-testing-of-web-applications/)
+- [Security Testing](https://www.geeksforgeeks.org/software-testing-security-testing/)
+- [OWASP Mobile Security](https://owasp.org/www-project-mobile-app-security/)
+- [Hacksplaining](https://www.hacksplaining.com/owasp)
+- [OWASP Top 10 Vulnerabilities](https://www.softwaretestinghelp.com/owasp-top-10-security-vulnerabilities/)
+- [OWASP Top 10 2021](https://owasp.org/Top10/)
+- [OWASP Top 10 tools and tactics](https://resources.infosecinstitute.com/topic/owasp-top-10-tools-and-tactics/)
+- [awesome-security](https://github.com/sbilly/awesome-security)
+- [awesome web security](https://github.com/qazbnm456/awesome-web-security)
+- [awesome Hacking](https://github.com/qazbnm456/awesome-web-security)
+- [awesome web hacking](https://github.com/infoslack/awesome-web-hacking)
+- [awesome mobile security](https://github.com/vaib25vicky/awesome-mobile-security)
+- [awesome-appsec](https://github.com/paragonie/awesome-appsec)
+- [awesome-api-security](https://github.com/arainho/awesome-api-security)
+- [Threat Modelling](https://owasp.org/www-community/Threat_Modeling)
+- [What is Threat Modelling and How does it work?](https://www.mygreatlearning.com/blog/what-is-threat-modeling-and-how-does-it-work/)
+- [What is CVE?](https://www.redhat.com/en/topics/security/what-is-cve)
+
+</details>
+
+<details> 
+<summary>Penetration Testing</summary>
+
+- [Penetration testing guide](https://www.softwaretestinghelp.com/penetration-testing-guide/)
+- [Pentesterlabs](https://pentesterlab.com/)
+- [The Beginner’s Guide to API Hacking - DANA EPP'S BLOG](https://danaepp.com/beginners-guide-to-api-hacking)
+- [Hacking APIs: Workshop - Corey Ball](https://sway.office.com/HVrL2AXUlWGNDHqy)
+- [MalAPI by mrd0x](https://malapi.io/)
+- [What is DAST?](https://www.softwaretestinghelp.com/what-is-dast/)
+- [What is RAST?](https://www.softwaretestinghelp.com/rasp-tutorial/)
+- [What is SAST](https://www.softwaretestinghelp.com/sast-tutorial/)
+- [What is IAST](https://www.softwaretestinghelp.com/what-is-iast/)
+- [Difference between DAST,SAST, IAST and RAST](https://www.softwaretestinghelp.com/differences-between-sast-dast-iast-and-rasp/)
+- [SAST, DAST and IAST](https://www.getastra.com/blog/security-audit/interactive-application-security-testing/)
+- [CyberSecurity - Codeacademy](https://www.codecademy.com/catalog/subject/cybersecurity)
+- [Collection of Penetration Testing resources](https://github.com/wtsxDev/Penetration-Testing#penetration-testing-resources)
+- [Penetration Testing Full Course - FreeCodeCamp.org](https://www.freecodecamp.org/news/full-penetration-testing-course/)
+</details>
+
+<details>
+
+<summary>YouTube Channels</summary>
+
+- [OWASP Foundation](https://www.youtube.com/@OWASPGLOBAL)
+- [OWASP Top 10 2021 - The List and How You Should Use It](https://www.youtube.com/watch?v=hryt-rCLJUA)
+- [2021 OWASP Top Ten Overview - F5 DevCentral](https://www.youtube.com/watch?v=uu7o6hEswVQ&list=PLyqga7AXMtPOguwtCCXGZUKvd2CDCmUgQ)
+- [API hacking for the Actually Pretty Inexperienced hacker with Katie Paxton-Fear](https://www.youtube.com/watch?v=qqmyAxfGV9c)
+- [OWASP Devslop](https://www.youtube.com/@OWASPDevSlop)
+- [A Starters Guide to Pentesting with OWASP](https://www.youtube.com/watch?v=AO_sqXb-gKE)
+- [Actionable Security Testing Tips on the TestGuild Security Testing](https://www.youtube.com/playlist?list=PL9AgRtJkydU3JzSZcwWxMwrrzg9SSGWwH)
+</details>
+
+<details>
+<summary>Security Testing Tools</summary>
+
+- [Vulnerability Scanning Tools](https://owasp.org/www-community/Vulnerability_Scanning_Tools)
+- [19 Powerful Penetration Testing tools](https://www.softwaretestinghelp.com/penetration-testing-tools/)
+- [Top 10 Open Source Security Testing Tools for Web Apps](https://hackr.io/blog/top-10-open-source-security-testing-tools-for-web-applications)
+- [10 best mobile app security testing tools](https://www.softwaretestinghelp.com/mobile-app-security-testing-tools/)
+- [API Security Tools](https://owasp.org/www-community/api_security_tools)
+- [Snyk.io](https://snyk.io/)
+- [Pynt.io](https://www.pynt.io/)
+- [Black Duck](https://community.synopsys.com/s/)
+- [Checkmarx](https://checkmarx.com/)
+
+</details>
+
 # Performance Testing
 <details>
 <summary>Gatling</summary>
@@ -433,7 +508,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 # Setting up Github Actions
 
-# Penetration Testing
 
 <!-- 
 <details>
