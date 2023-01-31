@@ -167,9 +167,20 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Faisal Khatri](https://www.youtube.com/@faisalkhatriqa)
 </details>
 
-# Software Testing Books
+<details>
+<summary>Software Testing Books</summary>
+
+</details>
+
+<details>
+<summary>Test Pyramid <summary>
+
+
+</details>
+
 
 # Git
+
 
 # Web Automation 
 
@@ -438,7 +449,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Threat Modelling](https://owasp.org/www-community/Threat_Modeling)
 - [What is Threat Modelling and How does it work?](https://www.mygreatlearning.com/blog/what-is-threat-modeling-and-how-does-it-work/)
 - [What is CVE?](https://www.redhat.com/en/topics/security/what-is-cve)
-
 </details>
 
 <details> 
@@ -485,27 +495,88 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Pynt.io](https://www.pynt.io/)
 - [Black Duck](https://community.synopsys.com/s/)
 - [Checkmarx](https://checkmarx.com/)
-
 </details>
 
 # Performance Testing
+
+<details>
+<summary>Performance Testing Tutorials</summary>
+
+- [A Complete Performance Testing Guide With Examples](https://www.softwaretestinghelp.com/introduction-to-performance-testing-loadrunner-training-tutorial-part-1/)
+- [What is Performance Testing?](https://www.techtarget.com/searchsoftwarequality/definition/performance-testing)
+- [Master Performance Testing](https://university.blazemeter.com/)
+- [Performance Testing vs. Load Testing vs. Stress Testing](https://www.blazemeter.com/blog/performance-testing-vs-load-testing-vs-stress-testing)
+- [What is Throughput in Performance Testing?](https://testguild.com/performance-testing-what-is-throughput/)
+- [Load Testing Best Practices](https://loadninja.com/load-testing/)
+- [Tools and Techniques for Performance and Load Testing](https://testautomationu.applitools.com/performance-and-load-testing/)
+- [awesome-performance-testing](https://github.com/andriisoldatenko/awesome-performance-testing)
+- [15 Top Load Testing Tools Open Source MUST KNOW in 2021](https://www.youtube.com/watch?v=KECr2BujqtM)
+- [15 BEST Performance Testing Tools (Load Testing Tools) In 2023](https://www.softwaretestinghelp.com/performance-testing-tools-load-testing-tools/)
+- [Performance Testing Tools: Types, Use & More](https://www.knowledgehut.com/blog/software-testing/performance-testing-tools)
+</details>
+
+<details> 
+<summary>K6</summary>
+
+- [Beginner’s Guide to Load Testing with k6](https://medium.com/swlh/beginners-guide-to-load-testing-with-k6-85ec614d2f0d)
+- [API performance testing with k6](https://circleci.com/blog/api-performance-testing-with-k6/)
+- [K6 - Usage Guide and Docs](https://k6.io/docs/)
+- [K6 - Examples and Tutorials](https://k6.io/docs/examples/)
+- [K6 - API Load Testing](https://k6.io/docs/testing-guides/api-load-testing/)
+- [How to get started with K6?](https://isitobservable.io/site-reliability-engineering/how-to-get-started-with-k6)
+- [Grafana K6](https://github.com/grafana/k6)
+- [Performance Testing with K6](https://github.com/cajames/performance-testing-with-k6)
+</details>
+
+
 <details>
 <summary>Gatling</summary>
 
-- [Free Galing Courses on Gatling Academy](https://academy.gatling.io/collections)
+- [Free Gatling Courses on Gatling Academy](https://academy.gatling.io/collections)
+- [awesome-gatling](https://github.com/aliesbelik/awesome-gatling)
+- [Gatling Tutorial: Getting Started With Gatling Load Testing](https://www.softwaretestinghelp.com/gatling-tutorial/)
+- [Gatling Quickstart](https://gatling.io/docs/gatling/tutorials/quickstart/)
+- [Load Testing with Gatling - James Willett](https://www.james-willett.com/gatling-load-testing-complete-guide/)
+- [Intro to Gatling](https://www.baeldung.com/introduction-to-gatling)
+- [8 Reasons You Should Use Gatling for Load Testing](https://www.blazemeter.com/blog/gatling-load-testing)
 </details>
 
 <details>
-<summary>K6</summary>
+<summary>JMeter</summary>
 
-- [Usage Guide and Docs](https://k6.io/docs/)
+- [Jeter Documentation](https://jmeter.apache.org/)
+- [JMeter -Github](https://github.com/apache/jmeter)
+- [JMeter Plugins](https://jmeter-plugins.org/)
+- [JMeter Maven Plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+- [JMeter Tutorials: The Complete Free Training On JMeter](https://www.softwaretestinghelp.com/jmeter-tutorials/)
+- [JMeter Tutorial](https://www.blazemeter.com/blog/jmeter-tutorial)
+- [JMeter Tutorials - SWTestacademy](https://www.swtestacademy.com/category/performance-testing/jmeter/)
+- [JMeter Tutorial - Great Learning](https://www.mygreatlearning.com/jmeter/tutorials)
+- [Intro to JMeter - Baeldung](https://www.baeldung.com/jmeter)
+- [awesome-jmeter](https://github.com/aliesbelik/awesome-jmeter)
 </details>
 
+<details>
+<summary>Google Lighthouse</summary>
+
+- [Lighthouse - GitHub](https://github.com/GoogleChrome/lighthouse)
+- [What Is Google Lighthouse and How to Use It?](https://www.elegantthemes.com/blog/wordpress/what-is-google-lighthouse-and-how-to-use-it)
+- [Introduction to Chrome Lighthouse](https://www.freecodecamp.org/news/introduction-to-chrome-lighthouse/)
+</details>
+
+<details>
+<summary>YouTube Channels</summary>
+
+- [Actionable Performance Testing & SRE Tips on the TestGuild Performance Podcast](https://www.youtube.com/playlist?list=PL9AgRtJkydU3pQfcrQmDrGMbx3aNMnLnW)
+- [Gatling Tutorials for Beginners - James Willett](https://www.youtube.com/playlist?list=PLw_jGKXm9lIYpTotIJ-R31pXS7qqwXstt)
+- [K6](https://www.youtube.com/@k6io)
+- [JMeter Tutorials](https://www.youtube.com/playlist?list=PLCYqwbyDA33R5p7f0oBcQ7DdYOG16x5KL)
+- [Gatling Corp](https://www.youtube.com/channel/UCaNih6sKuJ9DIMjTEW1EAlQ)
+- [How To Test Software Performance](https://www.youtube.com/watch?v=7koEc8iX7AM)
+- [What Is Google Lighthouse and How to Use It?](https://www.youtube.com/watch?v=VyaHwvPWuZU)
+</details>
 
 # DevOps
-
-# What is Test Pyramid?
-
 # Setting up Github Actions
 
 
