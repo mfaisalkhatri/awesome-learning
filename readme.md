@@ -17,6 +17,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 # Roadmaps
 - [QA Roadmap by Anas Fitiani](https://github.com/fityanos/awesome-quality-assurance-roadmap)
 - [DevOps Roadmap by Milan Milanovic](https://github.com/milanm/DevOps-Roadmap)
+- [Threat Modelling Roadmap by Hysn Technologies Inc](https://github.com/hysnsec/awesome-threat-modelling)
 
 # Programming languages 
 <details>
@@ -118,20 +119,19 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Free Code Camp](https://www.freecodecamp.org/news/tag/software-testing/) 
 - [Postman Learning Centre](https://learning.postman.com/docs/getting-started/introduction/)
 - [BlazeMeter University](https://www.blazemeter.com/university)
+- [Automation Testing for Beginner's - Ultimate Guide](https://blog.testproject.io/2020/03/26/automation-testing-for-beginners-ultimate-guide/)
+- [Setting a Foundation for Successful Test Automation](https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/)
 </details>
 
 <details>
-<summary>Software Testing/Test Automation/CI-CD Blogs and Guides</summary>
+<summary>Software Testing/Test Automation/Blogs and Guides</summary>
 
 - [Marting Fowler's Blog](https://martinfowler.com/tags/testing.html)
-- [Jez Humble's Blog](https://continuousdelivery.com/)
-- [Dave Farley's Blog](https://www.davefarley.net/)
 - [Angie Jone's Blog](https://angiejones.tech/)
 - [Corina Pip's Blog](https://imalittletester.com/)
 - [Filip hrics's Blog](https://filiphric.com/)
 - [Alan Richardson's Blog](https://www.eviltester.com/blog/)
 - [Mohammad Faisal Khatri's Blog](https://medium.com/@iamfaisalkhatri)
-- [Gasper Vitta's Blog(Lots of cool stuff on CI/CD, docker, testing)](https://www.gasparevitta.com/)
 - [Jason Swett's Blog(Has a good collection of blogs related to ruby rails testing, docker and other testing stuff)](https://www.codewithjason.com/articles/)
 - [Test Guild by Joe Colantonio](https://testguild.com/blog/)
 - [Dan Ashby's Blog](https://danashby.co.uk/)
@@ -146,6 +146,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [OnTestAutomation](https://www.ontestautomation.com/blog/)
 - [Articles by Lisa Crispin](https://lisacrispin.com/articles/) 
 - [Wasiq Bhamla's Blog](https://medium.com/@WasiqB)
+- [How they test?](https://github.com/abhivaikar/howtheytest)
 </details>
 
 <details>
@@ -154,7 +155,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Selenium Conference](https://www.youtube.com/@seleniumconf)
 - [Appium Conference](https://www.youtube.com/playlist?list=PL9Z-JgiTsOYRCcJhDfmKAah9XmAp2b903)
 - [Conf Engine](https://www.youtube.com/@ConfEngine)
-- [Dave Farley - Continuous Delivery](https://www.youtube.com/@ContinuousDelivery)
 - [GOTO Conferences](https://www.youtube.com/@GOTO-)
 - [O'Reilly](https://www.youtube.com/@oreilly)
 - [Programming with Mosh](https://www.youtube.com/@programmingwithmosh)
@@ -170,16 +170,24 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Software Testing Books</summary>
 
+- [Software Testing Books](https://github.com/clarabez/SoftwareTestingBooks)
+
 </details>
 
 <details>
-<summary>Test Pyramid <summary>
+<summary>Test Pyramid </summary>
 
-
+- [Practical Test Pyramid - Martin Fowler](https://martinfowler.com/articles/practical-test-pyramid.html)
 </details>
 
 
 # Git
+
+<details>
+<summary>Tutorials </summary>
+
+- [Learn Git Branching](https://learngitbranching.js.org/)
+</details>
 
 
 # Web Automation 
@@ -274,10 +282,12 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Introduction to API Testing</summary>
 
 - [REST API Concepts and examples](https://www.youtube.com/watch?v=7YcW25PHnAA)
+- [Testing Strategies in a Microservice Architecture](https://martinfowler.com/articles/microservice-testing/)
 - [What is an API? API for Beginners](https://www.youtube.com/watch?v=GZvSYJDk-us)
 - [What is API Testing?](https://mfaisalkhatri.github.io/2020/08/08/apitesting/)
 - [API Testing Tutorial](https://www.softwaretestinghelp.com/api-testing-tutorial/)
 - [A Comprehensive API Testing Guide](https://www.softwaretestingmaterial.com/api-testing/)
+- [Getting Started With Testing Microservices](https://alexromanov.github.io/2021/06/28/microservices-test-resources/)
 - [JSON.org](https://www.json.org/json-en.html)
 - [What is JSON?](https://www.w3schools.com/whatis/whatis_json.asp)
 </details>
@@ -577,7 +587,117 @@ I have been asked by many about my career transformation journey from Manual Tes
 </details>
 
 # DevOps
-# Setting up Github Actions
+
+<details>
+<summary>Learning Materials</summary>
+
+- [Free Devops Books](https://github.com/nkatre/Free-DevOps-Books-1)
+- [Lets-DevOps/awesome-learning](https://github.com/Lets-DevOps/awesome-learning)
+- [What is CI/CD?](https://www.redhat.com/en/topics/devops/what-is-ci-cd#ci/cd-tools)
+- [What is CI/CD Pipeline?](https://www.redhat.com/en/topics/devops/what-cicd-pipeline)
+- [annfelix/DEVOPS-WORLD](https://github.com/annfelix/DEVOPS-WORLD)
+- [Continuous Integration Patterns and Anti-Patterns](https://dzone.com/refcardz/continuous-integration)
+- [Learn How to Set Up a CI/CD Pipeline From Scratch](https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch)
+- [How to use Docker for Automation Testing?](https://www.engati.com/blog/docker-for-automation-testing)
+- [Test Automation in DevOps](https://testautomationu.applitools.com/test-automation-in-devops/)
+- [Continuous Testing with Azure DevOps](https://testautomationu.applitools.com/azure-devops-tutorial/)
+- [Scaling tests with Docker](https://testautomationu.applitools.com/scaling-tests-with-docker/)
+- [Whole Team Approach to Continuous Testing](https://testautomationu.applitools.com/the-whole-team-approach-to-continuous-testing/)
+
+
+</details>
+
+<details>
+<summary>Blogs</summary>
+
+- [DevOps.com](https://devops.com/category/blogs/ai/)
+- [ContinuousDelivery.com](https://continuousdelivery.com/)
+- [Continuous Deliver in DevOps](https://www.softwaretestinghelp.com/continuous-delivery-in-devops/)
+- [Devops Testing](https://medium.com/@iamfaisalkhatri/devops-testing-vtest-blog-635d88de352f)
+- [Practical Guide to Continuous Intergration for Automation Testing](https://medium.com/@iamfaisalkhatri/practical-guide-on-continuous-integration-for-automation-tests-vtest-blog-23e6d37f523f)
+- [Jez Humble's Blog](https://continuousdelivery.com/)
+- [Dave Farley's Blog](https://www.davefarley.net/)
+- [Gasper Vitta's Blog(Lots of cool stuff on CI/CD, docker, testing)](https://www.gasparevitta.com/)
+- [What is Continuous Testing?](https://medium.com/@iamfaisalkhatri/what-is-continuous-testing-lambdatest-bd2c464b414c)
+</details>
+
+ <details>
+ <summary>YouTube Channels</summary>
+
+- [Dave Farley - Continuous Delivery](https://www.youtube.com/@ContinuousDelivery)
+- [DevOps Engineering Course for Beginners](https://www.youtube.com/watch?v=j5Zsa_eOXeY)
+- [What is DevOps?](https://www.youtube.com/watch?v=kBV8gPVZNEE)
+- [DevOps Prerequisites Course - Getting started with DevOps](https://www.youtube.com/watch?v=Wvf0mBNGjXY)
+ </details>
+
+
+<details>
+<summary>Jenkins </summary>
+
+- [Jenkins Tutorials](https://www.jenkins.io/doc/tutorials/)
+- [Jekins Beginners Tutorials](https://www.softwaretestinghelp.com/jenkins-tutorials/)
+- [Jenkins CI Tutorials](https://www.softwaretestinghelp.com/jenkins-ci-tutorial/)
+- [Testing with Jenkins](https://www.jenkins.io/doc/developer/testing/)
+- [Jenkins Tutorial](https://testautomationu.applitools.com/jenkins-tutorial/)
+- [Jenkins YouTube Channel](https://www.youtube.com/@jenkinscicd)
+- [Selenium Continuous Integration with Jenkins](https://www.softwaretestingmaterial.com/selenium-continuous-integration/)
+- [What is Jenkins and How does it work?](https://www.techtarget.com/searchsoftwarequality/definition/Jenkins)
+- [What is Jenkins? How to Use Jenkins for CI/CD and Testing](https://applitools.com/blog/what-is-jenkins-how-to-use-jenkins-ci-testing/)
+- [Jenkins Tutorial for Beginners: A Comprehensive Guide With Examples and Best Practices](https://www.lambdatest.com/learning-hub/jenkins)
+- [Jenkins Full Course in 4 Hours | Jenkins Tutorial For Beginners](https://www.youtube.com/watch?v=3a8KsB5wJDE)
+- [ssbostan/jenkins-tutorial](https://github.com/ssbostan/jenkins-tutorial)
+
+</details>
+
+<details>
+<summary>Docker</summary>
+
+- [Docker](https://www.youtube.com/@DockerIo)
+- [Play with Docker](https://www.docker.com/play-with-docker/)
+- [Learn Docker Online](https://learndocker.online/)
+- [Docker Curriculum](https://docker-curriculum.com/#)
+- [Learning Docker](https://github.com/willitscale/learning-docker)
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker)
+- [The Ultimate Guide to End to End Tests with Selenium and Docker](https://www.freecodecamp.org/news/end-to-end-tests-with-selenium-and-docker-the-ultimate-guide/)
+- [Docker full Course](https://dev.to/techworld_with_nana/full-docker-course-free-4hl3)
+- [Training - Play with Docker](https://training.play-with-docker.com/)
+- [Docker Tutorial for Beginners by Mosh](https://www.youtube.com/watch?v=pTFZFxd4hOI)
+- [Docker Labs](https://github.com/docker/labs)
+- [Docker Tutorial for Beginners | Docker Full Course](https://www.youtube.com/watch?v=zJ6WbK9zFpI)
+- [Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers](https://www.youtube.com/watch?v=fqMOX6JJhGo)
+- [Docker Containers and Kubernetes Fundamentals – Full Hands-On Course](https://www.youtube.com/watch?v=kTp5xUtcalw)
+- [Docker Tutorial for Beginners [FULL COURSE in 3 Hours]](https://www.youtube.com/watch?v=3c-iBn73dDE)
+- [Parallel Execution of Tests using Selenium Grid 4 with Docker Compose](https://medium.com/@iamfaisalkhatri/parallel-execution-of-tests-using-selenium-grid-4-with-docker-compose-2dc243f4fe8b)
+- [Introduction to Docker Compose](https://www.baeldung.com/ops/docker-compose)
+- [Docker Compose Documentation](https://docs.docker.com/get-started/08_using_compose/)
+- [docker/compose](https://github.com/docker/compose)
+
+</details>
+
+<details>
+<summary>GitHub Actions</summary>
+
+- [GitHub Actions Documentation](https://docs.github.com/en/actions)
+- [Automate your workflow from idea to production](https://github.com/features/actions)
+- [How to setup GitHub Actions for NodeJS project?](https://medium.com/@iamfaisalkhatri/how-to-setup-github-actions-for-node-js-project-1edd6ce1dbe1)
+- [GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker](https://www.youtube.com/watch?v=R8_veQiYBjI)
+- [How to setup Github Actions for Java with Maven project?](https://medium.com/@iamfaisalkhatri/how-to-setup-github-actions-for-java-with-maven-project-b6fe394be508)
+</details>
+
+# TDD
+<details> 
+<summary>Learning Materials</summary>
+
+- [Awesome TDD](https://github.com/unicodeveloper/awesome-tdd)
+- [TestDrivenDevelopment - Martin Fowler](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
+- [TDD Is The Best Design Technique - Dave Farley](https://www.youtube.com/watch?v=ln4WnxX-wrw)
+- [The 3 Types of Unit Test in TDD • Dave Farley • GOTO 2022](https://www.youtube.com/watch?v=ihOUzzwPFIk)
+- [Test Driven Development vs Behavior Driven Development • Dave Farley • GOTO 2022](https://www.youtube.com/watch?v=ILmSEyeM9IU)
+- [TDD | Dave Farley's Blog](https://www.davefarley.net/?cat=16)
+- [Test *Driven* Development - Dave Farley](https://www.davefarley.net/?p=220)
+- [Test Driven Development is the best thing that has happened to software design](https://www.thoughtworks.com/en-in/insights/blog/test-driven-development-best-thing-has-happened-software-design)
+- [TDD Quick Guide](https://brainhub.eu/library/test-driven-development-tdd)
+</details>
 
 
 <!-- 
