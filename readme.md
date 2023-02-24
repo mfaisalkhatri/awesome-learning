@@ -20,6 +20,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Threat Modelling Roadmap by Hysn Technologies Inc](https://github.com/hysnsec/awesome-threat-modelling)
 
 # Programming languages 
+
 <details>
 <summary>Java</summary>
 
@@ -106,6 +107,13 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [DS & A Problems](https://github.com/mandliya/algorithms_and_data_structures)
 - [Algo Deck](https://github.com/teivah/algodeck)
 </details>
+
+<details>
+<summary>Other Learning Materials </summary>
+
+- [Project based learning](https://github.com/practical-tutorials/project-based-learning)
+</details>
+
 
 # Software Testing
 <details>
@@ -699,6 +707,29 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [TDD Quick Guide](https://brainhub.eu/library/test-driven-development-tdd)
 </details>
 
+# Agile
+
+<details>
+<summary>Learning Materials </summary>
+
+- [Awesome Agile](https://github.com/lorabv/awesome-agile)
+- [What is Agile?](https://www.coursera.org/articles/what-is-agile-a-beginners-guide)
+- [Agile in a nutshell](http://www.agilenutshell.com/)
+- [Agile Software blogs by Mike Cohn](https://www.mountaingoatsoftware.com/blog)
+- [Agile Software Guide - Martin Fowler](https://martinfowler.com/agile.html)
+- [What is Scrum?](https://www.scrum.org/resources/what-is-scrum)
+- [Agile 101](https://www.agilealliance.org/agile101/)
+- [Agile Manifesto](https://agilemanifesto.org/)
+- [Agile Methodology Tutorial for Beginners](https://www.youtube.com/watch?v=KNBHQ0pyaG8)
+- [Planning Poker](https://planningpoker.live/)
+- [Agile Retrospectives](https://www.easyagile.com/blog/retrospectives/)
+- [Agile Retrospective Meetings](https://www.softwaretestinghelp.com/agile-retrospective-meetings/)
+- [Agile Sprint planning](https://www.easyagile.com/blog/agile-sprint-planning/)
+- [7 Lessons Agile Can Teach Us about Leadership](https://www.agileconnection.com/article/7-lessons-agile-can-teach-us-about-leadership)
+- [DZone Agile blogs](https://dzone.com/agile)
+- [Agile Testing - LambdaTest Learning Hub](https://www.lambdatest.com/learning-hub/agile-testing)
+
+</details>
 
 <!-- 
 <details>
