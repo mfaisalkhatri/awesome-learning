@@ -728,6 +728,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [7 Lessons Agile Can Teach Us about Leadership](https://www.agileconnection.com/article/7-lessons-agile-can-teach-us-about-leadership)
 - [DZone Agile blogs](https://dzone.com/agile)
 - [Agile Testing - LambdaTest Learning Hub](https://www.lambdatest.com/learning-hub/agile-testing)
+- [Agilemania's blogs](https://agilemania.com/blog/)
 
 </details>
 
