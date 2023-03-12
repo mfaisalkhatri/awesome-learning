@@ -1,6 +1,12 @@
 name: Check links for modified files
 
 on:
+  push:
+    branches:
+      - master
+      - issue-*
+
+on:
   schedule:
     - cron: "0 1 * * 1"
 
