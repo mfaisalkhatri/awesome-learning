@@ -434,6 +434,13 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Testing Flutter apps](https://docs.flutter.dev/testing)
 - [APPIUM For Android & iOS Mobile Apps Testing In Flutter](https://medium.flutterdevs.com/appium-for-android-ios-mobile-apps-testing-in-flutter-709cee06f3)
 - [Automating Flutter Apps with Appium Flutter Driver using Appium Java Client](https://testsigma.com/blog/automating-flutter-apps-with-appium-flutter-driver/)
+- [Appium Flutter Finder Java](https://github.com/ashwithpoojary98/javaflutterfinder)
+- [CommonFinders Class Flutter](https://api.flutter.dev/flutter/flutter_test/CommonFinders-class.html)
+- [Appium Flutter Driver](https://github.com/appium-userland/appium-flutter-driver)
+- [Flutter App Test Automation poc | Appium Flutter Driver| Flutter Finder](https://www.youtube.com/watch?v=fsfMw_e7e9U)
+- [Automated Flutter App Testing - Testingbot](https://testingbot.com/support/mobile/flutter.html#start)
+- [Appium Flutter Driver - A Use Case Demo by Atmaram Naik](https://www.youtube.com/watch?v=hv74YaISJSg)
+
 </details>
 
 <details>
