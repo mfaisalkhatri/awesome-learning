@@ -179,6 +179,11 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Software Testing Books</summary>
 
 - [Software Testing Books](https://github.com/clarabez/SoftwareTestingBooks)
+- [Free Software Testing books](https://github.com/bigfool/free-software-testing-books/blob/master/free-software-testing-books.md#standards-in-software-testing)
+- [Software Testing : A Craftsman's approach](https://malenezi.github.io/malenezi/SE401/Books/Software-Testing-A-Craftsman-s-Approach-Fourth-Edition-Paul-C-Jorgensen.pdf)
+- [Agile Testing by Lisa Crispin](https://www.pdfdrive.com/agile-testing-e47964421.html)
+- [The art of software testing](https://www.pdfdrive.com/the-art-of-software-testing-3rd-edition-e166742955.html)
+- [Complete Guide to Test Automation -Arnon Axelrod](https://www.pdfdrive.com/complete-guide-to-test-automation-techniques-practices-and-patterns-for-building-and-maintaining-effective-software-projects-e184708672.html)
 
 </details>
 
