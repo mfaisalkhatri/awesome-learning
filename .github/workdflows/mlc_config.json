@@ -1,0 +1,9 @@
+{
+    "ignorePatterns": [
+      {
+        "pattern": "https://badges.frapsoft.com/os/v1/open-source.svg?v=103"
+      }
+    ],
+  "timeout": "20s",
+  "retryOn429": true
+  }
