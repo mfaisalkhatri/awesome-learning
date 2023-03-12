@@ -5,10 +5,9 @@ on:
     branches:
       - master
       - issue-*
-
-on:
   schedule:
     - cron: "0 1 * * 1"
+
 
 permissions:
   statuses: write
