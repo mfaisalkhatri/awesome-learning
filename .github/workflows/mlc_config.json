@@ -4,6 +4,14 @@
         "pattern": "https://badges.frapsoft.com/os/v1/open-source.svg?v=103"
       }
     ],
+    "httpHeaders": [
+      {
+        "urls": ["https://docs.github.com/"],
+        "headers": {
+          "Accept-Encoding": "zstd, br, gzip, deflate"
+        }
+      }
+    ],
   "timeout": "20s",
   "retryOn429": true
   }
