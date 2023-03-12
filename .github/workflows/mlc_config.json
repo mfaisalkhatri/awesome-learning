@@ -6,7 +6,7 @@
     ],
     "httpHeaders": [
       {
-        "urls": ["https://docs.github.com/"],
+        "urls": ["https://docs.github.com/", "https://www.softwaretestinghelp.com/", "https://www.baeldung.com/"," http://www.agilenutshell.com/", "https://www.seleniumeasy.com/","https://www.seleniumeasy.com/"],
         "headers": {
           "Accept-Encoding": "zstd, br, gzip, deflate"
         }
