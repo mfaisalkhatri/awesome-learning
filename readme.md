@@ -184,6 +184,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Agile Testing by Lisa Crispin](https://www.pdfdrive.com/agile-testing-e47964421.html)
 - [The art of software testing](https://www.pdfdrive.com/the-art-of-software-testing-3rd-edition-e166742955.html)
 - [Complete Guide to Test Automation -Arnon Axelrod](https://www.pdfdrive.com/complete-guide-to-test-automation-techniques-practices-and-patterns-for-building-and-maintaining-effective-software-projects-e184708672.html)
+- [Experiences of Test Automation: Case Studies of Software Test Automation](https://www.pdfdrive.com/experiences-of-test-automation-case-studies-of-software-test-automation-e195404210.html) 
+- [Software Quality Engineering: Testing, Quality Assurance, and Quantifable Improvement](https://www.pdfdrive.com/software-quality-engineering-testing-quality-assurance-and-e16540425.html)
 
 </details>
 
