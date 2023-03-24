@@ -608,6 +608,30 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [What Is Google Lighthouse and How to Use It?](https://www.youtube.com/watch?v=VyaHwvPWuZU)
 </details>
 
+# AR/VR/XR Testing
+<details>
+<summary>Learning Materials</summary>
+
+- [What is MetaVerse? | VR, AR, MR and XR](https://medium.com/@iamfaisalkhatri/what-is-metaverse-vr-ar-mr-and-xr-4b77b6f6391a)
+- [AR/VR Testing Tutorial – How To Perform AR/VR Testing](https://www.softwaretestingmaterial.com/ar-vr-testing/)
+- [All You Need To Know About Augmented Reality Testing](https://mobidev.biz/blog/how-test-augmented-reality-applications)
+- [Arium — An Automation framework for Unity/XR](https://medium.com/xrpractices/arium-an-automation-framework-for-unity-xr-d51ed608e8b0)
+- [How to Test Voice Recognition in 4 Steps With Perfecto](https://www.perfecto.io/blog/test-voice-recognition-perfecto)
+- [Audio Capture From iOS Simulators and Real Devices](https://appium.io/docs/en/writing-running-appium/ios/audio-capture/)
+- [How To Do Virtual Augmented Reality Testing](https://testguild.com/testing-virtual-augmented-reality/)
+- [Visual Testing of AR, VR, and MR in Research Focused Product Delivery](https://applitools.com/blog/visual-testing-of-virtual-reality/)
+
+</details>
+
+
+<details>
+<summary>Automation Tools/Frameworks </summary>
+
+- [Arium Framework](https://github.com/thoughtworks/Arium)
+
+</details>
+
+
 # DevOps
 
 <details>
