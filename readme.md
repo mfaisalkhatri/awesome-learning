@@ -665,6 +665,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Dave Farley's Blog](https://www.davefarley.net/)
 - [Gasper Vitta's Blog(Lots of cool stuff on CI/CD, docker, testing)](https://www.gasparevitta.com/)
 - [What is Continuous Testing?](https://medium.com/@iamfaisalkhatri/what-is-continuous-testing-lambdatest-bd2c464b414c)
+- [Spacelift.io](https://spacelift.io/blog)
 </details>
 
  <details>
@@ -717,6 +718,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Introduction to Docker Compose](https://www.baeldung.com/ops/docker-compose)
 - [Docker Compose Documentation](https://docs.docker.com/get-started/08_using_compose/)
 - [docker/compose](https://github.com/docker/compose)
+- [Docker Tutorial for Beginners – Introduction & Getting Started](https://spacelift.io/blog/docker-tutorial)
 
 </details>
 
