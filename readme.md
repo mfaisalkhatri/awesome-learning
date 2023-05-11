@@ -201,16 +201,16 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Free Tutorials </summary>
 
-- [Learn Git Branching](https://learngitbranching.js.org/)
-- [Git cheat sheet download](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Source Control for Test Automation with Git](https://testautomationu.applitools.com/git-tutorial/)
-- [GitHub Skills](https://skills.github.com/)
-- [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
-- [Learn Enough Git to Be Dangerous - Michael Hartl](https://www.learnenough.com/git-tutorial)
 - [Git & GitHub FreeCodeCamp Playlist](https://youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
 - [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://www.youtube.com/watch?v=Uszj_k0DGsg)
 - [Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more](https://youtu.be/qsTthZi23VEGit) 
 - [Git Branches Tutorial](https://youtu.be/e2IbNHi4uCI)
+- [Learn Git Branching](https://learngitbranching.js.org/)
+- [GitHub Skills](https://skills.github.com/)
+- [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
+- [Learn Enough Git to Be Dangerous - Michael Hartl](https://www.learnenough.com/git-tutorial)
+- [Git cheat sheet download](https://education.github.com/git-cheat-sheet-education.pdf)
 
 </details>
 
