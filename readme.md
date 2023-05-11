@@ -199,9 +199,19 @@ I have been asked by many about my career transformation journey from Manual Tes
 # Git
 
 <details>
-<summary>Tutorials </summary>
+<summary>Free Tutorials </summary>
 
+- [Source Control for Test Automation with Git](https://testautomationu.applitools.com/git-tutorial/)
+- [Git & GitHub FreeCodeCamp Playlist](https://youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
+- [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://www.youtube.com/watch?v=Uszj_k0DGsg)
+- [Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more](https://youtu.be/qsTthZi23VEGit) 
+- [Git Branches Tutorial](https://youtu.be/e2IbNHi4uCI)
 - [Learn Git Branching](https://learngitbranching.js.org/)
+- [GitHub Skills](https://skills.github.com/)
+- [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
+- [Learn Enough Git to Be Dangerous - Michael Hartl](https://www.learnenough.com/git-tutorial)
+- [Git cheat sheet download](https://education.github.com/git-cheat-sheet-education.pdf)
+
 </details>
 
 
@@ -280,7 +290,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [WebDriverIo v8 Must Know Features with Christian Bromann](https://www.youtube.com/watch?v=OZXVcK-dJkQ)
 - [WebDriverIO and Extended Debugging with Christian Bromann](https://www.youtube.com/watch?v=aX5TLGKhTKM)
 - [WebDriverIO Wednesdays with Kevin](https://www.youtube.com/watch?v=k6FFwurWhf0&list=PL0y7qCn3hjLYGdFtm_qvF0mCdFnBKs2C7)
-- [WebdrivreIO - Github](https://github.com/webdriverio/webdriverio)
+- [WebdriverIO - Github](https://github.com/webdriverio/webdriverio)
 </details>
 
 <details>
