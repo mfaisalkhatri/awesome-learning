@@ -129,6 +129,11 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [BlazeMeter University](https://www.blazemeter.com/university)
 - [Automation Testing for Beginner's - Ultimate Guide](https://blog.testproject.io/2020/03/26/automation-testing-for-beginners-ultimate-guide/)
 - [Setting a Foundation for Successful Test Automation](https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/)
+- [Beyond Bugs: Exploring the Depths of Software Testing](https://medium.com/@iamfaisalkhatri/beyond-bugs-exploring-the-depths-of-software-testing-6a3b7057060e)
+- [Practical Guide on Continuous Integration for automation tests](https://medium.com/@iamfaisalkhatri/practical-guide-on-continuous-integration-for-automation-tests-vtest-blog-23e6d37f523f)
+- [Best Examples of Functional Test Cases](https://medium.com/@iamfaisalkhatri/best-examples-of-functional-test-cases-agilitest-blog-424260298b5)
+- [Best Practices for Test Automation Framework](https://medium.com/@iamfaisalkhatri/best-practices-for-test-automation-framework-vtest-blog-277ee1682e24)
+- [Parallel Execution of Tests using Selenium Grid 4 with Docker Compose](https://medium.com/@iamfaisalkhatri/parallel-execution-of-tests-using-selenium-grid-4-with-docker-compose-2dc243f4fe8b)
 </details>
 
 <details>
@@ -173,6 +178,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [BrowserStack](https://www.youtube.com/@Browserstack)
 - [Sauce Labs](https://www.youtube.com/@SauceLabs_Official)
 - [Faisal Khatri](https://www.youtube.com/@faisalkhatriqa)
+- [Learn Test Automation with Wasiq Bhamla](https://www.youtube.com/@WasiqBhamla)
 </details>
 
 <details>
