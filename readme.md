@@ -114,6 +114,18 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Project based learning](https://github.com/practical-tutorials/project-based-learning)
 </details>
 
+<details>
+<summary>Free Programming Books </summary>
+
+- [Programming in Java - An Interdisciplinary approach](https://introcs.cs.princeton.edu/java/home/)
+- [Python Cheat Sheet](https://www.pythoncheatsheet.org/)
+- [Free Computer Programming Books](https://freecomputerbooks.com/)
+- [300+ Best Free Programming Books](https://www.theinsaneapp.com/2021/01/free-programming-books.html)
+- [14 Excellent free books to learn Java](https://www.linuxlinks.com/excellent-free-books-learn-java/)
+- [Free JavaScript Books](https://gist.github.com/WebRTCGame/9fa80ed32a7413bd0f8d71304d6335eb)
+- [Pdfdrive.com](https://www.pdfdrive.com/)
+
+</details>
 
 # Software Testing
 <details>
