@@ -651,7 +651,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 </details>
 
-
 <details>
 <summary>Automation Tools/Frameworks </summary>
 
@@ -659,6 +658,17 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 </details>
 
+# IVR Testing
+<details>
+<summary>Learning Materials</summary>
+
+- [What Is IVR System And How To Perform IVR Testing](https://www.softwaretestinghelp.com/ivr-testing/)
+- [IVR Testing: The Complete Checklist](https://www.inform-comms.com/ivr-testing-complete-checklist/)
+- [Interactive Voice Response (IVR) explained](https://www.ir.com/blog/communications/ivr-testing-explained)
+- [Challenges to In-House IVR Testing](https://www.spearline.com/blog/challenges-to-in-house-ivr-testing/)
+- [Top 7 Open-Source IVR Automation Testing Tools for Businesses](https://www.hitechnectar.com/blogs/top-7-open-source-ivr-automation-testing-tools-for-businesses/)
+
+</details>
 
 # DevOps
 
