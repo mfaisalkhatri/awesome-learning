@@ -792,24 +792,28 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details> 
 <summary>Learning Materials</summary>
 
+- [What is BDD?](https://cucumber.io/docs/bdd/)
+- [BDD - A Complete Tutorial](https://www.softwaretestinghelp.com/bdd-framework/)
+- [Beginners guide to BDD](https://inviqa.com/blog/bdd-guide)
 - [Cucumber Installation](https://cucumber.io/docs/installation/)
 - [Cucumber Guides](https://cucumber.io/docs/guides/)
 - [Cucumber Documentation](https://cucumber.io/docs/cucumber/)
 - [Cucumber blogs](https://cucumber.io/blog/)
 - [Gherkin syntax](https://cucumber.io/docs/cucumber/)
-- [What is BDD?](https://cucumber.io/docs/bdd/)
-- [BDD Community](https://cucumber.io/docs/bdd/)
 - [Cucumber with Java](https://testautomationu.applitools.com/cucumber-java-tutorial/)
 - [Cucumber with JavaScript](https://testautomationu.applitools.com/cucumber-javascript-tutorial/)
 - [BDD with Pytest](https://testautomationu.applitools.com/behavior-driven-python-with-pytest-bdd/)
-- [BDD - A Complete Tutorial](https://www.softwaretestinghelp.com/bdd-framework/)
-- [Beginners guide to BDD](https://inviqa.com/blog/bdd-guide)
 - [Cypress Cucumber - Step by Step Guide](https://filiphric.com/cucumber-in-cypress-a-step-by-step-guide)
 - [Cucumber.js for BDD: An Introductory Tutorial With Examples](https://www.testim.io/blog/cucumber-js-for-bdd-an-introductory-tutorial-with-examples/)
+- [Cucumber Testing](https://www.javatpoint.com/cucumber-testing)
+- [Cucumber Tutorial](https://www.tutorialspoint.com/cucumber/index.htm)
+- [Behaviour Driven Development: Tips for writing better feature files](https://www.bbc.co.uk/blogs/internet/entries/ff14236d-098a-3565-b678-ff4ba5776a5f)
 - [Serenity Dojo TV](https://www.youtube.com/@JohnFergusonSmart)
 - [Serenity Core](https://github.com/serenity-bdd/serenity-core)
 - [The Cucumber for Java Book](https://hoclaptrinhdanang.com/downloads/pdf/testing/the-cucumber-for-java-book.pdf)
 - [Cucumber books](https://cucumber.io/docs/professional/books/)
+- [BDD Community](https://cucumber.io/docs/bdd/)
+- [IntelliJ Cucumber Support](https://www.jetbrains.com/help/idea/cucumber-support.html)
 </details>
 
 # Agile
