@@ -788,6 +788,30 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [TDD Quick Guide](https://brainhub.eu/library/test-driven-development-tdd)
 </details>
 
+# BDD
+<details> 
+<summary>Learning Materials</summary>
+
+- [Cucumber Installation](https://cucumber.io/docs/installation/)
+- [Cucumber Guides](https://cucumber.io/docs/guides/)
+- [Cucumber Documentation](https://cucumber.io/docs/cucumber/)
+- [Cucumber blogs](https://cucumber.io/blog/)
+- [Gherkin syntax](https://cucumber.io/docs/cucumber/)
+- [What is BDD?](https://cucumber.io/docs/bdd/)
+- [BDD Community](https://cucumber.io/docs/bdd/)
+- [Cucumber with Java](https://testautomationu.applitools.com/cucumber-java-tutorial/)
+- [Cucumber with JavaScript](https://testautomationu.applitools.com/cucumber-javascript-tutorial/)
+- [BDD with Pytest](https://testautomationu.applitools.com/behavior-driven-python-with-pytest-bdd/)
+- [BDD - A Complete Tutorial](https://www.softwaretestinghelp.com/bdd-framework/)
+- [Beginners guide to BDD](https://inviqa.com/blog/bdd-guide)
+- [Cypress Cucumber - Step by Step Guide](https://filiphric.com/cucumber-in-cypress-a-step-by-step-guide)
+- [Cucumber.js for BDD: An Introductory Tutorial With Examples](https://www.testim.io/blog/cucumber-js-for-bdd-an-introductory-tutorial-with-examples/)
+- [Serenity Dojo TV](https://www.youtube.com/@JohnFergusonSmart)
+- [Serenity Core](https://github.com/serenity-bdd/serenity-core)
+- [The Cucumber for Java Book](https://hoclaptrinhdanang.com/downloads/pdf/testing/the-cucumber-for-java-book.pdf)
+- [Cucumber books](https://cucumber.io/docs/professional/books/)
+</details>
+
 # Agile
 
 <details>
