@@ -764,10 +764,13 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>GitHub Actions</summary>
 
 - [GitHub Actions Documentation](https://docs.github.com/en/actions)
+- [GitHub Actions Guide](https://docs.github.com/en/actions/guides)
 - [Automate your workflow from idea to production](https://github.com/features/actions)
 - [How to setup GitHub Actions for NodeJS project?](https://medium.com/@iamfaisalkhatri/how-to-setup-github-actions-for-node-js-project-1edd6ce1dbe1)
 - [GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker](https://www.youtube.com/watch?v=R8_veQiYBjI)
 - [How to setup Github Actions for Java with Maven project?](https://medium.com/@iamfaisalkhatri/how-to-setup-github-actions-for-java-with-maven-project-b6fe394be508)
+- [GitHub Actions for testing - Test Automation University](https://testautomationu.applitools.com/github-actions-for-testing/)
+
 </details>
 
 # TDD
