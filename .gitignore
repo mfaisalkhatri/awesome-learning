@@ -2,6 +2,7 @@
 /.idea/
 *.iml
 *.txt
+.DS_Store
 
 # Other output folders
 /target/
