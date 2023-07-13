@@ -433,6 +433,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Appium.io](https://appium.io/)
 - [Appium Desired Capabilities](https://appium.io/docs/en/writing-running-appium/caps/)
 - [Appium 2.0 Documentation](https://appium.github.io/appium/docs/en/2.0/)
+- [Beginner’s Guide to Appium 2.0](https://medium.com/@iamfaisalkhatri/beginners-guide-to-appium-2-0-d8118b31837c)
 - [Appium Inspector](https://github.com/appium/appium-inspector)
 - [Appium Desktop](https://github.com/appium/appium-desktop)
 - [Setting up Appium on MAC for automating iOS App](https://wasiqb.github.io/blogs/appium-automation-ios)
