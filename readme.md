@@ -410,6 +410,21 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [GraphQL Guides](https://www.graphql.com/guides/)
 </details>
 
+<details>
+<summary>gRPC</summary>
+
+- [Introduction to gRPC](https://grpc.io/docs/what-is-grpc/introduction/)
+- [gRPC overview](https://learning.postman.com/docs/sending-requests/grpc/grpc-client-overview/)
+- [gRPC - QuickStart](https://grpc.io/docs/languages/java/quickstart/)
+- [The Beginner's Guide to gRPC with Examples](https://tamerlan.dev/the-beginners-guide-to-grpc-with-examples/)
+- [awesome-gRPC](https://github.com/grpc-ecosystem/awesome-grpc)
+- [Postman v10 and gRPC: what you can do](https://blog.postman.com/postman-v10-and-grpc-what-you-can-do/)
+- [Public gRPC APIs](https://www.postman.com/devrel/workspace/public-grpc-apis/overview)
+- [What is gRPC? Protocol Buffers, Streaming, and Architecture Explained](https://www.freecodecamp.org/news/what-is-grpc-protocol-buffers-stream-architecture/)
+
+
+
+</details>
 
 # Mobile Automation
 
