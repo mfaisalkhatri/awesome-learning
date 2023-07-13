@@ -408,6 +408,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [How to Test your GraphQL Endpoints](https://escape.tech/blog/testing-your-graphql-api/)
 - [Writing Tests for GraphQL APIs using REST Assured](https://applitools.com/blog/writing-tests-graphql-apis-rest-assured/)
 - [GraphQL Guides](https://www.graphql.com/guides/)
+
 </details>
 
 <details>
@@ -421,8 +422,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Postman v10 and gRPC: what you can do](https://blog.postman.com/postman-v10-and-grpc-what-you-can-do/)
 - [Public gRPC APIs](https://www.postman.com/devrel/workspace/public-grpc-apis/overview)
 - [What is gRPC? Protocol Buffers, Streaming, and Architecture Explained](https://www.freecodecamp.org/news/what-is-grpc-protocol-buffers-stream-architecture/)
-
-
+- [gRPC - Microsoft learning](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/grpc)
 
 </details>
 
