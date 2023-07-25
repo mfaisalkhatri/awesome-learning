@@ -686,6 +686,95 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 </details>
 
+# Database Tutorials
+<details>
+<summary>Learning Materials</summary>
+
+- [What is a Database?](https://www.oracle.com/in/database/what-is-database/)
+- [Different Types of Databases - JavatPoint](https://www.javatpoint.com/types-of-databases)
+- [Database types - Mongodb.com](https://www.mongodb.com/databases/types)
+- [Types of Databases - Tutorialspoint](https://www.tutorialspoint.com/Types-of-databases)
+- [DBMC and SQL basics](https://www.freecodecamp.org/news/dbms-and-sql-basics/)
+- [Database Management System](https://www.w3schools.in/dbms)
+
+</details>
+
+<details>
+<summary>SQL/MySQL Tutorials</summary>
+
+- [SQL Tutorial - SQLTutorial.org](https://www.sqltutorial.org/)
+- [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/)
+- [SQL Tutorial - SQLZoo.net](https://sqlzoo.net/wiki/SQL_Tutorial)
+- [SQL Tutorial - Tutorialspoint](https://www.tutorialspoint.com/sql/index.htm)
+- [SQL Tutorial - Javatpoint](https://www.javatpoint.com/sql-tutorial)
+- [SQL Tutorial - Programiz](https://www.programiz.com/sql)
+- [SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY)
+- [SQL Cheat Sheet](https://www.sqltutorial.org/sql-cheat-sheet/)
+- [Visualize your SQL queries](https://sqlflow.gudusoft.com/#/)
+- [MySQL tutorial](https://www.mysqltutorial.org/)
+- [MySQL Tutorial - W3Schools](https://www.w3schools.com/MySQL/default.asp)
+- [MySQL Tutorial - Tutorialspoint](https://www.tutorialspoint.com/mysql/index.htm)
+- [Learn to use MySQL Database - FreeCodeCamp.org](https://www.freecodecamp.org/news/learn-to-use-the-mysql-database/)
+- [MySQL Workbench](https://www.javatpoint.com/mysql-workbench)
+
+</details>
+
+<details>
+<summary>NoSQL Tutorials</summary>
+
+- [What are NoSQL Databases?](https://www.javatpoint.com/nosql-databases)
+- [NoSQL Tutorial](https://www.janbasktraining.com/blog/nosql-tutorial/)
+- [Learn NoSQL in 3 hours - FreecodeCamp](https://www.freecodecamp.org/news/learn-nosql-in-3-hours/)
+
+</details>
+
+<details>
+<summary>MongoDB Tutorials</summary>
+
+- [MongoDB Tutorial - MongoDB.com](https://www.mongodb.com/docs/manual/tutorial/)
+- [MongoDB Tutorial - MongoDBtutorial.org](https://www.mongodbtutorial.org/)
+- [MongoDB Tutorial - W3resource.com](https://www.w3resource.com/mongodb/nosql.php)
+- [MongoDB Tutorial - MongoDB.com](https://www.mongodb.com/nosql-explained)
+- [MongoDB Tutorial - W3Schools.com](https://www.w3schools.com/mongodb/)
+- [MongoDB Tutorial - Tutorialspoint](https://www.tutorialspoint.com/mongodb/index.htm)
+
+</details>
+
+<details>
+<summary>DynamoDB Tutorials</summary>
+
+- [DynamoDB - AWS - Getting Started](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStartedDynamoDB.html)
+- [DynamoDB Tutorial - Dynobase.dev](https://dynobase.dev/dynamodb-tutorials/)
+- [DynamoDB Tutorial - Tutorialspoint](https://www.tutorialspoint.com/dynamodb/index.htm)
+- [DynamoDB Tutorial - Javatpoint](https://www.javatpoint.com/aws-dynamodb)
+- [DynamoDB Tutorial - Tutorialsdojo](https://tutorialsdojo.com/amazon-dynamodb/)
+- [DynamoDB Tutorial - DigitalCloud](https://digitalcloud.training/amazon-dynamodb-tutorial-for-beginners/)
+
+</details>
+
+<details>
+<summary>Postgres Tutorials</summary>
+
+- [Postgres Tutorial - Postgresql.org](https://www.postgresql.org/docs/online-resources/)
+- [Postgres Tutorial - Postgresqltutorial.com](https://www.postgresqltutorial.com/)
+- [Postgres Tutorial - Tutorialspoint](https://www.tutorialspoint.com/postgresql/index.htm)
+- [Postgres Tutorial - Postgresql.com](https://www.postgresql.org/docs/current/tutorial.html)
+- [Postgres Tutorial - Javatpoint](https://www.javatpoint.com/postgresql-tutorial)
+- [Postgres Tutorial - TutorialsTeacher](https://www.tutorialsteacher.com/postgresql)
+
+</details>
+
+<details>
+<summary>Database Testing </summary>
+
+- [Database Testing Complete Guide](https://www.softwaretestinghelp.com/database-testing-process/)
+- [Database Testing Tutorial - Softwaretestingmaterial.com](https://www.softwaretestingmaterial.com/database-testing/)
+- [Database Testing Tutorial - Tutorialspoint](https://www.tutorialspoint.com/database_testing/index.htm)
+- [Database Testing - Javatpoint](https://www.javatpoint.com/database-testing)
+- [Introduction to Database Testing](https://circleci.com/blog/intro-db-testing/)
+
+</details>
+ 
 # DevOps
 
 <details>
