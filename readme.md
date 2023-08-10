@@ -127,6 +127,51 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 </details>
 
+# Coding Priciples 
+
+<details>
+<summary>SOLID</summary>
+
+- [Solid Principles - Baeldung](https://www.baeldung.com/solid-principles)
+- [Solid Principles - Howtodoinjava](https://howtodoinjava.com/best-practices/solid-principles/)
+- [Design Principles in Java](https://www.javatpoint.com/design-principles-in-java)
+
+</details>
+
+<details>
+<summary>KISS</summary>
+
+- [Kiss software design principle - Baeldung](https://www.baeldung.com/cs/kiss-software-design-principle)
+- [How to use KISS Principle in design - FreeCodeCamp](https://www.freecodecamp.org/news/keep-it-simple-stupid-how-to-use-the-kiss-principle-in-design/)
+- [Programming - Rules of Thumb](https://wou.edu/las/cs/csclasses/cs161/Lectures/rulesofthumb.html)
+
+</details>
+
+<details>
+<summary>YAGNI</summary>
+
+- [YAGNI - Martin Fowler](https://martinfowler.com/bliki/Yagni.html)
+- [Deep Dive in KISS and YAGNI](https://solidstudio.io/blog/deep-dive-into-kiss-and-yagni)
+</details>
+
+<details>
+<summary>DRY</summary>
+
+- [DRY, KISS & YAGNI Principles](https://henriquesd.medium.com/dry-kiss-yagni-principles-1ce09d9c601f)
+- [DRY Software Design Principle](https://www.baeldung.com/cs/dry-software-design-principle)
+- [DRY (Don’t Repeat Yourself) In Java](https://www.w3schools.blog/dry-dont-repeat-yourself-in-java)
+
+</details>
+
+<details>
+<summary>OOPS</summary>
+
+- [Object-Oriented Programming Principles  in Java:  OOP Concepts for Beginners](https://www.freecodecamp.org/news/java-object-oriented-programming-system-principles-oops-concepts-for-beginners/)
+- [How to explain object-oriented programming concepts to a 6-year-old](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)
+- [What are four basic principles of Object Oriented Programming?](https://medium.com/@cancerian0684/what-are-four-basic-principles-of-object-oriented-programming-645af8b43727)
+
+</details>
+
 # Software Testing
 <details>
 <summary>Free Tutorials and Courses</summary>
@@ -476,6 +521,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Automating Tests for Flutter Apps](https://testautomationu.applitools.com/testing-flutter-apps/)
 - [Flutter Testing Guide for Beginners - Part 1: Unit Tests & Setup](https://www.youtube.com/watch?v=hUAUAkIZmX0)
 - [Flutter Testing Guide for Beginners – Part 2: Widget & Integration Tests](https://www.youtube.com/watch?v=Ghqry5dtgH4)
+- [Automated Flutter App Testing](https://testingbot.com/support/mobile/flutter.html)
 - [Testing Flutter apps](https://docs.flutter.dev/testing)
 - [Automating Flutter Apps with Appium Flutter Driver using Appium Java Client](https://testsigma.com/blog/automating-flutter-apps-with-appium-flutter-driver/)
 - [Appium Flutter Finder Java](https://github.com/ashwithpoojary98/javaflutterfinder)
@@ -484,6 +530,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Flutter App Test Automation poc | Appium Flutter Driver| Flutter Finder](https://www.youtube.com/watch?v=fsfMw_e7e9U)
 - [Automated Flutter App Testing - Testingbot](https://testingbot.com/support/mobile/flutter.html#start)
 - [Appium Flutter Driver - A Use Case Demo by Atmaram Naik](https://www.youtube.com/watch?v=hv74YaISJSg)
+
 
 </details>
 
