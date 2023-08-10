@@ -476,7 +476,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Flutter Testing Guide for Beginners - Part 1: Unit Tests & Setup](https://www.youtube.com/watch?v=hUAUAkIZmX0)
 - [Flutter Testing Guide for Beginners – Part 2: Widget & Integration Tests](https://www.youtube.com/watch?v=Ghqry5dtgH4)
 - [Testing Flutter apps](https://docs.flutter.dev/testing)
-- [APPIUM For Android & iOS Mobile Apps Testing In Flutter](https://medium.flutterdevs.com/appium-for-android-ios-mobile-apps-testing-in-flutter-709cee06f3)
 - [Automating Flutter Apps with Appium Flutter Driver using Appium Java Client](https://testsigma.com/blog/automating-flutter-apps-with-appium-flutter-driver/)
 - [Appium Flutter Finder Java](https://github.com/ashwithpoojary98/javaflutterfinder)
 - [CommonFinders Class Flutter](https://api.flutter.dev/flutter/flutter_test/CommonFinders-class.html)
