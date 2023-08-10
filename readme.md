@@ -434,6 +434,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Guide to Mobile Testing](https://medium.com/@iamfaisalkhatri/guide-to-mobile-testing-d0dd2d9b59f1)
 - [Mobile App Testing Guide](https://blog.qatestlab.com/2020/09/04/mobile-app-testing-guide/)
 - [Mobile Automation Testing Tools](https://www.lambdatest.com/blog/best-mobile-automation-testing-tools/)
+- [How to install Android Studio on Windows 10](https://youtu.be/CMrfuCR6W94)
 - [What is an Android Emulator? How to Start and use it?](https://medium.com/@iamfaisalkhatri/what-is-an-android-emulator-how-to-start-and-use-it-66fdcf52be7e)
 - [Emulator vs Simulator For Mobile Testing: Differences & Setup](https://www.lambdatest.com/blog/difference-between-emulator-vs-simulator-for-mobile-testing/)
 - [Mobile App Testing Tutorials (A Complete Guide With 30+ Tutorials)](https://www.softwaretestinghelp.com/beginners-guide-to-mobile-application-testing/)
