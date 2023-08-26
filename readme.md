@@ -308,6 +308,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Everything you need to know about the Selenium IDE: Tutorial](https://www.pcloudy.com/blogs/everything-you-need-to-know-about-the-selenium-ide-tutorial/)
 - [Executing Parallel Test Sessions with TestNG and Selenium WebDriver](https://www.pcloudy.com/blogs/executing-parallel-test-sessions-with-testng-and-selenium-webdriver/)
 - [Parallel Execution of Tests using Selenium Grid 4 with Docker Compose](https://medium.com/@iamfaisalkhatri/parallel-execution-of-tests-using-selenium-grid-4-with-docker-compose-2dc243f4fe8b)
+- [Selenium Manager in Selenium 4.11.0: New Features and Improvements](https://medium.com/@iamfaisalkhatri/selenium-manager-in-selenium-4-11-0-new-features-and-improvements-lambdatest-761593a7f009)
 </details>
 
 <details>
