@@ -518,6 +518,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Flutter</summary>
 
+- [How to Test Flutter Apps? How is it Different From Testing Native Apps?](https://medium.com/@iamfaisalkhatri/how-to-test-flutter-apps-how-is-it-different-from-testing-native-apps-f6a2cb61e9a4)
 - [Automating Tests for Flutter Apps](https://testautomationu.applitools.com/testing-flutter-apps/)
 - [Flutter Testing Guide for Beginners - Part 1: Unit Tests & Setup](https://www.youtube.com/watch?v=hUAUAkIZmX0)
 - [Flutter Testing Guide for Beginners – Part 2: Widget & Integration Tests](https://www.youtube.com/watch?v=Ghqry5dtgH4)
