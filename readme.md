@@ -413,6 +413,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Rest Assured Tutorial](https://mindmajix.com/rest-assured-tutorial)
 - [Creating data driven API tests with REST Assured and TestNG](https://www.ontestautomation.com/creating-data-driven-api-tests-with-rest-assured-and-testng/)
 - [How to perform JSON Schema Validation using Rest-Assured?](https://medium.com/@iamfaisalkhatri/how-to-perform-json-schema-validation-using-rest-assured-64c3b6616a91)
+- [Using REST-assured to Test OAuth 2.0 flow Examples](https://devqa.io/rest-assured-oauth2-workflow-examples/)
 </details>
 
 <details>
@@ -471,6 +472,28 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [gRPC - Microsoft learning](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/grpc)
 
 </details>
+
+# Contract Testing
+
+ <details>
+<summary> Tutorials </summary>
+
+- [What is Contract Testing?](https://pactflow.io/blog/what-is-contract-testing/)
+- [Contract Testing For Microservices IS A MUST](https://youtu.be/Fh8CqZtghQw?si=D9qsf59lmDY7KDG2)
+- [Introduction to Consumer Contract Testing](https://blog.testproject.io/2020/04/27/introduction-to-consumer-contract-testing/)
+- [A Comprehensive Guide to Contract Testing APIs in a Service Oriented Architecture](https://lirantal.com/blog/a-comprehensive-guide-to-contract-testing-apis-in-a-service-oriented-architecture-5695ccf9ac5a/)
+- [Pact.io - Documentation](https://docs.pact.io/)
+- [Contract Testing Tutorial](https://www.softwaretestinghelp.com/contract-testing/)
+- [Contract Testing - PactumJS](https://pactumjs.github.io/guides/contract-testing.html)
+- [Consumer Driven Contract Testing [Webinar Recording]](https://blog.testproject.io/2020/06/15/consumer-driven-contract-testing-the-ultimate-guide-to-testing-microservices/)
+- [Contract Testing for Node.js Microservices with Pact](https://codersociety.com/blog/articles/contract-testing-pact)
+- [How to Simplify UI Tests with Bi-Directional Contract Testing](https://applitools.com/blog/how-to-simplify-ui-tests-bi-directional-contract-testing/)
+- [Pact.io - Community videos and articles](https://docs.pact.io/blogs_videos_and_articles)
+- [How to Use Pact to Contract Test your Event-Driven System](https://solace.com/blog/how-to-use-pact-to-contract-test-your-event-driven-system/)
+- [Event Driven Architecture: How to Perform Contract Testing in Kafka/PubSub](https://blog.testproject.io/2020/06/03/event-driven-architecture-how-to-perform-contract-testing-in-kafka-pubsub/)
+
+</details>
+
 
 # Mobile Automation
 
