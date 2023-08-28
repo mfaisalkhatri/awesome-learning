@@ -897,6 +897,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Jenkins </summary>
 
 - [Jenkins Tutorials](https://www.jenkins.io/doc/tutorials/)
+- [Jenkins Tutorial For Beginners: 21+ Practical Guides](https://devopscube.com/jenkins-2-tutorials-getting-started-guide/)
 - [Jekins Beginners Tutorials](https://www.softwaretestinghelp.com/jenkins-tutorials/)
 - [Jenkins CI Tutorials](https://www.softwaretestinghelp.com/jenkins-ci-tutorial/)
 - [Testing with Jenkins](https://www.jenkins.io/doc/developer/testing/)
