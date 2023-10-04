@@ -379,6 +379,9 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Getting Started With Testing Microservices](https://alexromanov.github.io/2021/06/28/microservices-test-resources/)
 - [JSON.org](https://www.json.org/json-en.html)
 - [What is JSON?](https://www.w3schools.com/whatis/whatis_json.asp)
+- [APISec University - API Documentation Best Practices](https://www.apisecuniversity.com/courses/api-documentation-best-practices)
+- [APISec University - API Tools and Resources](https://www.apisecuniversity.com/api-tools-and-resources)
+
 </details>
 
 <details>
@@ -616,6 +619,11 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [CyberSecurity - Codeacademy](https://www.codecademy.com/catalog/subject/cybersecurity)
 - [Collection of Penetration Testing resources](https://github.com/wtsxDev/Penetration-Testing#penetration-testing-resources)
 - [Penetration Testing Full Course - FreeCodeCamp.org](https://www.freecodecamp.org/news/full-penetration-testing-course/)
+- [APISec University - API Penetration Testing Free Course](https://www.apisecuniversity.com/courses/api-penetration-testing)
+- [APISec University - API Security Fundamentals](https://www.apisecuniversity.com/courses/api-security-fundamentals)
+- [APISec University - OWASP API Security Top 10 and Beyond!](https://www.apisecuniversity.com/courses/owasp-api-security-top-10-and-beyond)
+- [APISec University - API Security for PCI Compliance](https://www.apisecuniversity.com/courses/api-security-for-pci-compliance)
+
 </details>
 
 <details>
