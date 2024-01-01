@@ -260,6 +260,21 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Practical Test Pyramid - Martin Fowler](https://martinfowler.com/articles/practical-test-pyramid.html)
 </details>
 
+<details>
+<summary>Test Automation Frameworks</summary>
+
+- [Test Automation Frameworks](https://smartbear.com/learn/automated-testing/test-automation-frameworks/)
+- [What is a Test Automation Framework? | Best Practices](https://youtu.be/uGevBR2Luzo?si=cIMj5S_dNXElrJiz)
+- [Complete Guide To Automation Testing Frameworks](https://www.lambdatest.com/blog/automation-testing-frameworks/)
+- [Test Automation Framework: What is, Architecture & Types](https://www.guru99.com/test-automation-framework.html)
+- [Types of Test Automation Frameworks | Everything You Should Know](https://www.softwaretestingmaterial.com/types-test-automation-frameworks/)
+- [What is Data Driven Testing: All You Need to Know?](https://www.lambdatest.com/learning-hub/data-driven-testing)
+- [What is Hybrid framework in Selenium?](https://www.softwaretestinghelp.com/hybrid-framework-in-selenium/)
+- [Boyka Framework](https://github.com/BoykaFramework/boyka-framework)
+
+</details>
+
+
 
 # Git
 
