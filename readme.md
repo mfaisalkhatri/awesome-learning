@@ -326,6 +326,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Playwright - YouTube](https://www.youtube.com/channel/UC46Zj8pDH5tDosqm1gd7WTg)
 - [Playwright Locators](https://playwright.dev/docs/locators)
 - [Playwright with JavaScript](https://testautomationu.applitools.com/js-playwright-tutorial/)
+- [Awesome Playwright](https://github.com/mxschmitt/awesome-playwright)
 - [What is Microsoft Playwright JS?](https://testguild.com/what-is-microsoft-playwright-js/)
 - [Testing Modern Web Apps with Playwright | OD110](https://www.youtube.com/watch?v=sAY9FmBih08)
 - [An End To End Playwright Testing with TypeScript](https://www.youtube.com/watch?v=wawbt1cATsk)
@@ -333,6 +334,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Playwright - Github](https://github.com/microsoft/playwright)
 - [Playing with Playwright](https://applitools.com/blog/playing-with-playwright/)
 - [Interactive website to learn playwright](https://try.playwright.tech/)
+- [A detailed tutorial on Playwright & Test Runner](https://github.com/ortoniKC/Playwright-Test-Runner)
+
 </details>
 
 <details> 
@@ -440,6 +443,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [API Testing with Playwright](https://playwright.dev/docs/test-api-testing)
 - [Using Playwright for API testing](https://reflect.run/articles/using-playwright-for-api-testing/)
 - [API Testing with Playwright - GitHub](https://github.com/microsoft/playwright/blob/main/docs/src/test-api-testing-js.md)
+- [How to perform End to End API Testing using Playwright with Java and TestNG](https://medium.com/@iamfaisalkhatri/how-to-perform-end-to-end-api-testing-using-playwright-with-java-and-testng-26b318927115)
+
 </details>
 
 <details>
