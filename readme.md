@@ -933,7 +933,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Docker</summary>
 
-- [Docker](https://www.youtube.com/@DockerIo)
+- [Docker](https://www.youtube.com/@DockerInc)
 - [Play with Docker](https://www.docker.com/play-with-docker/)
 - [Learn Docker Online](https://learndocker.online/)
 - [Docker Curriculum](https://docker-curriculum.com/#)
@@ -953,6 +953,11 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Docker Compose Documentation](https://docs.docker.com/get-started/08_using_compose/)
 - [docker/compose](https://github.com/docker/compose)
 - [Docker Tutorial for Beginners – Introduction & Getting Started](https://spacelift.io/blog/docker-tutorial)
+- [Docker Cheat Sheet - Docker](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
+- [Docker Cheat Sheet - Dockerlabs](https://dockerlabs.collabnix.com/docker/cheatsheet/)
+- [Docker Cheat Sheet - GitHub](https://github.com/wsargent/docker-cheat-sheet)
+- [Docker Commands nbu spacelift.io](https://spacelift.io/blog/docker-commands-cheat-sheet)
+- [The Docker Handbook - Freecodecamp.org](https://www.freecodecamp.org/news/the-docker-handbook/)
 
 </details>
 
