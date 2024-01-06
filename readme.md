@@ -536,6 +536,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Mobile App Testing Tutorials (A Complete Guide With 30+ Tutorials)](https://www.softwaretestinghelp.com/beginners-guide-to-mobile-application-testing/)
 - [Mobile App Testing Tutorial: A Comprehensive Guide With Examples and Best Practices](https://www.lambdatest.com/learning-hub/mobile-app-testing)
 - [Mobile Application Testing using Automation frameworks](https://www.browserstack.com/guide/mobile-application-testing-frameworks)
+- [How to Choose Mobile Devices for Testing ?](https://medium.com/@iamfaisalkhatri/how-to-choose-mobile-devices-for-testing-pcloudy-blog-96179529d0f3)
 </details>
 
 <details>
@@ -555,6 +556,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Mobile Automation with Appium in JavaScript](https://testautomationu.applitools.com/appium-javascript-tutorial/)
 - [Automated Mobile App Testing using Appium and Python](https://blog.testproject.io/2019/07/16/automated-mobile-app-using-appium-and-python/)
 - [Appium Version 2.0 Fundamentals](https://university.blazemeter.com/)
+- [Appium 2 Migration Guide: Migrating From Appium 1.x To Appium 2.x](https://medium.com/@iamfaisalkhatri/appium-2-migration-guide-migrating-from-appium-1-x-to-appium-2-x-f1721b31197)
 - [Getting started with Appium 2.0: Your beginner’s guide](https://bitrise.io/blog/post/getting-started-with-appium-2-0-your-beginners-guide)
 - [How To Identify Locators In Appium [With Examples]](https://www.lambdatest.com/blog/locators-in-appium/)
 - [Automated App testing using Appium with TestNG](https://www.lambdatest.com/blog/appium-with-testng-tutorial/)
@@ -564,6 +566,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Appium 2.0 Plugins](https://appium.github.io/appium/docs/en/2.0/ecosystem/#plugins)
 - [Appium Gestures Plugin](https://github.com/AppiumTestDistribution/appium-gestures-plugin)
 - [Build your own Appium 2.0 Driver by Srinivasan Sekar & Sai Krishna #SeConf 2022](https://www.youtube.com/watch?v=DWoqcZc3D5Y)
+
 </details>
 
 <details>
@@ -583,7 +586,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Automated Flutter App Testing - Testingbot](https://testingbot.com/support/mobile/flutter.html#start)
 - [Appium Flutter Driver - A Use Case Demo by Atmaram Naik](https://www.youtube.com/watch?v=hv74YaISJSg)
 
-
 </details>
 
 <details>
@@ -595,6 +597,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Mobile e2e tests using WebdriverIO and Appium](https://dev.to/fmo91/mobile-e2e-tests-using-webdriverio-and-appium-4071)
 - [Appium Service](https://webdriver.io/docs/appium-service)
 - [Guide to setup appium webdriverIO project to test android | ios application](https://www.youtube.com/watch?v=Sk9CQ3BaW_w)
+- [WebdriverIO Appium Tutorial: A Getting Started Guide With Examples](https://medium.com/@iamfaisalkhatri/webdriverio-appium-tutorial-a-getting-started-guide-with-examples-b99dc713cb34)
+- [How to perform Android mobile automation using WebdriverIO Appium with TypeScript | Test Automation](https://youtu.be/zWm0F3-ayQw?si=YcFtXIgWM6U2ZQyz)
 </details>
 
 # Security Testing
