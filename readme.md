@@ -1056,6 +1056,23 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 </details>
 
+# QA Assistance
+
+<details>
+<summary>Tools</summary>
+
+- [JSON comparison](https://jsoncompare.org/)
+- [Generate Fake files](https://www.fakefilegenerator.com/generate-file.php)
+- [Base64 Converter](https://base64.guru/converter/encode)
+- [Random Test Data Generator](https://www.mockaroo.com/)
+- [API Mocks for Free](https://designer.mocky.io/)
+- [Free API Mocking - Beeceptor](https://beeceptor.com/)
+- [Random Data Generator Library](https://www.datafaker.net/)
+- [Faker JS](https://fakerjs.dev/)
+- [Test Data Generator](https://generatedata.com/)
+</details>
+
+
 <!-- 
 <details>
 <summary> </summary>
