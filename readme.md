@@ -1074,6 +1074,10 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Random Data Generator Library](https://www.datafaker.net/)
 - [Faker JS](https://fakerjs.dev/)
 - [Test Data Generator](https://generatedata.com/)
+- [Excel Viewer - VS Code Extension](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer)
+- [Rainbow CSV - VS Code Extension](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+- [Code Runner - VS Code Extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+
 </details>
 
 
