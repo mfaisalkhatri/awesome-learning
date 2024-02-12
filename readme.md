@@ -794,6 +794,37 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 </details>
 
+# Visual Regression Testing
+<details>
+<summary>Learning Materials </summary>
+
+- [What is Visual Regression Testing?](https://applitools.com/blog/visual-regression-testing/)
+- [What Is Visual Regression Testing: A Detailed Guide](https://www.lambdatest.com/learning-hub/visual-regression-testing) 
+- [Visual Testing](https://www.javatpoint.com/visual-testing)
+- [Top 10 Visual Testing Tools](https://applitools.com/blog/top-10-visual-testing-tools/)
+- [Complete Guide of 15 Visual Testing Tools: Features, Benefits & Prices](https://www.functionize.com/automated-testing/visual-testing-tools)
+- [Visual Regression Testing what, why and how](https://medium.com/loftbr/visual-regression-testing-eb74050f3366)
+- [The Basics of Visual Testing](https://testautomationu.applitools.com/applitools-selenium-java-1/)
+- [Modern Functional Test Automation Through Visual AI](https://testautomationu.applitools.com/modern-functional-testing/)
+
+</details>
+
+<details>
+<summary>Tools/Automation Frameworks</summary>
+
+- [Visual Testing WebdriverIO](https://webdriver.io/docs/visual-testing/)
+- [WDIO Image comparison service](https://webdriver.io/docs/wdio-image-comparison-service/)
+- [How To Perform Visual Regression Testing With Selenium And Smart UI](https://www.lambdatest.com/blog/selenium-visual-regression-testing/)
+- [Appium Visual Testing: A Step-By-Step Guide](https://www.lambdatest.com/learning-hub/appium-visual-testing)
+- [Automated Visual Testing with Python](https://testautomationu.applitools.com/visual-testing-python/)
+- [Automated Visual Testing with Appium](https://testautomationu.applitools.com/appium-visual-testing/)
+- [Automated Visual Testing with WebdriverIO](https://testautomationu.applitools.com/automated-visual-testing-javascript-webdriverio/)
+- [Advanced Automated Visual Testing](https://testautomationu.applitools.com/advanced-visual-testing/)
+- [Galen Framework](https://galenframework.com/)
+
+</details>
+
+
 # Database Tutorials
 <details>
 <summary>Learning Materials</summary>
