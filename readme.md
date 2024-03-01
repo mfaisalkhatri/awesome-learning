@@ -193,6 +193,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Best Examples of Functional Test Cases](https://medium.com/@iamfaisalkhatri/best-examples-of-functional-test-cases-agilitest-blog-424260298b5)
 - [Best Practices for Test Automation Framework](https://medium.com/@iamfaisalkhatri/best-practices-for-test-automation-framework-vtest-blog-277ee1682e24)
 - [Parallel Execution of Tests using Selenium Grid 4 with Docker Compose](https://medium.com/@iamfaisalkhatri/parallel-execution-of-tests-using-selenium-grid-4-with-docker-compose-2dc243f4fe8b)
+- [Free LIVE Manual Testing Demo Project for Training](https://www.guru99.com/live-testing-project.html)
+
 </details>
 
 <details>
@@ -328,6 +330,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Executing Parallel Test Sessions with TestNG and Selenium WebDriver](https://www.pcloudy.com/blogs/executing-parallel-test-sessions-with-testng-and-selenium-webdriver/)
 - [Parallel Execution of Tests using Selenium Grid 4 with Docker Compose](https://medium.com/@iamfaisalkhatri/parallel-execution-of-tests-using-selenium-grid-4-with-docker-compose-2dc243f4fe8b)
 - [Selenium Manager in Selenium 4.11.0: New Features and Improvements](https://medium.com/@iamfaisalkhatri/selenium-manager-in-selenium-4-11-0-new-features-and-improvements-lambdatest-761593a7f009)
+- [LIVE Selenium WebDriver Demo Testing Project](https://www.guru99.com/live-selenium-project.html)
+- [Live Selenium Webdriver ECommerce Testing Project ](https://www.guru99.com/live-ecommerce-project.html)
 </details>
 
 <details>
@@ -566,6 +570,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Appium 2.0 Plugins](https://appium.github.io/appium/docs/en/2.0/ecosystem/#plugins)
 - [Appium Gestures Plugin](https://github.com/AppiumTestDistribution/appium-gestures-plugin)
 - [Build your own Appium 2.0 Driver by Srinivasan Sekar & Sai Krishna #SeConf 2022](https://www.youtube.com/watch?v=DWoqcZc3D5Y)
+- [Live Appium Testing Project: Android Mobile App Automation](https://www.guru99.com/live-mobile-testing-project.html)
 
 </details>
 
@@ -651,6 +656,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [APISec University - API Security Fundamentals](https://www.apisecuniversity.com/courses/api-security-fundamentals)
 - [APISec University - OWASP API Security Top 10 and Beyond!](https://www.apisecuniversity.com/courses/owasp-api-security-top-10-and-beyond)
 - [APISec University - API Security for PCI Compliance](https://www.apisecuniversity.com/courses/api-security-for-pci-compliance)
+- [Live Penetration Testing Project: Online Practice in Real Time](https://www.guru99.com/live-penetration-testing-project.html)
 
 </details>
 
@@ -1088,6 +1094,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [DZone Agile blogs](https://dzone.com/agile)
 - [Agile Testing - LambdaTest Learning Hub](https://www.lambdatest.com/learning-hub/agile-testing)
 - [Agilemania's blogs](https://agilemania.com/blog/)
+- [Live Free Agile Testing Project](https://www.guru99.com/live-agile-testing-project.html)
 
 </details>
 
@@ -1110,7 +1117,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Code Runner - VS Code Extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 
 </details>
-
 
 <!-- 
 <details>
