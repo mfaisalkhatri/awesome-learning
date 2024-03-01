@@ -309,7 +309,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Selenium WebDriver with Java](https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/)
 - [Selenium 4 in Java](https://testautomationu.applitools.com/selenium-4-java/)
 - [Selenium WebDriver with Python](https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/)
-- [Selenium with JavaScript](https://www.selenium.dev/selenium/docs/api/javascript/index.html)
+- [Selenium with JavaScript](https://github.com/SeleniumHQ/seleniumhq.github.io/tree/trunk/examples/javascript)
 - [From Scripting to Framework with Selenium and C#](https://testautomationu.applitools.com/test-automation-framework-csharp/)
 - [Codeless Test automation with Selenium IDE](https://testautomationu.applitools.com/codeless-test-automation-with-selenium-ide/)
 - [Intro to Selenium WebDriver with .NET Core](https://testautomationu.applitools.com/intro-to-selenium-webdriver-with-net-core/)
@@ -476,9 +476,9 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Playwright</summary>
 
-- [API Testing with Playwright](https://playwright.dev/docs/test-api-testing)
+- [API Testing with Playwright](https://playwright.dev/docs/api-testing)
 - [Using Playwright for API testing](https://reflect.run/articles/using-playwright-for-api-testing/)
-- [API Testing with Playwright - GitHub](https://github.com/microsoft/playwright/blob/main/docs/src/test-api-testing-js.md)
+- [API Testing with Playwright - GitHub](https://github.com/microsoft/playwright/blob/main/docs/src/api-testing-js.md)
 - [How to perform End to End API Testing using Playwright with Java and TestNG](https://medium.com/@iamfaisalkhatri/how-to-perform-end-to-end-api-testing-using-playwright-with-java-and-testng-26b318927115)
 
 </details>
@@ -566,12 +566,11 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [Appium Conference](https://www.youtube.com/playlist?list=PL9Z-JgiTsOYRCcJhDfmKAah9XmAp2b903)
 - [Appium.io](https://appium.io/)
-- [Appium Desired Capabilities](https://appium.io/docs/en/writing-running-appium/caps/)
+- [Appium Desired Capabilities](https://appium.io/docs/en/2.0/cli/args/)
 - [Appium 2.0 Documentation](https://appium.github.io/appium/docs/en/2.0/)
 - [Beginner’s Guide to Appium 2.0](https://medium.com/@iamfaisalkhatri/beginners-guide-to-appium-2-0-d8118b31837c)
 - [Appium Inspector](https://github.com/appium/appium-inspector)
 - [Appium Desktop](https://github.com/appium/appium-desktop)
-- [Setting up Appium on MAC for automating iOS App](https://wasiqb.github.io/blogs/appium-automation-ios)
 - [BEGINNERS GUIDE TO APPIUM AUTOMATION WITH JAVA FOR ANDROID APPS](https://wasiqb.wordpress.com/2017/04/19/beginners-guide-to-appium-automation-with-java-for-android-apps-part-2/)
 - [Inspecting elements of an app using Appium Inspector and BrowserStack!](https://medium.com/@iamfaisalkhatri/inspecting-elements-of-an-app-using-appium-inspector-and-browserstack-32c095a5333c)
 - [Mobile Automation with Appium in Java](https://testautomationu.applitools.com/appium-java-tutorial/)
@@ -793,7 +792,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [All You Need To Know About Augmented Reality Testing](https://mobidev.biz/blog/how-test-augmented-reality-applications)
 - [Arium — An Automation framework for Unity/XR](https://medium.com/xrpractices/arium-an-automation-framework-for-unity-xr-d51ed608e8b0)
 - [How to Test Voice Recognition in 4 Steps With Perfecto](https://www.perfecto.io/blog/test-voice-recognition-perfecto)
-- [Audio Capture From iOS Simulators and Real Devices](https://appium.io/docs/en/writing-running-appium/ios/audio-capture/)
+- [Audio Capture From iOS Simulators and Real Devices](https://github.com/clarabez/appium-1/blob/master/docs/en/writing-running-appium/ios/audio-capture.md)
 - [How To Do Virtual Augmented Reality Testing](https://testguild.com/testing-virtual-augmented-reality/)
 - [Visual Testing of AR, VR, and MR in Research Focused Product Delivery](https://applitools.com/blog/visual-testing-of-virtual-reality/)
 
@@ -886,7 +885,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>NoSQL Tutorials</summary>
 
 - [What are NoSQL Databases?](https://www.javatpoint.com/nosql-databases)
-- [NoSQL Tutorial](https://www.janbasktraining.com/blog/nosql-tutorial/)
+- [NOSQL - FreeCodeCamp](https://www.freecodecamp.org/news/tag/nosql/)
 - [Learn NoSQL in 3 hours - FreecodeCamp](https://www.freecodecamp.org/news/learn-nosql-in-3-hours/)
 
 </details>
@@ -1097,7 +1096,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [Awesome Agile](https://github.com/lorabv/awesome-agile)
 - [What is Agile?](https://www.coursera.org/articles/what-is-agile-a-beginners-guide)
-- [Agile in a nutshell](http://www.agilenutshell.com/)
 - [Agile Software blogs by Mike Cohn](https://www.mountaingoatsoftware.com/blog)
 - [Agile Software Guide - Martin Fowler](https://martinfowler.com/agile.html)
 - [What is Scrum?](https://www.scrum.org/resources/what-is-scrum)
