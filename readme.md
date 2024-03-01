@@ -389,7 +389,25 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Introduction to Capybara](https://testautomationu.applitools.com/capybara-ruby/)
 </details>
 
+<details>
+<summary>Demo Websites for Web Automation Testing Practice</summary>
 
+- [Demo Websites - AutomationPanda.com](https://automationpanda.com/2021/12/29/want-to-practice-test-automation-try-these-demo-sites/)
+- [The-internet - herokuapp](https://the-internet.herokuapp.com/)
+- [LambdaTest Selenium Playground](https://www.lambdatest.com/selenium-playground/)
+- [OWASP Juice Shop](https://juice-shop.herokuapp.com/#/)
+- [Swag Labs Demo](https://www.saucedemo.com/v1/)
+- [LambdaTest ECommerce Playground](https://ecommerce-playground.lambdatest.io/)
+- [Practice- Expand Testing](https://practice.expandtesting.com/)
+- [Tools Shop Demo Website](https://practicesoftwaretesting.com/)
+- [QA Practice](https://qa-practice.netlify.app/)
+- [Automation Test Store](https://automationteststore.com/)
+- [Demo QA](https://demoqa.com/)
+- [UI Testing Playground](http://uitestingplayground.com/)
+- [ParaBank demo banking website](https://parabank.parasoft.com/parabank/index.htm)
+- [Travel Agency BlazeDemo](https://blazedemo.com/index.php)
+
+</details>
 
 # API Testing 
 
