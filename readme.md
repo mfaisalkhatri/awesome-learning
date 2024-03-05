@@ -406,6 +406,10 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [UI Testing Playground](http://uitestingplayground.com/)
 - [ParaBank demo banking website](https://parabank.parasoft.com/parabank/index.htm)
 - [Travel Agency BlazeDemo](https://blazedemo.com/index.php)
+- [The Test Automation Playground](https://play1.automationcamp.ir/)
+- [Try Testing this](https://play2.automationcamp.ir/)
+- [Contact List App](https://thinking-tester-contact-list.herokuapp.com/)
+- [Practice Software Testing Toolshop -v5 - With Bugs](https://with-bugs.practicesoftwaretesting.com/#/)
 
 </details>
 
