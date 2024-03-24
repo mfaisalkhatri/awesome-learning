@@ -193,6 +193,11 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Best Examples of Functional Test Cases](https://medium.com/@iamfaisalkhatri/best-examples-of-functional-test-cases-agilitest-blog-424260298b5)
 - [Best Practices for Test Automation Framework](https://medium.com/@iamfaisalkhatri/best-practices-for-test-automation-framework-vtest-blog-277ee1682e24)
 - [Parallel Execution of Tests using Selenium Grid 4 with Docker Compose](https://medium.com/@iamfaisalkhatri/parallel-execution-of-tests-using-selenium-grid-4-with-docker-compose-2dc243f4fe8b)
+- [What questions should I ask as a new QA in the Team/Organization?](https://medium.com/@iamfaisalkhatri/what-questions-should-i-ask-as-a-new-qa-in-the-team-organization-459cc2f69017)
+- [The Art of Defect Reporting](https://medium.com/@iamfaisalkhatri/the-art-of-defect-reporting-b076310580df)
+- [Exploratory Testing](https://medium.com/@iamfaisalkhatri/exploratory-testing-9a17653739d)
+- [Beyond Bugs: Exploring the Depths of Software Testing](https://medium.com/@iamfaisalkhatri/beyond-bugs-exploring-the-depths-of-software-testing-6a3b7057060e)
+
 </details>
 
 <details>
@@ -273,7 +278,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Boyka Framework](https://github.com/BoykaFramework/boyka-framework)
 
 </details>
-
 
 
 # Git
@@ -358,6 +362,9 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Playing with Playwright](https://applitools.com/blog/playing-with-playwright/)
 - [Interactive website to learn playwright](https://try.playwright.tech/)
 - [A detailed tutorial on Playwright & Test Runner](https://github.com/ortoniKC/Playwright-Test-Runner)
+- [Playwright Java Tutorial: Web Automation Testing | Installation and Setup](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-installation-and-setup-545c9c7661c8)
+- [Playwright Java Tutorial: Web Automation Testing | Writing and running tests on Chrome, Firefox and Edge browsers](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-writing-and-running-tests-on-chrome-firefox-and-d2446b9a69ce)
+- [Playwright Java Tutorial: Web Automation Testing | How to perform browser navigation?](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-how-to-perform-browser-navigation-043f14af5c97)
 
 </details>
 
