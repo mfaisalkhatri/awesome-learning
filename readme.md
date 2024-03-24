@@ -317,9 +317,15 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Selenium WebDriver example code](https://github.com/mfaisalkhatri/selenium4poc)
 - [Selenium Tutorial - SoftwareTestingMaterial](https://www.softwaretestingmaterial.com/selenium-tutorial/)
 - [Selenium Tutorial - SoftwareTestingHelp](https://www.softwaretestinghelp.com/selenium-tutorial-1/)
-- [Selenium 4 WebDriver Hierarchy](https://www.lambdatest.com/blog/selenium-4-webdriver-hierarchy/)
-- [How to handl dynamic dropdowns in Selenium](https://www.lambdatest.com/blog/handling-dropdowns-in-selenium-webdriver-java/)
+- [Selenium 4 WebDriver Hierarchy: A Detailed Explanation](https://www.lambdatest.com/blog/selenium-4-webdriver-hierarchy/)
+- [Different Types of Locators in Selenium WebDriver](https://www.lambdatest.com/blog/locators-in-selenium-webdriver-with-examples/)
+- [How to Locate Elements Using CSS Selectors in Selenium](https://www.lambdatest.com/learning-hub/css-selectors)
+- [CSS Selectors in Selenium WebDriver | Web Automation Testing | Free Tutorial - YouTube](https://www.youtube.com/live/bhZX7apMqR8?si=CC1i5cCo8NfaXKpS)
+- [How to Use @FindBy Annotation in Selenium Java](https://www.lambdatest.com/blog/findby-annotation-selenium-java/)
+- [How to handle dynamic dropdowns in Selenium](https://www.lambdatest.com/blog/handling-dropdowns-in-selenium-webdriver-java/)
+- [How To Use WebDriverManager In Selenium](https://www.lambdatest.com/blog/webdrivermanager-in-selenium/)
 - [How To Automate Shadow DOM In Selenium WebDriver](https://www.lambdatest.com/blog/shadow-dom-in-selenium/)
+- [How To Automate Login Page Using Selenium WebDriver](https://www.lambdatest.com/blog/automate-login-page-using-selenium-webdriver/)
 - [Writing Selenium Web Automation tests in Fluent way!](https://medium.com/@iamfaisalkhatri/writing-selenium-web-automation-tests-in-fluent-way-864db95ee67a)
 - [End to End Testing using Selenium WebDriver and Java](https://medium.com/@iamfaisalkhatri/end-to-end-testing-using-selenium-webdriver-and-java-4ff8667716ca)
 - [Blogs related to Selenium WebDriver by LambdaTest](https://www.lambdatest.com/blog/?s=selenium+webdriver)
@@ -328,6 +334,9 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Executing Parallel Test Sessions with TestNG and Selenium WebDriver](https://www.pcloudy.com/blogs/executing-parallel-test-sessions-with-testng-and-selenium-webdriver/)
 - [Parallel Execution of Tests using Selenium Grid 4 with Docker Compose](https://medium.com/@iamfaisalkhatri/parallel-execution-of-tests-using-selenium-grid-4-with-docker-compose-2dc243f4fe8b)
 - [Selenium Manager in Selenium 4.11.0: New Features and Improvements](https://medium.com/@iamfaisalkhatri/selenium-manager-in-selenium-4-11-0-new-features-and-improvements-lambdatest-761593a7f009)
+- [Cross Browser Testing in Selenium using TestNG | Parallel Testing | Testing on cloud platforms](https://youtu.be/_hlXjVTa-jo?si=JxJaTJ-kNcq1_MIJ)
+- [How to Handle ElementClickInterceptedException in Selenium Java](https://www.lambdatest.com/blog/elementclickinterceptedexception-in-selenium-java/)
+
 </details>
 
 <details>
@@ -439,6 +448,9 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Creating data driven API tests with REST Assured and TestNG](https://www.ontestautomation.com/creating-data-driven-api-tests-with-rest-assured-and-testng/)
 - [How to perform JSON Schema Validation using Rest-Assured?](https://medium.com/@iamfaisalkhatri/how-to-perform-json-schema-validation-using-rest-assured-64c3b6616a91)
 - [Using REST-assured to Test OAuth 2.0 flow Examples](https://devqa.io/rest-assured-oauth2-workflow-examples/)
+- [Learn API Testing using Rest-Assured | Tutorial | Part 1](https://www.youtube.com/live/xLKpdQE0oKY?si=iJq_dXxYKorXXKoi)
+- [Learn API Testing using Rest-Assured | Part 2 | Code Cleanup and Refactoring | Tutorial](https://www.youtube.com/live/AFQSolEeu74?si=ZJFTObcE7c32IZdj)
+
 </details>
 
 <details>
