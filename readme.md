@@ -197,6 +197,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [The Art of Defect Reporting](https://medium.com/@iamfaisalkhatri/the-art-of-defect-reporting-b076310580df)
 - [Exploratory Testing](https://medium.com/@iamfaisalkhatri/exploratory-testing-9a17653739d)
 - [Beyond Bugs: Exploring the Depths of Software Testing](https://medium.com/@iamfaisalkhatri/beyond-bugs-exploring-the-depths-of-software-testing-6a3b7057060e)
+- [Free LIVE Manual Testing Demo Project for Training](https://www.guru99.com/live-testing-project.html)
 
 </details>
 
@@ -311,7 +312,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Selenium WebDriver with Java](https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/)
 - [Selenium 4 in Java](https://testautomationu.applitools.com/selenium-4-java/)
 - [Selenium WebDriver with Python](https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/)
-- [Selenium with JavaScript](https://www.selenium.dev/selenium/docs/api/javascript/index.html)
+- [Selenium with JavaScript](https://github.com/SeleniumHQ/seleniumhq.github.io/tree/trunk/examples/javascript)
 - [From Scripting to Framework with Selenium and C#](https://testautomationu.applitools.com/test-automation-framework-csharp/)
 - [Codeless Test automation with Selenium IDE](https://testautomationu.applitools.com/codeless-test-automation-with-selenium-ide/)
 - [Intro to Selenium WebDriver with .NET Core](https://testautomationu.applitools.com/intro-to-selenium-webdriver-with-net-core/)
@@ -340,6 +341,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Selenium Manager in Selenium 4.11.0: New Features and Improvements](https://medium.com/@iamfaisalkhatri/selenium-manager-in-selenium-4-11-0-new-features-and-improvements-lambdatest-761593a7f009)
 - [Cross Browser Testing in Selenium using TestNG | Parallel Testing | Testing on cloud platforms](https://youtu.be/_hlXjVTa-jo?si=JxJaTJ-kNcq1_MIJ)
 - [How to Handle ElementClickInterceptedException in Selenium Java](https://www.lambdatest.com/blog/elementclickinterceptedexception-in-selenium-java/)
+- [LIVE Selenium WebDriver Demo Testing Project](https://www.guru99.com/live-selenium-project.html)
+- [Live Selenium Webdriver ECommerce Testing Project ](https://www.guru99.com/live-ecommerce-project.html)
 
 </details>
 
@@ -401,7 +404,29 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Introduction to Capybara](https://testautomationu.applitools.com/capybara-ruby/)
 </details>
 
+<details>
+<summary>Demo Websites for Web Automation Testing Practice</summary>
 
+- [Demo Websites - AutomationPanda.com](https://automationpanda.com/2021/12/29/want-to-practice-test-automation-try-these-demo-sites/)
+- [The-internet - herokuapp](https://the-internet.herokuapp.com/)
+- [LambdaTest Selenium Playground](https://www.lambdatest.com/selenium-playground/)
+- [OWASP Juice Shop](https://juice-shop.herokuapp.com/#/)
+- [Swag Labs Demo](https://www.saucedemo.com/v1/)
+- [LambdaTest ECommerce Playground](https://ecommerce-playground.lambdatest.io/)
+- [Practice- Expand Testing](https://practice.expandtesting.com/)
+- [Tools Shop Demo Website](https://practicesoftwaretesting.com/)
+- [QA Practice](https://qa-practice.netlify.app/)
+- [Automation Test Store](https://automationteststore.com/)
+- [Demo QA](https://demoqa.com/)
+- [UI Testing Playground](http://uitestingplayground.com/)
+- [ParaBank demo banking website](https://parabank.parasoft.com/parabank/index.htm)
+- [Travel Agency BlazeDemo](https://blazedemo.com/index.php)
+- [The Test Automation Playground](https://play1.automationcamp.ir/)
+- [Try Testing this](https://play2.automationcamp.ir/)
+- [Contact List App](https://thinking-tester-contact-list.herokuapp.com/)
+- [Practice Software Testing Toolshop -v5 - With Bugs](https://with-bugs.practicesoftwaretesting.com/#/)
+
+</details>
 
 # API Testing 
 
@@ -473,9 +498,9 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Playwright</summary>
 
-- [API Testing with Playwright](https://playwright.dev/docs/test-api-testing)
+- [API Testing with Playwright](https://playwright.dev/docs/api-testing)
 - [Using Playwright for API testing](https://reflect.run/articles/using-playwright-for-api-testing/)
-- [API Testing with Playwright - GitHub](https://github.com/microsoft/playwright/blob/main/docs/src/test-api-testing-js.md)
+- [API Testing with Playwright - GitHub](https://github.com/microsoft/playwright/blob/main/docs/src/api-testing-js.md)
 - [How to perform End to End API Testing using Playwright with Java and TestNG](https://medium.com/@iamfaisalkhatri/how-to-perform-end-to-end-api-testing-using-playwright-with-java-and-testng-26b318927115)
 
 </details>
@@ -563,12 +588,11 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [Appium Conference](https://www.youtube.com/playlist?list=PL9Z-JgiTsOYRCcJhDfmKAah9XmAp2b903)
 - [Appium.io](https://appium.io/)
-- [Appium Desired Capabilities](https://appium.io/docs/en/writing-running-appium/caps/)
+- [Appium Desired Capabilities](https://appium.io/docs/en/2.0/cli/args/)
 - [Appium 2.0 Documentation](https://appium.github.io/appium/docs/en/2.0/)
 - [Beginner’s Guide to Appium 2.0](https://medium.com/@iamfaisalkhatri/beginners-guide-to-appium-2-0-d8118b31837c)
 - [Appium Inspector](https://github.com/appium/appium-inspector)
 - [Appium Desktop](https://github.com/appium/appium-desktop)
-- [Setting up Appium on MAC for automating iOS App](https://wasiqb.github.io/blogs/appium-automation-ios)
 - [BEGINNERS GUIDE TO APPIUM AUTOMATION WITH JAVA FOR ANDROID APPS](https://wasiqb.wordpress.com/2017/04/19/beginners-guide-to-appium-automation-with-java-for-android-apps-part-2/)
 - [Inspecting elements of an app using Appium Inspector and BrowserStack!](https://medium.com/@iamfaisalkhatri/inspecting-elements-of-an-app-using-appium-inspector-and-browserstack-32c095a5333c)
 - [Mobile Automation with Appium in Java](https://testautomationu.applitools.com/appium-java-tutorial/)
@@ -585,6 +609,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Appium 2.0 Plugins](https://appium.github.io/appium/docs/en/2.0/ecosystem/#plugins)
 - [Appium Gestures Plugin](https://github.com/AppiumTestDistribution/appium-gestures-plugin)
 - [Build your own Appium 2.0 Driver by Srinivasan Sekar & Sai Krishna #SeConf 2022](https://www.youtube.com/watch?v=DWoqcZc3D5Y)
+- [Live Appium Testing Project: Android Mobile App Automation](https://www.guru99.com/live-mobile-testing-project.html)
 
 </details>
 
@@ -670,6 +695,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [APISec University - API Security Fundamentals](https://www.apisecuniversity.com/courses/api-security-fundamentals)
 - [APISec University - OWASP API Security Top 10 and Beyond!](https://www.apisecuniversity.com/courses/owasp-api-security-top-10-and-beyond)
 - [APISec University - API Security for PCI Compliance](https://www.apisecuniversity.com/courses/api-security-for-pci-compliance)
+- [Live Penetration Testing Project: Online Practice in Real Time](https://www.guru99.com/live-penetration-testing-project.html)
 
 </details>
 
@@ -788,7 +814,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [All You Need To Know About Augmented Reality Testing](https://mobidev.biz/blog/how-test-augmented-reality-applications)
 - [Arium — An Automation framework for Unity/XR](https://medium.com/xrpractices/arium-an-automation-framework-for-unity-xr-d51ed608e8b0)
 - [How to Test Voice Recognition in 4 Steps With Perfecto](https://www.perfecto.io/blog/test-voice-recognition-perfecto)
-- [Audio Capture From iOS Simulators and Real Devices](https://appium.io/docs/en/writing-running-appium/ios/audio-capture/)
+- [Audio Capture From iOS Simulators and Real Devices](https://github.com/clarabez/appium-1/blob/master/docs/en/writing-running-appium/ios/audio-capture.md)
 - [How To Do Virtual Augmented Reality Testing](https://testguild.com/testing-virtual-augmented-reality/)
 - [Visual Testing of AR, VR, and MR in Research Focused Product Delivery](https://applitools.com/blog/visual-testing-of-virtual-reality/)
 
@@ -881,7 +907,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>NoSQL Tutorials</summary>
 
 - [What are NoSQL Databases?](https://www.javatpoint.com/nosql-databases)
-- [NoSQL Tutorial](https://www.janbasktraining.com/blog/nosql-tutorial/)
+- [NOSQL - FreeCodeCamp](https://www.freecodecamp.org/news/tag/nosql/)
 - [Learn NoSQL in 3 hours - FreecodeCamp](https://www.freecodecamp.org/news/learn-nosql-in-3-hours/)
 
 </details>
@@ -1092,7 +1118,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [Awesome Agile](https://github.com/lorabv/awesome-agile)
 - [What is Agile?](https://www.coursera.org/articles/what-is-agile-a-beginners-guide)
-- [Agile in a nutshell](http://www.agilenutshell.com/)
 - [Agile Software blogs by Mike Cohn](https://www.mountaingoatsoftware.com/blog)
 - [Agile Software Guide - Martin Fowler](https://martinfowler.com/agile.html)
 - [What is Scrum?](https://www.scrum.org/resources/what-is-scrum)
@@ -1107,6 +1132,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [DZone Agile blogs](https://dzone.com/agile)
 - [Agile Testing - LambdaTest Learning Hub](https://www.lambdatest.com/learning-hub/agile-testing)
 - [Agilemania's blogs](https://agilemania.com/blog/)
+- [Live Free Agile Testing Project](https://www.guru99.com/live-agile-testing-project.html)
 
 </details>
 
@@ -1129,7 +1155,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Code Runner - VS Code Extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 
 </details>
-
 
 <!-- 
 <details>
