@@ -629,6 +629,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Flutter App Test Automation poc | Appium Flutter Driver| Flutter Finder](https://www.youtube.com/watch?v=fsfMw_e7e9U)
 - [Automated Flutter App Testing - Testingbot](https://testingbot.com/support/mobile/flutter.html#start)
 - [Appium Flutter Driver - A Use Case Demo by Atmaram Naik](https://www.youtube.com/watch?v=hv74YaISJSg)
+- [Automating Flutter Apps Using Appium Flutter Driver With Java](https://www.lambdatest.com/blog/automating-flutter-apps-using-appium-flutter-driver/)
 
 </details>
 
