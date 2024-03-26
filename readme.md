@@ -198,6 +198,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Exploratory Testing](https://medium.com/@iamfaisalkhatri/exploratory-testing-9a17653739d)
 - [Beyond Bugs: Exploring the Depths of Software Testing](https://medium.com/@iamfaisalkhatri/beyond-bugs-exploring-the-depths-of-software-testing-6a3b7057060e)
 - [Free LIVE Manual Testing Demo Project for Training](https://www.guru99.com/live-testing-project.html)
+- [Manual Testing - Test cases and Templates](https://github.com/mfaisalkhatri/Manual_Testing)
 
 </details>
 
@@ -1156,6 +1157,24 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Code Runner - VS Code Extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 
 </details>
+
+<details>
+<summary>Maven</summary>
+
+- [Apache Maven in 5 minutes](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
+- [Apache Maven getting started guide](https://maven.apache.org/guides/getting-started/)
+- [TutorialsPoint - Maven Tutorial](https://www.tutorialspoint.com/maven/index.htm)
+- [Javatpoint - Maven Tutorial](https://www.javatpoint.com/maven-tutorial)
+- [Baeldung - Maven Tutorial](https://www.baeldung.com/maven)
+-[ How to create a Maven Project in IntelliJ? | Test Automation | pom.xml | Maven Commands in IntelliJ](https://youtu.be/JYosKUL0aZU?si=wC0ChfMSnfsnePtk)
+- [How to check and update newer versions for dependencies in the Maven project?](https://medium.com/@iamfaisalkhatri/how-to-check-and-update-newer-versions-for-dependencies-in-the-maven-project-3fd20e0dc783)
+- [What is Maven and how to create Maven Project using IntelliJ?](https://medium.com/@iamfaisalkhatri/-[what-is-maven-and-how-to-create-maven-project-using-intellij-6c1924edba04)
+- [20+ Maven Commands and Options (Cheat Sheet)](https://www.digitalocean.com/community/tutorials/maven-commands-options-cheat-sheet)
+- [Maven Commands Reference](https://gist.github.com/adojos/f51a3e908b0fe65340b4e99ce3bf3b8e)
+
+</details>
+
+
 
 <!-- 
 <details>
