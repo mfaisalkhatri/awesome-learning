@@ -1174,7 +1174,23 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 </details>
 
+<details>
+<summary>JUnit</summary>
+ 
+- [JUnit 5 - Documentation](https://junit.org/junit5/)
+- [Junit 5 - GitHub](https://github.com/junit-team/junit5)
+- [JUnit 5 Tutorial](https://testautomationu.applitools.com/junit5-tutorial/)
+- [TutorialsPoint - JUnit Tutorial](https://www.tutorialspoint.com/junit/index.htm)
+- [Baeldung - JUnit Tutorial](https://www.baeldung.com/junit)
+- [Digital Ocean - JUnit 5 tutorial](https://www.digitalocean.com/community/tutorials/junit5-tutorial)
+- [Javatpoint - JUnit Tutorial](https://www.javatpoint.com/junit-tutorial)
+- [JUnit Tutorial: An Inclusive Guide [With Enhanced Features]](https://www.lambdatest.com/learning-hub/junit-tutorial)
+- [How to use Ignore test annotation](https://www.lambdatest.com/blog/junit-ignore-test-annotation/)
+- [Writing Nested tests in JUnit 5](https://www.lambdatest.com/learning-hub/junit5-nested-tests)
+- [JUnit 5 Crash course - freeCodeCamp](https://youtu.be/flpmSXVTqBI?si=PrgyC_xyWIFdp8PM)
+- [Getting Started with JUnit 5 and Mockito](https://howtodoinjava.com/mockito/junit-mockito-example/)
 
+</details>
 
 <!-- 
 <details>
