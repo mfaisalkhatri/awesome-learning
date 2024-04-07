@@ -1192,6 +1192,25 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 </details>
 
+<details>
+<summary>JUnit</summary>
+
+- [TestNG documentation](https://testng.org/)
+- [TestNG GitHub repo](https://github.com/testng-team/testng)
+- [TestNG Eclipse Plugin](https://github.com/testng-team/testng-eclipse)
+- [Test Automation University - Introduction to TestNG](https://testautomationu.applitools.com/introduction-to-testng/)
+- [TestNG - A Comprehensive Guide](https://www.headspin.io/blog/testng-a-comprehensive-guide)
+- [Javatpoint - TestNG Tutorial](https://www.javatpoint.com/testng-tutorial)
+- [TutorialsPoint - TestNG Tutorial]( https://www.tutorialspoint.com/testng/index.htm)
+- [Baeldung - Introduction to TestNG](https://www.baeldung.com/testng)
+- [TestNG Framework Tutorial: A Comprehensive Guide, with Examples & Best Practices](https://www.lambdatest.com/learning-hub/testng)
+- [Software Testing Help - TestNG tutorial](https://www.softwaretestinghelp.com/testng-tutorial/)
+- [Selenium Easy - TestNG Tutorial](https://www.seleniumeasy.com/testng-tutorials)
+- [A Complete Guide To Exception Tests In TestNG](https://medium.com/@iamfaisalkhatri/a-complete-guide-to-codeless-testing-59e414165e6b)
+- [Working with multiple testng.xml files](https://medium.com/@iamfaisalkhatri/working-with-multiple-testng-xml-files-f5c36896d6b6)
+
+</details>
+
 <!-- 
 <details>
 <summary> </summary>
