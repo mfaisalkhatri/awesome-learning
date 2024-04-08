@@ -1010,7 +1010,12 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Jenkins </summary>
 
+- [Installing Jenkins](https://www.jenkins.io/doc/book/installing/)
 - [Jenkins Tutorials](https://www.jenkins.io/doc/tutorials/)
+- [Jenkins Best Practices](https://www.jenkins.io/doc/book/using/best-practices/)
+- [Jenkins Pipeline](https://www.jenkins.io/doc/book/pipeline/)
+- [Managing Jenkins](https://www.jenkins.io/doc/book/managing/)
+- [Using build tools with Jenkins](https://www.jenkins.io/doc/tutorials/#tools)
 - [Jenkins Tutorial For Beginners: 21+ Practical Guides](https://devopscube.com/jenkins-2-tutorials-getting-started-guide/)
 - [Jekins Beginners Tutorials](https://www.softwaretestinghelp.com/jenkins-tutorials/)
 - [Jenkins CI Tutorials](https://www.softwaretestinghelp.com/jenkins-ci-tutorial/)
@@ -1023,6 +1028,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Jenkins Tutorial for Beginners: A Comprehensive Guide With Examples and Best Practices](https://www.lambdatest.com/learning-hub/jenkins)
 - [Jenkins Full Course in 4 Hours | Jenkins Tutorial For Beginners](https://www.youtube.com/watch?v=3a8KsB5wJDE)
 - [ssbostan/jenkins-tutorial](https://github.com/ssbostan/jenkins-tutorial)
+- [Installing Jenkins on AWS](https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/)
+- [Installing Jenkins on Google Cloud](https://www.jenkins.io/doc/tutorials/tutorials-for-installing-jenkins-on-Google-Cloud/)
 
 </details>
 
@@ -1193,7 +1200,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 </details>
 
 <details>
-<summary>JUnit</summary>
+<summary>TestNG</summary>
 
 - [TestNG documentation](https://testng.org/)
 - [TestNG GitHub repo](https://github.com/testng-team/testng)
