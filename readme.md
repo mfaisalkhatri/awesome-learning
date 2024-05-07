@@ -199,6 +199,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Beyond Bugs: Exploring the Depths of Software Testing](https://medium.com/@iamfaisalkhatri/beyond-bugs-exploring-the-depths-of-software-testing-6a3b7057060e)
 - [Free LIVE Manual Testing Demo Project for Training](https://www.guru99.com/live-testing-project.html)
 - [Manual Testing - Test cases and Templates](https://github.com/mfaisalkhatri/Manual_Testing)
+- [TestDrive by Scandium (Webinar) - Balancing Tradition and Innovation in QA: A career path to success](https://www.youtube.com/watch?v=N9W1BIcQYgQ)
 
 </details>
 
