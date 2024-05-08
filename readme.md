@@ -200,6 +200,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Free LIVE Manual Testing Demo Project for Training](https://www.guru99.com/live-testing-project.html)
 - [Manual Testing - Test cases and Templates](https://github.com/mfaisalkhatri/Manual_Testing)
 - [TestDrive by Scandium (Webinar) - Balancing Tradition and Innovation in QA: A career path to success](https://www.youtube.com/watch?v=N9W1BIcQYgQ)
+- [Practical Guide to Mobile Testing | Mobile Testing Tutorial | Software Testing | Podcast](https://www.youtube.com/live/U3_abrmhCok?si=QQ5kmtH_KGFKmL-N)
 
 </details>
 
@@ -612,6 +613,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Appium Gestures Plugin](https://github.com/AppiumTestDistribution/appium-gestures-plugin)
 - [Build your own Appium 2.0 Driver by Srinivasan Sekar & Sai Krishna #SeConf 2022](https://www.youtube.com/watch?v=DWoqcZc3D5Y)
 - [Live Appium Testing Project: Android Mobile App Automation](https://www.guru99.com/live-mobile-testing-project.html)
+- [Handling Alerts and Popups in Appium](https://www.lambdatest.com/blog/alerts-and-popups-in-appium/)
 
 </details>
 
