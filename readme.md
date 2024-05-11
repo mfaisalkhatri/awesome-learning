@@ -252,7 +252,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Software Testing Books</summary>
 
-- [Software Testing Books](https://github.com/clarabez/SoftwareTestingBooks)
 - [Free Software Testing books](https://github.com/bigfool/free-software-testing-books/blob/master/free-software-testing-books.md#standards-in-software-testing)
 - [Software Testing : A Craftsman's approach](https://malenezi.github.io/malenezi/SE401/Books/Software-Testing-A-Craftsman-s-Approach-Fourth-Edition-Paul-C-Jorgensen.pdf)
 - [Agile Testing by Lisa Crispin](https://www.pdfdrive.com/agile-testing-e47964421.html)
@@ -677,6 +676,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Threat Modelling](https://owasp.org/www-community/Threat_Modeling)
 - [What is Threat Modelling and How does it work?](https://www.mygreatlearning.com/blog/what-is-threat-modeling-and-how-does-it-work/)
 - [What is CVE?](https://www.redhat.com/en/topics/security/what-is-cve)
+- [WebSecurity Academy](https://portswigger.net/web-security)
+
 </details>
 
 <details> 
@@ -729,6 +730,11 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Pynt.io](https://www.pynt.io/)
 - [Black Duck](https://community.synopsys.com/s/)
 - [Checkmarx](https://checkmarx.com/)
+- [Getting started with Burp Suite](https://portswigger.net/burp/documentation/desktop/getting-started)
+- [Burp Suite Professional video tutorials](https://portswigger.net/burp/pro/video-tutorials)
+- [Burp Suite Tutorial – Getting Started With Burp Suite Tool - Software Testing Help](https://www.softwaretestinghelp.com/burp-suite-tutorial/)
+- [Burp Suite Tutorials - TryHackMe](https://tryhackme.com/module/learn-burp-suite)
+
 </details>
 
 # Performance Testing
