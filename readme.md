@@ -115,6 +115,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Other Learning Materials </summary>
 
 - [Project based learning](https://github.com/practical-tutorials/project-based-learning)
+- [Community Challenges](https://app.programiz.pro/community-challenges)
 </details>
 
 <details>
