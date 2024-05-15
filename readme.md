@@ -374,6 +374,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Playwright Java Tutorial: Web Automation Testing | Installation and Setup](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-installation-and-setup-545c9c7661c8)
 - [Playwright Java Tutorial: Web Automation Testing | Writing and running tests on Chrome, Firefox and Edge browsers](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-writing-and-running-tests-on-chrome-firefox-and-d2446b9a69ce)
 - [Playwright Java Tutorial: Web Automation Testing | How to perform browser navigation?](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-how-to-perform-browser-navigation-043f14af5c97)
+- [Playwright Java Tutorial: Web Automation Testing | How to handle Single and Multi select dropdowns using Playwright?](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-how-to-handle-single-and-multi-select-dropdowns-426b65614e28)
 
 </details>
 
