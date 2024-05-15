@@ -330,6 +330,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Selenium Tutorial - SoftwareTestingHelp](https://www.softwaretestinghelp.com/selenium-tutorial-1/)
 - [Selenium 4 WebDriver Hierarchy: A Detailed Explanation](https://www.lambdatest.com/blog/selenium-4-webdriver-hierarchy/)
 - [Different Types of Locators in Selenium WebDriver](https://www.lambdatest.com/blog/locators-in-selenium-webdriver-with-examples/)
+- [Selenium Locators | ID, Name, Tag Name, Class, Link Text, Partial Link Text, CSS Selector, XPath](https://youtu.be/1Bw2JHoOg5U?si=ElOMxqAzyvyCdBcI)
 - [How to Locate Elements Using CSS Selectors in Selenium](https://www.lambdatest.com/learning-hub/css-selectors)
 - [CSS Selectors in Selenium WebDriver | Web Automation Testing | Free Tutorial - YouTube](https://www.youtube.com/live/bhZX7apMqR8?si=CC1i5cCo8NfaXKpS)
 - [How to Use @FindBy Annotation in Selenium Java](https://www.lambdatest.com/blog/findby-annotation-selenium-java/)
