@@ -238,11 +238,15 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Conf Engine](https://www.youtube.com/@ConfEngine)
 - [GOTO Conferences](https://www.youtube.com/@GOTO-)
 - [O'Reilly](https://www.youtube.com/@oreilly)
+- [Continuous Delivery](https://www.youtube.com/@ContinuousDelivery)
+- [ByteByteGo](https://www.youtube.com/@ByteByteGo)
 - [Programming with Mosh](https://www.youtube.com/@programmingwithmosh)
 - [Free Code Camp](https://www.youtube.com/@freecodecamp)
 - [LambdaTest](https://www.youtube.com/@LambdaTest)
 - [Automation Testing with Joe Colantonio](https://www.youtube.com/@JoeColantonio)
 - [Front-end Testing with Kevin](https://www.youtube.com/@frontendtesting)
+- [Simplilearn](https://www.youtube.com/@SimplilearnOfficial)
+- [edureka!](https://www.youtube.com/@edurekaIN)
 - [BrowserStack](https://www.youtube.com/@Browserstack)
 - [Sauce Labs](https://www.youtube.com/@SauceLabs_Official)
 - [Faisal Khatri](https://www.youtube.com/@faisalkhatriqa)
@@ -677,6 +681,10 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [What is Threat Modelling and How does it work?](https://www.mygreatlearning.com/blog/what-is-threat-modeling-and-how-does-it-work/)
 - [What is CVE?](https://www.redhat.com/en/topics/security/what-is-cve)
 - [WebSecurity Academy](https://portswigger.net/web-security)
+- [The Beginner’s Guide to API Hacking](https://danaepp.com/beginners-guide-to-api-hacking)
+- [How to get started as an API hacker](https://danaepp.com/how-to-get-started-as-an-api-hacker)
+- [API Security Testing For Hackers](https://www.bugcrowd.com/resources/levelup/api-security-testing-for-hackers/)
+- [awesome-api-security](https://github.com/arainho/awesome-api-security)
 
 </details>
 
