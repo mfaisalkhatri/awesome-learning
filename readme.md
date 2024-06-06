@@ -1237,6 +1237,19 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 </details>
 
+<details>
+<summary>NodeMaven</summary>
+
+[NodeMaven](https://go.nodemaven.com/automation_proxy) is a proxy provider that provides reliable residential proxies using which automation tests could be run to overcome IP blocks.
+
+- [Registration link - _Use F86 at checkout to get extra 2GB of proxy_](https://go.nodemaven.com/automation_proxy)
+- [Documentation](https://docs.nodemaven.com/)
+- [Use Cases](https://nodemaven.com/#usecases-section)
+- [Advantages](https://nodemaven.com/#advantages-section)
+- [Setting up MultiLogin with NodeMaven](https://help.multilogin.com/en_US/proxies-and-ip-masking/multilogin-with-nodemaven)
+
+</details>
+
 <!-- 
 <details>
 <summary> </summary>
