@@ -788,10 +788,10 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Gatling</summary>
 
-- [Free Gatling Courses on Gatling Academy](https://academy.gatling.io/collections)
+- [Free Gatling Courses on Gatling Academy](https://academy.gatling.io/courses)
 - [awesome-gatling](https://github.com/aliesbelik/awesome-gatling)
 - [Gatling Tutorial: Getting Started With Gatling Load Testing](https://www.softwaretestinghelp.com/gatling-tutorial/)
-- [Gatling Quickstart](https://gatling.io/docs/gatling/tutorials/quickstart/)
+- [Gatling QuickStart](https://gatling.io/docs/gatling/tutorials/quickstart/)
 - [Load Testing with Gatling - James Willett](https://www.james-willett.com/gatling-load-testing-complete-guide/)
 - [Intro to Gatling](https://www.baeldung.com/introduction-to-gatling)
 - [8 Reasons You Should Use Gatling for Load Testing](https://www.blazemeter.com/blog/gatling-load-testing)
