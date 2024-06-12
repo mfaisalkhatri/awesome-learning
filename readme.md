@@ -129,7 +129,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 </details>
 
-# Coding Priciples 
+# Coding Principles 
 
 <details>
 <summary>SOLID</summary>
@@ -196,11 +196,14 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [What questions should I ask as a new QA in the Team/Organization?](https://medium.com/@iamfaisalkhatri/what-questions-should-i-ask-as-a-new-qa-in-the-team-organization-459cc2f69017)
 - [The Art of Defect Reporting](https://medium.com/@iamfaisalkhatri/the-art-of-defect-reporting-b076310580df)
 - [Exploratory Testing](https://medium.com/@iamfaisalkhatri/exploratory-testing-9a17653739d)
+- [Different Types of Software Testing](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
 - [Beyond Bugs: Exploring the Depths of Software Testing](https://medium.com/@iamfaisalkhatri/beyond-bugs-exploring-the-depths-of-software-testing-6a3b7057060e)
 - [Free LIVE Manual Testing Demo Project for Training](https://www.guru99.com/live-testing-project.html)
 - [Manual Testing - Test cases and Templates](https://github.com/mfaisalkhatri/Manual_Testing)
 - [TestDrive by Scandium (Webinar) - Balancing Tradition and Innovation in QA: A career path to success](https://www.youtube.com/watch?v=N9W1BIcQYgQ)
 - [Practical Guide to Mobile Testing | Mobile Testing Tutorial | Software Testing | Podcast](https://www.youtube.com/live/U3_abrmhCok?si=QQ5kmtH_KGFKmL-N)
+- [Types of Software Testing](https://www.geeksforgeeks.org/types-software-testing/)
+- [A Complete Guide to Web Testing[With Best Practices]](https://medium.com/@iamfaisalkhatri/a-complete-guide-web-testing-748b34a91e6e)
 
 </details>
 
@@ -338,6 +341,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [How To Use WebDriverManager In Selenium](https://www.lambdatest.com/blog/webdrivermanager-in-selenium/)
 - [How To Automate Shadow DOM In Selenium WebDriver](https://www.lambdatest.com/blog/shadow-dom-in-selenium/)
 - [How To Automate Login Page Using Selenium WebDriver](https://www.lambdatest.com/blog/automate-login-page-using-selenium-webdriver/)
+- [How to automate Login page using Selenium WebDriver with Java? | Selenium WebDriver Tutorial](https://youtu.be/wSxnk3XkG58?si=hevB_37JB7cvlvNy)
 - [Writing Selenium Web Automation tests in Fluent way!](https://medium.com/@iamfaisalkhatri/writing-selenium-web-automation-tests-in-fluent-way-864db95ee67a)
 - [End to End Testing using Selenium WebDriver and Java](https://medium.com/@iamfaisalkhatri/end-to-end-testing-using-selenium-webdriver-and-java-4ff8667716ca)
 - [Blogs related to Selenium WebDriver by LambdaTest](https://www.lambdatest.com/blog/?s=selenium+webdriver)
@@ -660,6 +664,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Tutorials</summary>
 
+- [What is Security Testing?](https://www.hackerone.com/knowledge-center/what-security-testing)
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 - [ZAProxy](https://www.zaproxy.org/)
 - [Security Testing Guide](https://github.com/OWASP/wstg/tree/master/document)
@@ -754,6 +759,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [A Complete Performance Testing Guide With Examples](https://www.softwaretestinghelp.com/introduction-to-performance-testing-loadrunner-training-tutorial-part-1/)
 - [What is Performance Testing?](https://www.techtarget.com/searchsoftwarequality/definition/performance-testing)
+- [Types of Performance Testing](https://abstracta.us/blog/performance-testing/types-performance-tests/)
 - [Master Performance Testing](https://university.blazemeter.com/)
 - [Performance Testing vs. Load Testing vs. Stress Testing](https://www.blazemeter.com/blog/performance-testing-vs-load-testing-vs-stress-testing)
 - [What is Throughput in Performance Testing?](https://testguild.com/performance-testing-what-is-throughput/)
