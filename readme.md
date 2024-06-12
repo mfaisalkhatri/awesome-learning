@@ -897,7 +897,21 @@ I have been asked by many about my career transformation journey from Manual Tes
 </details>
 
 
-# Database Tutorials
+# Accessibility Testing
+<details>
+<summary>Learning Materials</summary>
+
+- [What is Accessibility Testing - Guru99.com](https://www.guru99.com/accessibility-testing.html)
+- [What Is Accessibility Testing? A Comprehensive Guide](https://www.accelq.com/blog/accessibility-testing/)
+- [What is Accessibility Testing? - LambdaTest Learning Hub](https://www.lambdatest.com/learning-hub/accessibility-testing)
+- [Accessibility Testing Tools and Practices](https://accessibility.huit.harvard.edu/testing)
+- [Automated Tools for Testing Accessibility](https://accessibility.huit.harvard.edu/auto-tools-testing)
+- [Test your app's accessibility](https://developer.android.com/guide/topics/ui/accessibility/testing)
+- [The Ultimate Guide to Accessibility Testing](https://info.usablenet.com/accessibility-testing)
+
+</details>
+
+# Database Testing
 <details>
 <summary>Learning Materials</summary>
 
