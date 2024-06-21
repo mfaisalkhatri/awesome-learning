@@ -109,6 +109,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [DS & A in JavaScript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
 - [DS & A Problems](https://github.com/mandliya/algorithms_and_data_structures)
 - [Algo Deck](https://github.com/teivah/algodeck)
+- [Roadmap for DSA](https://www.codechef.com/roadmap/data-structures-and-algorithms)
+
 </details>
 
 <details>
