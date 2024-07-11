@@ -205,6 +205,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [TestDrive by Scandium (Webinar) - Balancing Tradition and Innovation in QA: A career path to success](https://www.youtube.com/watch?v=N9W1BIcQYgQ)
 - [Practical Guide to Mobile Testing | Mobile Testing Tutorial | Software Testing | Podcast](https://www.youtube.com/live/U3_abrmhCok?si=QQ5kmtH_KGFKmL-N)
 - [Types of Software Testing](https://www.geeksforgeeks.org/types-software-testing/)
+- [How To Use Builder Design Pattern and DataFaker Library for Test Data Generation in Automation Testing](https://dzone.com/articles/automation-testing-how-to-use-builder-design-patte)
 - [A Complete Guide to Web Testing[With Best Practices]](https://medium.com/@iamfaisalkhatri/a-complete-guide-web-testing-748b34a91e6e)
 
 </details>
