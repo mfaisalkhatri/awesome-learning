@@ -338,6 +338,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Selenium Locators | ID, Name, Tag Name, Class, Link Text, Partial Link Text, CSS Selector, XPath](https://youtu.be/1Bw2JHoOg5U?si=ElOMxqAzyvyCdBcI)
 - [How to Locate Elements Using CSS Selectors in Selenium](https://www.lambdatest.com/learning-hub/css-selectors)
 - [CSS Selectors in Selenium WebDriver | Web Automation Testing | Free Tutorial - YouTube](https://www.youtube.com/live/bhZX7apMqR8?si=CC1i5cCo8NfaXKpS)
+- [How to Click Button in Selenium: A Complete Guide](https://www.lambdatest.com/blog/selenium-click-button-with-examples/)
 - [How to Use @FindBy Annotation in Selenium Java](https://www.lambdatest.com/blog/findby-annotation-selenium-java/)
 - [How to handle dynamic dropdowns in Selenium](https://www.lambdatest.com/blog/handling-dropdowns-in-selenium-webdriver-java/)
 - [How To Use WebDriverManager In Selenium](https://www.lambdatest.com/blog/webdrivermanager-in-selenium/)
@@ -350,10 +351,13 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Understanding CSS Selectors in Selenium](https://www.pcloudy.com/blogs/understanding-css-selectors-in-selenium/)
 - [Everything you need to know about the Selenium IDE: Tutorial](https://www.pcloudy.com/blogs/everything-you-need-to-know-about-the-selenium-ide-tutorial/)
 - [Executing Parallel Test Sessions with TestNG and Selenium WebDriver](https://www.pcloudy.com/blogs/executing-parallel-test-sessions-with-testng-and-selenium-webdriver/)
-- [Parallel Execution of Tests using Selenium Grid 4 with Docker Compose](https://medium.com/@iamfaisalkhatri/parallel-execution-of-tests-using-selenium-grid-4-with-docker-compose-2dc243f4fe8b)
 - [Selenium Manager in Selenium 4.11.0: New Features and Improvements](https://medium.com/@iamfaisalkhatri/selenium-manager-in-selenium-4-11-0-new-features-and-improvements-lambdatest-761593a7f009)
 - [Cross Browser Testing in Selenium using TestNG | Parallel Testing | Testing on cloud platforms](https://youtu.be/_hlXjVTa-jo?si=JxJaTJ-kNcq1_MIJ)
 - [How to Handle ElementClickInterceptedException in Selenium Java](https://www.lambdatest.com/blog/elementclickinterceptedexception-in-selenium-java/)
+- [How to Use Breakpoints for Debugging in Selenium WebDriver](https://www.lambdatest.com/blog/how-to-use-breakpoints-for-debugging-in-selenium-webdriver/)
+- [How To Use Thread.sleep() in Selenium](https://dzone.com/articles/how-to-use-threadsleep-in-selenium)
+- [Handling “Element Is Not Clickable at Point” Exception in Selenium](https://dzone.com/articles/handling-element-is-not-clickable-at-point-excepti)
+- [How To Take Full Page Screenshots In Selenium WebDriver](https://www.lambdatest.com/blog/screenshots-with-selenium-webdriver/)
 - [LIVE Selenium WebDriver Demo Testing Project](https://www.guru99.com/live-selenium-project.html)
 - [Live Selenium Webdriver ECommerce Testing Project ](https://www.guru99.com/live-ecommerce-project.html)
 
@@ -382,6 +386,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Playwright Java Tutorial: Web Automation Testing | Writing and running tests on Chrome, Firefox and Edge browsers](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-writing-and-running-tests-on-chrome-firefox-and-d2446b9a69ce)
 - [Playwright Java Tutorial: Web Automation Testing | How to perform browser navigation?](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-how-to-perform-browser-navigation-043f14af5c97)
 - [Playwright Java Tutorial: Web Automation Testing | How to handle Single and Multi select dropdowns using Playwright?](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-how-to-handle-single-and-multi-select-dropdowns-426b65614e28)
+- [Playwright Java Tutorial: Web Automation Testing | How to work with text fields?](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-how-to-work-with-text-fields-6cc9982ed7b2)
 
 </details>
 
@@ -404,12 +409,25 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [WebdriverIO](https://webdriver.io/)
 - [WebDriverIO - YouTube](https://www.youtube.com/watch?v=GAc031zGWTM&list=PLPO0LFyCaSo3oedws079pCNtppXAZdjv6)
 - [UI Automation with WebdriverIO v7](https://testautomationu.applitools.com/webdriverio-7-tutorial/)
+- [How to Run WebdriverIO Tests: Getting Started Tutorial](https://www.lambdatest.com/blog/webdriverio-tutorial-run-your-first-automation-script/)
 - [Automated Visual Testing with WebdriverIO](https://testautomationu.applitools.com/automated-visual-testing-javascript-webdriverio/)
 - [WebApp Testing with WebdriverIO - Crash Course](https://www.youtube.com/watch?v=RJ2kwpzX8so)
 - [WebDriverIo v8 Must Know Features with Christian Bromann](https://www.youtube.com/watch?v=OZXVcK-dJkQ)
 - [WebDriverIO and Extended Debugging with Christian Bromann](https://www.youtube.com/watch?v=aX5TLGKhTKM)
 - [WebDriverIO Wednesdays with Kevin](https://www.youtube.com/watch?v=k6FFwurWhf0&list=PL0y7qCn3hjLYGdFtm_qvF0mCdFnBKs2C7)
 - [WebdriverIO - Github](https://github.com/webdriverio/webdriverio)
+</details>
+
+<details>
+<summary> Selenium Grid </summary>
+
+- [Selenium Grid 4](https://www.selenium.dev/documentation/grid/)
+- [Selenium Grid Tutorial: Parallel Testing Guide with Examples](https://www.lambdatest.com/blog/selenium-grid-setup-tutorial/)
+- [Parallel Execution of Tests using Selenium Grid 4 with Docker Compose](https://medium.com/@iamfaisalkhatri/parallel-execution-of-tests-using-selenium-grid-4-with-docker-compose-2dc243f4fe8b)
+- [docker-selenium](https://github.com/SeleniumHQ/docker-selenium)
+- [Docker Selenium Grid repository](https://www.selenium.dev/docker-selenium/)
+- [Docker Hub - Selenium](https://hub.docker.com/u/selenium)
+
 </details>
 
 <details>
@@ -616,6 +634,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Appium 2 Migration Guide: Migrating From Appium 1.x To Appium 2.x](https://medium.com/@iamfaisalkhatri/appium-2-migration-guide-migrating-from-appium-1-x-to-appium-2-x-f1721b31197)
 - [Getting started with Appium 2.0: Your beginner’s guide](https://bitrise.io/blog/post/getting-started-with-appium-2-0-your-beginners-guide)
 - [How To Identify Locators In Appium [With Examples]](https://www.lambdatest.com/blog/locators-in-appium/)
+- [Handling Alerts and Popups in Appium](https://dzone.com/articles/handling-alerts-and-popups-in-appium)
 - [Automated App testing using Appium with TestNG](https://www.lambdatest.com/blog/appium-with-testng-tutorial/)
 - [How To Test React Native Apps On iOS And Android](https://www.lambdatest.com/blog/test-react-native-apps-on-ios-and-android/)
 - [Complete Tutorial On Appium Parallel Testing [With Examples]](https://www.lambdatest.com/blog/appium-parallel-testing/)
@@ -1255,6 +1274,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Software Testing Help - TestNG tutorial](https://www.softwaretestinghelp.com/testng-tutorial/)
 - [Selenium Easy - TestNG Tutorial](https://www.seleniumeasy.com/testng-tutorials)
 - [A Complete Guide To Exception Tests In TestNG](https://medium.com/@iamfaisalkhatri/a-complete-guide-to-codeless-testing-59e414165e6b)
+- [How to Create TestNG.xml File in Eclipse](https://www.lambdatest.com/blog/create-testng-xml-file-execute-parallel-testing/)
 - [Working with multiple testng.xml files](https://medium.com/@iamfaisalkhatri/working-with-multiple-testng-xml-files-f5c36896d6b6)
 
 </details>
