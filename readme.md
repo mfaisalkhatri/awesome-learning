@@ -24,6 +24,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Java</summary>
 
+- [Awesome-Java](https://github.com/akullpp/awesome-java)
 - [Java Programming Course by Angie Jones](https://testautomationu.applitools.com/java-programming-course/)
 - [Beginners Book - Java Tutorials](https://beginnersbook.com/java-tutorial-for-beginners-with-examples/)
 - [Learn Java Online](https://www.learnjavaonline.org/)
@@ -53,6 +54,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [Beginners Series to JavaScript](https://learn.microsoft.com/en-us/shows/beginners-series-to-javascript/)
 - [FreeCodeCamp.org](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
+- [Awesome-JavaScript](https://github.com/sorrycc/awesome-javascript))
 - [learn-js](https://www.learn-js.org/)
 - [Javascript.info](https://javascript.info/)
 - [JavaScript Tutorial on Test Automation University](https://testautomationu.applitools.com/javascript-tutorial/)
@@ -81,7 +83,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Awesome TypeScript](https://github.com/semlinker/awesome-typescript)
 - [Awesome TypeScript projects](https://github.com/brookshi/awesome-typescript-projects)
 - [TypeScript Tips](https://github.com/jellydn/typescript-tips)
-- [A curated list of awesome TypeScript resources](https://github.com/ellerbrock/awesome-typescript)
+- [Awesome-TypeScript](https://github.com/ellerbrock/awesome-typescript)
 </details>
 
 <details>
@@ -117,6 +119,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Other Learning Materials </summary>
 
 - [Project based learning](https://github.com/practical-tutorials/project-based-learning)
+- [Learn Regex step by step, from zero to advanced.](https://regexlearn.com/)
 </details>
 
 <details>
@@ -213,6 +216,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Software Testing/Test Automation/Blogs and Guides</summary>
 
+- [Awesome-Testing](https://github.com/TheJambo/awesome-testing)
+- [Awesome-test-automation](https://github.com/atinfo/awesome-test-automation)
 - [Marting Fowler's Blog](https://martinfowler.com/tags/testing.html)
 - [Angie Jone's Blog](https://angiejones.tech/)
 - [Corina Pip's Blog](https://imalittletester.com/)
@@ -320,6 +325,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <Summary>Selenium WebDriver</Summary>
 
 - [Selenium WebDriver Documentation](https://www.selenium.dev/documentation/)
+- [Awesome-Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Selenium Locator Strategies](https://www.selenium.dev/documentation/webdriver/elements/locators/)
 - [Selenium WebDriver with Java](https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/)
 - [Selenium 4 in Java](https://testautomationu.applitools.com/selenium-4-java/)
@@ -371,6 +377,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Playwright Documentation - Java](https://playwright.dev/java/docs/intro)
 - [Playwright Documentation - Python](https://playwright.dev/python/docs/intro)
 - [Playwright Documentation - .NET](https://playwright.dev/dotnet/docs/intro)
+- [Awesome-Playwright](https://github.com/mxschmitt/awesome-playwright)
 - [Playwright - YouTube](https://www.youtube.com/channel/UC46Zj8pDH5tDosqm1gd7WTg)
 - [Playwright Locators](https://playwright.dev/docs/locators)
 - [Playwright with JavaScript](https://testautomationu.applitools.com/js-playwright-tutorial/)
@@ -619,6 +626,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Appium</summary>
 
+- [Awesome-Appium](https://github.com/SrinivasanTarget/awesome-appium)
 - [Appium Conference](https://www.youtube.com/playlist?list=PL9Z-JgiTsOYRCcJhDfmKAah9XmAp2b903)
 - [Appium.io](https://appium.io/)
 - [Appium Desired Capabilities](https://appium.io/docs/en/2.0/cli/args/)
@@ -699,13 +707,14 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [OWASP Top 10 Vulnerabilities](https://www.softwaretestinghelp.com/owasp-top-10-security-vulnerabilities/)
 - [OWASP Top 10 2021](https://owasp.org/Top10/)
 - [OWASP Top 10 tools and tactics](https://resources.infosecinstitute.com/topic/owasp-top-10-tools-and-tactics/)
-- [awesome-security](https://github.com/sbilly/awesome-security)
-- [awesome web security](https://github.com/qazbnm456/awesome-web-security)
-- [awesome Hacking](https://github.com/qazbnm456/awesome-web-security)
-- [awesome web hacking](https://github.com/infoslack/awesome-web-hacking)
-- [awesome mobile security](https://github.com/vaib25vicky/awesome-mobile-security)
-- [awesome-appsec](https://github.com/paragonie/awesome-appsec)
-- [awesome-api-security](https://github.com/arainho/awesome-api-security)
+- [Awesome Security](https://github.com/sbilly/awesome-security)
+- [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)
+- [Awesome Hacking](https://github.com/qazbnm456/awesome-web-security)
+- [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking)
+- [Awesome Mobile Security](https://github.com/vaib25vicky/awesome-mobile-security)
+- [Awesome Appsec](https://github.com/paragonie/awesome-appsec)
+- [Awesome-DevSecOps](https://github.com/TaptuIT/awesome-devsecops)
+- [Awesome-api-security](https://github.com/arainho/awesome-api-security)
 - [Threat Modelling](https://owasp.org/www-community/Threat_Modeling)
 - [What is Threat Modelling and How does it work?](https://www.mygreatlearning.com/blog/what-is-threat-modeling-and-how-does-it-work/)
 - [What is CVE?](https://www.redhat.com/en/topics/security/what-is-cve)
@@ -797,13 +806,15 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>K6</summary>
 
 - [Beginner’s Guide to Load Testing with k6](https://medium.com/swlh/beginners-guide-to-load-testing-with-k6-85ec614d2f0d)
+- [Awesome-k6](https://github.com/grafana/awesome-k6)
 - [API performance testing with k6](https://circleci.com/blog/api-performance-testing-with-k6/)
 - [K6 - Usage Guide and Docs](https://k6.io/docs/)
 - [K6 - Examples and Tutorials](https://k6.io/docs/examples/)
 - [K6 - API Load Testing](https://k6.io/docs/testing-guides/api-load-testing/)
 - [How to get started with K6?](https://isitobservable.io/site-reliability-engineering/how-to-get-started-with-k6)
-- [Grafana K6](https://github.com/grafana/k6)
 - [Performance Testing with K6](https://github.com/cajames/performance-testing-with-k6)
+- [Grafana K6](https://github.com/grafana/k6)
+
 </details>
 
 
@@ -811,7 +822,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Gatling</summary>
 
 - [Free Gatling Courses on Gatling Academy](https://academy.gatling.io/courses)
-- [awesome-gatling](https://github.com/aliesbelik/awesome-gatling)
+- [Awesome-Gatling](https://github.com/aliesbelik/awesome-gatling)
 - [Gatling Tutorial: Getting Started With Gatling Load Testing](https://www.softwaretestinghelp.com/gatling-tutorial/)
 - [Gatling QuickStart](https://gatling.io/docs/gatling/tutorials/quickstart/)
 - [Load Testing with Gatling - James Willett](https://www.james-willett.com/gatling-load-testing-complete-guide/)
@@ -823,15 +834,15 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>JMeter</summary>
 
 - [Jeter Documentation](https://jmeter.apache.org/)
-- [JMeter -Github](https://github.com/apache/jmeter)
+- [JMeter-Github](https://github.com/apache/jmeter)
 - [JMeter Plugins](https://jmeter-plugins.org/)
 - [JMeter Maven Plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
 - [JMeter Tutorials: The Complete Free Training On JMeter](https://www.softwaretestinghelp.com/jmeter-tutorials/)
 - [JMeter Tutorial](https://www.blazemeter.com/blog/jmeter-tutorial)
-- [JMeter Tutorials - SWTestacademy](https://www.swtestacademy.com/category/performance-testing/jmeter/)
+- [JMeter Tutorials - SWTestAcademy](https://www.swtestacademy.com/category/performance-testing/jmeter/)
 - [JMeter Tutorial - Great Learning](https://www.mygreatlearning.com/jmeter/tutorials)
 - [Intro to JMeter - Baeldung](https://www.baeldung.com/jmeter)
-- [awesome-jmeter](https://github.com/aliesbelik/awesome-jmeter)
+- [Awesome-JMeter](https://github.com/aliesbelik/awesome-jmeter)
 </details>
 
 <details>
@@ -895,6 +906,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [What is Visual Regression Testing?](https://applitools.com/blog/visual-regression-testing/)
 - [What Is Visual Regression Testing: A Detailed Guide](https://www.lambdatest.com/learning-hub/visual-regression-testing) 
 - [Visual Testing](https://www.javatpoint.com/visual-testing)
+- [Awesome-Visual-Regression-Testing](https://github.com/mojoaxel/awesome-regression-testing)
 - [Top 10 Visual Testing Tools](https://applitools.com/blog/top-10-visual-testing-tools/)
 - [Complete Guide of 15 Visual Testing Tools: Features, Benefits & Prices](https://www.functionize.com/automated-testing/visual-testing-tools)
 - [Visual Regression Testing what, why and how](https://medium.com/loftbr/visual-regression-testing-eb74050f3366)
@@ -1029,6 +1041,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [Free Devops Books](https://github.com/nkatre/Free-DevOps-Books-1)
 - [Lets-DevOps/awesome-learning](https://github.com/Lets-DevOps/awesome-learning)
+- [Awesome-CIandCD](https://github.com/cicdops/awesome-ciandcd)
 - [What is CI/CD?](https://www.redhat.com/en/topics/devops/what-is-ci-cd#ci/cd-tools)
 - [What is CI/CD Pipeline?](https://www.redhat.com/en/topics/devops/what-cicd-pipeline)
 - [annfelix/DEVOPS-WORLD](https://github.com/annfelix/DEVOPS-WORLD)
