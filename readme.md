@@ -297,6 +297,28 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 </details>
 
+<details>
+<summary>Learning materials for ISTQB Certification </summary>
+
+- [Study materials for ISTQB Foundation level V4.0 [NEW!] exam preparation](https://www.testing101.net/post/study-materials-for-istqb-foundation-level-v4-0-new-exam-preparation)
+- [ISTQB Certification Study Material](https://www.softwaretestinggenius.com/istqb-certification-study-material/)
+- [ISTQB Foundation Level and Agile Tester Certification guide](https://tryqa.com/)
+- [ISTQB Study Material - Foundation Level](https://www.istqb.guru/istqb-study-material/)
+- [ISTQB Certification: Complete Exam Study Material with Mock Test](https://www.guru99.com/istqb.html)
+- [ISTQB exam preparation — 2023](https://medium.com/magdalena-lozowska/istqb-exam-preparation-2021-14c5484d7c3d)
+- [ISTQB Dumps - Foundation Level - Tips & Tricks to Pass Easily (New Sample Papers, Mock Tests)](https://www.istqb.guru/istqb-foundation-level/)
+- [ISTQB mock tests (Foundation, advanced and agile)](https://istqb.patshala.com/tests/)
+- [ISTQB Foundation Level Certification Exam Online Mock Test](https://www.guru99.com/istqb-certification-quiz.html)
+- [ISTQB Sample Exams, Syllabi, and Glossary](https://astqb.org/resources/)
+- [ISTQB Dumps – Download mock tests PDF and sample question papers](https://tryqa.com/istqb-dumps-download-mock-tests-and-sample-question-papers/)
+- [ISTQB Sample Exams](https://www.gasq.org/en/certification/sample-exam.html)
+- [ISTQB Testing Certification Sample Question Papers With Answers](https://www.softwaretestinghelp.com/istqb-testing-certification-sample-question-papers-with-answers/)
+- [Free ISTQB Sample Question Paper downloads](https://www.istqbdumps.org/)
+
+- [ISTQB FREE Updates](https://www.softwaretestinghelp.com/istqb-free-updates/)
+
+</details>
+
 
 # Git
 
