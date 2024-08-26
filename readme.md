@@ -179,6 +179,31 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 </details>
 
+# Software Design and Architecture
+
+<details>
+<summary>Free tutorials</summary>
+
+- [Top 10 Free System Design Courses and Tutorials in 2024](https://github.com/systemdesign42/system-design)
+- [How to Learn Software Design and Architecture - a Roadmap](https://www.freecodecamp.org/news/software-design/)
+- [Software Design Basics - Tutorialspoint](https://www.tutorialspoint.com/software_engineering/software_design_basics.htm)
+- [Software Design Introduction](https://jenkov.com/tutorials/software-design/index.html)
+- [Software Design Tutorial](https://www.geeksforgeeks.org/system-design-tutorial/)
+- [Different Types of Software Design Principles](https://www.scholarhat.com/tutorial/designpatterns/different-types-of-software-design-principles)
+- [system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+- [system-design-primer](https://github.com/donnemartin/system-design-primer)
+- [system-design](https://github.com/karanpratapsingh/system-design)
+- [system-design-interview](https://github.com/checkcheckzz/system-design-interview)
+- [System Design Preparation](https://github.com/shashank88/system_design)
+- [System Design Resources](https://github.com/InterviewReady/system-design-resources)
+- [System Design Learning Resources](https://github.com/systemdesign42/system-design)
+- [Awesome System Design](https://github.com/alexpate/awesome-design-systems)
+- [ByteByteGo - YouTube](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw)
+- [System Design for Beginners Course](https://youtu.be/m8Icp_Cid5o?si=4gXNn79VpQLQDBoE)
+ 
+</details>
+
+
 # Software Testing
 <details>
 <summary>Free Tutorials and Courses</summary>
