@@ -184,7 +184,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Free tutorials</summary>
 
-- [Top 10 Free System Design Courses and Tutorials in 2024](https://github.com/systemdesign42/system-design)
+- [Top 10 Free System Design Courses and Tutorials in 2024](https://medium.com/javarevisited/hello-guys-if-you-are-preparing-for-system-design-interview-or-just-want-to-improve-your-software-7bc0034ac015)
 - [How to Learn Software Design and Architecture - a Roadmap](https://www.freecodecamp.org/news/software-design/)
 - [Software Design Basics - Tutorialspoint](https://www.tutorialspoint.com/software_engineering/software_design_basics.htm)
 - [Software Design Introduction](https://jenkov.com/tutorials/software-design/index.html)
