@@ -216,6 +216,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Free Code Camp](https://www.freecodecamp.org/news/tag/software-testing/) 
 - [Postman Learning Centre](https://learning.postman.com/docs/getting-started/introduction/)
 - [BlazeMeter University](https://www.blazemeter.com/university)
+- [DZone - Testing, Tools and Frameworks](https://dzone.com/testing-tools-and-frameworks)
+- [Guru99.com - Software Testing](https://www.guru99.com/software-testing.html)
 - [Automation Testing for Beginner's - Ultimate Guide](https://blog.testproject.io/2020/03/26/automation-testing-for-beginners-ultimate-guide/)
 - [Setting a Foundation for Successful Test Automation](https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/)
 - [Beyond Bugs: Exploring the Depths of Software Testing](https://medium.com/@iamfaisalkhatri/beyond-bugs-exploring-the-depths-of-software-testing-6a3b7057060e)
@@ -235,6 +237,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Types of Software Testing](https://www.geeksforgeeks.org/types-software-testing/)
 - [How To Use Builder Design Pattern and DataFaker Library for Test Data Generation in Automation Testing](https://dzone.com/articles/automation-testing-how-to-use-builder-design-patte)
 - [A Complete Guide to Web Testing[With Best Practices]](https://medium.com/@iamfaisalkhatri/a-complete-guide-web-testing-748b34a91e6e)
+- [16 Software Testing Challenges: How to Handle Them](https://www.testingmind.com/16-software-testing-challenges-how-to-handle-them/)
+- [Challenges to Software Testing](https://www.softwaretestinggenius.com/challenges-to-software-testing/)
 
 </details>
 
@@ -342,6 +346,15 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [ISTQB FREE Updates](https://www.softwaretestinghelp.com/istqb-free-updates/)
 
+</details>
+
+<details>
+<summary>Software Testing Challenges and Quiz </summary>
+
+- [Testing Challenges](http://testingchallenges.thetestingmap.org/)
+- [ProProfs - Software Testing Quizzes, Questions & Answers](https://www.proprofs.com/quiz-school/topic/software-testing)
+- [SkillValue - Software Testing Quiz](https://skillvalue.com/en/quiz/testing/)
+- [Ministry of Testing - Software Testing Challenges](https://www.ministryoftesting.com/challenges)
 </details>
 
 
