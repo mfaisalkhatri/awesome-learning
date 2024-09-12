@@ -14,10 +14,14 @@ I have been asked by many about my career transformation journey from Manual Tes
 ## Don't forget to give a :star: to make the project popular
 - Check out links to my LinkedIn Profile, Medium blogs and other social media sites on [LinkTree](https://linktr.ee/faisalkhatri)
 
-# Roadmaps
+# RoadMaps
 - [QA Roadmap by Anas Fitiani](https://github.com/fityanos/awesome-quality-assurance-roadmap)
 - [DevOps Roadmap by Milan Milanovic](https://github.com/milanm/DevOps-Roadmap)
 - [Threat Modelling Roadmap by Hysn Technologies Inc](https://github.com/hysnsec/awesome-threat-modelling)
+
+# Awesome Open Source
+
+- [https://awesomeopensource.com/](Goldmine of all Open Source softwares)
 
 # Programming languages 
 
@@ -562,6 +566,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Postman blogs](https://blog.postman.com/)
 - [Using Postman Environment Variables & Auth Tokens](https://medium.com/@codebyjeff/using-postman-environment-variables-auth-tokens-ea9c4fe9d3d7)
 - [API Testing using Postman](https://medium.com/aubergine-solutions/api-testing-using-postman-323670c89f6d)
+
 </details>
 
 <details>
@@ -641,6 +646,14 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Public gRPC APIs](https://www.postman.com/devrel/workspace/public-grpc-apis/overview)
 - [What is gRPC? Protocol Buffers, Streaming, and Architecture Explained](https://www.freecodecamp.org/news/what-is-grpc-protocol-buffers-stream-architecture/)
 - [gRPC - Microsoft learning](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/grpc)
+
+</details>
+
+<details>
+<summary>Demo APIs for Practice </summary>
+
+- [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce)
+- [Restful Booker](https://restful-booker.herokuapp.com/apidoc/index.html)
 
 </details>
 
