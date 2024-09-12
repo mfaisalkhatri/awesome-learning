@@ -21,7 +21,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 # Awesome Open Source
 
-- [https://awesomeopensource.com/](Goldmine of all Open Source softwares)
+- [Goldmine of all Open Source softwares](https://awesomeopensource.com)
 
 # Programming languages 
 
