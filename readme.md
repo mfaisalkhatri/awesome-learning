@@ -243,6 +243,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [A Complete Guide to Web Testing[With Best Practices]](https://medium.com/@iamfaisalkhatri/a-complete-guide-web-testing-748b34a91e6e)
 - [16 Software Testing Challenges: How to Handle Them](https://www.testingmind.com/16-software-testing-challenges-how-to-handle-them/)
 - [Challenges to Software Testing](https://www.softwaretestinggenius.com/challenges-to-software-testing/)
+- [A Complete Guide to Codeless Testing](https://medium.com/@iamfaisalkhatri/a-complete-guide-to-codeless-testing-2d43c8ba205c)
 
 </details>
 
@@ -441,6 +442,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Playwright Documentation - Java](https://playwright.dev/java/docs/intro)
 - [Playwright Documentation - Python](https://playwright.dev/python/docs/intro)
 - [Playwright Documentation - .NET](https://playwright.dev/dotnet/docs/intro)
+- [Join Playwright Discord Server](https://discord.com/servers/playwright-807756831384403968)
 - [Awesome-Playwright](https://github.com/mxschmitt/awesome-playwright)
 - [Playwright - YouTube](https://www.youtube.com/channel/UC46Zj8pDH5tDosqm1gd7WTg)
 - [Playwright Locators](https://playwright.dev/docs/locators)
@@ -459,6 +461,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Playwright Java Tutorial: Web Automation Testing | How to perform browser navigation?](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-how-to-perform-browser-navigation-043f14af5c97)
 - [Playwright Java Tutorial: Web Automation Testing | How to handle Single and Multi select dropdowns using Playwright?](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-how-to-handle-single-and-multi-select-dropdowns-426b65614e28)
 - [Playwright Java Tutorial: Web Automation Testing | How to work with text fields?](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-how-to-work-with-text-fields-6cc9982ed7b2)
+- [Playwright Java Tutorial: Web Automation Testing | How to perform Mouse Hover action?](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-how-to-perform-mouse-hover-action-08905e7996f7)
+- [Playwright Java Tutorial: Web Automation Testing | How to check if element is displayed, enabled and selected?](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-how-to-check-if-element-is-displayed-enabled-7b11c184e2df)
 
 </details>
 
@@ -603,6 +607,9 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Playwright</summary>
 
+- [Playwright Java API Testing | How to test POST requests?](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-how-to-test-post-requests-4c9102d3ab03)
+- [Playwright Java API Testing | How to test GET requests?](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-how-to-test-get-requests-c036b984cc6d)
+- [Playwright Java API Testing | How to test PUT requests?](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-how-to-test-put-requests-d6b1d054d64b)
 - [API Testing with Playwright](https://playwright.dev/docs/api-testing)
 - [Using Playwright for API testing](https://reflect.run/articles/using-playwright-for-api-testing/)
 - [API Testing with Playwright - GitHub](https://github.com/microsoft/playwright/blob/main/docs/src/api-testing-js.md)
@@ -1361,7 +1368,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [TestNG Framework Tutorial: A Comprehensive Guide, with Examples & Best Practices](https://www.lambdatest.com/learning-hub/testng)
 - [Software Testing Help - TestNG tutorial](https://www.softwaretestinghelp.com/testng-tutorial/)
 - [Selenium Easy - TestNG Tutorial](https://www.seleniumeasy.com/testng-tutorials)
-- [A Complete Guide To Exception Tests In TestNG](https://medium.com/@iamfaisalkhatri/a-complete-guide-to-codeless-testing-59e414165e6b)
+- [A Complete Guide To Exception Tests In TestNG](https://medium.com/@iamfaisalkhatri/a-complete-guide-to-exception-tests-in-testng-f5e17642dc06)
 - [How to Create TestNG.xml File in Eclipse](https://www.lambdatest.com/blog/create-testng-xml-file-execute-parallel-testing/)
 - [Working with multiple testng.xml files](https://medium.com/@iamfaisalkhatri/working-with-multiple-testng-xml-files-f5c36896d6b6)
 
