@@ -442,6 +442,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Playwright Documentation - Java](https://playwright.dev/java/docs/intro)
 - [Playwright Documentation - Python](https://playwright.dev/python/docs/intro)
 - [Playwright Documentation - .NET](https://playwright.dev/dotnet/docs/intro)
+- [Join Playwright Discord Server](https://discord.com/servers/playwright-807756831384403968)
 - [Awesome-Playwright](https://github.com/mxschmitt/awesome-playwright)
 - [Playwright - YouTube](https://www.youtube.com/channel/UC46Zj8pDH5tDosqm1gd7WTg)
 - [Playwright Locators](https://playwright.dev/docs/locators)
