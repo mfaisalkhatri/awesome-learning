@@ -432,6 +432,15 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [How To Take Full Page Screenshots In Selenium WebDriver](https://www.lambdatest.com/blog/screenshots-with-selenium-webdriver/)
 - [LIVE Selenium WebDriver Demo Testing Project](https://www.guru99.com/live-selenium-project.html)
 - [Live Selenium Webdriver ECommerce Testing Project ](https://www.guru99.com/live-ecommerce-project.html)
+- [How to Use JavaScriptExecutor in Selenium?](https://www.lambdatest.com/blog/how-to-use-javascriptexecutor-in-selenium-webdriver/)
+- [How to Handle Mouse Actions in Selenium](https://www.lambdatest.com/blog/perform-mouse-actions-in-selenium-webdriver/)
+- [Selenium Pagination Tutorial: How to Handle Page Navigation](https://www.lambdatest.com/blog/selenium-pagination/)
+- [How to Use Assert and Verify in Selenium](https://www.lambdatest.com/blog/assert-and-verify-in-selenium-webdriver/)
+- [How to Handle File Upload in Selenium](https://www.lambdatest.com/blog/how-to-download-upload-files-using-selenium-with-java/)
+- [ExpectedConditions In Selenium: Types And Examples](https://www.lambdatest.com/blog/expected-conditions-in-selenium-examples/)
+- [How to Handle StaleElementReferenceException in Selenium](https://www.lambdatest.com/blog/handling-stale-element-exceptions-in-selenium-java/)
+
+
 
 </details>
 
@@ -733,6 +742,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Build your own Appium 2.0 Driver by Srinivasan Sekar & Sai Krishna #SeConf 2022](https://www.youtube.com/watch?v=DWoqcZc3D5Y)
 - [Live Appium Testing Project: Android Mobile App Automation](https://www.guru99.com/live-mobile-testing-project.html)
 - [Handling Alerts and Popups in Appium](https://www.lambdatest.com/blog/alerts-and-popups-in-appium/)
+- [How to Test Biometric Authentication With Appium](https://www.lambdatest.com/blog/biometric-authentication-with-appium/)
 
 </details>
 
