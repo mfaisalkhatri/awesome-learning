@@ -619,6 +619,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Playwright Java API Testing | How to test POST requests?](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-how-to-test-post-requests-4c9102d3ab03)
 - [Playwright Java API Testing | How to test GET requests?](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-how-to-test-get-requests-c036b984cc6d)
 - [Playwright Java API Testing | How to test PUT requests?](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-how-to-test-put-requests-d6b1d054d64b)
+- [Playwright Java API Testing | How to test PATCH requests?](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-how-to-test-patch-requests-f6b0867d91e7)
+- [Playwright Java API Testing | How to test DELETE requests?](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-how-to-test-delete-requests-2ff77feb0383)
 - [API Testing with Playwright](https://playwright.dev/docs/api-testing)
 - [Using Playwright for API testing](https://reflect.run/articles/using-playwright-for-api-testing/)
 - [API Testing with Playwright - GitHub](https://github.com/microsoft/playwright/blob/main/docs/src/api-testing-js.md)
