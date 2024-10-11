@@ -1327,6 +1327,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Rainbow CSV - VS Code Extension](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
 - [Code Runner - VS Code Extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 - [Random Data Generator](https://softwium.com/mockium/)
+- [Ultra Reporter - Next.js based Test Automation reporter](https://ultra-reporter-app.vercel.app/)
 
 </details>
 
