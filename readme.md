@@ -18,6 +18,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [QA Roadmap by Anas Fitiani](https://github.com/fityanos/awesome-quality-assurance-roadmap)
 - [DevOps Roadmap by Milan Milanovic](https://github.com/milanm/DevOps-Roadmap)
 - [Threat Modelling Roadmap by Hysn Technologies Inc](https://github.com/hysnsec/awesome-threat-modelling)
+- [SEO Roadmap by Bella Falconi](https://github.com/seoroadmap/seo-roadmap)
 
 # Awesome Open Source
 
