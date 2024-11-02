@@ -825,6 +825,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [How to get started as an API hacker](https://danaepp.com/how-to-get-started-as-an-api-hacker)
 - [API Security Testing For Hackers](https://www.bugcrowd.com/resources/levelup/api-security-testing-for-hackers/)
 - [awesome-api-security](https://github.com/arainho/awesome-api-security)
+- [Web Security Academy Learning Paths](https://portswigger.net/web-security/learning-paths)
+- [Try Hack Me](https://tryhackme.com/r/hacktivities)
 
 </details>
 
