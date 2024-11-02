@@ -781,6 +781,16 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [How to perform Android mobile automation using WebdriverIO Appium with TypeScript | Test Automation](https://youtu.be/zWm0F3-ayQw?si=YcFtXIgWM6U2ZQyz)
 </details>
 
+<details>
+<summary>Demo Apps for learning Mobile Testing</summary>
+
+- [Sauce labs Android App](https://github.com/saucelabs/my-demo-app-android/releases)
+- [Sauce Labs iOS App](https://github.com/saucelabs/my-demo-app-ios/releases)
+- [WebdriverIO - Native Demo app - Android/iOS](https://github.com/webdriverio/native-demo-app/releases)
+
+</details>
+
+
 # Security Testing
 
 <details>
