@@ -1444,6 +1444,20 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 </details>
 
+# AI/ML Courses
+
+<details>
+<summary>Free Learning Materials</summary>
+
+- [Learn the Foundations of Machine Learning and Artificial Intelligence](https://www.freecodecamp.org/news/learn-the-foundations-of-machine-learning-and-artificial-intelligence/)
+- [What is Artificial Intelligence?](https://cloud.google.com/learn/what-is-artificial-intelligence)
+- [Elements of AI](https://www.elementsofai.com/)
+- [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+- [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/)
+- [A Beginner's Guide to LLMs – What's a Large-Language Model and How Does it Work?](https://www.freecodecamp.org/news/a-beginners-guide-to-large-language-models/)
+
+</details>
+
 <!-- 
 <details>
 <summary> </summary>
