@@ -28,7 +28,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Java</summary>
 
-- [Awesome-Java](https://github.com/akullpp/awesome-java)
 - [Java Programming Course by Angie Jones](https://testautomationu.applitools.com/java-programming-course/)
 - [Beginners Book - Java Tutorials](https://beginnersbook.com/java-tutorial-for-beginners-with-examples/)
 - [Learn Java Online](https://www.learnjavaonline.org/)
@@ -51,14 +50,18 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/)
 - [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)
 - [Refactoring](https://refactoring.guru/refactoring)
+- [Awesome-Java](https://github.com/akullpp/awesome-java)
+- [How to Read JSON Files in Java Using the Google Gson Library](https://dzone.com/articles/how-to-read-json-files-in-java-using-google-gson-l)
+- [How to serialize JSON API requests using Java Records?](https://coderlegion.com/477/how-to-serialize-json-api-requests-using-java-records)
+
 </details>
 
 <details>
 <summary>JavaScript</summary>
 
 - [Beginners Series to JavaScript](https://learn.microsoft.com/en-us/shows/beginners-series-to-javascript/)
-- [FreeCodeCamp.org](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
-- [Awesome-JavaScript](https://github.com/sorrycc/awesome-javascript))
+- [Learn JavaScript for Beginners – JS Basics Handbook](https://www.freecodecamp.org/news/learn-javascript-for-beginners/)
+- [Learn JavaScript – Free JS Courses for Beginners](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 - [learn-js](https://www.learn-js.org/)
 - [Javascript.info](https://javascript.info/)
 - [JavaScript Tutorial on Test Automation University](https://testautomationu.applitools.com/javascript-tutorial/)
@@ -66,6 +69,11 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [W3Schools](https://www.w3schools.com/js/)
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [Full Stack Academy](https://www.fullstackacademy.com/blog/learn-javascript-for-free-13-online-tutorials-resources)
+- [Awesome-JavaScript](https://github.com/sorrycc/awesome-javascript)
+- [Learn JavaScript - Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
+- [JavaScript Design Patterns](https://www.patterns.dev/)
+- [JavaScript Design Patterns – Explained with Examples](https://www.freecodecamp.org/news/javascript-design-patterns-explained/)
+
 </details>
 
 <details>
@@ -74,6 +82,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Learn TypeScript from Scratch](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
 - [TypeScript Course for Beginners](https://www.youtube.com/watch?v=BwuLxPH8IDs)
 - [Learn TypeScript - The Ultimate Beginners Guide](https://www.freecodecamp.org/news/learn-typescript-beginners-guide/)
+- [Learn TypeScript – A Comprehensive Guide for Beginners](https://www.freecodecamp.org/news/typescript-for-beginners-guide/)
 - [TypeScript Cash Course with Matt Pocock](https://learn.microsoft.com/en-us/shows/vs-code-livestreams/typescript-crash-course-with-matt-pocock)
 - [TypeScript Tutorial](https://www.typescripttutorial.net/)
 - [LearnTypeScript.dev](https://learntypescript.dev/)
@@ -88,6 +97,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Awesome TypeScript projects](https://github.com/brookshi/awesome-typescript-projects)
 - [TypeScript Tips](https://github.com/jellydn/typescript-tips)
 - [Awesome-TypeScript](https://github.com/ellerbrock/awesome-typescript)
+
 </details>
 
 <details>
@@ -105,6 +115,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Python Programming - Programiz](https://www.programiz.com/python-programming)
 - [Learn Python - Kaggle.com](https://www.kaggle.com/learn/python)
 - [Python Full Course - Bro Code](https://www.youtube.com/watch?v=XKHEtdqhLK8)
+- [Learn Python – Free Python Courses for Beginners](https://www.freecodecamp.org/news/learn-python-free-python-courses-for-beginners/)
+
 </details>
 
 <details>
@@ -244,6 +256,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [16 Software Testing Challenges: How to Handle Them](https://www.testingmind.com/16-software-testing-challenges-how-to-handle-them/)
 - [Challenges to Software Testing](https://www.softwaretestinggenius.com/challenges-to-software-testing/)
 - [A Complete Guide to Codeless Testing](https://medium.com/@iamfaisalkhatri/a-complete-guide-to-codeless-testing-2d43c8ba205c)
+- [Five Point Plan To Start Automation Testing](https://medium.com/gitconnected/five-point-plan-to-start-automation-testing-ea009ecca604)
 
 </details>
 
@@ -273,6 +286,11 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Articles by Lisa Crispin](https://lisacrispin.com/articles/) 
 - [Wasiq Bhamla's Blog](https://medium.com/@WasiqB)
 - [How they test?](https://github.com/abhivaikar/howtheytest)
+- [Actions to be taken by a QA on finding a Critical Issue in Production](https://medium.com/@iamfaisalkhatri/actions-to-be-taken-by-a-qa-on-finding-a-critical-issue-in-production-b58acf716bed)
+- [What questions should I ask as a new QA in the Team/Organization?](https://medium.com/@iamfaisalkhatri/what-questions-should-i-ask-as-a-new-qa-in-the-team-organization-459cc2f69017)
+- [What Is a Bug Bash?](https://dzone.com/articles/bug-bash-guide)
+- [Top Ways to Boost Team Morale and Increase Productivity](https://medium.com/@iamfaisalkhatri/top-ways-to-boost-team-morale-and-increase-productivity-626219502e75)
+
 </details>
 
 <details>
