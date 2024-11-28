@@ -1363,7 +1363,17 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Rainbow CSV - VS Code Extension](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
 - [Code Runner - VS Code Extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 - [Random Data Generator](https://softwium.com/mockium/)
-- [Ultra Reporter - Next.js based Test Automation reporter](https://ultra-reporter-app.vercel.app/)
+- [Ultra Reporter - Next.js based Test Automation reporter](https://www.ultra-reporter.com/)
+- [Table to Markdown](https://tabletomarkdown.com/)
+- [Online CSV Editor and Generator](https://tableconvert.com/csv-generator)
+- [Fake Name and Identity Generator](https://fauxid.com/)
+- [Test Credit Card Account Numbers](https://www.paypalobjects.com/en_GB/vhelp/paypalmanager_help/credit_card_numbers.htm)
+- [Fake Credit Card Numbers for Testing](https://docs.stripe.com/testing)
+- [Fake Credit Card Number Generator](https://www.vccgenerator.org/)
+- [Dummy Credit Card Generator](https://www.akto.io/tools/credit-card-generator)
+- [Online Character Counter](https://quillbot.com/character-counter)
+- [Text Generator](https://www.blindtextgenerator.com/lorem-ipsum)
+- [Dummy Text Generator](https://www.webtools.services/dummy-text-generator)
 
 </details>
 
