@@ -1165,6 +1165,11 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Learning Materials</summary>
 
+- [DevOps Roadmap](https://roadmap.sh/devops)
+- [What is DevOps?](https://learn.microsoft.com/en-us/devops/what-is-devops)
+-[Introduction to DevOps](https://learn.microsoft.com/en-us/training/modules/introduction-to-devops/)
+- [DevOps Engineering Course for Beginners](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)
+- [Training for DevOps Engineers](https://learn.microsoft.com/en-us/training/career-paths/devops-engineer)
 - [Free Devops Books](https://github.com/nkatre/Free-DevOps-Books-1)
 - [Lets-DevOps/awesome-learning](https://github.com/Lets-DevOps/awesome-learning)
 - [Awesome-CIandCD](https://github.com/cicdops/awesome-ciandcd)
@@ -1175,6 +1180,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Learn How to Set Up a CI/CD Pipeline From Scratch](https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch)
 - [How to use Docker for Automation Testing?](https://www.engati.com/blog/docker-for-automation-testing)
 - [Test Automation in DevOps](https://testautomationu.applitools.com/test-automation-in-devops/)
+- [Get started with Azure DevOps](https://learn.microsoft.com/en-us/training/paths/evolve-your-devops-practices/)
 - [Continuous Testing with Azure DevOps](https://testautomationu.applitools.com/azure-devops-tutorial/)
 - [Scaling tests with Docker](https://testautomationu.applitools.com/scaling-tests-with-docker/)
 - [Whole Team Approach to Continuous Testing](https://testautomationu.applitools.com/the-whole-team-approach-to-continuous-testing/)
@@ -1195,6 +1201,10 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Gasper Vitta's Blog(Lots of cool stuff on CI/CD, docker, testing)](https://www.gasparevitta.com/)
 - [What is Continuous Testing?](https://medium.com/@iamfaisalkhatri/what-is-continuous-testing-lambdatest-bd2c464b414c)
 - [Spacelift.io](https://spacelift.io/blog)
+- [What is DevOps? How Development + Operations Helps Teams Work More Efficiently](https://www.freecodecamp.org/news/how-devops-works/)
+- [How Can DevSecOps Improve Cloud Security?](https://www.freecodecamp.org/news/how-devsecops-can-improve-cloud-security/)
+- [DevOps with GitLab CI Course](https://www.freecodecamp.org/news/devops-with-gitlab-ci-course/)
+- []()
 </details>
 
  <details>
@@ -1204,6 +1214,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [DevOps Engineering Course for Beginners](https://www.youtube.com/watch?v=j5Zsa_eOXeY)
 - [What is DevOps?](https://www.youtube.com/watch?v=kBV8gPVZNEE)
 - [DevOps Prerequisites Course - Getting started with DevOps](https://www.youtube.com/watch?v=Wvf0mBNGjXY)
+- [DevOps - Zero to Hero Course](https://www.youtube.com/@AbhishekVeeramalla)
  </details>
 
 
