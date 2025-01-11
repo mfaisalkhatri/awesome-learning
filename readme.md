@@ -18,6 +18,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [QA Roadmap by Anas Fitiani](https://github.com/fityanos/awesome-quality-assurance-roadmap)
 - [DevOps Roadmap by Milan Milanovic](https://github.com/milanm/DevOps-Roadmap)
 - [Threat Modelling Roadmap by Hysn Technologies Inc](https://github.com/hysnsec/awesome-threat-modelling)
+- [Developer Roadmaps](https://roadmap.sh/)
 
 # Awesome Open Source
 
@@ -28,6 +29,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Java</summary>
 
+- [Java Roadmap](https://roadmap.sh/java)
 - [Java Programming Course by Angie Jones](https://testautomationu.applitools.com/java-programming-course/)
 - [Beginners Book - Java Tutorials](https://beginnersbook.com/java-tutorial-for-beginners-with-examples/)
 - [Learn Java Online](https://www.learnjavaonline.org/)
@@ -51,6 +53,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)
 - [Refactoring](https://refactoring.guru/refactoring)
 - [Awesome-Java](https://github.com/akullpp/awesome-java)
+- [Top 10 GitHub Repositories to Master Java: From Basics to Advanced Concepts!](https://medium.com/@iamfaisalkhatri/top-10-github-repositories-to-master-java-from-basics-to-advanced-concepts-80411bc6a2a7)
 - [How to Read JSON Files in Java Using the Google Gson Library](https://dzone.com/articles/how-to-read-json-files-in-java-using-google-gson-l)
 - [How to serialize JSON API requests using Java Records?](https://coderlegion.com/477/how-to-serialize-json-api-requests-using-java-records)
 
@@ -59,6 +62,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>JavaScript</summary>
 
+- [JavaScript Roadmap](https://roadmap.sh/javascript)
 - [Beginners Series to JavaScript](https://learn.microsoft.com/en-us/shows/beginners-series-to-javascript/)
 - [Learn JavaScript for Beginners – JS Basics Handbook](https://www.freecodecamp.org/news/learn-javascript-for-beginners/)
 - [Learn JavaScript – Free JS Courses for Beginners](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
@@ -79,6 +83,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>TypeScript</summary>
 
+- [TypeScript Roadmap](https://roadmap.sh/typescript)
 - [Learn TypeScript from Scratch](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
 - [TypeScript Course for Beginners](https://www.youtube.com/watch?v=BwuLxPH8IDs)
 - [Learn TypeScript - The Ultimate Beginners Guide](https://www.freecodecamp.org/news/learn-typescript-beginners-guide/)
@@ -103,7 +108,9 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Python</summary>
 
+- [Python Roadmap](https://roadmap.sh/python)
 - [Learn Python](https://www.learnpython.org/)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Python Programming course on FreeCodeCamp](https://www.freecodecamp.org/news/python-programming-course/)
 - [Getting Started with Python - Python.org](https://www.python.org/about/gettingstarted/)
 - [Python for Beginners](https://learn.microsoft.com/en-us/windows/python/beginners)
@@ -122,6 +129,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Data Structures & Algorithms</summary>
 
+- [DS & A Roadmap](https://roadmap.sh/datastructures-and-algorithms)
 - [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) 
 - [DS & A - Programiz](https://www.programiz.com/dsa)
 - [DS & A in JavaScript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
@@ -200,6 +208,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Free tutorials</summary>
 
+- [System Design Roadmap](https://roadmap.sh/system-design)
 - [Top 10 Free System Design Courses and Tutorials in 2024](https://medium.com/javarevisited/hello-guys-if-you-are-preparing-for-system-design-interview-or-just-want-to-improve-your-software-7bc0034ac015)
 - [How to Learn Software Design and Architecture - a Roadmap](https://www.freecodecamp.org/news/software-design/)
 - [Software Design Basics - Tutorialspoint](https://www.tutorialspoint.com/software_engineering/software_design_basics.htm)
@@ -224,15 +233,16 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Free Tutorials and Courses</summary>
 
-- [Software Testing Help](https://www.softwaretestinghelp.com/)
+- [QA Roadmap](https://roadmap.sh/qa)
 - [Test Automation University](https://testautomationu.applitools.com/)
+- [Free Code Camp](https://www.freecodecamp.org/news/tag/software-testing/) 
+- [DZone - Testing, Tools and Frameworks](https://dzone.com/testing-tools-and-frameworks)
 - [LambdaTest Learning Hub](https://www.lambdatest.com/learning-hub/)
 - [Guru99.com](https://www.guru99.com/software-testing.html)
 - [Software Testing Material](https://www.softwaretestingmaterial.com/)
-- [Free Code Camp](https://www.freecodecamp.org/news/tag/software-testing/) 
+- [Software Testing Help](https://www.softwaretestinghelp.com/)
 - [Postman Learning Centre](https://learning.postman.com/docs/getting-started/introduction/)
 - [BlazeMeter University](https://www.blazemeter.com/university)
-- [DZone - Testing, Tools and Frameworks](https://dzone.com/testing-tools-and-frameworks)
 - [Guru99.com - Software Testing](https://www.guru99.com/software-testing.html)
 - [Automation Testing for Beginner's - Ultimate Guide](https://blog.testproject.io/2020/03/26/automation-testing-for-beginners-ultimate-guide/)
 - [Setting a Foundation for Successful Test Automation](https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/)
@@ -386,6 +396,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Free Tutorials </summary>
 
+- [Git Roadmap](https://roadmap.sh/git-github)
 - [Git Command Explorer](https://gitexplorer.com/)
 - [List of Commonly used Git commands](https://github.com/joshnh/Git-Commands)
 - [Source Control for Test Automation with Git](https://testautomationu.applitools.com/git-tutorial/)
@@ -560,6 +571,10 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Try Testing this](https://play2.automationcamp.ir/)
 - [Contact List App](https://thinking-tester-contact-list.herokuapp.com/)
 - [Practice Software Testing Toolshop -v5 - With Bugs](https://with-bugs.practicesoftwaretesting.com/#/)
+- [RESTful book - AutomationTesting online](https://automationintesting.online/)
+- [Example SaaS for testing](https://demo-saas.bugbug.io/)
+- [Contact List App](https://thinking-tester-contact-list.herokuapp.com/)
+- [Candymapper](https://candymapper.com/)
 
 </details>
 
@@ -568,6 +583,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Introduction to API Testing</summary>
 
+- [API Design Roadmap](https://roadmap.sh/api-design)
 - [REST API Concepts and examples](https://www.youtube.com/watch?v=7YcW25PHnAA)
 - [Testing Strategies in a Microservice Architecture](https://martinfowler.com/articles/microservice-testing/)
 - [What is an API? API for Beginners](https://www.youtube.com/watch?v=GZvSYJDk-us)
@@ -690,7 +706,14 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce)
 - [Restful Booker](https://restful-booker.herokuapp.com/apidoc/index.html)
-
+- [Eviltester - API challenges](https://www.eviltester.com/page/tools/apichallenges/)
+- [Reqres](https://reqres.in/)
+- [Toolshop API](https://api.practicesoftwaretesting.com/api/documentation)
+- [Petstore](https://petstore.swagger.io/)
+- [RESTful-api](https://restful-api.dev/)
+- [Contact List API](https://documenter.getpostman.com/view/4012288/TzK2bEa8)
+- [JSON Placeholder](https://jsonplaceholder.typicode.com/)
+- [Beeceptor Mock APIs](https://beeceptor.com/docs/sample-api-for-testing/)
 </details>
 
 # Contract Testing
@@ -1087,6 +1110,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>SQL/MySQL Tutorials</summary>
 
+- [SQL Raodmap](https://roadmap.sh/sql)
 - [SQL Tutorial - SQLTutorial.org](https://www.sqltutorial.org/)
 - [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/)
 - [SQL Tutorial - SQLZoo.net](https://sqlzoo.net/wiki/SQL_Tutorial)
@@ -1140,6 +1164,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Postgres Tutorials</summary>
 
+- [Postgres Roadmap](https://roadmap.sh/postgresql-dba)
 - [Postgres Tutorial - Postgresql.org](https://www.postgresql.org/docs/online-resources/)
 - [Postgres Tutorial - Postgresqltutorial.com](https://www.postgresqltutorial.com/)
 - [Postgres Tutorial - Tutorialspoint](https://www.tutorialspoint.com/postgresql/index.htm)
@@ -1152,6 +1177,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Database Testing </summary>
 
+- [DataAnalyst Roadmap](https://roadmap.sh/data-analyst)
 - [Database Testing Complete Guide](https://www.softwaretestinghelp.com/database-testing-process/)
 - [Database Testing Tutorial - Softwaretestingmaterial.com](https://www.softwaretestingmaterial.com/database-testing/)
 - [Database Testing Tutorial - Tutorialspoint](https://www.tutorialspoint.com/database_testing/index.htm)
@@ -1460,12 +1486,16 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Free Learning Materials</summary>
 
+- [AI Engineer Roadmap](https://roadmap.sh/ai-engineer)
+- [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
+- [MLOps Roadmap](https://roadmap.sh/mlops)
 - [Learn the Foundations of Machine Learning and Artificial Intelligence](https://www.freecodecamp.org/news/learn-the-foundations-of-machine-learning-and-artificial-intelligence/)
 - [What is Artificial Intelligence?](https://cloud.google.com/learn/what-is-artificial-intelligence)
 - [Elements of AI](https://www.elementsofai.com/)
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 - [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/)
 - [A Beginner's Guide to LLMs – What's a Large-Language Model and How Does it Work?](https://www.freecodecamp.org/news/a-beginners-guide-to-large-language-models/)
+- [Generative AI - COurse by Google](https://cloud.google.com/learn/training/machinelearning-ai)
 
 </details>
 
