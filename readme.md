@@ -244,7 +244,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Postman Learning Centre](https://learning.postman.com/docs/getting-started/introduction/)
 - [BlazeMeter University](https://www.blazemeter.com/university)
 - [Guru99.com - Software Testing](https://www.guru99.com/software-testing.html)
-- [Automation Testing for Beginner's - Ultimate Guide](https://blog.testproject.io/2020/03/26/automation-testing-for-beginners-ultimate-guide/)
 - [Setting a Foundation for Successful Test Automation](https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/)
 - [Beyond Bugs: Exploring the Depths of Software Testing](https://medium.com/@iamfaisalkhatri/beyond-bugs-exploring-the-depths-of-software-testing-6a3b7057060e)
 - [Practical Guide on Continuous Integration for automation tests](https://medium.com/@iamfaisalkhatri/practical-guide-on-continuous-integration-for-automation-tests-vtest-blog-23e6d37f523f)
@@ -273,6 +272,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Software Testing/Test Automation/Blogs and Guides</summary>
 
+- [Top 10 GitHub Repositories for Software Testers!!](https://medium.com/@iamfaisalkhatri/top-10-github-repositories-for-software-testers-4db66106ed18)
 - [Awesome-Testing](https://github.com/TheJambo/awesome-testing)
 - [Awesome-test-automation](https://github.com/atinfo/awesome-test-automation)
 - [Marting Fowler's Blog](https://martinfowler.com/tags/testing.html)
@@ -285,7 +285,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Test Guild by Joe Colantonio](https://testguild.com/blog/)
 - [Dan Ashby's Blog](https://danashby.co.uk/)
 - [Google Testing Blog](https://testing.googleblog.com/)
-- [TestProject's Blog](https://blog.testproject.io/)
 - [LambdaTest Blog](https://www.lambdatest.com/blog/)
 - [LambdaTest Learning Hub](https://www.lambdatest.com/learning-hub/)
 - [pCloudy Blog ](https://www.pcloudy.com/blog/)
@@ -575,6 +574,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Example SaaS for testing](https://demo-saas.bugbug.io/)
 - [Contact List App](https://thinking-tester-contact-list.herokuapp.com/)
 - [Candymapper](https://candymapper.com/)
+- [Live Chat Playground](https://github.com/mfaisalkhatri/live-chat-playground)
 
 </details>
 
@@ -627,7 +627,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [How to perform API testing with REST Assured](https://techbeacon.com/app-dev-testing/how-perform-api-testing-rest-assured)
 - [James Willett - Rest Assured blogs](https://www.james-willett.com/blog/restassured/)
 - [Rest Assured Example code](https://github.com/mfaisalkhatri/rest-assured-examples)
-- [REST API Automation From Scratch](https://blog.testproject.io/2021/07/28/rest-api-automation-from-scratch/)
 - [Rest Assured Tutorial](https://mindmajix.com/rest-assured-tutorial)
 - [Creating data driven API tests with REST Assured and TestNG](https://www.ontestautomation.com/creating-data-driven-api-tests-with-rest-assured-and-testng/)
 - [How to perform JSON Schema Validation using Rest-Assured?](https://medium.com/@iamfaisalkhatri/how-to-perform-json-schema-validation-using-rest-assured-64c3b6616a91)
@@ -655,6 +654,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Playwright Java API Testing | How to test PUT requests?](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-how-to-test-put-requests-d6b1d054d64b)
 - [Playwright Java API Testing | How to test PATCH requests?](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-how-to-test-patch-requests-f6b0867d91e7)
 - [Playwright Java API Testing | How to test DELETE requests?](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-how-to-test-delete-requests-2ff77feb0383)
+- [Create a Custom Logger to Log Response Details With Playwright Java](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-creating-custom-logger-for-logging-response-details-771e961d9faa)
 - [API Testing with Playwright](https://playwright.dev/docs/api-testing)
 - [Using Playwright for API testing](https://reflect.run/articles/using-playwright-for-api-testing/)
 - [API Testing with Playwright - GitHub](https://github.com/microsoft/playwright/blob/main/docs/src/api-testing-js.md)
@@ -679,10 +679,13 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [GraphQL](https://graphql.org/)
 - [GraphQL - GitHub](https://github.com/graphql)
 - [A Beginner’s Guide to GraphQL](https://www.freecodecamp.org/news/a-beginners-guide-to-graphql-86f849ce1bec/)
-- [Testing GraphQL API](https://blog.testproject.io/2020/06/23/testing-graphql-api/)
+- [GraphQL Testing for Beginners](https://daily.dev/blog/graphql-testing-for-beginners)
 - [How to Test your GraphQL Endpoints](https://escape.tech/blog/testing-your-graphql-api/)
 - [Writing Tests for GraphQL APIs using REST Assured](https://applitools.com/blog/writing-tests-graphql-apis-rest-assured/)
 - [GraphQL Guides](https://www.graphql.com/guides/)
+- [8 Free to Use GraphQL APIs for Your Projects and Demos](https://www.apollographql.com/blog/8-free-to-use-graphql-apis-for-your-projects-and-demos)
+- [From Zero to Hero: A GraphQL Testing Guide for Developers](https://www.parasoft.com/blog/what-is-graphql-testing/)
+- [OWASP - Testing GraphQL](https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/12-API_Testing/01-Testing_GraphQL)
 
 </details>
 
@@ -714,6 +717,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Contact List API](https://documenter.getpostman.com/view/4012288/TzK2bEa8)
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/)
 - [Beeceptor Mock APIs](https://beeceptor.com/docs/sample-api-for-testing/)
+
 </details>
 
 # Contract Testing
@@ -723,17 +727,15 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [What is Contract Testing?](https://pactflow.io/blog/what-is-contract-testing/)
 - [Contract Testing For Microservices IS A MUST](https://youtu.be/Fh8CqZtghQw?si=D9qsf59lmDY7KDG2)
-- [Introduction to Consumer Contract Testing](https://blog.testproject.io/2020/04/27/introduction-to-consumer-contract-testing/)
 - [A Comprehensive Guide to Contract Testing APIs in a Service Oriented Architecture](https://lirantal.com/blog/a-comprehensive-guide-to-contract-testing-apis-in-a-service-oriented-architecture-5695ccf9ac5a/)
 - [Pact.io - Documentation](https://docs.pact.io/)
 - [Contract Testing Tutorial](https://www.softwaretestinghelp.com/contract-testing/)
 - [Contract Testing - PactumJS](https://pactumjs.github.io/guides/contract-testing.html)
-- [Consumer Driven Contract Testing [Webinar Recording]](https://blog.testproject.io/2020/06/15/consumer-driven-contract-testing-the-ultimate-guide-to-testing-microservices/)
 - [Contract Testing for Node.js Microservices with Pact](https://codersociety.com/blog/articles/contract-testing-pact)
 - [How to Simplify UI Tests with Bi-Directional Contract Testing](https://applitools.com/blog/how-to-simplify-ui-tests-bi-directional-contract-testing/)
 - [Pact.io - Community videos and articles](https://docs.pact.io/blogs_videos_and_articles)
 - [How to Use Pact to Contract Test your Event-Driven System](https://solace.com/blog/how-to-use-pact-to-contract-test-your-event-driven-system/)
-- [Event Driven Architecture: How to Perform Contract Testing in Kafka/PubSub](https://blog.testproject.io/2020/06/03/event-driven-architecture-how-to-perform-contract-testing-in-kafka-pubsub/)
+- [Contract Testing: Who’s Who in the Process](https://noraweisser.com/2025/01/24/contract-testing-whos-who-in-the-process/)
 
 </details>
 
@@ -770,7 +772,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Inspecting elements of an app using Appium Inspector and BrowserStack!](https://medium.com/@iamfaisalkhatri/inspecting-elements-of-an-app-using-appium-inspector-and-browserstack-32c095a5333c)
 - [Mobile Automation with Appium in Java](https://testautomationu.applitools.com/appium-java-tutorial/)
 - [Mobile Automation with Appium in JavaScript](https://testautomationu.applitools.com/appium-javascript-tutorial/)
-- [Automated Mobile App Testing using Appium and Python](https://blog.testproject.io/2019/07/16/automated-mobile-app-using-appium-and-python/)
 - [Appium Version 2.0 Fundamentals](https://university.blazemeter.com/)
 - [Appium 2 Migration Guide: Migrating From Appium 1.x To Appium 2.x](https://medium.com/@iamfaisalkhatri/appium-2-migration-guide-migrating-from-appium-1-x-to-appium-2-x-f1721b31197)
 - [Getting started with Appium 2.0: Your beginner’s guide](https://bitrise.io/blog/post/getting-started-with-appium-2-0-your-beginners-guide)
@@ -1436,6 +1437,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [JUnit 5 - Documentation](https://junit.org/junit5/)
 - [Junit 5 - GitHub](https://github.com/junit-team/junit5)
 - [JUnit 5 Tutorial](https://testautomationu.applitools.com/junit5-tutorial/)
+- [Beginner’s Guide to JUnit 5](https://medium.com/@iamfaisalkhatri/beginners-guide-to-junit-5-7756286cd4be)
 - [TutorialsPoint - JUnit Tutorial](https://www.tutorialspoint.com/junit/index.htm)
 - [Baeldung - JUnit Tutorial](https://www.baeldung.com/junit)
 - [Digital Ocean - JUnit 5 tutorial](https://www.digitalocean.com/community/tutorials/junit5-tutorial)
