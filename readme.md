@@ -717,6 +717,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Contact List API](https://documenter.getpostman.com/view/4012288/TzK2bEa8)
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/)
 - [Beeceptor Mock APIs](https://beeceptor.com/docs/sample-api-for-testing/)
+- [JSONing](https://jsoning.com/api/)
 
 </details>
 
