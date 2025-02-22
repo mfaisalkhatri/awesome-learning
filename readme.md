@@ -111,6 +111,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Python Roadmap](https://roadmap.sh/python)
 - [Learn Python](https://www.learnpython.org/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Kaggle: Your Machine Learning and Data Science Community](https://www.kaggle.com/)
 - [Python Programming course on FreeCodeCamp](https://www.freecodecamp.org/news/python-programming-course/)
 - [Getting Started with Python - Python.org](https://www.python.org/about/gettingstarted/)
 - [Python for Beginners](https://learn.microsoft.com/en-us/windows/python/beginners)
@@ -468,8 +469,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [ExpectedConditions In Selenium: Types And Examples](https://www.lambdatest.com/blog/expected-conditions-in-selenium-examples/)
 - [How to Handle StaleElementReferenceException in Selenium](https://www.lambdatest.com/blog/handling-stale-element-exceptions-in-selenium-java/)
 
-
-
 </details>
 
 <details>
@@ -517,7 +516,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 </details>
 
 <details>
-<summary>WebDriverIO </summary>
+<summary>WebDriverIO</summary>
 
 - [WebdriverIO](https://webdriver.io/)
 - [WebDriverIO - YouTube](https://www.youtube.com/watch?v=GAc031zGWTM&list=PLPO0LFyCaSo3oedws079pCNtppXAZdjv6)
@@ -532,7 +531,23 @@ I have been asked by many about my career transformation journey from Manual Tes
 </details>
 
 <details>
-<summary> Selenium Grid </summary>
+<summary>pytest</summary>
+
+- [User Guide — pytest-selenium latest documentation](https://pytest-selenium.readthedocs.io/en/latest/user_guide.html)
+- [How To Use Pytest With Selenium For Web Automation Testing](https://pytest-with-eric.com/automation/pytest-selenium/)
+- [Pytest: Getting started with automated testing for Python](https://circleci.com/blog/pytest-python-testing/)
+- [Selenium Pytest Tutorial: A Comprehensive Guide, with Examples & Best Practices](https://www.lambdatest.com/learning-hub/selenium-pytest-tutorial)
+- [Learn pytest in 6 Hours⏰ | Complete pytest framework Tutorial | LambdaTest](https://youtu.be/KZstMSOHIvQ?si=VtRVRmA6lx6bhzv5)
+- [Selenium Python Tutorial: Getting Started With Pytest](https://dzone.com/articles/selenium-python-tutorial-getting-started-with-pyte)
+- [Test Automation Made Easy with Pytest and Playwright](https://pytest-with-eric.com/automation/pytest-playwright/)
+- [Python Web Apps: Testing with Pytest and Playwright](https://www.youtube.com/live/r37eZ9jkkr8?si=lMoIDw80L7_MDUOU)
+- [Automated Testing in Python with PLAYWRIGHT + PYTEST](https://youtu.be/IDrTacdVNRM?si=b8-bxBJ3so-ft-M5)
+
+</details>
+
+
+<details>
+<summary>Selenium Grid</summary>
 
 - [Selenium Grid 4](https://www.selenium.dev/documentation/grid/)
 - [Selenium Grid Tutorial: Parallel Testing Guide with Examples](https://www.lambdatest.com/blog/selenium-grid-setup-tutorial/)
@@ -661,6 +676,22 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [How to perform End to End API Testing using Playwright with Java and TestNG](https://medium.com/@iamfaisalkhatri/how-to-perform-end-to-end-api-testing-using-playwright-with-java-and-testng-26b318927115)
 
 </details>
+
+<details>
+<summary>pytest</summary>
+
+- [API Testing using Pytest](https://testautomationu.applitools.com/python-api-testing/chapter1.html)
+- [Automating your API tests using Python and Pytest](https://dev.to/m4rri4nne/automating-your-api-tests-using-python-and-pytest-23cc)
+- [A Complete Guide To pytest API Testing](https://www.lambdatest.com/learning-hub/pytest-api-testing)
+- [RESTful API Testing with PyTest: A Complete Guide](https://laerciosantanna.medium.com/mastering-restful-api-testing-with-pytest-56d22460a9c4)
+- [3 ways to test your API with Python](https://opensource.com/article/21/9/unit-test-python)
+- [API Testing with Pytest and Python Requests: A Beginner’s Guide](https://blog.nashtechglobal.com/api-testing-with-pytest-and-python-requests-a-beginners-guide/)
+- [awesome-pytest](https://github.com/augustogoulart/awesome-pytest)
+- [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+- [PyTest • REST API Integration Testing with Python](https://youtu.be/7dgQRVqF1N0?si=BOFHDoOLrfyaJngZ)
+
+</details>
+
 
 <details>
 <summary>Cypress</summary>
@@ -1468,6 +1499,19 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [A Complete Guide To Exception Tests In TestNG](https://medium.com/@iamfaisalkhatri/a-complete-guide-to-exception-tests-in-testng-f5e17642dc06)
 - [How to Create TestNG.xml File in Eclipse](https://www.lambdatest.com/blog/create-testng-xml-file-execute-parallel-testing/)
 - [Working with multiple testng.xml files](https://medium.com/@iamfaisalkhatri/working-with-multiple-testng-xml-files-f5c36896d6b6)
+
+</details>
+
+<details>
+<summary>pytest</summary>
+
+- [pytest documentation](https://docs.pytest.org/en/stable/)
+- [Getting started with Pytest](https://www.geeksforgeeks.org/getting-started-with-pytest/)
+- [Effective Python Testing With pytest](https://realpython.com/pytest-python-testing/)
+- [Introduction to pytest](https://testautomationu.applitools.com/pytest-tutorial/)
+- [pytest Fixtures: A Detailed Guide With Examples](https://www.lambdatest.com/blog/end-to-end-tutorial-for-pytest-fixtures-with-examples/)
+- [Testing Python Applications with Pytest](https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest)
+- [A Beginner's Guide to Unit Testing with Pytest](https://betterstack.com/community/guides/testing/pytest-guide/)
 
 </details>
 
