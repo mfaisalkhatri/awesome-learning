@@ -166,7 +166,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [Solid Principles - Baeldung](https://www.baeldung.com/solid-principles)
 - [Solid Principles - Howtodoinjava](https://howtodoinjava.com/best-practices/solid-principles/)
-- [Design Principles in Java](https://www.javatpoint.com/design-principles-in-java)
+- [Design Principles in Java](https://www.tpointtech.com/design-principles-in-java)
 
 </details>
 
@@ -1081,13 +1081,13 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 </details>
 
-# Visual Regression Testing
+# Visual Regression Testingx
 <details>
 <summary>Learning Materials </summary>
 
 - [What is Visual Regression Testing?](https://applitools.com/blog/visual-regression-testing/)
 - [What Is Visual Regression Testing: A Detailed Guide](https://www.lambdatest.com/learning-hub/visual-regression-testing) 
-- [Visual Testing](https://www.javatpoint.com/visual-testing)
+- [Visual Testing](https://www.tpointtech.com/visual-testing)
 - [Awesome-Visual-Regression-Testing](https://github.com/mojoaxel/awesome-regression-testing)
 - [Top 10 Visual Testing Tools](https://applitools.com/blog/top-10-visual-testing-tools/)
 - [Complete Guide of 15 Visual Testing Tools: Features, Benefits & Prices](https://www.functionize.com/automated-testing/visual-testing-tools)
@@ -1132,7 +1132,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Learning Materials</summary>
 
 - [What is a Database?](https://www.oracle.com/in/database/what-is-database/)
-- [Different Types of Databases - JavatPoint](https://www.javatpoint.com/types-of-databases)
+- [Different Types of Databases - tpointtech](https://www.tpointtech.com/types-of-databases)
 - [Database types - Mongodb.com](https://www.mongodb.com/databases/types)
 - [Types of Databases - Tutorialspoint](https://www.tutorialspoint.com/Types-of-databases)
 - [DBMC and SQL basics](https://www.freecodecamp.org/news/dbms-and-sql-basics/)
@@ -1148,7 +1148,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/)
 - [SQL Tutorial - SQLZoo.net](https://sqlzoo.net/wiki/SQL_Tutorial)
 - [SQL Tutorial - Tutorialspoint](https://www.tutorialspoint.com/sql/index.htm)
-- [SQL Tutorial - Javatpoint](https://www.javatpoint.com/sql-tutorial)
+- [SQL Tutorial - tpointtech](https://www.tpointtech.com/sql-tutorial)
 - [SQL Tutorial - Programiz](https://www.programiz.com/sql)
 - [SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY)
 - [SQL Cheat Sheet](https://www.sqltutorial.org/sql-cheat-sheet/)
@@ -1157,14 +1157,14 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [MySQL Tutorial - W3Schools](https://www.w3schools.com/MySQL/default.asp)
 - [MySQL Tutorial - Tutorialspoint](https://www.tutorialspoint.com/mysql/index.htm)
 - [Learn to use MySQL Database - FreeCodeCamp.org](https://www.freecodecamp.org/news/learn-to-use-the-mysql-database/)
-- [MySQL Workbench](https://www.javatpoint.com/mysql-workbench)
+- [MySQL Workbench](https://www.tpointtech.com/mysql-workbench)
 
 </details>
 
 <details>
 <summary>NoSQL Tutorials</summary>
 
-- [What are NoSQL Databases?](https://www.javatpoint.com/nosql-databases)
+- [What are NoSQL Databases?](https://www.tpointtech.com/nosql-databases)
 - [NOSQL - FreeCodeCamp](https://www.freecodecamp.org/news/tag/nosql/)
 - [Learn NoSQL in 3 hours - FreecodeCamp](https://www.freecodecamp.org/news/learn-nosql-in-3-hours/)
 
@@ -1188,7 +1188,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [DynamoDB - AWS - Getting Started](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStartedDynamoDB.html)
 - [DynamoDB Tutorial - Dynobase.dev](https://dynobase.dev/dynamodb-tutorials/)
 - [DynamoDB Tutorial - Tutorialspoint](https://www.tutorialspoint.com/dynamodb/index.htm)
-- [DynamoDB Tutorial - Javatpoint](https://www.javatpoint.com/aws-dynamodb)
+- [DynamoDB Tutorial - tpointtech](https://www.tpointtech.com/aws-dynamodb)
 - [DynamoDB Tutorial - Tutorialsdojo](https://tutorialsdojo.com/amazon-dynamodb/)
 - [DynamoDB Tutorial - DigitalCloud](https://digitalcloud.training/amazon-dynamodb-tutorial-for-beginners/)
 
@@ -1202,7 +1202,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Postgres Tutorial - Postgresqltutorial.com](https://www.postgresqltutorial.com/)
 - [Postgres Tutorial - Tutorialspoint](https://www.tutorialspoint.com/postgresql/index.htm)
 - [Postgres Tutorial - Postgresql.com](https://www.postgresql.org/docs/current/tutorial.html)
-- [Postgres Tutorial - Javatpoint](https://www.javatpoint.com/postgresql-tutorial)
+- [Postgres Tutorial - tpointtech](https://www.tpointtech.com/postgresql-tutorial)
 - [Postgres Tutorial - TutorialsTeacher](https://www.tutorialsteacher.com/postgresql)
 
 </details>
@@ -1214,7 +1214,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Database Testing Complete Guide](https://www.softwaretestinghelp.com/database-testing-process/)
 - [Database Testing Tutorial - Softwaretestingmaterial.com](https://www.softwaretestingmaterial.com/database-testing/)
 - [Database Testing Tutorial - Tutorialspoint](https://www.tutorialspoint.com/database_testing/index.htm)
-- [Database Testing - Javatpoint](https://www.javatpoint.com/database-testing)
+- [Database Testing - tpointtech](https://www.tpointtech.com/database-testing)
 - [Introduction to Database Testing](https://circleci.com/blog/intro-db-testing/)
 
 </details>
@@ -1379,7 +1379,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [BDD with Pytest](https://testautomationu.applitools.com/behavior-driven-python-with-pytest-bdd/)
 - [Cypress Cucumber - Step by Step Guide](https://filiphric.com/cucumber-in-cypress-a-step-by-step-guide)
 - [Cucumber.js for BDD: An Introductory Tutorial With Examples](https://www.testim.io/blog/cucumber-js-for-bdd-an-introductory-tutorial-with-examples/)
-- [Cucumber Testing](https://www.javatpoint.com/cucumber-testing)
+- [Cucumber Testing](https://www.tpointtech.com/cucumber-testing)
 - [Cucumber Tutorial](https://www.tutorialspoint.com/cucumber/index.htm)
 - [Behaviour Driven Development: Tips for writing better feature files](https://www.bbc.co.uk/blogs/internet/entries/ff14236d-098a-3565-b678-ff4ba5776a5f)
 - [Serenity Dojo TV](https://www.youtube.com/@JohnFergusonSmart)
@@ -1453,7 +1453,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Apache Maven in 5 minutes](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
 - [Apache Maven getting started guide](https://maven.apache.org/guides/getting-started/)
 - [TutorialsPoint - Maven Tutorial](https://www.tutorialspoint.com/maven/index.htm)
-- [Javatpoint - Maven Tutorial](https://www.javatpoint.com/maven-tutorial)
+- [tpointtech - Maven Tutorial](https://www.tpointtech.com/maven-tutorial)
 - [Baeldung - Maven Tutorial](https://www.baeldung.com/maven)
 -[ How to create a Maven Project in IntelliJ? | Test Automation | pom.xml | Maven Commands in IntelliJ](https://youtu.be/JYosKUL0aZU?si=wC0ChfMSnfsnePtk)
 - [How to check and update newer versions for dependencies in the Maven project?](https://medium.com/@iamfaisalkhatri/how-to-check-and-update-newer-versions-for-dependencies-in-the-maven-project-3fd20e0dc783)
@@ -1473,7 +1473,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [TutorialsPoint - JUnit Tutorial](https://www.tutorialspoint.com/junit/index.htm)
 - [Baeldung - JUnit Tutorial](https://www.baeldung.com/junit)
 - [Digital Ocean - JUnit 5 tutorial](https://www.digitalocean.com/community/tutorials/junit5-tutorial)
-- [Javatpoint - JUnit Tutorial](https://www.javatpoint.com/junit-tutorial)
+- [tpointtech - JUnit Tutorial](https://www.tpointtech.com/junit-tutorial)
 - [JUnit Tutorial: An Inclusive Guide [With Enhanced Features]](https://www.lambdatest.com/learning-hub/junit-tutorial)
 - [How to use Ignore test annotation](https://www.lambdatest.com/blog/junit-ignore-test-annotation/)
 - [Writing Nested tests in JUnit 5](https://www.lambdatest.com/learning-hub/junit5-nested-tests)
@@ -1490,7 +1490,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [TestNG Eclipse Plugin](https://github.com/testng-team/testng-eclipse)
 - [Test Automation University - Introduction to TestNG](https://testautomationu.applitools.com/introduction-to-testng/)
 - [TestNG - A Comprehensive Guide](https://www.headspin.io/blog/testng-a-comprehensive-guide)
-- [Javatpoint - TestNG Tutorial](https://www.javatpoint.com/testng-tutorial)
+- [tpointtech - TestNG Tutorial](https://www.tpointtech.com/testng-tutorial)
 - [TutorialsPoint - TestNG Tutorial]( https://www.tutorialspoint.com/testng/index.htm)
 - [Baeldung - Introduction to TestNG](https://www.baeldung.com/testng)
 - [TestNG Framework Tutorial: A Comprehensive Guide, with Examples & Best Practices](https://www.lambdatest.com/learning-hub/testng)
@@ -1545,8 +1545,3 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Generative AI - COurse by Google](https://cloud.google.com/learn/training/machinelearning-ai)
 
 </details>
-
-<!-- 
-<details>
-<summary> </summary>
-</details> -->
