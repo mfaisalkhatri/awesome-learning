@@ -109,6 +109,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Python</summary>
 
 - [Python Roadmap](https://roadmap.sh/python)
+- [Real Python Tutorials](https://realpython.com/)
 - [Learn Python](https://www.learnpython.org/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Kaggle: Your Machine Learning and Data Science Community](https://www.kaggle.com/)
@@ -267,6 +268,10 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Challenges to Software Testing](https://www.softwaretestinggenius.com/challenges-to-software-testing/)
 - [A Complete Guide to Codeless Testing](https://medium.com/@iamfaisalkhatri/a-complete-guide-to-codeless-testing-2d43c8ba205c)
 - [Five Point Plan To Start Automation Testing](https://medium.com/gitconnected/five-point-plan-to-start-automation-testing-ea009ecca604)
+- [What is Regression Testing?] (https://youtu.be/6LcKSCiOFSo?si=aGllm5LgfVByW1Er)
+- [What is Sanity Testing?](https://youtu.be/Blxu_Ap036Q?si=rSxCT_QbuC9xSao6)
+- [Selenium Webdriver Data Driven Testing | Reading test data from Excel Sheet](https://youtu.be/KtsnA-F-nRs?si=Lj4kdV-anyMQBbr1)
+- [Selenium WebDriver Data Driven Testing| Reading data from JSON file](https://youtu.be/9a7WOl_VUog?si=ew1OOd1S1mQ3fRjS)
 
 </details>
 
