@@ -418,6 +418,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Tutorials - Learn Git](https://docs.gitlab.com/tutorials/learn_git/)
 - [GitLab University](https://university.gitlab.com/)
 - [Learn Git and GitLab Tutorial For Beginners | Full Course [2024]](https://youtu.be/NK2BrGpA9wI)
+- [Learn GitLab in 3 Hours | GitLab Complete Tutorial For Beginners](https://youtu.be/8aV5AxJrHDg?si=FyattuGYOCnjwxI5)
 
 </details>
 
