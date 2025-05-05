@@ -56,6 +56,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Top 10 GitHub Repositories to Master Java: From Basics to Advanced Concepts!](https://medium.com/@iamfaisalkhatri/top-10-github-repositories-to-master-java-from-basics-to-advanced-concepts-80411bc6a2a7)
 - [How to Read JSON Files in Java Using the Google Gson Library](https://dzone.com/articles/how-to-read-json-files-in-java-using-google-gson-l)
 - [How to serialize JSON API requests using Java Records?](https://coderlegion.com/477/how-to-serialize-json-api-requests-using-java-records)
+- [Getting Started with Java for Data](https://www.datacamp.com/code-along/getting-started-with-java-for-data)
 
 </details>
 
@@ -125,6 +126,13 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Learn Python - Kaggle.com](https://www.kaggle.com/learn/python)
 - [Python Full Course - Bro Code](https://www.youtube.com/watch?v=XKHEtdqhLK8)
 - [Learn Python – Free Python Courses for Beginners](https://www.freecodecamp.org/news/learn-python-free-python-courses-for-beginners/)
+- [Python Cheat Sheet for Beginners](https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet)
+- [How to Learn Python From Scratch in 2025: An Expert Guide](https://www.datacamp.com/blog/how-to-learn-python-expert-guide)
+- [21 Essential Python Tools](https://www.datacamp.com/tutorial/21-essential-python-tools)
+- [Importing Data in Python Cheat Sheet](https://www.datacamp.com/cheat-sheet/importing-data-in-python-cheat-sheet)
+- [Python Data Visualization: Bokeh Cheat Sheet](https://www.datacamp.com/cheat-sheet/python-data-visualization-bokeh-cheat-sheet)
+- [Working with Dates and Times in Python Cheat Sheet](https://www.datacamp.com/cheat-sheet/working-with-dates-and-times-in-python-cheat-sheet)
+- [30 Cool Python Tricks For Better Code With Examples](https://www.datacamp.com/tutorial/python-tips-examples)
 
 </details>
 
@@ -268,8 +276,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Challenges to Software Testing](https://www.softwaretestinggenius.com/challenges-to-software-testing/)
 - [A Complete Guide to Codeless Testing](https://medium.com/@iamfaisalkhatri/a-complete-guide-to-codeless-testing-2d43c8ba205c)
 - [Five Point Plan To Start Automation Testing](https://medium.com/gitconnected/five-point-plan-to-start-automation-testing-ea009ecca604)
-- [What is Regression Testing?](https://youtu.be/6LcKSCiOFSo?si=aGllm5LgfVByW1Er)
-- [What is Sanity Testing?](https://youtu.be/Blxu_Ap036Q?si=rSxCT_QbuC9xSao6)
+- [Software Testing Interview Preparation](https://youtube.com/playlist?list=PLMer2TvhZIw9WWVaZM80epFfZ9aErSGHZ&si=9JmnPTQbUKpcpkRU)
+- [Software Testing Tutorials](https://youtube.com/playlist?list=PLMer2TvhZIw-Qhz82h0BvWWemgO-PQQaN&si=3F97zJxGhOyqJhUx)
 - [Selenium Webdriver Data Driven Testing | Reading test data from Excel Sheet](https://youtu.be/KtsnA-F-nRs?si=Lj4kdV-anyMQBbr1)
 - [Selenium WebDriver Data Driven Testing| Reading data from JSON file](https://youtu.be/9a7WOl_VUog?si=ew1OOd1S1mQ3fRjS)
 
@@ -478,6 +486,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [How to Handle File Upload in Selenium](https://www.lambdatest.com/blog/how-to-download-upload-files-using-selenium-with-java/)
 - [ExpectedConditions In Selenium: Types And Examples](https://www.lambdatest.com/blog/expected-conditions-in-selenium-examples/)
 - [How to Handle StaleElementReferenceException in Selenium](https://www.lambdatest.com/blog/handling-stale-element-exceptions-in-selenium-java/)
+- [Selenium WebDriver Tutorials](https://youtube.com/playlist?list=PLMer2TvhZIw8WP1C9Pp5hbd7Yd-l66dPT&si=lw1_F2FXMzFzczoN)
 
 </details>
 
@@ -1545,6 +1554,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [AI Engineer Roadmap](https://roadmap.sh/ai-engineer)
 - [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
+- [What is AI? A Quick-Start Guide For Beginners](https://www.datacamp.com/blog/what-is-ai-quick-start-guide-for-beginners)
 - [MLOps Roadmap](https://roadmap.sh/mlops)
 - [Learn the Foundations of Machine Learning and Artificial Intelligence](https://www.freecodecamp.org/news/learn-the-foundations-of-machine-learning-and-artificial-intelligence/)
 - [What is Artificial Intelligence?](https://cloud.google.com/learn/what-is-artificial-intelligence)
@@ -1552,6 +1562,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 - [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/)
 - [A Beginner's Guide to LLMs – What's a Large-Language Model and How Does it Work?](https://www.freecodecamp.org/news/a-beginners-guide-to-large-language-models/)
-- [Generative AI - COurse by Google](https://cloud.google.com/learn/training/machinelearning-ai)
+- [Generative AI - Course by Google](https://cloud.google.com/learn/training/machinelearning-ai)
+- [Leveraging LLM Models: A Comprehensive Guide for Developers and QA Professionals](https://oril.co/blog/leveraging-llm-models-a-comprehensive-guide-for-developers-and-qa-professionals/)
+- [The AI Engineering Handbook – How to Start a Career and Excel as an AI Engineer](https://www.freecodecamp.org/news/the-ai-engineering-handbook-how-to-start-a-career-and-excel-as-an-ai-engineer/)
 
 </details>
