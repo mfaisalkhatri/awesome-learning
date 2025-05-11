@@ -651,6 +651,22 @@ I have been asked by many about my career transformation journey from Manual Tes
 </details>
 
 <details>
+<summary>Keploy</summary>
+
+- [Keploy Official Website](https://keploy.io)
+- [Keploy Official Docs](https://docs.keploy.io)
+- [Keploy Official Community Blogs](https://keploy.io/blog/community)
+- [Keploy OFficial Tech Blogs](https://keploy.io/blog/technology)
+- [Keploy Installation Guide](https://keploy.io/docs/server/installation/)
+- [Keploy Open source - Github](https://github.com/keploy/keploy)
+- [Keploy GSoC - Google Summer Of Code, 2025](https://summerofcode.withgoogle.com/programs/2025/organizations/keploy)
+- [Keploy VS Code Extension](https://marketplace.visualstudio.com/items?itemName=Keploy.keployio)
+- [Keploy PR Agent/App](https://github.com/apps/keploy)
+- [API Testing using Keploy](https://keploy.io/api-testing)
+
+</details>
+
+<details>
 <summary>Rest Assured</summary>
 
 - [rest-assured.io](https://rest-assured.io/)
