@@ -184,7 +184,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [Kiss software design principle - Baeldung](https://www.baeldung.com/cs/kiss-software-design-principle)
 - [How to use KISS Principle in design - FreeCodeCamp](https://www.freecodecamp.org/news/keep-it-simple-stupid-how-to-use-the-kiss-principle-in-design/)
-- [Programming - Rules of Thumb](https://wou.edu/las/cs/csclasses/cs161/Lectures/rulesofthumb.html)
+- [KISS (Keep it Simple, Stupid) - A Design Principle](https://www.interaction-design.org/literature/article/kiss-keep-it-simple-stupid-a-design-principle)
 
 </details>
 
@@ -192,7 +192,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>YAGNI</summary>
 
 - [YAGNI - Martin Fowler](https://martinfowler.com/bliki/Yagni.html)
-- [Deep Dive in KISS and YAGNI](https://solidstudio.io/blog/deep-dive-into-kiss-and-yagni)
+- [What is YAGNI principle (You Aren't Gonna Need It)?](https://www.geeksforgeeks.org/what-is-yagni-principle-you-arent-gonna-need-it/)
 </details>
 
 <details>
@@ -302,7 +302,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [LambdaTest Blog](https://www.lambdatest.com/blog/)
 - [LambdaTest Learning Hub](https://www.lambdatest.com/learning-hub/)
 - [pCloudy Blog ](https://www.pcloudy.com/blog/)
-- [VTest Software Corp Blog](https://www.vtestcorp.com/blog/)
 - [BrowserStack Blog](https://www.browserstack.com/blog/)
 - [Software Testing News](https://www.softwaretestingnews.co.uk/)
 - [OnTestAutomation](https://www.ontestautomation.com/blog/)
@@ -324,7 +323,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Conf Engine](https://www.youtube.com/@ConfEngine)
 - [GOTO Conferences](https://www.youtube.com/@GOTO-)
 - [O'Reilly](https://www.youtube.com/@oreilly)
-- [Continuous Delivery](https://www.youtube.com/@ContinuousDelivery)
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo)
 - [Programming with Mosh](https://www.youtube.com/@programmingwithmosh)
 - [Free Code Camp](https://www.youtube.com/@freecodecamp)
@@ -410,7 +408,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Free Tutorials </summary>
 
 - [Git Roadmap](https://roadmap.sh/git-github)
-- [Git Command Explorer](https://gitexplorer.com/)
 - [List of Commonly used Git commands](https://github.com/joshnh/Git-Commands)
 - [Source Control for Test Automation with Git](https://testautomationu.applitools.com/git-tutorial/)
 - [Git & GitHub FreeCodeCamp Playlist](https://youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
@@ -674,7 +671,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Automating your API tests with REST Assured](https://testautomationu.applitools.com/automating-your-api-tests-with-rest-assured/)
 - [A Guide to REST-assured](https://www.baeldung.com/rest-assured-tutorial)
 - [End to End API Testing using rest-assured](https://medium.com/@iamfaisalkhatri/end-to-end-api-testing-using-rest-assured-a58c4ea80255)
-- [How to perform API testing with REST Assured](https://techbeacon.com/app-dev-testing/how-perform-api-testing-rest-assured)
 - [James Willett - Rest Assured blogs](https://www.james-willett.com/blog/restassured/)
 - [Rest Assured Example code](https://github.com/mfaisalkhatri/rest-assured-examples)
 - [Rest Assured Tutorial](https://mindmajix.com/rest-assured-tutorial)
@@ -693,7 +689,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [API Testing in JavaScript](https://testautomationu.applitools.com/javascript-api-testing/)
 - [Dead-Simple API Tests With SuperTest, Mocha, and Chai](https://dev-tester.com/dead-simple-api-tests-with-supertest-mocha-and-chai/)
 - [API Testing using SuperTest](https://medium.com/@iamfaisalkhatri/api-testing-using-supertest-ea37522fa329)
-- [API Testing using Jest and SuperTest](https://www.testingwithmarie.com/post/api-testing-using-jest-and-supertest)
+- [API Testing using Jest and SuperTest](https://www.testingwithmarie.com/posts/20210702-api-testing-using-jest-and-supertest/)
 </details>
 
 <details>
@@ -767,6 +763,15 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Public gRPC APIs](https://www.postman.com/devrel/workspace/public-grpc-apis/overview)
 - [What is gRPC? Protocol Buffers, Streaming, and Architecture Explained](https://www.freecodecamp.org/news/what-is-grpc-protocol-buffers-stream-architecture/)
 - [gRPC - Microsoft learning](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/grpc)
+
+</details>
+
+<details>
+<summary>Bruno</summary>
+
+- [bruno](https://www.usebruno.com/)
+- [bruno - GitHub](https://github.com/usebruno/bruno)
+- [How to Use Bruno for API Testing (Beginner's Guide)](https://apidog.com/blog/bruno-api/)
 
 </details>
 
@@ -935,6 +940,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [How to get started as an API hacker](https://danaepp.com/how-to-get-started-as-an-api-hacker)
 - [API Security Testing For Hackers](https://www.bugcrowd.com/resources/levelup/api-security-testing-for-hackers/)
 - [awesome-api-security](https://github.com/arainho/awesome-api-security)
+- [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
 - [Web Security Academy Learning Paths](https://portswigger.net/web-security/learning-paths)
 - [Try Hack Me](https://tryhackme.com/r/hacktivities)
 
@@ -991,7 +997,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [API Security Tools](https://owasp.org/www-community/api_security_tools)
 - [Snyk.io](https://snyk.io/)
 - [Pynt.io](https://www.pynt.io/)
-- [Black Duck](https://community.synopsys.com/s/)
+- [Black Duck](https://community.blackduck.com/s/)
 - [Checkmarx](https://checkmarx.com/)
 - [Getting started with Burp Suite](https://portswigger.net/burp/documentation/desktop/getting-started)
 - [Burp Suite Professional video tutorials](https://portswigger.net/burp/pro/video-tutorials)
@@ -1109,7 +1115,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Learning Materials</summary>
 
 - [What Is IVR System And How To Perform IVR Testing](https://www.softwaretestinghelp.com/ivr-testing/)
-- [IVR Testing: The Complete Checklist](https://www.inform-comms.com/ivr-testing-complete-checklist/)
 - [Interactive Voice Response (IVR) explained](https://www.ir.com/blog/communications/ivr-testing-explained)
 - [Challenges to In-House IVR Testing](https://www.spearline.com/blog/challenges-to-in-house-ivr-testing/)
 - [Top 7 Open-Source IVR Automation Testing Tools for Businesses](https://www.hitechnectar.com/blogs/top-7-open-source-ivr-automation-testing-tools-for-businesses/)
@@ -1419,7 +1424,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Behaviour Driven Development: Tips for writing better feature files](https://www.bbc.co.uk/blogs/internet/entries/ff14236d-098a-3565-b678-ff4ba5776a5f)
 - [Serenity Dojo TV](https://www.youtube.com/@JohnFergusonSmart)
 - [Serenity Core](https://github.com/serenity-bdd/serenity-core)
-- [The Cucumber for Java Book](https://hoclaptrinhdanang.com/downloads/pdf/testing/the-cucumber-for-java-book.pdf)
 - [Cucumber books](https://cucumber.io/docs/professional/books/)
 - [BDD Community](https://cucumber.io/docs/bdd/)
 - [IntelliJ Cucumber Support](https://www.jetbrains.com/help/idea/cucumber-support.html)
