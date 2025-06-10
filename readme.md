@@ -278,8 +278,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Five Point Plan To Start Automation Testing](https://medium.com/gitconnected/five-point-plan-to-start-automation-testing-ea009ecca604)
 - [Software Testing Interview Preparation](https://youtube.com/playlist?list=PLMer2TvhZIw9WWVaZM80epFfZ9aErSGHZ&si=9JmnPTQbUKpcpkRU)
 - [Software Testing Tutorials](https://youtube.com/playlist?list=PLMer2TvhZIw-Qhz82h0BvWWemgO-PQQaN&si=3F97zJxGhOyqJhUx)
-- [Selenium Webdriver Data Driven Testing | Reading test data from Excel Sheet](https://youtu.be/KtsnA-F-nRs?si=Lj4kdV-anyMQBbr1)
-- [Selenium WebDriver Data Driven Testing| Reading data from JSON file](https://youtu.be/9a7WOl_VUog?si=ew1OOd1S1mQ3fRjS)
+- [What is End to End Testing?](https://medium.com/@iamfaisalkhatri/what-is-end-to-end-testing-2c65b0e85ff1)
+- [What is Smoke Testing?](https://medium.com/@iamfaisalkhatri/what-is-smoke-testing-eeb0104820e8)
 
 </details>
 
@@ -484,6 +484,9 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [ExpectedConditions In Selenium: Types And Examples](https://www.lambdatest.com/blog/expected-conditions-in-selenium-examples/)
 - [How to Handle StaleElementReferenceException in Selenium](https://www.lambdatest.com/blog/handling-stale-element-exceptions-in-selenium-java/)
 - [Selenium WebDriver Tutorials](https://youtube.com/playlist?list=PLMer2TvhZIw8WP1C9Pp5hbd7Yd-l66dPT&si=lw1_F2FXMzFzczoN)
+- [Selenium Webdriver Data Driven Testing | Reading test data from Excel Sheet](https://youtu.be/KtsnA-F-nRs?si=Lj4kdV-anyMQBbr1)
+- [Selenium WebDriver Data Driven Testing| Reading data from JSON file](https://youtu.be/9a7WOl_VUog?si=ew1OOd1S1mQ3fRjS)
+- [How to Handle Mouse Actions in Selenium](https://levelup.gitconnected.com/how-to-handle-mouse-actions-in-selenium-bdf6c712f097)
 
 </details>
 
@@ -1121,7 +1124,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 </details>
 
-# Visual Regression Testingx
+# Visual Regression Testing
 <details>
 <summary>Learning Materials </summary>
 
@@ -1275,6 +1278,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [What is CI/CD?](https://www.redhat.com/en/topics/devops/what-is-ci-cd#ci/cd-tools)
 - [What is CI/CD Pipeline?](https://www.redhat.com/en/topics/devops/what-cicd-pipeline)
 - [annfelix/DEVOPS-WORLD](https://github.com/annfelix/DEVOPS-WORLD)
+- [awesome-devops](https://github.com/wmariuss/awesome-devops)
 - [Continuous Integration Patterns and Anti-Patterns](https://dzone.com/refcardz/continuous-integration)
 - [Learn How to Set Up a CI/CD Pipeline From Scratch](https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch)
 - [How to use Docker for Automation Testing?](https://www.engati.com/blog/docker-for-automation-testing)
@@ -1283,7 +1287,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Continuous Testing with Azure DevOps](https://testautomationu.applitools.com/azure-devops-tutorial/)
 - [Scaling tests with Docker](https://testautomationu.applitools.com/scaling-tests-with-docker/)
 - [Whole Team Approach to Continuous Testing](https://testautomationu.applitools.com/the-whole-team-approach-to-continuous-testing/)
-
 
 </details>
 
@@ -1340,6 +1343,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [ssbostan/jenkins-tutorial](https://github.com/ssbostan/jenkins-tutorial)
 - [Installing Jenkins on AWS](https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/)
 - [Installing Jenkins on Google Cloud](https://www.jenkins.io/doc/tutorials/tutorials-for-installing-jenkins-on-Google-Cloud/)
+- [How to Install and Setup Jenkins with Docker Compose](https://blog.devops.dev/how-to-install-and-set-up-jenkins-with-docker-compose-70d8f31a03d0)
+- [How to add a Jenkins agent with Docker Compose](https://blog.devops.dev/how-to-add-a-jenkins-agent-with-docker-compose-a39c808734c0)
 
 </details>
 
