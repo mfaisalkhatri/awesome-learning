@@ -928,7 +928,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Hacksplaining](https://www.hacksplaining.com/owasp)
 - [OWASP Top 10 Vulnerabilities](https://www.softwaretestinghelp.com/owasp-top-10-security-vulnerabilities/)
 - [OWASP Top 10 2021](https://owasp.org/Top10/)
-- [OWASP Top 10 tools and tactics](https://resources.infosecinstitute.com/topic/owasp-top-10-tools-and-tactics/)
 - [Awesome Security](https://github.com/sbilly/awesome-security)
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)
 - [Awesome Hacking](https://github.com/qazbnm456/awesome-web-security)
@@ -1188,7 +1187,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>SQL/MySQL Tutorials</summary>
 
-- [SQL Raodmap](https://roadmap.sh/sql)
+- [SQL Roadmap](https://roadmap.sh/sql)
 - [SQL Tutorial - SQLTutorial.org](https://www.sqltutorial.org/)
 - [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/)
 - [SQL Tutorial - SQLZoo.net](https://sqlzoo.net/wiki/SQL_Tutorial)
@@ -1197,12 +1196,15 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [SQL Tutorial - Programiz](https://www.programiz.com/sql)
 - [SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY)
 - [SQL Cheat Sheet](https://www.sqltutorial.org/sql-cheat-sheet/)
+- [Awesome SQL](https://github.com/danhuss/awesome-sql)
 - [Visualize your SQL queries](https://sqlflow.gudusoft.com/#/)
 - [MySQL tutorial](https://www.mysqltutorial.org/)
 - [MySQL Tutorial - W3Schools](https://www.w3schools.com/MySQL/default.asp)
 - [MySQL Tutorial - Tutorialspoint](https://www.tutorialspoint.com/mysql/index.htm)
 - [Learn to use MySQL Database - FreeCodeCamp.org](https://www.freecodecamp.org/news/learn-to-use-the-mysql-database/)
 - [MySQL Workbench](https://www.tpointtech.com/mysql-workbench)
+- [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql)
+
 
 </details>
 
@@ -1212,6 +1214,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [What are NoSQL Databases?](https://www.tpointtech.com/nosql-databases)
 - [NOSQL - FreeCodeCamp](https://www.freecodecamp.org/news/tag/nosql/)
 - [Learn NoSQL in 3 hours - FreecodeCamp](https://www.freecodecamp.org/news/learn-nosql-in-3-hours/)
+- [Awesome NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides)
 
 </details>
 
@@ -1224,6 +1227,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [MongoDB Tutorial - MongoDB.com](https://www.mongodb.com/nosql-explained)
 - [MongoDB Tutorial - W3Schools.com](https://www.w3schools.com/mongodb/)
 - [MongoDB Tutorial - Tutorialspoint](https://www.tutorialspoint.com/mongodb/index.htm)
+- [Awesome MongoDB](https://github.com/ramnes/awesome-mongodb)
 
 </details>
 
@@ -1236,6 +1240,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [DynamoDB Tutorial - tpointtech](https://www.tpointtech.com/aws-dynamodb)
 - [DynamoDB Tutorial - Tutorialsdojo](https://tutorialsdojo.com/amazon-dynamodb/)
 - [DynamoDB Tutorial - DigitalCloud](https://digitalcloud.training/amazon-dynamodb-tutorial-for-beginners/)
+- [Awesome DynamoDB](https://github.com/alexdebrie/awesome-dynamodb)
 
 </details>
 
@@ -1249,6 +1254,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Postgres Tutorial - Postgresql.com](https://www.postgresql.org/docs/current/tutorial.html)
 - [Postgres Tutorial - tpointtech](https://www.tpointtech.com/postgresql-tutorial)
 - [Postgres Tutorial - TutorialsTeacher](https://www.tutorialsteacher.com/postgresql)
+- [Awesome Postgres](https://github.com/dhamaniasad/awesome-postgres)
 
 </details>
 
@@ -1314,11 +1320,11 @@ I have been asked by many about my career transformation journey from Manual Tes
  <details>
  <summary>YouTube Channels</summary>
 
-- [Dave Farley - Continuous Delivery](https://www.youtube.com/@ContinuousDelivery)
 - [DevOps Engineering Course for Beginners](https://www.youtube.com/watch?v=j5Zsa_eOXeY)
 - [What is DevOps?](https://www.youtube.com/watch?v=kBV8gPVZNEE)
 - [DevOps Prerequisites Course - Getting started with DevOps](https://www.youtube.com/watch?v=Wvf0mBNGjXY)
 - [DevOps - Zero to Hero Course](https://www.youtube.com/@AbhishekVeeramalla)
+- [KodeKloud](https://www.youtube.com/@KodeKloud)
  </details>
 
 
@@ -1475,7 +1481,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Generate Fake files](https://www.fakefilegenerator.com/generate-file.php)
 - [Base64 Converter](https://base64.guru/converter/encode)
 - [Random Test Data Generator](https://www.mockaroo.com/)
-- [API Mocks for Free](https://designer.mocky.io/)
 - [Free API Mocking - Beeceptor](https://beeceptor.com/)
 - [Random Data Generator Library](https://www.datafaker.net/)
 - [Faker JS](https://fakerjs.dev/)
