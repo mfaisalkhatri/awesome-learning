@@ -1,18 +1,17 @@
-# This is a basic workflow to help you get started with Actions
 
-name: CI
+name: Link Checker
 
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "issue-*" ]
+  repository_dispatch:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 7 * * SUN"
 
 jobs:
   linkChecker:
     runs-on: ubuntu-latest
     permissions:
-      issues: write # required for peter-evans/create-issue-from-file
+      issues: write
     steps:
       - uses: actions/checkout@v4
 
@@ -28,4 +27,4 @@ jobs:
         with:
           title: Link Checker Report
           content-filepath: ./lychee/out.md
-          labels: report, automated issue          
+          labels: report, automated issue
