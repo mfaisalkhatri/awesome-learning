@@ -157,11 +157,13 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [Project based learning](https://github.com/practical-tutorials/project-based-learning)
 - [Learn Regex step by step, from zero to advanced.](https://regexlearn.com/)
+- [Awesome Books](https://github.com/learn-anything/books)
 </details>
 
 <details>
 <summary>Free Programming Books </summary>
 
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 - [Programming in Java - An Interdisciplinary approach](https://introcs.cs.princeton.edu/java/home/)
 - [Python Cheat Sheet](https://www.pythoncheatsheet.org/)
 - [Free Computer Programming Books](https://freecomputerbooks.com/)
@@ -1276,6 +1278,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Learning Materials</summary>
 
 - [DevOps Roadmap](https://roadmap.sh/devops)
+- [Free DevOps Books](https://github.com/rootusercop/Free-DevOps-Books-1)
 - [What is DevOps?](https://learn.microsoft.com/en-us/devops/what-is-devops)
 -[Introduction to DevOps](https://learn.microsoft.com/en-us/training/modules/introduction-to-devops/)
 - [DevOps Engineering Course for Beginners](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)
