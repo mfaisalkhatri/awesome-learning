@@ -1285,6 +1285,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Training for DevOps Engineers](https://learn.microsoft.com/en-us/training/career-paths/devops-engineer)
 - [Free Devops Books](https://github.com/nkatre/Free-DevOps-Books-1)
 - [Lets-DevOps/awesome-learning](https://github.com/Lets-DevOps/awesome-learning)
+- [90 Days Of DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 - [Awesome-CIandCD](https://github.com/cicdops/awesome-ciandcd)
 - [What is CI/CD?](https://www.redhat.com/en/topics/devops/what-is-ci-cd#ci/cd-tools)
 - [What is CI/CD Pipeline?](https://www.redhat.com/en/topics/devops/what-cicd-pipeline)
@@ -1299,25 +1300,29 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Scaling tests with Docker](https://testautomationu.applitools.com/scaling-tests-with-docker/)
 - [Whole Team Approach to Continuous Testing](https://testautomationu.applitools.com/the-whole-team-approach-to-continuous-testing/)
 
+
 </details>
 
 <details>
 <summary>Blogs</summary>
 
 - [DevOps.com](https://devops.com/category/blogs/ai/)
+- [The Best DevOps Blogs](https://draft.dev/learn/devops-blogs)
+- [Google DevOps & SRE](https://cloud.google.com/blog/products/devops-sre)
 - [ContinuousDelivery.com](https://continuousdelivery.com/)
 - [Continuous Deliver in DevOps](https://www.softwaretestinghelp.com/continuous-delivery-in-devops/)
+- [KodeKloud DevOps Blog](https://kodekloud.com/blog/)
 - [Devops Testing](https://medium.com/@iamfaisalkhatri/devops-testing-vtest-blog-635d88de352f)
 - [Practical Guide to Continuous Intergration for Automation Testing](https://medium.com/@iamfaisalkhatri/practical-guide-on-continuous-integration-for-automation-tests-vtest-blog-23e6d37f523f)
 - [Jez Humble's Blog](https://continuousdelivery.com/)
 - [Dave Farley's Blog](https://www.davefarley.net/)
+- [Azure DevOps Blog](https://devblogs.microsoft.com/devops/)
 - [Gasper Vitta's Blog(Lots of cool stuff on CI/CD, docker, testing)](https://www.gasparevitta.com/)
 - [What is Continuous Testing?](https://medium.com/@iamfaisalkhatri/what-is-continuous-testing-lambdatest-bd2c464b414c)
 - [Spacelift.io](https://spacelift.io/blog)
 - [What is DevOps? How Development + Operations Helps Teams Work More Efficiently](https://www.freecodecamp.org/news/how-devops-works/)
 - [How Can DevSecOps Improve Cloud Security?](https://www.freecodecamp.org/news/how-devsecops-can-improve-cloud-security/)
 - [DevOps with GitLab CI Course](https://www.freecodecamp.org/news/devops-with-gitlab-ci-course/)
-- []()
 </details>
 
  <details>
