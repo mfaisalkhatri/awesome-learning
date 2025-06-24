@@ -258,33 +258,9 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Software Testing Help](https://www.softwaretestinghelp.com/)
 - [Postman Learning Centre](https://learning.postman.com/docs/getting-started/introduction/)
 - [BlazeMeter University](https://www.blazemeter.com/university)
-- [Guru99.com - Software Testing](https://www.guru99.com/software-testing.html)
-- [Setting a Foundation for Successful Test Automation](https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/)
-- [Beyond Bugs: Exploring the Depths of Software Testing](https://medium.com/@iamfaisalkhatri/beyond-bugs-exploring-the-depths-of-software-testing-6a3b7057060e)
-- [Practical Guide on Continuous Integration for automation tests](https://medium.com/@iamfaisalkhatri/practical-guide-on-continuous-integration-for-automation-tests-vtest-blog-23e6d37f523f)
-- [Best Examples of Functional Test Cases](https://medium.com/@iamfaisalkhatri/best-examples-of-functional-test-cases-agilitest-blog-424260298b5)
-- [Best Practices for Test Automation Framework](https://medium.com/@iamfaisalkhatri/best-practices-for-test-automation-framework-vtest-blog-277ee1682e24)
-- [Parallel Execution of Tests using Selenium Grid 4 with Docker Compose](https://medium.com/@iamfaisalkhatri/parallel-execution-of-tests-using-selenium-grid-4-with-docker-compose-2dc243f4fe8b)
-- [What questions should I ask as a new QA in the Team/Organization?](https://medium.com/@iamfaisalkhatri/what-questions-should-i-ask-as-a-new-qa-in-the-team-organization-459cc2f69017)
-- [The Art of Defect Reporting](https://medium.com/@iamfaisalkhatri/the-art-of-defect-reporting-b076310580df)
-- [Exploratory Testing](https://medium.com/@iamfaisalkhatri/exploratory-testing-9a17653739d)
-- [Different Types of Software Testing](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
-- [Beyond Bugs: Exploring the Depths of Software Testing](https://medium.com/@iamfaisalkhatri/beyond-bugs-exploring-the-depths-of-software-testing-6a3b7057060e)
-- [Free LIVE Manual Testing Demo Project for Training](https://www.guru99.com/live-testing-project.html)
-- [Manual Testing - Test cases and Templates](https://github.com/mfaisalkhatri/Manual_Testing)
-- [TestDrive by Scandium (Webinar) - Balancing Tradition and Innovation in QA: A career path to success](https://www.youtube.com/watch?v=N9W1BIcQYgQ)
-- [Practical Guide to Mobile Testing | Mobile Testing Tutorial | Software Testing | Podcast](https://www.youtube.com/live/U3_abrmhCok?si=QQ5kmtH_KGFKmL-N)
-- [Types of Software Testing](https://www.geeksforgeeks.org/types-software-testing/)
-- [How To Use Builder Design Pattern and DataFaker Library for Test Data Generation in Automation Testing](https://dzone.com/articles/automation-testing-how-to-use-builder-design-patte)
-- [A Complete Guide to Web Testing[With Best Practices]](https://medium.com/@iamfaisalkhatri/a-complete-guide-web-testing-748b34a91e6e)
-- [16 Software Testing Challenges: How to Handle Them](https://www.testingmind.com/16-software-testing-challenges-how-to-handle-them/)
-- [Challenges to Software Testing](https://www.softwaretestinggenius.com/challenges-to-software-testing/)
-- [A Complete Guide to Codeless Testing](https://medium.com/@iamfaisalkhatri/a-complete-guide-to-codeless-testing-2d43c8ba205c)
-- [Five Point Plan To Start Automation Testing](https://medium.com/gitconnected/five-point-plan-to-start-automation-testing-ea009ecca604)
 - [Software Testing Interview Preparation](https://youtube.com/playlist?list=PLMer2TvhZIw9WWVaZM80epFfZ9aErSGHZ&si=9JmnPTQbUKpcpkRU)
 - [Software Testing Tutorials](https://youtube.com/playlist?list=PLMer2TvhZIw-Qhz82h0BvWWemgO-PQQaN&si=3F97zJxGhOyqJhUx)
-- [What is End to End Testing?](https://medium.com/@iamfaisalkhatri/what-is-end-to-end-testing-2c65b0e85ff1)
-- [What is Smoke Testing?](https://medium.com/@iamfaisalkhatri/what-is-smoke-testing-eeb0104820e8)
+- [Five Point Plan To Start Automation Testing](https://medium.com/gitconnected/five-point-plan-to-start-automation-testing-ea009ecca604)
 
 </details>
 
@@ -313,10 +289,31 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Articles by Lisa Crispin](https://lisacrispin.com/articles/) 
 - [Wasiq Bhamla's Blog](https://medium.com/@WasiqB)
 - [How they test?](https://github.com/abhivaikar/howtheytest)
+- [What is End to End Testing?](https://medium.com/@iamfaisalkhatri/what-is-end-to-end-testing-2c65b0e85ff1)
+- [What is Smoke Testing?](https://medium.com/@iamfaisalkhatri/what-is-smoke-testing-eeb0104820e8)
+- [What is Sanity Testing?](https://medium.com/@iamfaisalkhatri/what-is-sanity-testing-822f5ac5a95f)
+- [What is Regression Testing?](https://medium.com/@iamfaisalkhatri/what-is-regression-testing-01948692d2ad)
 - [Actions to be taken by a QA on finding a Critical Issue in Production](https://medium.com/@iamfaisalkhatri/actions-to-be-taken-by-a-qa-on-finding-a-critical-issue-in-production-b58acf716bed)
 - [What questions should I ask as a new QA in the Team/Organization?](https://medium.com/@iamfaisalkhatri/what-questions-should-i-ask-as-a-new-qa-in-the-team-organization-459cc2f69017)
 - [What Is a Bug Bash?](https://dzone.com/articles/bug-bash-guide)
-- [Top Ways to Boost Team Morale and Increase Productivity](https://medium.com/@iamfaisalkhatri/top-ways-to-boost-team-morale-and-increase-productivity-626219502e75)
+- [Beyond Bugs: Exploring the Depths of Software Testing](https://medium.com/@iamfaisalkhatri/beyond-bugs-exploring-the-depths-of-software-testing-6a3b7057060e)
+- [Setting a Foundation for Successful Test Automation](https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/)
+- [Practical Guide on Continuous Integration for automation tests](https://medium.com/@iamfaisalkhatri/practical-guide-on-continuous-integration-for-automation-tests-vtest-blog-23e6d37f523f)
+- [Best Examples of Functional Test Cases](https://medium.com/@iamfaisalkhatri/best-examples-of-functional-test-cases-agilitest-blog-424260298b5)
+- [Best Practices for Test Automation Framework](https://medium.com/@iamfaisalkhatri/best-practices-for-test-automation-framework-vtest-blog-277ee1682e24)
+- [The Art of Defect Reporting](https://medium.com/@iamfaisalkhatri/the-art-of-defect-reporting-b076310580df)
+- [Exploratory Testing](https://medium.com/@iamfaisalkhatri/exploratory-testing-9a17653739d)
+- [Free LIVE Manual Testing Demo Project for Training](https://www.guru99.com/live-testing-project.html)
+- [Manual Testing - Test cases and Templates](https://github.com/mfaisalkhatri/Manual_Testing)
+- [TestDrive by Scandium (Webinar) - Balancing Tradition and Innovation in QA: A Career Path to Success](https://www.youtube.com/watch?v=N9W1BIcQYgQ)
+- [Practical Guide to Mobile Testing | Mobile Testing Tutorial | Software Testing | Podcast](https://www.youtube.com/live/U3_abrmhCok?si=QQ5kmtH_KGFKmL-N)
+- [Types of Software Testing](https://www.geeksforgeeks.org/types-software-testing/)
+- [Different Types of Software Testing](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
+- [How To Use Builder Design Pattern and DataFaker Library for Test Data Generation in Automation Testing](https://dzone.com/articles/automation-testing-how-to-use-builder-design-patte)
+- [A Complete Guide to Web Testing[With Best Practices]](https://medium.com/@iamfaisalkhatri/a-complete-guide-web-testing-748b34a91e6e)
+- [16 Software Testing Challenges: How to Handle Them](https://www.testingmind.com/16-software-testing-challenges-how-to-handle-them/)
+- [Challenges to Software Testing](https://www.softwaretestinggenius.com/challenges-to-software-testing/)
+- [A Complete Guide to Codeless Testing](https://medium.com/@iamfaisalkhatri/a-complete-guide-to-codeless-testing-2d43c8ba205c)
 
 </details>
 
@@ -370,7 +367,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Types of Test Automation Frameworks | Everything You Should Know](https://www.softwaretestingmaterial.com/types-test-automation-frameworks/)
 - [What is Data Driven Testing: All You Need to Know?](https://www.lambdatest.com/learning-hub/data-driven-testing)
 - [What is Hybrid framework in Selenium?](https://www.softwaretestinghelp.com/hybrid-framework-in-selenium/)
-- [Boyka Framework](https://github.com/BoykaFramework/boyka-framework)
 
 </details>
 
@@ -391,7 +387,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [ISTQB Sample Exams](https://www.gasq.org/en/certification/sample-exam.html)
 - [ISTQB Testing Certification Sample Question Papers With Answers](https://www.softwaretestinghelp.com/istqb-testing-certification-sample-question-papers-with-answers/)
 - [Free ISTQB Sample Question Paper downloads](https://www.istqbdumps.org/)
-
 - [ISTQB FREE Updates](https://www.softwaretestinghelp.com/istqb-free-updates/)
 
 </details>
@@ -1508,6 +1503,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Online Character Counter](https://quillbot.com/character-counter)
 - [Text Generator](https://www.blindtextgenerator.com/lorem-ipsum)
 - [Dummy Text Generator](https://www.webtools.services/dummy-text-generator)
+- [Top Ways to Boost Team Morale and Increase Productivity](https://medium.com/@iamfaisalkhatri/top-ways-to-boost-team-morale-and-increase-productivity-626219502e75)
 
 </details>
 
