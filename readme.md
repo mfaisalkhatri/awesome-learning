@@ -434,7 +434,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <Summary>Selenium WebDriver</Summary>
 
 - [Selenium WebDriver Documentation](https://www.selenium.dev/documentation/)
-- [Awesome-Selenium](https://github.com/christian-bromann/awesome-selenium)
+- [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Selenium Locator Strategies](https://www.selenium.dev/documentation/webdriver/elements/locators/)
 - [Selenium WebDriver with Java](https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/)
 - [Selenium 4 in Java](https://testautomationu.applitools.com/selenium-4-java/)
@@ -445,7 +445,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Intro to Selenium WebDriver with .NET Core](https://testautomationu.applitools.com/intro-to-selenium-webdriver-with-net-core/)
 - [Selenium WebDriver with Ruby](https://testautomationu.applitools.com/selenium-webdriver-with-ruby/)
 - [Free Selenium WebDriver Course](https://automationintesting.com/selenium/java/course/)
-- [Seleniumeasy.com](https://www.seleniumeasy.com/)
 - [Selenium WebDriver example code](https://github.com/mfaisalkhatri/selenium4poc)
 - [Selenium Tutorial - SoftwareTestingMaterial](https://www.softwaretestingmaterial.com/selenium-tutorial/)
 - [Selenium Tutorial - SoftwareTestingHelp](https://www.softwaretestinghelp.com/selenium-tutorial-1/)
@@ -502,7 +501,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Playwright - YouTube](https://www.youtube.com/channel/UC46Zj8pDH5tDosqm1gd7WTg)
 - [Playwright Locators](https://playwright.dev/docs/locators)
 - [Playwright with JavaScript](https://testautomationu.applitools.com/js-playwright-tutorial/)
-- [Awesome Playwright](https://github.com/mxschmitt/awesome-playwright)
 - [What is Microsoft Playwright JS?](https://testguild.com/what-is-microsoft-playwright-js/)
 - [Testing Modern Web Apps with Playwright | OD110](https://www.youtube.com/watch?v=sAY9FmBih08)
 - [An End To End Playwright Testing with TypeScript](https://www.youtube.com/watch?v=wawbt1cATsk)
