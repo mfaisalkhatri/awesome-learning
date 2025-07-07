@@ -48,7 +48,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [SoloLearn](https://www.sololearn.com/learn/courses/java-introduction)
 - [Java Design Patterns - Refactoring Guru](https://refactoring.guru/design-patterns)
 - [Java Design Patterns - Github](https://github.com/iluwatar/java-design-patterns)
-- [Introduction to Computer Science using Java](https://chortle.ccsu.edu/javaLessons/index.html)
+- [Introduction to Computer Science using Java](https://chortle.ccsu.edu/Java5/index.html#10)
 - [W3Schools](https://www.w3schools.com/java/)
 - [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/)
 - [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)
@@ -314,6 +314,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [16 Software Testing Challenges: How to Handle Them](https://www.testingmind.com/16-software-testing-challenges-how-to-handle-them/)
 - [Challenges to Software Testing](https://www.softwaretestinggenius.com/challenges-to-software-testing/)
 - [A Complete Guide to Codeless Testing](https://medium.com/@iamfaisalkhatri/a-complete-guide-to-codeless-testing-2d43c8ba205c)
+- [Whole Team Approach to Continuous Testing](https://testautomationu.applitools.com/the-whole-team-approach-to-continuous-testing/)
 
 </details>
 
@@ -1292,8 +1293,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Test Automation in DevOps](https://testautomationu.applitools.com/test-automation-in-devops/)
 - [Get started with Azure DevOps](https://learn.microsoft.com/en-us/training/paths/evolve-your-devops-practices/)
 - [Continuous Testing with Azure DevOps](https://testautomationu.applitools.com/azure-devops-tutorial/)
-- [Scaling tests with Docker](https://testautomationu.applitools.com/scaling-tests-with-docker/)
-- [Whole Team Approach to Continuous Testing](https://testautomationu.applitools.com/the-whole-team-approach-to-continuous-testing/)
+- [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
 
 
 </details>
@@ -1392,6 +1392,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Docker Cheat Sheet – 36 Docker CLI Commands Spacelift.io](https://spacelift.io/blog/docker-commands-cheat-sheet)
 - [The Docker Handbook - Freecodecamp.org](https://www.freecodecamp.org/news/the-docker-handbook/)
 - [Docker Build GitHub Actions](https://docs.docker.com/build/ci/github-actions/)
+- [Scaling tests with Docker](https://testautomationu.applitools.com/scaling-tests-with-docker/)
 
 </details>
 
