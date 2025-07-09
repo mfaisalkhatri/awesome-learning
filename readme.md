@@ -136,6 +136,13 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Python Data Visualization: Bokeh Cheat Sheet](https://www.datacamp.com/cheat-sheet/python-data-visualization-bokeh-cheat-sheet)
 - [Working with Dates and Times in Python Cheat Sheet](https://www.datacamp.com/cheat-sheet/working-with-dates-and-times-in-python-cheat-sheet)
 - [30 Cool Python Tricks For Better Code With Examples](https://www.datacamp.com/tutorial/python-tips-examples)
+- [Cracking Codes with Python - An Introduction to Building and Breaking Ciphers](https://inventwithpython.com/cracking/)
+- [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/)
+- [Open Data Structures](https://opendatastructures.org/ods-python.pdf)
+- [Beyond the Basic Stuff with Python - Best Practices for Writing Clean Code](https://inventwithpython.com/beyond/)
+- [The Big Book of Small Python Projects - 81 Easy Practice Programs](https://inventwithpython.com/bigbookpython/)
+- [Python for Data Analysis - Third Edition](https://wesmckinney.com/book/)
+- [Python CheatSheet](https://github.com/gto76/python-cheatsheet)
 
 </details>
 
@@ -1272,9 +1279,10 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Learning Materials</summary>
 
 - [DevOps Roadmap](https://roadmap.sh/devops)
+- [What is DevOps? What Does it Really Mean?](https://devopscube.com/what-is-devops-what-does-it-really-mean/)
 - [Free DevOps Books](https://github.com/rootusercop/Free-DevOps-Books-1)
 - [What is DevOps?](https://learn.microsoft.com/en-us/devops/what-is-devops)
--[Introduction to DevOps](https://learn.microsoft.com/en-us/training/modules/introduction-to-devops/)
+- [Introduction to DevOps](https://learn.microsoft.com/en-us/training/modules/introduction-to-devops/)
 - [DevOps Engineering Course for Beginners](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)
 - [Training for DevOps Engineers](https://learn.microsoft.com/en-us/training/career-paths/devops-engineer)
 - [Free Devops Books](https://github.com/nkatre/Free-DevOps-Books-1)
@@ -1292,6 +1300,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Get started with Azure DevOps](https://learn.microsoft.com/en-us/training/paths/evolve-your-devops-practices/)
 - [Continuous Testing with Azure DevOps](https://testautomationu.applitools.com/azure-devops-tutorial/)
 - [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
+- [What Is Observability? Comprehensive Beginners Guide](https://devopscube.com/what-is-observability/)
+- [How to Learn Git for DevOps: Beginners Git Roadmap](https://devopscube.com/git-for-devops/)
 
 
 </details>
