@@ -48,7 +48,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [SoloLearn](https://www.sololearn.com/learn/courses/java-introduction)
 - [Java Design Patterns - Refactoring Guru](https://refactoring.guru/design-patterns)
 - [Java Design Patterns - Github](https://github.com/iluwatar/java-design-patterns)
-- [Introduction to Computer Science using Java](https://chortle.ccsu.edu/Java5/index.html#10)
+- [Introduction to Computer Science using Java](https://chortle.ccsu.edu/javaLessons/index.html)
 - [W3Schools](https://www.w3schools.com/java/)
 - [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/)
 - [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)
@@ -1318,7 +1318,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Devops Testing](https://medium.com/@iamfaisalkhatri/devops-testing-vtest-blog-635d88de352f)
 - [Practical Guide to Continuous Intergration for Automation Testing](https://medium.com/@iamfaisalkhatri/practical-guide-on-continuous-integration-for-automation-tests-vtest-blog-23e6d37f523f)
 - [Jez Humble's Blog](https://continuousdelivery.com/)
-- [Dave Farley's Blog](https://www.davefarley.net/)
 - [Azure DevOps Blog](https://devblogs.microsoft.com/devops/)
 - [Gasper Vitta's Blog(Lots of cool stuff on CI/CD, docker, testing)](https://www.gasparevitta.com/)
 - [What is Continuous Testing?](https://medium.com/@iamfaisalkhatri/what-is-continuous-testing-lambdatest-bd2c464b414c)
@@ -1593,7 +1592,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Documentation](https://docs.nodemaven.com/)
 - [Use Cases](https://nodemaven.com/#usecases-section)
 - [Advantages](https://nodemaven.com/#advantages-section)
-- [Setting up MultiLogin with NodeMaven](https://help.multilogin.com/en_US/proxies-and-ip-masking/multilogin-with-nodemaven)
 
 </details>
 
