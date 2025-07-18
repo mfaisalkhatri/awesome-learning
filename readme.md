@@ -408,6 +408,17 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Ministry of Testing - Software Testing Challenges](https://www.ministryoftesting.com/challenges)
 </details>
 
+<details>
+<summary>Software Testing Interview preparation</summary>
+
+- [Quality Assurance Interview Questions](https://prepare.sh/interviews/quality-assurance)
+- [Software Testing Interview Preparation Tutorials](https://youtube.com/playlist?list=PLMer2TvhZIw9WWVaZM80epFfZ9aErSGHZ&si=x5-qk5Tf-0bGB4Mv)
+- [Software Testing Tutorials](https://medium.com/@iamfaisalkhatri/list/software-testing-tutorial-c2493bce0c24)
+- [Software Testing Interview Questions and Answers](https://www.geeksforgeeks.org/software-testing/software-testing-interview-questions/)
+- [Scenario Based Software Testing Interview Questions and Answers for Experienced](https://www.h2kinfosys.com/blog/scenario-based-software-testing-interview-questions-and-answers/)
+
+</details>
+
 
 # Git
 
