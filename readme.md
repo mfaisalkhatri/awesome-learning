@@ -1592,7 +1592,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Documentation](https://docs.nodemaven.com/)
 - [Use Cases](https://nodemaven.com/#usecases-section)
 - [Advantages](https://nodemaven.com/#advantages-section)
-- [Setting up MultiLogin with NodeMaven](https://help.multilogin.com/en_US/proxies-and-ip-masking/multilogin-with-nodemaven)
 
 </details>
 
