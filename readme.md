@@ -1318,7 +1318,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Devops Testing](https://medium.com/@iamfaisalkhatri/devops-testing-vtest-blog-635d88de352f)
 - [Practical Guide to Continuous Intergration for Automation Testing](https://medium.com/@iamfaisalkhatri/practical-guide-on-continuous-integration-for-automation-tests-vtest-blog-23e6d37f523f)
 - [Jez Humble's Blog](https://continuousdelivery.com/)
-- [Dave Farley's Blog](https://www.davefarley.net/)
 - [Azure DevOps Blog](https://devblogs.microsoft.com/devops/)
 - [Gasper Vitta's Blog(Lots of cool stuff on CI/CD, docker, testing)](https://www.gasparevitta.com/)
 - [What is Continuous Testing?](https://medium.com/@iamfaisalkhatri/what-is-continuous-testing-lambdatest-bd2c464b414c)
