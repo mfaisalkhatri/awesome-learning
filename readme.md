@@ -115,6 +115,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Real Python Tutorials](https://realpython.com/)
 - [Learn Python](https://www.learnpython.org/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
 - [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
 - [Kaggle: Your Machine Learning and Data Science Community](https://www.kaggle.com/)
 - [Python Programming course on FreeCodeCamp](https://www.freecodecamp.org/news/python-programming-course/)
