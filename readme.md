@@ -7,7 +7,7 @@
 <img src="assets/poster.gif" width="500" height="300"/>
 </div>
 
-I have been into Software Testing role since last 14+ years, however I must tell you that my most of the time was spent in manual testing the applications. When I got into this role, specifically it was the time when there used to be a lot of desktop applications. I started my career in 2008, being a Commerce graduate and not knowing the basic alphabets of engineering, initially it was very difficult to understand what programming, testing, releases was all about! Thanks to all my mentors and guides, they helped me a lot to understand those basic concepts about testing and how the actual process works.
+I have been into Software Testing role since last 16+ years, however I must tell you that my most of the time was spent in manual testing the applications. When I got into this role, specifically it was the time when there used to be a lot of desktop applications. I started my career in 2008, being a Commerce graduate and not knowing the basic alphabets of engineering, initially it was very difficult to understand what programming, testing, releases was all about! Thanks to all my mentors and guides, they helped me a lot to understand those basic concepts about testing and how the actual process works.
 
 I have been asked by many about my career transformation journey from Manual Testing to a Test Automation Engineer, hence I thought of creating this repository which has the learning path I followed to become a Test Automation Engineer.
 
@@ -165,6 +165,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Project based learning](https://github.com/practical-tutorials/project-based-learning)
 - [Learn Regex step by step, from zero to advanced.](https://regexlearn.com/)
 - [Awesome Books](https://github.com/learn-anything/books)
+- [Awesome DevTools](https://github.com/devtoolsd/awesome-devtools)
+
 </details>
 
 <details>
@@ -1290,6 +1292,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Learning Materials</summary>
 
 - [DevOps Roadmap](https://roadmap.sh/devops)
+- [DevOps Free Labs](https://kodekloud.com/free-labs/devops)
 - [What is DevOps? What Does it Really Mean?](https://devopscube.com/what-is-devops-what-does-it-really-mean/)
 - [Free DevOps Books](https://github.com/rootusercop/Free-DevOps-Books-1)
 - [What is DevOps?](https://learn.microsoft.com/en-us/devops/what-is-devops)
