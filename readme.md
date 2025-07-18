@@ -1316,8 +1316,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
 - [What Is Observability? Comprehensive Beginners Guide](https://devopscube.com/what-is-observability/)
 - [How to Learn Git for DevOps: Beginners Git Roadmap](https://devopscube.com/git-for-devops/)
-
-
+- [DevSecOps Learning Resources](https://www.practical-devsecops.com/devsecops-university/)
 </details>
 
 <details>
@@ -1339,6 +1338,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [What is DevOps? How Development + Operations Helps Teams Work More Efficiently](https://www.freecodecamp.org/news/how-devops-works/)
 - [How Can DevSecOps Improve Cloud Security?](https://www.freecodecamp.org/news/how-devsecops-can-improve-cloud-security/)
 - [DevOps with GitLab CI Course](https://www.freecodecamp.org/news/devops-with-gitlab-ci-course/)
+
 </details>
 
  <details>
