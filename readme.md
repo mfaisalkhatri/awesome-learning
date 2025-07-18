@@ -7,7 +7,7 @@
 <img src="assets/poster.gif" width="500" height="300"/>
 </div>
 
-I have been into Software Testing role since last 14+ years, however I must tell you that my most of the time was spent in manual testing the applications. When I got into this role, specifically it was the time when there used to be a lot of desktop applications. I started my career in 2008, being a Commerce graduate and not knowing the basic alphabets of engineering, initially it was very difficult to understand what programming, testing, releases was all about! Thanks to all my mentors and guides, they helped me a lot to understand those basic concepts about testing and how the actual process works.
+I have been into Software Testing role since last 16+ years, however I must tell you that my most of the time was spent in manual testing the applications. When I got into this role, specifically it was the time when there used to be a lot of desktop applications. I started my career in 2008, being a Commerce graduate and not knowing the basic alphabets of engineering, initially it was very difficult to understand what programming, testing, releases was all about! Thanks to all my mentors and guides, they helped me a lot to understand those basic concepts about testing and how the actual process works.
 
 I have been asked by many about my career transformation journey from Manual Testing to a Test Automation Engineer, hence I thought of creating this repository which has the learning path I followed to become a Test Automation Engineer.
 
@@ -33,6 +33,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Java Programming Course by Angie Jones](https://testautomationu.applitools.com/java-programming-course/)
 - [Beginners Book - Java Tutorials](https://beginnersbook.com/java-tutorial-for-beginners-with-examples/)
 - [Learn Java Online](https://www.learnjavaonline.org/)
+- [Learn Java – Free Java Courses for Beginners](https://www.freecodecamp.org/news/learn-java-free-java-courses-for-beginners/)
 - [Learn Java - Codecademy](https://www.codecademy.com/learn/learn-java)
 - [30 Days of Java](https://github.com/AaronGalloway/30-Days-Of-Java)
 - [Java Best Practices](https://github.com/in28minutes/java-best-practices)
@@ -115,6 +116,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Real Python Tutorials](https://realpython.com/)
 - [Learn Python](https://www.learnpython.org/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
+- [Google's Python Class](https://developers.google.com/edu/python)
 - [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
 - [Kaggle: Your Machine Learning and Data Science Community](https://www.kaggle.com/)
 - [Python Programming course on FreeCodeCamp](https://www.freecodecamp.org/news/python-programming-course/)
@@ -122,6 +125,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Python for Beginners](https://learn.microsoft.com/en-us/windows/python/beginners)
 - [Introduction to Python](https://learn.microsoft.com/en-us/training/modules/intro-to-python/)
 - [Python Tutorial - Test Automation University ](https://testautomationu.applitools.com/python-tutorial/)
+- [Interactive Python Learning in your Browser](https://www.freecodecamp.org/news/python-curriculum-upgrade/)
 - [Awesome Python](https://github.com/vinta/awesome-python)
 - [Awesome Python Books](https://github.com/junnplus/awesome-python-books)
 - [Python Tutorial - W3Schools](https://www.w3schools.com/python/)
@@ -143,6 +147,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [The Big Book of Small Python Projects - 81 Easy Practice Programs](https://inventwithpython.com/bigbookpython/)
 - [Python for Data Analysis - Third Edition](https://wesmckinney.com/book/)
 - [Python CheatSheet](https://github.com/gto76/python-cheatsheet)
+- [Top 10 GitHub Repositories to Master Python](https://medium.com/gitconnected/top-10-github-repositories-to-master-python-480a899e9343)
 
 </details>
 
@@ -156,6 +161,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [DS & A Problems](https://github.com/mandliya/algorithms_and_data_structures)
 - [Algo Deck](https://github.com/teivah/algodeck)
 - [Roadmap for DSA](https://www.codechef.com/roadmap/data-structures-and-algorithms)
+- [JavaScript Algorithm](https://github.com/trekhleb/javascript-algorithms)
 
 </details>
 
@@ -165,6 +171,11 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Project based learning](https://github.com/practical-tutorials/project-based-learning)
 - [Learn Regex step by step, from zero to advanced.](https://regexlearn.com/)
 - [Awesome Books](https://github.com/learn-anything/books)
+- [Awesome DevTools](https://github.com/devtoolsd/awesome-devtools)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
 </details>
 
 <details>
@@ -247,6 +258,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Awesome System Design](https://github.com/alexpate/awesome-design-systems)
 - [ByteByteGo - YouTube](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw)
 - [System Design for Beginners Course](https://youtu.be/m8Icp_Cid5o?si=4gXNn79VpQLQDBoE)
+- [Head First Software Development PDF](https://pawangkp.wordpress.com/wp-content/uploads/2010/08/oreilly-head-first-software-development-2008.pdf)
  
 </details>
 
@@ -522,11 +534,13 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [What is Microsoft Playwright JS?](https://testguild.com/what-is-microsoft-playwright-js/)
 - [Testing Modern Web Apps with Playwright | OD110](https://www.youtube.com/watch?v=sAY9FmBih08)
 - [An End To End Playwright Testing with TypeScript](https://www.youtube.com/watch?v=wawbt1cATsk)
+- [Getting Started With Microsoft Tool Playwright for Automated Testing](https://dzone.com/articles/getting-started-with-playwright-for-testing)
 - [Playwright Tutorial: Getting Started With Playwright Framework](https://www.lambdatest.com/blog/playwright-framework/)
 - [Playwright - Github](https://github.com/microsoft/playwright)
 - [Playing with Playwright](https://applitools.com/blog/playing-with-playwright/)
 - [Interactive website to learn playwright](https://try.playwright.tech/)
 - [A detailed tutorial on Playwright & Test Runner](https://github.com/ortoniKC/Playwright-Test-Runner)
+- [Playwright Fixtures vs POM: Which One Should You Choose?](https://dzone.com/articles/playwright-fixtures-vs-pom)
 - [Playwright Java Tutorial: Web Automation Testing | Installation and Setup](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-installation-and-setup-545c9c7661c8)
 - [Playwright Java Tutorial: Web Automation Testing | Writing and running tests on Chrome, Firefox and Edge browsers](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-writing-and-running-tests-on-chrome-firefox-and-d2446b9a69ce)
 - [Playwright Java Tutorial: Web Automation Testing | How to perform browser navigation?](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-how-to-perform-browser-navigation-043f14af5c97)
@@ -714,16 +728,17 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Playwright</summary>
 
-- [Playwright Java API Testing | How to test POST requests?](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-how-to-test-post-requests-4c9102d3ab03)
-- [Playwright Java API Testing | How to test GET requests?](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-how-to-test-get-requests-c036b984cc6d)
-- [Playwright Java API Testing | How to test PUT requests?](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-how-to-test-put-requests-d6b1d054d64b)
-- [Playwright Java API Testing | How to test PATCH requests?](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-how-to-test-patch-requests-f6b0867d91e7)
-- [Playwright Java API Testing | How to test DELETE requests?](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-how-to-test-delete-requests-2ff77feb0383)
-- [Create a Custom Logger to Log Response Details With Playwright Java](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-creating-custom-logger-for-logging-response-details-771e961d9faa)
+- [How to test POST API requests with Playwright Java](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-how-to-test-post-requests-4c9102d3ab03)
+- [How to test GET API requests with Playwright Java](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-how-to-test-get-requests-c036b984cc6d)
+- [How to test PUT API requests with Playwright Java](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-how-to-test-put-requests-d6b1d054d64b)
+- [How to test PATCH API requests with Playwright Java](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-how-to-test-patch-requests-f6b0867d91e7)
+- [How to test DELETE API requests with Playwright Java](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-how-to-test-delete-requests-2ff77feb0383)
+- [How to create a Custom Logger for Logging Response Details With Playwright Java](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-creating-custom-logger-for-logging-response-details-771e961d9faa)
 - [API Testing with Playwright](https://playwright.dev/docs/api-testing)
 - [Using Playwright for API testing](https://reflect.run/articles/using-playwright-for-api-testing/)
 - [API Testing with Playwright - GitHub](https://github.com/microsoft/playwright/blob/main/docs/src/api-testing-js.md)
 - [How to perform End to End API Testing using Playwright with Java and TestNG](https://medium.com/@iamfaisalkhatri/how-to-perform-end-to-end-api-testing-using-playwright-with-java-and-testng-26b318927115)
+- [API Testing With Playwright](https://dzone.com/articles/api-testing-with-playwright)
 
 </details>
 
@@ -752,6 +767,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [API Testing with Cypress Series' Articles](https://dev.to/murillowelsi/series/12873)
 - [Advanced Cypress](https://testautomationu.applitools.com/advanced-cypress-tutorial/)
 - [How To Test API With Cypress | Filip Hric | Testμ 2022 | LambdaTest](https://www.youtube.com/watch?v=kENXELkT4O4)
+- [API Testing With Cypress](https://dzone.com/articles/api-testing-with-cypress)
 </details>
 
 <details>
@@ -1290,6 +1306,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Learning Materials</summary>
 
 - [DevOps Roadmap](https://roadmap.sh/devops)
+- [DevOps Free Labs](https://kodekloud.com/free-labs/devops)
 - [What is DevOps? What Does it Really Mean?](https://devopscube.com/what-is-devops-what-does-it-really-mean/)
 - [Free DevOps Books](https://github.com/rootusercop/Free-DevOps-Books-1)
 - [What is DevOps?](https://learn.microsoft.com/en-us/devops/what-is-devops)
@@ -1313,8 +1330,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
 - [What Is Observability? Comprehensive Beginners Guide](https://devopscube.com/what-is-observability/)
 - [How to Learn Git for DevOps: Beginners Git Roadmap](https://devopscube.com/git-for-devops/)
-
-
+- [DevSecOps Learning Resources](https://www.practical-devsecops.com/devsecops-university/)
 </details>
 
 <details>
@@ -1336,6 +1352,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [What is DevOps? How Development + Operations Helps Teams Work More Efficiently](https://www.freecodecamp.org/news/how-devops-works/)
 - [How Can DevSecOps Improve Cloud Security?](https://www.freecodecamp.org/news/how-devsecops-can-improve-cloud-security/)
 - [DevOps with GitLab CI Course](https://www.freecodecamp.org/news/devops-with-gitlab-ci-course/)
+
 </details>
 
  <details>
@@ -1350,7 +1367,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 
 <details>
-<summary>Jenkins </summary>
+<summary>Jenkins</summary>
 
 - [Installing Jenkins](https://www.jenkins.io/doc/book/installing/)
 - [Jenkins Tutorials](https://www.jenkins.io/doc/tutorials/)
@@ -1424,6 +1441,14 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker](https://www.youtube.com/watch?v=R8_veQiYBjI)
 - [How to setup Github Actions for Java with Maven project?](https://medium.com/@iamfaisalkhatri/how-to-setup-github-actions-for-java-with-maven-project-b6fe394be508)
 - [GitHub Actions for testing - Test Automation University](https://testautomationu.applitools.com/github-actions-for-testing/)
+
+</details>
+
+<details>
+<summary>Linux</summary>
+
+- [LinuxZoo - Learn Linux](https://linuxzoo.net/)
+- [How to Use Vim – Tutorial for Beginners](https://www.freecodecamp.org/news/vim-beginners-guide/)
 
 </details>
 
