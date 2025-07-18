@@ -33,6 +33,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Java Programming Course by Angie Jones](https://testautomationu.applitools.com/java-programming-course/)
 - [Beginners Book - Java Tutorials](https://beginnersbook.com/java-tutorial-for-beginners-with-examples/)
 - [Learn Java Online](https://www.learnjavaonline.org/)
+- [Learn Java – Free Java Courses for Beginners](https://www.freecodecamp.org/news/learn-java-free-java-courses-for-beginners/)
 - [Learn Java - Codecademy](https://www.codecademy.com/learn/learn-java)
 - [30 Days of Java](https://github.com/AaronGalloway/30-Days-Of-Java)
 - [Java Best Practices](https://github.com/in28minutes/java-best-practices)
@@ -116,6 +117,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Learn Python](https://www.learnpython.org/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
+- [Google's Python Class](https://developers.google.com/edu/python)
 - [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
 - [Kaggle: Your Machine Learning and Data Science Community](https://www.kaggle.com/)
 - [Python Programming course on FreeCodeCamp](https://www.freecodecamp.org/news/python-programming-course/)
@@ -123,6 +125,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Python for Beginners](https://learn.microsoft.com/en-us/windows/python/beginners)
 - [Introduction to Python](https://learn.microsoft.com/en-us/training/modules/intro-to-python/)
 - [Python Tutorial - Test Automation University ](https://testautomationu.applitools.com/python-tutorial/)
+- [Interactive Python Learning in your Browser](https://www.freecodecamp.org/news/python-curriculum-upgrade/)
 - [Awesome Python](https://github.com/vinta/awesome-python)
 - [Awesome Python Books](https://github.com/junnplus/awesome-python-books)
 - [Python Tutorial - W3Schools](https://www.w3schools.com/python/)
@@ -144,6 +147,9 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [The Big Book of Small Python Projects - 81 Easy Practice Programs](https://inventwithpython.com/bigbookpython/)
 - [Python for Data Analysis - Third Edition](https://wesmckinney.com/book/)
 - [Python CheatSheet](https://github.com/gto76/python-cheatsheet)
+- [Top 10 GitHub Repositories to Master Python](https://medium.com/gitconnected/top-10-github-repositories-to-master-python-480a899e9343)
+
+
 
 </details>
 
@@ -1354,7 +1360,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 
 <details>
-<summary>Jenkins </summary>
+<summary>Jenkins</summary>
 
 - [Installing Jenkins](https://www.jenkins.io/doc/book/installing/)
 - [Jenkins Tutorials](https://www.jenkins.io/doc/tutorials/)
@@ -1428,6 +1434,14 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker](https://www.youtube.com/watch?v=R8_veQiYBjI)
 - [How to setup Github Actions for Java with Maven project?](https://medium.com/@iamfaisalkhatri/how-to-setup-github-actions-for-java-with-maven-project-b6fe394be508)
 - [GitHub Actions for testing - Test Automation University](https://testautomationu.applitools.com/github-actions-for-testing/)
+
+</details>
+
+<details>
+<summary>Linux</summary>
+
+- [LinuxZoo - Learn Linux](https://linuxzoo.net/)
+- [How to Use Vim – Tutorial for Beginners](https://www.freecodecamp.org/news/vim-beginners-guide/)
 
 </details>
 
