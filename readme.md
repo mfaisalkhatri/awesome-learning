@@ -149,8 +149,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Python CheatSheet](https://github.com/gto76/python-cheatsheet)
 - [Top 10 GitHub Repositories to Master Python](https://medium.com/gitconnected/top-10-github-repositories-to-master-python-480a899e9343)
 
-
-
 </details>
 
 <details>
@@ -163,6 +161,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [DS & A Problems](https://github.com/mandliya/algorithms_and_data_structures)
 - [Algo Deck](https://github.com/teivah/algodeck)
 - [Roadmap for DSA](https://www.codechef.com/roadmap/data-structures-and-algorithms)
+- [JavaScript Algorithm](https://github.com/trekhleb/javascript-algorithms)
 
 </details>
 
@@ -173,6 +172,9 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Learn Regex step by step, from zero to advanced.](https://regexlearn.com/)
 - [Awesome Books](https://github.com/learn-anything/books)
 - [Awesome DevTools](https://github.com/devtoolsd/awesome-devtools)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
 </details>
 
@@ -256,6 +258,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Awesome System Design](https://github.com/alexpate/awesome-design-systems)
 - [ByteByteGo - YouTube](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw)
 - [System Design for Beginners Course](https://youtu.be/m8Icp_Cid5o?si=4gXNn79VpQLQDBoE)
+- [Head First Software Development PDF](https://pawangkp.wordpress.com/wp-content/uploads/2010/08/oreilly-head-first-software-development-2008.pdf)
  
 </details>
 
