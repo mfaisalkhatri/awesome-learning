@@ -442,7 +442,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Source Control for Test Automation with Git](https://testautomationu.applitools.com/git-tutorial/)
 - [Git & GitHub FreeCodeCamp Playlist](https://youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
 - [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://www.youtube.com/watch?v=Uszj_k0DGsg)
-- [Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more](https://youtu.be/qsTthZi23VEGit) 
+- [Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more](https://youtu.be/qsTthZi23VE) 
 - [Git Branches Tutorial](https://youtu.be/e2IbNHi4uCI)
 - [Learn Git Branching](https://learngitbranching.js.org/)
 - [GitHub Skills](https://skills.github.com/)
