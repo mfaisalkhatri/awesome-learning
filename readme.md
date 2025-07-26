@@ -1449,6 +1449,11 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [LinuxZoo - Learn Linux](https://linuxzoo.net/)
 - [How to Use Vim – Tutorial for Beginners](https://www.freecodecamp.org/news/vim-beginners-guide/)
+- [Learn Linux for free](https://linuxjourney.com/)
+- [Free Linux Tutorials](https://linuxsurvival.com/)
+- [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
+- [Free Linux Basics - KodeKloud](https://github.com/kodekloudhub/linux-basics-course)
+- [Free Linux Course](https://labex.io/skilltrees/linux)
 
 </details>
 
