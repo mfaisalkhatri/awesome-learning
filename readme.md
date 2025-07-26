@@ -312,6 +312,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [What is Smoke Testing?](https://medium.com/@iamfaisalkhatri/what-is-smoke-testing-eeb0104820e8)
 - [What is Sanity Testing?](https://medium.com/@iamfaisalkhatri/what-is-sanity-testing-822f5ac5a95f)
 - [What is Regression Testing?](https://medium.com/@iamfaisalkhatri/what-is-regression-testing-01948692d2ad)
+- [Smoke Testing Vs Sanity Testing](https://medium.com/@iamfaisalkhatri/smoke-testing-vs-sanity-testing-eb1e0ba96453)
+- [Regression Testing Vs Retesting](https://medium.com/@iamfaisalkhatri/regression-testing-vs-retesting-1033ea94f3bb)
 - [Actions to be taken by a QA on finding a Critical Issue in Production](https://medium.com/@iamfaisalkhatri/actions-to-be-taken-by-a-qa-on-finding-a-critical-issue-in-production-b58acf716bed)
 - [What questions should I ask as a new QA in the Team/Organization?](https://medium.com/@iamfaisalkhatri/what-questions-should-i-ask-as-a-new-qa-in-the-team-organization-459cc2f69017)
 - [What Is a Bug Bash?](https://dzone.com/articles/bug-bash-guide)
@@ -1454,6 +1456,19 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
 - [Free Linux Basics - KodeKloud](https://github.com/kodekloudhub/linux-basics-course)
 - [Free Linux Course](https://labex.io/skilltrees/linux)
+
+</details>
+
+<details>
+<summary>Terraform</summary>
+
+- [Terraform Tutorials](https://developer.hashicorp.com/terraform/tutorials)
+- [Terraform Tutorials - Getting Started](https://spacelift.io/blog/terraform-tutorial)
+- [A Comprehensive Terraform Tutorial for Beginners](https://zeet.co/blog/terraform-tutorial)
+- [awesome-tf](https://github.com/shuaibiyy/awesome-tf)
+- [An Ultimate Terraform Hands-on Labs](https://collabnix.github.io/terraform/)
+- [Awesome Terraform - Azure](https://github.com/Azure/awesome-terraform)
+- [Infrastructure as code - Terraform Tutorials](https://github.com/Artemmkin/infrastructure-as-code-tutorial/blob/master/docs/05-terraform.md)
 
 </details>
 
