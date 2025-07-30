@@ -119,7 +119,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
 - [Google's Python Class](https://developers.google.com/edu/python)
 - [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
-- [Kaggle: Your Machine Learning and Data Science Community](https://www.kaggle.com/)
 - [Python Programming course on FreeCodeCamp](https://www.freecodecamp.org/news/python-programming-course/)
 - [Getting Started with Python - Python.org](https://www.python.org/about/gettingstarted/)
 - [Python for Beginners](https://learn.microsoft.com/en-us/windows/python/beginners)
@@ -128,6 +127,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Interactive Python Learning in your Browser](https://www.freecodecamp.org/news/python-curriculum-upgrade/)
 - [Awesome Python](https://github.com/vinta/awesome-python)
 - [Awesome Python Books](https://github.com/junnplus/awesome-python-books)
+- [Free Python Books](https://github.com/revolunet/PythonBooks)
 - [Python Tutorial - W3Schools](https://www.w3schools.com/python/)
 - [Python Programming - Programiz](https://www.programiz.com/python-programming)
 - [Learn Python - Kaggle.com](https://www.kaggle.com/learn/python)
@@ -148,6 +148,9 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Python for Data Analysis - Third Edition](https://wesmckinney.com/book/)
 - [Python CheatSheet](https://github.com/gto76/python-cheatsheet)
 - [Top 10 GitHub Repositories to Master Python](https://medium.com/gitconnected/top-10-github-repositories-to-master-python-480a899e9343)
+- [Advanced Python Course](https://python-course.eu/advanced-python/)
+- [Python CheatSheet](https://github.com/gto76/python-cheatsheet)
+- [Python Programming Exercises](https://inventwithpython.com/pythongently/)
 
 </details>
 
