@@ -1311,6 +1311,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Learning Materials</summary>
 
 - [DevOps Roadmap](https://roadmap.sh/devops)
+- [DevOps Guide](https://github.com/Tikam02/DevOps-Guide)
 - [DevOps Free Labs](https://kodekloud.com/free-labs/devops)
 - [What is DevOps? What Does it Really Mean?](https://devopscube.com/what-is-devops-what-does-it-really-mean/)
 - [Free DevOps Books](https://github.com/rootusercop/Free-DevOps-Books-1)
@@ -1326,6 +1327,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [What is CI/CD Pipeline?](https://www.redhat.com/en/topics/devops/what-cicd-pipeline)
 - [annfelix/DEVOPS-WORLD](https://github.com/annfelix/DEVOPS-WORLD)
 - [awesome-devops](https://github.com/wmariuss/awesome-devops)
+- [Learning DevOps](https://github.com/Pradumnasaraf/DevOps)
+- [Cloud DevOps Learning Resources](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources)
 - [Continuous Integration Patterns and Anti-Patterns](https://dzone.com/refcardz/continuous-integration)
 - [Learn How to Set Up a CI/CD Pipeline From Scratch](https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch)
 - [How to use Docker for Automation Testing?](https://www.engati.com/blog/docker-for-automation-testing)
@@ -1336,6 +1339,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [What Is Observability? Comprehensive Beginners Guide](https://devopscube.com/what-is-observability/)
 - [How to Learn Git for DevOps: Beginners Git Roadmap](https://devopscube.com/git-for-devops/)
 - [DevSecOps Learning Resources](https://www.practical-devsecops.com/devsecops-university/)
+- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
 </details>
 
 <details>
