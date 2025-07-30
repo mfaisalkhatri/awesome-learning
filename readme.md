@@ -531,6 +531,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Playwright Documentation - Java](https://playwright.dev/java/docs/intro)
 - [Playwright Documentation - Python](https://playwright.dev/python/docs/intro)
 - [Playwright Documentation - .NET](https://playwright.dev/dotnet/docs/intro)
+- [Build your first end-to-end test with Playwright](https://learn.microsoft.com/en-us/training/modules/build-with-playwright/)
 - [Join Playwright Discord Server](https://discord.com/servers/playwright-807756831384403968)
 - [Awesome-Playwright](https://github.com/mxschmitt/awesome-playwright)
 - [Playwright - YouTube](https://www.youtube.com/channel/UC46Zj8pDH5tDosqm1gd7WTg)
@@ -553,6 +554,13 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Playwright Java Tutorial: Web Automation Testing | How to work with text fields?](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-how-to-work-with-text-fields-6cc9982ed7b2)
 - [Playwright Java Tutorial: Web Automation Testing | How to perform Mouse Hover action?](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-how-to-perform-mouse-hover-action-08905e7996f7)
 - [Playwright Java Tutorial: Web Automation Testing | How to check if element is displayed, enabled and selected?](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-how-to-check-if-element-is-displayed-enabled-7b11c184e2df)
+- [Modern Test Automation with AI(LLM) and Playwright MCP (Model Context Protocol)](https://medium.com/@kailash-pathak/modern-test-automation-with-ai-llm-and-playwright-mcp-model-context-protocol-0c311292c7fb)
+- [Automating a Web Form With Playwright MCP and MySQL MCP](https://dzone.com/articles/automate-web-form-playwright-mysql-mcp)
+- [Running and Debugging Tests With Playwright UI Mode](https://dzone.com/articles/running-debugging-tests-playwright-ui-mode)
+- [Playwright Fixtures vs POM: Which One Should You Choose?](https://dzone.com/articles/playwright-fixtures-vs-pom)
+- [Fixtures (Built-in Fixtures) in Playwright](https://dzone.com/articles/fixtures-built-in-fixtures-in-playwright)
+- [Seamless CI/CD Integration: Playwright and GitHub Actions](https://dzone.com/articles/seamless-ci-cd-integration-playwright-and-github-actions)
+- [How to Run Playwright Tests Sequentially in Same Browser Context](https://dzone.com/articles/execute-playwright-test-sequentially-same-browser-context)
 
 </details>
 
@@ -567,6 +575,9 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Cypress Testing Tutorial](https://www.youtube.com/watch?v=jX3v3N6oN5M)
 - [Learn Cypress](https://learn.cypress.io/)
 - [Cypress - Youtube](https://www.youtube.com/@Cypressio)
+- [Cypress Debugging Hacks: Tips and Tricks for Speedy Resolution](https://dzone.com/articles/debugging-with-cypress)
+- [Cypress With Cucumber for Seamless End-To-End Testing](https://dzone.com/articles/cypress-with-cucumber-for-seamless-end-to-end)
+
 </details>
 
 <details>
@@ -773,6 +784,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Advanced Cypress](https://testautomationu.applitools.com/advanced-cypress-tutorial/)
 - [How To Test API With Cypress | Filip Hric | Testμ 2022 | LambdaTest](https://www.youtube.com/watch?v=kENXELkT4O4)
 - [API Testing With Cypress](https://dzone.com/articles/api-testing-with-cypress)
+- [Mocking API Response in Cypress](https://dzone.com/articles/mocking-api-response-in-cypress)
 </details>
 
 <details>
