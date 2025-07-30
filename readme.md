@@ -317,6 +317,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [What is Regression Testing?](https://medium.com/@iamfaisalkhatri/what-is-regression-testing-01948692d2ad)
 - [Smoke Testing Vs Sanity Testing](https://medium.com/@iamfaisalkhatri/smoke-testing-vs-sanity-testing-eb1e0ba96453)
 - [Regression Testing Vs Retesting](https://medium.com/@iamfaisalkhatri/regression-testing-vs-retesting-1033ea94f3bb)
+- [Mutation Testing](https://testing.googleblog.com/2021/04/mutation-testing.html)
 - [Actions to be taken by a QA on finding a Critical Issue in Production](https://medium.com/@iamfaisalkhatri/actions-to-be-taken-by-a-qa-on-finding-a-critical-issue-in-production-b58acf716bed)
 - [What questions should I ask as a new QA in the Team/Organization?](https://medium.com/@iamfaisalkhatri/what-questions-should-i-ask-as-a-new-qa-in-the-team-organization-459cc2f69017)
 - [What Is a Bug Bash?](https://dzone.com/articles/bug-bash-guide)
@@ -339,6 +340,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Challenges to Software Testing](https://www.softwaretestinggenius.com/challenges-to-software-testing/)
 - [A Complete Guide to Codeless Testing](https://medium.com/@iamfaisalkhatri/a-complete-guide-to-codeless-testing-2d43c8ba205c)
 - [Whole Team Approach to Continuous Testing](https://testautomationu.applitools.com/the-whole-team-approach-to-continuous-testing/)
+- [Free Learning Resources For Software Testers](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters)
+- [Awesome Sites to Test On](https://github.com/BMayhew/awesome-sites-to-test-on)
 
 </details>
 
