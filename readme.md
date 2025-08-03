@@ -996,6 +996,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
 - [Web Security Academy Learning Paths](https://portswigger.net/web-security/learning-paths)
 - [Try Hack Me](https://tryhackme.com/r/hacktivities)
+- [Ultimate DevSecOps library](https://github.com/sottlmarek/DevSecOps)
 
 </details>
 
