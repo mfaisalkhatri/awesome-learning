@@ -424,7 +424,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [Testing Challenges](http://testingchallenges.thetestingmap.org/)
 - [ProProfs - Software Testing Quizzes, Questions & Answers](https://www.proprofs.com/quiz-school/topic/software-testing)
-- [SkillValue - Software Testing Quiz](https://skillvalue.com/en/quiz/testing/)
 - [Ministry of Testing - Software Testing Challenges](https://www.ministryoftesting.com/challenges)
 </details>
 
@@ -1641,7 +1640,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Baeldung - Introduction to TestNG](https://www.baeldung.com/testng)
 - [TestNG Framework Tutorial: A Comprehensive Guide, with Examples & Best Practices](https://www.lambdatest.com/learning-hub/testng)
 - [Software Testing Help - TestNG tutorial](https://www.softwaretestinghelp.com/testng-tutorial/)
-- [Selenium Easy - TestNG Tutorial](https://www.seleniumeasy.com/testng-tutorials)
 - [A Complete Guide To Exception Tests In TestNG](https://medium.com/@iamfaisalkhatri/a-complete-guide-to-exception-tests-in-testng-f5e17642dc06)
 - [How to Create TestNG.xml File in Eclipse](https://www.lambdatest.com/blog/create-testng-xml-file-execute-parallel-testing/)
 - [Working with multiple testng.xml files](https://medium.com/@iamfaisalkhatri/working-with-multiple-testng-xml-files-f5c36896d6b6)
