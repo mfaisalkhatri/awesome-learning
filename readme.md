@@ -59,6 +59,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [How to Read JSON Files in Java Using the Google Gson Library](https://dzone.com/articles/how-to-read-json-files-in-java-using-google-gson-l)
 - [How to serialize JSON API requests using Java Records?](https://coderlegion.com/477/how-to-serialize-json-api-requests-using-java-records)
 - [Getting Started with Java for Data](https://www.datacamp.com/code-along/getting-started-with-java-for-data)
+- [Practice Java](https://www.codechef.com/practice/java)
 
 </details>
 
@@ -1330,6 +1331,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [DevOps Guide](https://github.com/Tikam02/DevOps-Guide)
 - [DevOps Free Labs](https://kodekloud.com/free-labs/devops)
 - [What is DevOps? What Does it Really Mean?](https://devopscube.com/what-is-devops-what-does-it-really-mean/)
+- [DevOps - Step by Step](https://github.com/MohamedRadwan-DevOps/devops-step-by-step)
 - [Free DevOps Books](https://github.com/rootusercop/Free-DevOps-Books-1)
 - [What is DevOps?](https://learn.microsoft.com/en-us/devops/what-is-devops)
 - [Introduction to DevOps](https://learn.microsoft.com/en-us/training/modules/introduction-to-devops/)
@@ -1703,5 +1705,5 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Generative AI - Course by Google](https://cloud.google.com/learn/training/machinelearning-ai)
 - [Leveraging LLM Models: A Comprehensive Guide for Developers and QA Professionals](https://oril.co/blog/leveraging-llm-models-a-comprehensive-guide-for-developers-and-qa-professionals/)
 - [The AI Engineering Handbook – How to Start a Career and Excel as an AI Engineer](https://www.freecodecamp.org/news/the-ai-engineering-handbook-how-to-start-a-career-and-excel-as-an-ai-engineer/)
-
+- [A collection of papers and resources about the utilization of large language models (LLMs) in software testing.](https://github.com/LLM-Testing/LLM4SoftwareTesting)
 </details>
