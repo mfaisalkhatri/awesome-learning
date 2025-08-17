@@ -151,6 +151,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Advanced Python Course](https://python-course.eu/advanced-python/)
 - [Python CheatSheet](https://github.com/gto76/python-cheatsheet)
 - [Python Programming Exercises](https://inventwithpython.com/pythongently/)
+- [PRACTICE PYTHON - Beginner Python exercises]( https://www.practicepython.org/)
 
 </details>
 
