@@ -999,6 +999,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Web Security Academy Learning Paths](https://portswigger.net/web-security/learning-paths)
 - [Try Hack Me](https://tryhackme.com/r/hacktivities)
 - [Ultimate DevSecOps library](https://github.com/sottlmarek/DevSecOps)
+- [MISP - Open Source Threat Intelligence and Sharing Platform](https://www.misp-project.org)
 
 </details>
 
@@ -1481,6 +1482,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
 - [Free Linux Basics - KodeKloud](https://github.com/kodekloudhub/linux-basics-course)
 - [Free Linux Course](https://labex.io/skilltrees/linux)
+- [How to Secure a Linux Server]( https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 
 </details>
 
