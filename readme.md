@@ -1494,6 +1494,18 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 </details>
 
+<details>
+<summary> Prometheus</summary>
+
+- [Prometheus - Official Website](https://prometheus.io)
+- [Prometheus for Developers](https://github.com/danielfm/prometheus-for-developers)
+- [Getting Started with Prometheus](https://prometheus.io/docs/tutorials/getting_started/)
+- [Guides for Prometheus](https://www.civo.com/learn/categories/prometheus)
+- [Beginner’s Guide to Prometheus Metrics](https://logz.io/learn/prometheus-metrics-guide/)
+- [Get started with Grafana and Prometheus](https://grafana.com/docs/grafana/latest/getting-started/get-started-grafana-prometheus/)
+
+</details>
+
 # TDD
 <details> 
 <summary>Learning Materials</summary>
