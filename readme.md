@@ -463,6 +463,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [GitLab University](https://university.gitlab.com/)
 - [Learn Git and GitLab Tutorial For Beginners | Full Course [2024]](https://youtu.be/NK2BrGpA9wI)
 - [Learn GitLab in 3 Hours | GitLab Complete Tutorial For Beginners](https://youtu.be/8aV5AxJrHDg?si=FyattuGYOCnjwxI5)
+- [Learn Git with Hands-on Labs](https://labex.io/learn/git)
 
 </details>
 
@@ -1000,6 +1001,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Try Hack Me](https://tryhackme.com/r/hacktivities)
 - [Ultimate DevSecOps library](https://github.com/sottlmarek/DevSecOps)
 - [MISP - Open Source Threat Intelligence and Sharing Platform](https://www.misp-project.org)
+- [LabEx Cybersecurity Free Labs](https://labex.io/free-labs/cybersecurity)
 
 </details>
 
@@ -1328,6 +1330,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Learning Materials</summary>
 
+- [Learn DevOps with Free Labs](https://labex.io/free-labs/devops)
 - [DevOps Roadmap](https://roadmap.sh/devops)
 - [DevOps Guide](https://github.com/Tikam02/DevOps-Guide)
 - [DevOps Free Labs](https://kodekloud.com/free-labs/devops)
@@ -1708,4 +1711,5 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Leveraging LLM Models: A Comprehensive Guide for Developers and QA Professionals](https://oril.co/blog/leveraging-llm-models-a-comprehensive-guide-for-developers-and-qa-professionals/)
 - [The AI Engineering Handbook – How to Start a Career and Excel as an AI Engineer](https://www.freecodecamp.org/news/the-ai-engineering-handbook-how-to-start-a-career-and-excel-as-an-ai-engineer/)
 - [A collection of papers and resources about the utilization of large language models (LLMs) in software testing.](https://github.com/LLM-Testing/LLM4SoftwareTesting)
+
 </details>
