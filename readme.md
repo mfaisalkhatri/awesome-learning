@@ -1002,7 +1002,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Ultimate DevSecOps library](https://github.com/sottlmarek/DevSecOps)
 - [MISP - Open Source Threat Intelligence and Sharing Platform](https://www.misp-project.org)
 - [LabEx Cybersecurity Free Labs](https://labex.io/free-labs/cybersecurity)
-
+- [Awesome CICD Security](https://github.com/myugan/awesome-cicd-security)
+- [Cybersecurity for Beginners](https://github.com/microsoft/Security-101)
 </details>
 
 <details> 
@@ -1330,9 +1331,9 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Learning Materials</summary>
 
-- [Learn DevOps with Free Labs](https://labex.io/free-labs/devops)
 - [DevOps Roadmap](https://roadmap.sh/devops)
 - [DevOps Guide](https://github.com/Tikam02/DevOps-Guide)
+- [Learn DevOps with Free Labs](https://labex.io/free-labs/devops)
 - [DevOps Free Labs](https://kodekloud.com/free-labs/devops)
 - [What is DevOps? What Does it Really Mean?](https://devopscube.com/what-is-devops-what-does-it-really-mean/)
 - [DevOps - Step by Step](https://github.com/MohamedRadwan-DevOps/devops-step-by-step)
@@ -1362,6 +1363,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [How to Learn Git for DevOps: Beginners Git Roadmap](https://devopscube.com/git-for-devops/)
 - [DevSecOps Learning Resources](https://www.practical-devsecops.com/devsecops-university/)
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
+
 </details>
 
 <details>
