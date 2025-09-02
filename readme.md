@@ -1059,6 +1059,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Pynt.io](https://www.pynt.io/)
 - [Black Duck](https://community.blackduck.com/s/)
 - [Checkmarx](https://checkmarx.com/)
+- [Vulert](vulert.com) Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 - [Getting started with Burp Suite](https://portswigger.net/burp/documentation/desktop/getting-started)
 - [Burp Suite Professional video tutorials](https://portswigger.net/burp/pro/video-tutorials)
 - [Burp Suite Tutorial – Getting Started With Burp Suite Tool - Software Testing Help](https://www.softwaretestinghelp.com/burp-suite-tutorial/)
@@ -1715,3 +1716,4 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [A collection of papers and resources about the utilization of large language models (LLMs) in software testing.](https://github.com/LLM-Testing/LLM4SoftwareTesting)
 
 </details>
+
