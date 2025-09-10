@@ -1713,5 +1713,9 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Leveraging LLM Models: A Comprehensive Guide for Developers and QA Professionals](https://oril.co/blog/leveraging-llm-models-a-comprehensive-guide-for-developers-and-qa-professionals/)
 - [The AI Engineering Handbook – How to Start a Career and Excel as an AI Engineer](https://www.freecodecamp.org/news/the-ai-engineering-handbook-how-to-start-a-career-and-excel-as-an-ai-engineer/)
 - [A collection of papers and resources about the utilization of large language models (LLMs) in software testing.](https://github.com/LLM-Testing/LLM4SoftwareTesting)
-
+- [Learn AI Engineering](https://github.com/ashishps1/learn-ai-engineering)
+- [AI for Beginners](https://github.com/microsoft/ai-for-beginners)
+- [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners)
+- [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+- [IoT for Beginners](https://github.com/microsoft/IoT-For-Beginners)
 </details>
