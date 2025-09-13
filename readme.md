@@ -374,11 +374,13 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [Free Software Testing books](https://github.com/bigfool/free-software-testing-books/blob/master/free-software-testing-books.md#standards-in-software-testing)
 - [Software Testing : A Craftsman's approach](https://malenezi.github.io/malenezi/SE401/Books/Software-Testing-A-Craftsman-s-Approach-Fourth-Edition-Paul-C-Jorgensen.pdf)
-- [Agile Testing by Lisa Crispin](https://www.pdfdrive.com/agile-testing-e47964421.html)
-- [The art of software testing](https://www.pdfdrive.com/the-art-of-software-testing-3rd-edition-e166742955.html)
-- [Complete Guide to Test Automation -Arnon Axelrod](https://www.pdfdrive.com/complete-guide-to-test-automation-techniques-practices-and-patterns-for-building-and-maintaining-effective-software-projects-e184708672.html)
-- [Experiences of Test Automation: Case Studies of Software Test Automation](https://www.pdfdrive.com/experiences-of-test-automation-case-studies-of-software-test-automation-e195404210.html) 
-- [Software Quality Engineering: Testing, Quality Assurance, and Quantifable Improvement](https://www.pdfdrive.com/software-quality-engineering-testing-quality-assurance-and-e16540425.html)
+- [Agile Testing: A Practical Guide for Testers and Agile Teams (Addison-Wesley Signature Series (Cohn)](https://welib.org/md5/8c798ac75282576e0f1e3e79bf662534)
+- [The art of software testing](https://welib.org/md5/036a9d7b6d7c1d48f92f193ef06f8177)
+- [Complete Guide to Test Automation : Techniques, Practices, and Patterns for Building and Maintaining Effective Software Projects](https://welib.org/md5/5d809c7946e51a237e44e8ebe3696d2c)
+- [Experiences of Test Automation: Case Studies of Software Test Automation](https://welib.org/md5/e56f617a142293b6eeb5ef53d0d86988) 
+- [Software Quality Engineering: Testing, Quality Assurance, and Quantifable Improvement](https://welib.org/md5/b8bf922da30669f4691aaa87e49ba69c)
+- [Fundamentals of Software Testing 2nd Edition, Revised and Updated](https://welib.org/md5/a9927f7835f1d1c648ac36aa69cfaeed)
+- [Software Testing Foundations, 5th Edition A Study Guide for the Certified Tester Exam](https://welib.org/md5/d1e633c5c7e555394b530dd312360721)
 
 </details>
 
