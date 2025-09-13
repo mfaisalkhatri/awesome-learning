@@ -1363,6 +1363,11 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [How to Learn Git for DevOps: Beginners Git Roadmap](https://devopscube.com/git-for-devops/)
 - [DevSecOps Learning Resources](https://www.practical-devsecops.com/devsecops-university/)
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
+- [DevOps and IT Cheat-Sheet Collection](https://github.com/sk3pp3r/cheat-sheet-pdf)
+- [Awesome DevSecOps](https://github.com/devsecops/awesome-devsecops)
+- [A collection of Linux Sysadmin Test Questions and Answers](https://github.com/trimstray/test-your-sysadmin-skills)
+- [A curated list of Site Reliability and Production Engineering resources](https://github.com/dastergon/awesome-sre)
+- [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
 </details>
 
