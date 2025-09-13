@@ -60,6 +60,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [How to serialize JSON API requests using Java Records?](https://coderlegion.com/477/how-to-serialize-json-api-requests-using-java-records)
 - [Getting Started with Java for Data](https://www.datacamp.com/code-along/getting-started-with-java-for-data)
 - [Practice Java](https://www.codechef.com/practice/java)
+- [100+ Best System Design Resources for Interview and Learning](https://github.com/javabuddy/best-system-design-resources)
 
 </details>
 
@@ -1612,7 +1613,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Test Credit Card Account Numbers](https://www.paypalobjects.com/en_GB/vhelp/paypalmanager_help/credit_card_numbers.htm)
 - [Fake Credit Card Numbers for Testing](https://docs.stripe.com/testing)
 - [Fake Credit Card Number Generator](https://www.vccgenerator.org/)
-- [Dummy Credit Card Generator](https://www.akto.io/tools/credit-card-generator)
 - [Online Character Counter](https://quillbot.com/character-counter)
 - [Text Generator](https://www.blindtextgenerator.com/lorem-ipsum)
 - [Dummy Text Generator](https://www.webtools.services/dummy-text-generator)
