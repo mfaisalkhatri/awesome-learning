@@ -1613,7 +1613,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Test Credit Card Account Numbers](https://www.paypalobjects.com/en_GB/vhelp/paypalmanager_help/credit_card_numbers.htm)
 - [Fake Credit Card Numbers for Testing](https://docs.stripe.com/testing)
 - [Fake Credit Card Number Generator](https://www.vccgenerator.org/)
-- [Dummy Credit Card Generator](https://www.akto.io/tools/credit-card-generator)
 - [Online Character Counter](https://quillbot.com/character-counter)
 - [Text Generator](https://www.blindtextgenerator.com/lorem-ipsum)
 - [Dummy Text Generator](https://www.webtools.services/dummy-text-generator)
