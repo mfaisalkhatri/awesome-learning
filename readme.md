@@ -295,6 +295,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Top 10 GitHub Repositories for Software Testers!!](https://medium.com/@iamfaisalkhatri/top-10-github-repositories-for-software-testers-4db66106ed18)
 - [Awesome-Testing](https://github.com/TheJambo/awesome-testing)
 - [Awesome-test-automation](https://github.com/atinfo/awesome-test-automation)
+- [Awesome-Test-Case_design](https://github.com/Treeify-ai/Awesome-Test-Case-Design/tree/main)
 - [Marting Fowler's Blog](https://martinfowler.com/tags/testing.html)
 - [Angie Jone's Blog](https://angiejones.tech/)
 - [Corina Pip's Blog](https://imalittletester.com/)
@@ -1726,3 +1727,4 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 - [IoT for Beginners](https://github.com/microsoft/IoT-For-Beginners)
 </details>
+
