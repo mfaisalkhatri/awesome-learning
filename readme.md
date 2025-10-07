@@ -837,6 +837,21 @@ I have been asked by many about my career transformation journey from Manual Tes
 </details>
 
 <details>
+<summary>Tools/Frameworks for API Testing</summary>
+
+- [HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.](https://github.com/httpie/cli)
+- [Hurl, run and test HTTP requests with plain text.](https://github.com/Orange-OpenSource/hurl)
+- [Insomnia - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.](https://github.com/Kong/insomnia)
+- [Hoppscotch - Open-source alternative to Postman, Insomnia)](https://github.com/hoppscotch/hoppscotch)
+- [Karate DSL](https://github.com/karatelabs/karate)
+- [Newman - Commandline collection runner for Postman](https://github.com/postmanlabs/newman)
+- [xh - Friendly and fast tool for sending HTTP requests](https://github.com/ducaale/xh)
+- [Requestly - Free and open-source API Client & Interceptor.](https://github.com/requestly/requestly)
+- [schemathesis](https://github.com/schemathesis/schemathesis)
+- [Restxox](https://github.com/flawiddsouza/Restfox)
+</details>
+
+<details>
 <summary>Demo APIs for Practice </summary>
 
 - [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce)
@@ -1727,4 +1742,3 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 - [IoT for Beginners](https://github.com/microsoft/IoT-For-Beginners)
 </details>
-
