@@ -1,5 +1,5 @@
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 # Awesome Learning
 
@@ -124,7 +124,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Python Programming course on FreeCodeCamp](https://www.freecodecamp.org/news/python-programming-course/)
 - [Getting Started with Python - Python.org](https://www.python.org/about/gettingstarted/)
 - [Python for Beginners](https://learn.microsoft.com/en-us/windows/python/beginners)
-- [Introduction to Python](https://learn.microsoft.com/en-us/training/modules/intro-to-python/)
+- [Introduction to Python](https://learn.microsoft.com/en-in/shows/intro-to-python-development/)
 - [Python Tutorial - Test Automation University ](https://testautomationu.applitools.com/python-tutorial/)
 - [Interactive Python Learning in your Browser](https://www.freecodecamp.org/news/python-curriculum-upgrade/)
 - [Awesome Python](https://github.com/vinta/awesome-python)
@@ -176,7 +176,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [Project based learning](https://github.com/practical-tutorials/project-based-learning)
 - [Learn Regex step by step, from zero to advanced.](https://regexlearn.com/)
-- [Awesome Books](https://github.com/learn-anything/books)
+- [Awesome Books](https://github.com/linsa-io/books)
 - [Awesome DevTools](https://github.com/devtoolsd/awesome-devtools)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
@@ -260,7 +260,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [system-design-interview](https://github.com/checkcheckzz/system-design-interview)
 - [System Design Preparation](https://github.com/shashank88/system_design)
 - [System Design Resources](https://github.com/InterviewReady/system-design-resources)
-- [System Design Learning Resources](https://github.com/systemdesign42/system-design)
+- [System Design Learning Resources](https://github.com/JakobTheDev/awesome-devsecops)
 - [Awesome System Design](https://github.com/alexpate/awesome-design-systems)
 - [ByteByteGo - YouTube](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw)
 - [System Design for Beginners Course](https://youtu.be/m8Icp_Cid5o?si=4gXNn79VpQLQDBoE)
@@ -281,7 +281,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Guru99.com](https://www.guru99.com/software-testing.html)
 - [Software Testing Material](https://www.softwaretestingmaterial.com/)
 - [Software Testing Help](https://www.softwaretestinghelp.com/)
-- [Postman Learning Centre](https://learning.postman.com/docs/getting-started/introduction/)
+- [Postman Learning Centre](https://learning.postman.com/docs/introduction/overview/)
 - [BlazeMeter University](https://www.blazemeter.com/university)
 - [Software Testing Interview Preparation](https://youtube.com/playlist?list=PLMer2TvhZIw9WWVaZM80epFfZ9aErSGHZ&si=9JmnPTQbUKpcpkRU)
 - [Software Testing Tutorials](https://youtube.com/playlist?list=PLMer2TvhZIw-Qhz82h0BvWWemgO-PQQaN&si=3F97zJxGhOyqJhUx)
@@ -576,7 +576,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details> 
 <summary>Cypress</summary>
 
-- [Cypress Documentation](https://docs.cypress.io/guides/overview/why-cypress)
+- [Cypress Documentation](https://docs.cypress.io/app/get-started/why-cypress)
 - [Introduction to Cypress](https://testautomationu.applitools.com/cypress-tutorial/)
 - [Cypress with TypeScript](https://testautomationu.applitools.com/cypress-with-typescript/)
 - [Advanced Cypress](https://testautomationu.applitools.com/advanced-cypress-tutorial/)
@@ -645,7 +645,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [The-internet - herokuapp](https://the-internet.herokuapp.com/)
 - [LambdaTest Selenium Playground](https://www.lambdatest.com/selenium-playground/)
 - [OWASP Juice Shop](https://juice-shop.herokuapp.com/#/)
-- [Swag Labs Demo](https://www.saucedemo.com/v1/)
+- [Swag Labs Demo](https://www.saucedemo.com)
 - [LambdaTest ECommerce Playground](https://ecommerce-playground.lambdatest.io/)
 - [Practice- Expand Testing](https://practice.expandtesting.com/)
 - [Tools Shop Demo Website](https://practicesoftwaretesting.com/)
@@ -709,7 +709,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Keploy</summary>
 
 - [Keploy Official Website](https://keploy.io)
-- [Keploy Official Docs](https://docs.keploy.io)
+- [Keploy Official Docs](https://keploy.io/docs/)
 - [Keploy Official Community Blogs](https://keploy.io/blog/community)
 - [Keploy OFficial Tech Blogs](https://keploy.io/blog/technology)
 - [Keploy Installation Guide](https://keploy.io/docs/server/installation/)
@@ -912,7 +912,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Appium Conference](https://www.youtube.com/playlist?list=PL9Z-JgiTsOYRCcJhDfmKAah9XmAp2b903)
 - [Appium.io](https://appium.io/)
 - [Appium Desired Capabilities](https://appium.io/docs/en/2.0/cli/args/)
-- [Appium 2.0 Documentation](https://appium.github.io/appium/docs/en/2.0/)
+- [Appium 2.0 Documentation](http://appium.io/docs/en/2.0/)
 - [Beginner’s Guide to Appium 2.0](https://medium.com/@iamfaisalkhatri/beginners-guide-to-appium-2-0-d8118b31837c)
 - [Appium Inspector](https://github.com/appium/appium-inspector)
 - [Appium Desktop](https://github.com/appium/appium-desktop)
@@ -920,7 +920,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Inspecting elements of an app using Appium Inspector and BrowserStack!](https://medium.com/@iamfaisalkhatri/inspecting-elements-of-an-app-using-appium-inspector-and-browserstack-32c095a5333c)
 - [Mobile Automation with Appium in Java](https://testautomationu.applitools.com/appium-java-tutorial/)
 - [Mobile Automation with Appium in JavaScript](https://testautomationu.applitools.com/appium-javascript-tutorial/)
-- [Appium Version 2.0 Fundamentals](https://university.blazemeter.com/)
+- [Appium Version 2.0 Fundamentals](https://university.blazemeter.com/learn)
 - [Appium 2 Migration Guide: Migrating From Appium 1.x To Appium 2.x](https://medium.com/@iamfaisalkhatri/appium-2-migration-guide-migrating-from-appium-1-x-to-appium-2-x-f1721b31197)
 - [Getting started with Appium 2.0: Your beginner’s guide](https://bitrise.io/blog/post/getting-started-with-appium-2-0-your-beginners-guide)
 - [How To Identify Locators In Appium [With Examples]](https://www.lambdatest.com/blog/locators-in-appium/)
@@ -950,7 +950,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Automating Flutter Apps with Appium Flutter Driver using Appium Java Client](https://testsigma.com/blog/automating-flutter-apps-with-appium-flutter-driver/)
 - [Appium Flutter Finder Java](https://github.com/ashwithpoojary98/javaflutterfinder)
 - [CommonFinders Class Flutter](https://api.flutter.dev/flutter/flutter_test/CommonFinders-class.html)
-- [Appium Flutter Driver](https://github.com/appium-userland/appium-flutter-driver)
+- [Appium Flutter Driver](https://github.com/appium/appium-flutter-driver)
 - [Flutter App Test Automation poc | Appium Flutter Driver| Flutter Finder](https://www.youtube.com/watch?v=fsfMw_e7e9U)
 - [Automated Flutter App Testing - Testingbot](https://testingbot.com/support/mobile/flutter.html#start)
 - [Appium Flutter Driver - A Use Case Demo by Atmaram Naik](https://www.youtube.com/watch?v=hv74YaISJSg)
@@ -1017,7 +1017,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [awesome-api-security](https://github.com/arainho/awesome-api-security)
 - [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
 - [Web Security Academy Learning Paths](https://portswigger.net/web-security/learning-paths)
-- [Try Hack Me](https://tryhackme.com/r/hacktivities)
+- [Try Hack Me](https://tryhackme.com/hacktivities)
 - [Ultimate DevSecOps library](https://github.com/sottlmarek/DevSecOps)
 - [MISP - Open Source Threat Intelligence and Sharing Platform](https://www.misp-project.org)
 - [LabEx Cybersecurity Free Labs](https://labex.io/free-labs/cybersecurity)
@@ -1092,7 +1092,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [A Complete Performance Testing Guide With Examples](https://www.softwaretestinghelp.com/introduction-to-performance-testing-loadrunner-training-tutorial-part-1/)
 - [What is Performance Testing?](https://www.techtarget.com/searchsoftwarequality/definition/performance-testing)
-- [Types of Performance Testing](https://abstracta.us/blog/performance-testing/types-performance-tests/)
+- [Types of Performance Testing](https://www.globalapptesting.com/blog/performance-testing-types)
 - [Master Performance Testing](https://university.blazemeter.com/)
 - [Performance Testing vs. Load Testing vs. Stress Testing](https://www.blazemeter.com/blog/performance-testing-vs-load-testing-vs-stress-testing)
 - [What is Throughput in Performance Testing?](https://testguild.com/performance-testing-what-is-throughput/)
@@ -1101,7 +1101,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [awesome-performance-testing](https://github.com/andriisoldatenko/awesome-performance-testing)
 - [15 Top Load Testing Tools Open Source MUST KNOW in 2021](https://www.youtube.com/watch?v=KECr2BujqtM)
 - [15 BEST Performance Testing Tools (Load Testing Tools) In 2023](https://www.softwaretestinghelp.com/performance-testing-tools-load-testing-tools/)
-- [Performance Testing Tools: Types, Use & More](https://www.knowledgehut.com/blog/software-testing/performance-testing-tools)
+- [Different Types of Performance Testing Tools](https://www.headspin.io/blog/best-performance-testing-tools)
 </details>
 
 <details> 
@@ -1110,9 +1110,9 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Beginner’s Guide to Load Testing with k6](https://medium.com/swlh/beginners-guide-to-load-testing-with-k6-85ec614d2f0d)
 - [Awesome-k6](https://github.com/grafana/awesome-k6)
 - [API performance testing with k6](https://circleci.com/blog/api-performance-testing-with-k6/)
-- [K6 - Usage Guide and Docs](https://k6.io/docs/)
-- [K6 - Examples and Tutorials](https://k6.io/docs/examples/)
-- [K6 - API Load Testing](https://k6.io/docs/testing-guides/api-load-testing/)
+- [K6 - Usage Guide and Docs](https://grafana.com/docs/k6/latest/)
+- [K6 - Examples and Tutorials](https://grafana.com/docs/k6/latest/examples/)
+- [K6 - API Load Testing](https://grafana.com/blog/2024/01/30/api-load-testing/)
 - [How to get started with K6?](https://isitobservable.io/site-reliability-engineering/how-to-get-started-with-k6)
 - [Performance Testing with K6](https://github.com/cajames/performance-testing-with-k6)
 - [Grafana K6](https://github.com/grafana/k6)
@@ -1123,10 +1123,10 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Gatling</summary>
 
-- [Free Gatling Courses on Gatling Academy](https://academy.gatling.io/courses)
+- [Free Gatling Courses on Gatling Academy](https://docs.gatling.io/guides/)
 - [Awesome-Gatling](https://github.com/aliesbelik/awesome-gatling)
 - [Gatling Tutorial: Getting Started With Gatling Load Testing](https://www.softwaretestinghelp.com/gatling-tutorial/)
-- [Gatling QuickStart](https://gatling.io/docs/gatling/tutorials/quickstart/)
+- [Gatling Tutorials](https://docs.gatling.io/tutorials/)
 - [Load Testing with Gatling - James Willett](https://www.james-willett.com/gatling-load-testing-complete-guide/)
 - [Intro to Gatling](https://www.baeldung.com/introduction-to-gatling)
 - [8 Reasons You Should Use Gatling for Load Testing](https://www.blazemeter.com/blog/gatling-load-testing)
@@ -1195,7 +1195,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [What Is IVR System And How To Perform IVR Testing](https://www.softwaretestinghelp.com/ivr-testing/)
 - [Interactive Voice Response (IVR) explained](https://www.ir.com/blog/communications/ivr-testing-explained)
-- [Challenges to In-House IVR Testing](https://www.spearline.com/blog/challenges-to-in-house-ivr-testing/)
+- [Top 5 IVR Challenges and How to Overcome Them](https://blog.klearcom.com/top-5-ivr-challenges-and-how-to-overcome-them)
 - [Top 7 Open-Source IVR Automation Testing Tools for Businesses](https://www.hitechnectar.com/blogs/top-7-open-source-ivr-automation-testing-tools-for-businesses/)
 
 </details>
@@ -1361,13 +1361,13 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Introduction to DevOps](https://learn.microsoft.com/en-us/training/modules/introduction-to-devops/)
 - [DevOps Engineering Course for Beginners](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)
 - [Training for DevOps Engineers](https://learn.microsoft.com/en-us/training/career-paths/devops-engineer)
-- [Free Devops Books](https://github.com/nkatre/Free-DevOps-Books-1)
+- [Free Devops Books](https://github.com/rootusercop/Free-DevOps-Books-1)
 - [Lets-DevOps/awesome-learning](https://github.com/Lets-DevOps/awesome-learning)
 - [90 Days Of DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 - [Awesome-CIandCD](https://github.com/cicdops/awesome-ciandcd)
 - [What is CI/CD?](https://www.redhat.com/en/topics/devops/what-is-ci-cd#ci/cd-tools)
 - [What is CI/CD Pipeline?](https://www.redhat.com/en/topics/devops/what-cicd-pipeline)
-- [annfelix/DEVOPS-WORLD](https://github.com/annfelix/DEVOPS-WORLD)
+- [annfelix/DEVOPS-WORLD](https://github.com/ann-felix/DEVOPS-WORLD)
 - [awesome-devops](https://github.com/wmariuss/awesome-devops)
 - [Learning DevOps](https://github.com/Pradumnasaraf/DevOps)
 - [Cloud DevOps Learning Resources](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources)
@@ -1375,7 +1375,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Learn How to Set Up a CI/CD Pipeline From Scratch](https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch)
 - [How to use Docker for Automation Testing?](https://www.engati.com/blog/docker-for-automation-testing)
 - [Test Automation in DevOps](https://testautomationu.applitools.com/test-automation-in-devops/)
-- [Get started with Azure DevOps](https://learn.microsoft.com/en-us/training/paths/evolve-your-devops-practices/)
+- [Get started with Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/get-started/?view=azure-devops)
 - [Continuous Testing with Azure DevOps](https://testautomationu.applitools.com/azure-devops-tutorial/)
 - [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
 - [What Is Observability? Comprehensive Beginners Guide](https://devopscube.com/what-is-observability/)
@@ -1466,7 +1466,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [The Ultimate Guide to End to End Tests with Selenium and Docker](https://www.freecodecamp.org/news/end-to-end-tests-with-selenium-and-docker-the-ultimate-guide/)
 - [Docker full Course](https://dev.to/techworld_with_nana/full-docker-course-free-4hl3)
 - [Training - Play with Docker](https://training.play-with-docker.com/)
-- [Docker Labs](https://github.com/docker/labs)
+- [Docker Labs](https://github.com/docker-archive-public/docker.labs)
 - [DockerLabs - Getting Started with Docker](https://github.com/collabnix/dockerlabs)
 - [Docker Tutorial for Beginners | Docker Full Course](https://www.youtube.com/watch?v=zJ6WbK9zFpI)
 - [Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers](https://www.youtube.com/watch?v=fqMOX6JJhGo)
@@ -1474,7 +1474,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Docker Tutorial for Beginners [FULL COURSE in 3 Hours]](https://www.youtube.com/watch?v=3c-iBn73dDE)
 - [Parallel Execution of Tests using Selenium Grid 4 with Docker Compose](https://medium.com/@iamfaisalkhatri/parallel-execution-of-tests-using-selenium-grid-4-with-docker-compose-2dc243f4fe8b)
 - [Introduction to Docker Compose](https://www.baeldung.com/ops/docker-compose)
-- [Docker Compose Documentation](https://docs.docker.com/get-started/08_using_compose/)
+- [Docker Compose Documentation](https://docs.docker.com/get-started/workshop/08_using_compose/)
 - [Docke Compose GitHub](https://github.com/docker/compose)
 - [Awesome Docker Compose](https://github.com/docker/awesome-compose)
 - [Docker Tutorial for Beginners – Introduction & Getting Started](https://spacelift.io/blog/docker-tutorial)
@@ -1492,7 +1492,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>GitHub Actions</summary>
 
 - [GitHub Actions Documentation](https://docs.github.com/en/actions)
-- [GitHub Actions Guide](https://docs.github.com/en/actions/guides)
+- [GitHub Actions Guide](https://docs.github.com/en/actions/tutorials)
 - [Automate your workflow from idea to production](https://github.com/features/actions)
 - [How to setup GitHub Actions for NodeJS project?](https://medium.com/@iamfaisalkhatri/how-to-setup-github-actions-for-node-js-project-1edd6ce1dbe1)
 - [GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker](https://www.youtube.com/watch?v=R8_veQiYBjI)
@@ -1506,11 +1506,11 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [LinuxZoo - Learn Linux](https://linuxzoo.net/)
 - [How to Use Vim – Tutorial for Beginners](https://www.freecodecamp.org/news/vim-beginners-guide/)
-- [Learn Linux for free](https://linuxjourney.com/)
+- [Learn Linux for free](https://labex.io/linuxjourney)
 - [Free Linux Tutorials](https://linuxsurvival.com/)
 - [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
 - [Free Linux Basics - KodeKloud](https://github.com/kodekloudhub/linux-basics-course)
-- [Free Linux Course](https://labex.io/skilltrees/linux)
+- [Free Linux Course](https://labex.io/learn/linux)
 - [How to Secure a Linux Server]( https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 
 </details>
@@ -1577,7 +1577,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Behaviour Driven Development: Tips for writing better feature files](https://www.bbc.co.uk/blogs/internet/entries/ff14236d-098a-3565-b678-ff4ba5776a5f)
 - [Serenity Dojo TV](https://www.youtube.com/@JohnFergusonSmart)
 - [Serenity Core](https://github.com/serenity-bdd/serenity-core)
-- [Cucumber books](https://cucumber.io/docs/professional/books/)
+- [Cucumber books](https://cucumber.io/learn/)
 - [BDD Community](https://cucumber.io/docs/bdd/)
 - [IntelliJ Cucumber Support](https://www.jetbrains.com/help/idea/cucumber-support.html)
 </details>
@@ -1657,8 +1657,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>JUnit</summary>
  
-- [JUnit 5 - Documentation](https://junit.org/junit5/)
-- [Junit 5 - GitHub](https://github.com/junit-team/junit5)
+- [JUnit 5 - Documentation](https://junit.org/)
+- [Junit 5 - GitHub](https://github.com/junit-team/junit-framework)
 - [JUnit 5 Tutorial](https://testautomationu.applitools.com/junit5-tutorial/)
 - [Beginner’s Guide to JUnit 5](https://medium.com/@iamfaisalkhatri/beginners-guide-to-junit-5-7756286cd4be)
 - [TutorialsPoint - JUnit Tutorial](https://www.tutorialspoint.com/junit/index.htm)
@@ -1700,7 +1700,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Effective Python Testing With pytest](https://realpython.com/pytest-python-testing/)
 - [Introduction to pytest](https://testautomationu.applitools.com/pytest-tutorial/)
 - [pytest Fixtures: A Detailed Guide With Examples](https://www.lambdatest.com/blog/end-to-end-tutorial-for-pytest-fixtures-with-examples/)
-- [Testing Python Applications with Pytest](https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest)
+- [Testing Python Applications with Pytest](https://semaphore.io/community/tutorials/testing-python-applications-with-pytest)
 - [A Beginner's Guide to Unit Testing with Pytest](https://betterstack.com/community/guides/testing/pytest-guide/)
 
 </details>
@@ -1708,10 +1708,10 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>NodeMaven</summary>
 
-[NodeMaven](https://go.nodemaven.com/automation_proxy) is a proxy provider that provides reliable residential proxies using which automation tests could be run to overcome IP blocks.
+[NodeMaven](https://nodemaven.com/?) is a proxy provider that provides reliable residential proxies using which automation tests could be run to overcome IP blocks.
 
 - [Registration link - _Use F86 at checkout to get extra 2GB of proxy_](https://go.nodemaven.com/automation_proxy)
-- [Documentation](https://docs.nodemaven.com/)
+- [Documentation](https://docs.nodemaven.com/en/)
 - [Use Cases](https://nodemaven.com/#usecases-section)
 - [Advantages](https://nodemaven.com/#advantages-section)
 
