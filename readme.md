@@ -154,6 +154,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Python CheatSheet](https://github.com/gto76/python-cheatsheet)
 - [Python Programming Exercises](https://inventwithpython.com/pythongently/)
 - [PRACTICE PYTHON - Beginner Python exercises]( https://www.practicepython.org/)
+- [The right way to install Python on a Mac](https://medium.com/marvelous-mlops/the-rightway-to-install-python-on-a-mac-f3146d9d9a32)
 
 </details>
 
@@ -530,6 +531,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Selenium Webdriver Data Driven Testing | Reading test data from Excel Sheet](https://youtu.be/KtsnA-F-nRs?si=Lj4kdV-anyMQBbr1)
 - [Selenium WebDriver Data Driven Testing| Reading data from JSON file](https://youtu.be/9a7WOl_VUog?si=ew1OOd1S1mQ3fRjS)
 - [How to Handle Mouse Actions in Selenium](https://levelup.gitconnected.com/how-to-handle-mouse-actions-in-selenium-bdf6c712f097)
+- [What Is Page Object Model (POM) Design Pattern](https://medium.com/@iamfaisalkhatri/what-is-page-object-model-pom-design-pattern-9d0f3e831bdc)
 
 </details>
 
@@ -570,6 +572,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Fixtures (Built-in Fixtures) in Playwright](https://dzone.com/articles/fixtures-built-in-fixtures-in-playwright)
 - [Seamless CI/CD Integration: Playwright and GitHub Actions](https://dzone.com/articles/seamless-ci-cd-integration-playwright-and-github-actions)
 - [How to Run Playwright Tests Sequentially in Same Browser Context](https://dzone.com/articles/execute-playwright-test-sequentially-same-browser-context)
+- [How to Use the Playwright Click() Method in Test Automation](https://levelup.gitconnected.com/how-to-use-the-playwright-click-method-in-test-automation-2535a5ed12c2)
 
 </details>
 
@@ -673,6 +676,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Introduction to API Testing</summary>
 
 - [API Design Roadmap](https://roadmap.sh/api-design)
+- [What is API Testing?](https://medium.com/@iamfaisalkhatri/what-is-api-testing-2921e3114afb)
 - [REST API Concepts and examples](https://www.youtube.com/watch?v=7YcW25PHnAA)
 - [Testing Strategies in a Microservice Architecture](https://martinfowler.com/articles/microservice-testing/)
 - [What is an API? API for Beginners](https://www.youtube.com/watch?v=GZvSYJDk-us)
@@ -737,6 +741,10 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Using REST-assured to Test OAuth 2.0 flow Examples](https://devqa.io/rest-assured-oauth2-workflow-examples/)
 - [Learn API Testing using Rest-Assured | Tutorial | Part 1](https://www.youtube.com/live/xLKpdQE0oKY?si=iJq_dXxYKorXXKoi)
 - [Learn API Testing using Rest-Assured | Part 2 | Code Cleanup and Refactoring | Tutorial](https://www.youtube.com/live/AFQSolEeu74?si=ZJFTObcE7c32IZdj)
+- [How to Test POST Requests with Rest-Assured Java for API Testing: Part I](https://medium.com/@iamfaisalkhatri/how-to-test-post-requests-with-rest-assured-for-api-testing-part-i-d697efab5875)
+- [How to Test POST Requests with Rest-Assured Java for API Testing: Part II](https://medium.com/javarevisited/how-to-test-post-requests-with-rest-assured-java-for-api-testing-part-ii-30dfe04a533a)
+- [How to test a SOAP API request with Rest-Assured Java](https://medium.com/javarevisited/how-to-test-a-soap-api-request-with-rest-assured-java-c7fbab845c46)
+- []()
 
 </details>
 
