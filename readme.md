@@ -46,7 +46,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Mkyong](https://mkyong.com/)
 - [Vogella - Java Tutorials](https://www.vogella.com/tutorials/java.html)
 - [CodeGym](https://codegym.cc/)
-- [SoloLearn](https://www.sololearn.com/learn/courses/java-introduction)
+- [SoloLearn](https://www.sololearn.com/en/learn/courses/java-introduction)
 - [Java Design Patterns - Refactoring Guru](https://refactoring.guru/design-patterns)
 - [Java Design Patterns - Github](https://github.com/iluwatar/java-design-patterns)
 - [Introduction to Computer Science using Java](https://chortle.ccsu.edu/javaLessons/index.html)
@@ -229,7 +229,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [DRY, KISS & YAGNI Principles](https://henriquesd.medium.com/dry-kiss-yagni-principles-1ce09d9c601f)
 - [DRY Software Design Principle](https://www.baeldung.com/cs/dry-software-design-principle)
-- [DRY (Don’t Repeat Yourself) In Java](https://www.w3schools.blog/dry-dont-repeat-yourself-in-java)
+- [DRY (Don’t Repeat Yourself) In Java](https://www.geeksforgeeks.org/java/dry-dont-repeat-yourself-principle-in-java-with-examples/)
 
 </details>
 
@@ -283,8 +283,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Software Testing Help](https://www.softwaretestinghelp.com/)
 - [Postman Learning Centre](https://learning.postman.com/docs/introduction/overview/)
 - [BlazeMeter University](https://www.blazemeter.com/university)
-- [Software Testing Interview Preparation](https://youtube.com/playlist?list=PLMer2TvhZIw9WWVaZM80epFfZ9aErSGHZ&si=9JmnPTQbUKpcpkRU)
-- [Software Testing Tutorials](https://youtube.com/playlist?list=PLMer2TvhZIw-Qhz82h0BvWWemgO-PQQaN&si=3F97zJxGhOyqJhUx)
+- [Software Testing Interview Preparation](https://www.youtube.com/playlist?list=PLMer2TvhZIw9WWVaZM80epFfZ9aErSGHZ&si=9JmnPTQbUKpcpkRU)
+- [Software Testing Tutorials](https://www.youtube.com/playlist?list=PLMer2TvhZIw-Qhz82h0BvWWemgO-PQQaN&si=3F97zJxGhOyqJhUx)
 - [Five Point Plan To Start Automation Testing](https://medium.com/gitconnected/five-point-plan-to-start-automation-testing-ea009ecca604)
 
 </details>
@@ -310,7 +310,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [LambdaTest Learning Hub](https://www.lambdatest.com/learning-hub/)
 - [pCloudy Blog ](https://www.pcloudy.com/blog/)
 - [BrowserStack Blog](https://www.browserstack.com/blog/)
-- [Software Testing News](https://www.softwaretestingnews.co.uk/)
+- [Software Testing News](https://softwaretestingnews.co.uk/)
 - [OnTestAutomation](https://www.ontestautomation.com/blog/)
 - [Articles by Lisa Crispin](https://lisacrispin.com/articles/) 
 - [Wasiq Bhamla's Blog](https://medium.com/@WasiqB)
@@ -396,7 +396,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [Test Automation Frameworks](https://smartbear.com/learn/automated-testing/test-automation-frameworks/)
 - [What is a Test Automation Framework? | Best Practices](https://youtu.be/uGevBR2Luzo?si=cIMj5S_dNXElrJiz)
-- [Complete Guide To Automation Testing Frameworks](https://www.lambdatest.com/blog/automation-testing-frameworks/)
+- [Test Automation Framework Guide](https://www.ranorex.com/blog/test-automation-framework-guide/)
 - [Test Automation Framework: What is, Architecture & Types](https://www.guru99.com/test-automation-framework.html)
 - [Types of Test Automation Frameworks | Everything You Should Know](https://www.softwaretestingmaterial.com/types-test-automation-frameworks/)
 - [What is Data Driven Testing: All You Need to Know?](https://www.lambdatest.com/learning-hub/data-driven-testing)
@@ -437,7 +437,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Software Testing Interview preparation</summary>
 
 - [Quality Assurance Interview Questions](https://prepare.sh/interviews/quality-assurance)
-- [Software Testing Interview Preparation Tutorials](https://youtube.com/playlist?list=PLMer2TvhZIw9WWVaZM80epFfZ9aErSGHZ&si=x5-qk5Tf-0bGB4Mv)
+- [Software Testing Interview Preparation Tutorials](https://www.youtube.com/playlist?list=PLMer2TvhZIw9WWVaZM80epFfZ9aErSGHZ&si=x5-qk5Tf-0bGB4Mv)
 - [Software Testing Tutorials](https://medium.com/@iamfaisalkhatri/list/software-testing-tutorial-c2493bce0c24)
 - [Software Testing Interview Questions and Answers](https://www.geeksforgeeks.org/software-testing/software-testing-interview-questions/)
 - [Scenario Based Software Testing Interview Questions and Answers for Experienced](https://www.h2kinfosys.com/blog/scenario-based-software-testing-interview-questions-and-answers/)
@@ -453,7 +453,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Git Roadmap](https://roadmap.sh/git-github)
 - [List of Commonly used Git commands](https://github.com/joshnh/Git-Commands)
 - [Source Control for Test Automation with Git](https://testautomationu.applitools.com/git-tutorial/)
-- [Git & GitHub FreeCodeCamp Playlist](https://youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
+- [Git & GitHub FreeCodeCamp Playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
 - [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://www.youtube.com/watch?v=Uszj_k0DGsg)
 - [Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more](https://youtu.be/qsTthZi23VE) 
 - [Git Branches Tutorial](https://youtu.be/e2IbNHi4uCI)
@@ -526,7 +526,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [How to Handle File Upload in Selenium](https://www.lambdatest.com/blog/how-to-download-upload-files-using-selenium-with-java/)
 - [ExpectedConditions In Selenium: Types And Examples](https://www.lambdatest.com/blog/expected-conditions-in-selenium-examples/)
 - [How to Handle StaleElementReferenceException in Selenium](https://www.lambdatest.com/blog/handling-stale-element-exceptions-in-selenium-java/)
-- [Selenium WebDriver Tutorials](https://youtube.com/playlist?list=PLMer2TvhZIw8WP1C9Pp5hbd7Yd-l66dPT&si=lw1_F2FXMzFzczoN)
+- [Selenium WebDriver Tutorials](https://www.youtube.com/playlist?list=PLMer2TvhZIw8WP1C9Pp5hbd7Yd-l66dPT)
 - [Selenium Webdriver Data Driven Testing | Reading test data from Excel Sheet](https://youtu.be/KtsnA-F-nRs?si=Lj4kdV-anyMQBbr1)
 - [Selenium WebDriver Data Driven Testing| Reading data from JSON file](https://youtu.be/9a7WOl_VUog?si=ew1OOd1S1mQ3fRjS)
 - [How to Handle Mouse Actions in Selenium](https://levelup.gitconnected.com/how-to-handle-mouse-actions-in-selenium-bdf6c712f097)
@@ -805,7 +805,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [GraphQL Testing for Beginners](https://daily.dev/blog/graphql-testing-for-beginners)
 - [How to Test your GraphQL Endpoints](https://escape.tech/blog/testing-your-graphql-api/)
 - [Writing Tests for GraphQL APIs using REST Assured](https://applitools.com/blog/writing-tests-graphql-apis-rest-assured/)
-- [GraphQL Guides](https://graphql.com/tutorials/)
+- [GraphQL Guides](https://graphql.com/tutorials/umbai ne)
 - [8 Free to Use GraphQL APIs for Your Projects and Demos](https://www.apollographql.com/blog/8-free-to-use-graphql-apis-for-your-projects-and-demos)
 - [From Zero to Hero: A GraphQL Testing Guide for Developers](https://www.parasoft.com/blog/what-is-graphql-testing/)
 - [OWASP - Testing GraphQL](https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/12-API_Testing/01-Testing_GraphQL)
@@ -1141,7 +1141,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [JMeter Maven Plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
 - [JMeter Tutorials: The Complete Free Training On JMeter](https://www.softwaretestinghelp.com/jmeter-tutorials/)
 - [JMeter Tutorial](https://www.blazemeter.com/blog/jmeter-tutorial)
-- [JMeter Tutorials - SWTestAcademy](https://www.swtestacademy.com/category/performance-testing/jmeter/)
+- [JMeter Tutorials - SWTestAcademy](https://swtestacademy.com/category/performance-testing/jmeter/)
 - [JMeter Tutorial - Great Learning](https://www.mygreatlearning.com/jmeter/tutorials)
 - [Intro to JMeter - Baeldung](https://www.baeldung.com/jmeter)
 - [Awesome-JMeter](https://github.com/aliesbelik/awesome-jmeter)
@@ -1196,7 +1196,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [What Is IVR System And How To Perform IVR Testing](https://www.softwaretestinghelp.com/ivr-testing/)
 - [Interactive Voice Response (IVR) explained](https://www.ir.com/blog/communications/ivr-testing-explained)
 - [Top 5 IVR Challenges and How to Overcome Them](https://blog.klearcom.com/top-5-ivr-challenges-and-how-to-overcome-them)
-- [Top 7 Open-Source IVR Automation Testing Tools for Businesses](https://www.hitechnectar.com/blogs/top-7-open-source-ivr-automation-testing-tools-for-businesses/)
+- [Top 7 Open-Source IVR Automation Testing Tools for Businesses](https://hitechnectar.com/blogs/top-7-open-source-ivr-automation-testing-tools-for-businesses/)
 
 </details>
 
@@ -1252,8 +1252,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [What is a Database?](https://www.oracle.com/in/database/what-is-database/)
 - [Different Types of Databases - tpointtech](https://www.tpointtech.com/types-of-databases)
-- [Database types - Mongodb.com](https://www.mongodb.com/databases/types)
-- [Types of Databases - Tutorialspoint](https://www.tutorialspoint.com/Types-of-databases)
+- [Database types - Mongodb.com](https://www.mongodb.com/resources/basics/databases/types)
+- [Types of Databases - Tutorialspoint](https://www.tutorialspoint.com/sql/sql-databases.htm)
 - [DBMC and SQL basics](https://www.freecodecamp.org/news/dbms-and-sql-basics/)
 - [Database Management System](https://www.w3schools.in/dbms)
 
@@ -1299,7 +1299,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [MongoDB Tutorial - MongoDB.com](https://www.mongodb.com/docs/manual/tutorial/)
 - [MongoDB Tutorial - MongoDBtutorial.org](https://www.mongodbtutorial.org/)
 - [MongoDB Tutorial - W3resource.com](https://www.w3resource.com/mongodb/nosql.php)
-- [MongoDB Tutorial - MongoDB.com](https://www.mongodb.com/nosql-explained)
+- [MongoDB Tutorial - MongoDB.com](https://www.mongodb.com/resources/basics/databases/nosql-explained)
 - [MongoDB Tutorial - W3Schools.com](https://www.w3schools.com/mongodb/)
 - [MongoDB Tutorial - Tutorialspoint](https://www.tutorialspoint.com/mongodb/index.htm)
 - [Awesome MongoDB](https://github.com/ramnes/awesome-mongodb)
@@ -1324,7 +1324,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [Postgres Roadmap](https://roadmap.sh/postgresql-dba)
 - [Postgres Tutorial - Postgresql.org](https://www.postgresql.org/docs/online-resources/)
-- [Postgres Tutorial - Postgresqltutorial.com](https://www.postgresqltutorial.com/)
+- [Postgres Tutorial - neon.com](https://neon.com/postgresql/tutorial)
 - [Postgres Tutorial - Tutorialspoint](https://www.tutorialspoint.com/postgresql/index.htm)
 - [Postgres Tutorial - Postgresql.com](https://www.postgresql.org/docs/current/tutorial.html)
 - [Postgres Tutorial - tpointtech](https://www.tpointtech.com/postgresql-tutorial)
@@ -1591,7 +1591,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [What is Agile?](https://www.coursera.org/articles/what-is-agile-a-beginners-guide)
 - [Agile Software blogs by Mike Cohn](https://www.mountaingoatsoftware.com/blog)
 - [Agile Software Guide - Martin Fowler](https://martinfowler.com/agile.html)
-- [What is Scrum?](https://www.scrum.org/resources/what-is-scrum)
+- [What is Scrum?](https://www.scrum.org/learning-series/what-is-scrum)
 - [Agile 101](https://agilealliance.org/agile101/)
 - [Agile Manifesto](https://agilemanifesto.org/)
 - [Agile Methodology Tutorial for Beginners](https://www.youtube.com/watch?v=KNBHQ0pyaG8)
