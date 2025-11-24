@@ -118,6 +118,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Real Python Tutorials](https://realpython.com/)
 - [Learn Python](https://www.learnpython.org/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Introduction to Computer Science and Programming using Python 6.100L- MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB)
 - [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
 - [Google's Python Class](https://developers.google.com/edu/python)
 - [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
@@ -162,13 +163,15 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Data Structures & Algorithms</summary>
 
 - [DS & A Roadmap](https://roadmap.sh/datastructures-and-algorithms)
-- [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) 
+- [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
+- [Introduction to Algorithms MIT 6.006](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 - [DS & A - Programiz](https://www.programiz.com/dsa)
 - [DS & A in JavaScript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
 - [DS & A Problems](https://github.com/mandliya/algorithms_and_data_structures)
 - [Algo Deck](https://github.com/teivah/algodeck)
 - [Roadmap for DSA](https://www.codechef.com/roadmap/data-structures-and-algorithms)
 - [JavaScript Algorithm](https://github.com/trekhleb/javascript-algorithms)
+- []()
 
 </details>
 
@@ -249,6 +252,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Free tutorials</summary>
 
 - [System Design Roadmap](https://roadmap.sh/system-design)
+- [MIT 16.842 Fundamentals of Systems Engineering](https://www.youtube.com/playlist?list=PLUl4u3cNGP60jIMmB53zl6awCKMnABhYx)
 - [Top 10 Free System Design Courses and Tutorials in 2024](https://medium.com/javarevisited/hello-guys-if-you-are-preparing-for-system-design-interview-or-just-want-to-improve-your-software-7bc0034ac015)
 - [How to Learn Software Design and Architecture - a Roadmap](https://www.freecodecamp.org/news/software-design/)
 - [Software Design Basics - Tutorialspoint](https://www.tutorialspoint.com/software_engineering/software_design_basics.htm)
@@ -1072,6 +1076,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [OWASP Devslop](https://www.youtube.com/@OWASPDevSlop)
 - [A Starters Guide to Pentesting with OWASP](https://www.youtube.com/watch?v=AO_sqXb-gKE)
 - [Actionable Security Testing Tips on the TestGuild Security Testing](https://www.youtube.com/playlist?list=PL9AgRtJkydU3JzSZcwWxMwrrzg9SSGWwH)
+- [CS50's Introduction to Cybersecurity](https://www.youtube.com/playlist?list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE)
 </details>
 
 <details>
@@ -1733,6 +1738,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [AI Engineer Roadmap](https://roadmap.sh/ai-engineer)
 - [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
 - [What is AI? A Quick-Start Guide For Beginners](https://www.datacamp.com/blog/what-is-ai-quick-start-guide-for-beginners)
+- [MIT 6.034 Artificial Intelligence](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
 - [MLOps Roadmap](https://roadmap.sh/mlops)
 - [Learn the Foundations of Machine Learning and Artificial Intelligence](https://www.freecodecamp.org/news/learn-the-foundations-of-machine-learning-and-artificial-intelligence/)
 - [What is Artificial Intelligence?](https://cloud.google.com/learn/what-is-artificial-intelligence)
