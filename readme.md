@@ -193,7 +193,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 - [Programming in Java - An Interdisciplinary approach](https://introcs.cs.princeton.edu/java/home/)
-- [Python Cheat Sheet](https://www.pythoncheatsheet.org/)
+- [Python Cheat Sheet](https://pythoncheatsheet.org)
 - [Free Computer Programming Books](https://freecomputerbooks.com/)
 - [300+ Best Free Programming Books](https://www.theinsaneapp.com/2021/01/free-programming-books.html)
 - [14 Excellent free books to learn Java](https://www.linuxlinks.com/excellent-free-books-learn-java/)
@@ -698,7 +698,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Postman</summary>
 
-- [Postman Learning Center](https://learning.postman.com/docs/getting-started/introduction/)
+- [Postman Learning Center]( https://learning.postman.com/docs/introduction/overview)
 - [15 days of Postman for Testers](https://www.postman.com/postman/workspace/15-days-of-postman-for-testers/overview)
 - [Postman Beginner's Course - API Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
 - [Postman API Crash Course - Clever Programmer](https://www.youtube.com/watch?v=Iq7eh6DhN6M)
@@ -817,7 +817,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [GraphQL Testing for Beginners](https://daily.dev/blog/graphql-testing-for-beginners)
 - [How to Test your GraphQL Endpoints](https://escape.tech/blog/testing-your-graphql-api/)
 - [Writing Tests for GraphQL APIs using REST Assured](https://applitools.com/blog/writing-tests-graphql-apis-rest-assured/)
-- [GraphQL Guides](https://graphql.com/tutorials/umbai ne)
+- [GraphQL Guides](https://graphql.com/tutorials/)
 - [8 Free to Use GraphQL APIs for Your Projects and Demos](https://www.apollographql.com/blog/8-free-to-use-graphql-apis-for-your-projects-and-demos)
 - [From Zero to Hero: A GraphQL Testing Guide for Developers](https://www.parasoft.com/blog/what-is-graphql-testing/)
 - [OWASP - Testing GraphQL](https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/12-API_Testing/01-Testing_GraphQL)
@@ -932,7 +932,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Inspecting elements of an app using Appium Inspector and BrowserStack!](https://medium.com/@iamfaisalkhatri/inspecting-elements-of-an-app-using-appium-inspector-and-browserstack-32c095a5333c)
 - [Mobile Automation with Appium in Java](https://testautomationu.applitools.com/appium-java-tutorial/)
 - [Mobile Automation with Appium in JavaScript](https://testautomationu.applitools.com/appium-javascript-tutorial/)
-- [Appium Version 2.0 Fundamentals](https://university.blazemeter.com/learn)
 - [Appium 2 Migration Guide: Migrating From Appium 1.x To Appium 2.x](https://medium.com/@iamfaisalkhatri/appium-2-migration-guide-migrating-from-appium-1-x-to-appium-2-x-f1721b31197)
 - [Getting started with Appium 2.0: Your beginner’s guide](https://bitrise.io/blog/post/getting-started-with-appium-2-0-your-beginners-guide)
 - [How To Identify Locators In Appium [With Examples]](https://www.lambdatest.com/blog/locators-in-appium/)
@@ -1017,7 +1016,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking)
 - [Awesome Mobile Security](https://github.com/vaib25vicky/awesome-mobile-security)
 - [Awesome Appsec](https://github.com/paragonie/awesome-appsec)
-- [Awesome-DevSecOps](https://github.com/TaptuIT/awesome-devsecops)
+- [Awesome-DevSecOps](https://github.com/JakobTheDev/awesome-devsecops)
 - [Awesome-api-security](https://github.com/arainho/awesome-api-security)
 - [Threat Modelling](https://owasp.org/www-community/Threat_Modeling)
 - [What is Threat Modelling and How does it work?](https://www.mygreatlearning.com/blog/what-is-threat-modeling-and-how-does-it-work/)
@@ -1106,7 +1105,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [A Complete Performance Testing Guide With Examples](https://www.softwaretestinghelp.com/introduction-to-performance-testing-loadrunner-training-tutorial-part-1/)
 - [What is Performance Testing?](https://www.techtarget.com/searchsoftwarequality/definition/performance-testing)
 - [Types of Performance Testing](https://www.globalapptesting.com/blog/performance-testing-types)
-- [Master Performance Testing](https://university.blazemeter.com/)
 - [Performance Testing vs. Load Testing vs. Stress Testing](https://www.blazemeter.com/blog/performance-testing-vs-load-testing-vs-stress-testing)
 - [What is Throughput in Performance Testing?](https://testguild.com/performance-testing-what-is-throughput/)
 - [Load Testing Best Practices](https://loadninja.com/load-testing/)
@@ -1619,7 +1617,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [The Nine Principles of Agile Leadership](https://www.agilebusiness.org/resource/the-nine-principles-of-agile-leadership.html)
 - [DZone Agile blogs](https://dzone.com/agile)
 - [Agile Testing - LambdaTest Learning Hub](https://www.lambdatest.com/learning-hub/agile-testing)
-- [Agilemania's blogs](https://agilemania.com/blog/)
+- [Agilemania's blogs](https://agilemania.com/blog)
 - [Live Free Agile Testing Project](https://www.guru99.com/live-agile-testing-project.html)
 
 </details>
@@ -1727,7 +1725,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 [NodeMaven](https://nodemaven.com/?) is a proxy provider that provides reliable residential proxies using which automation tests could be run to overcome IP blocks.
 
-- [Registration link - _Use F86 at checkout to get extra 2GB of proxy_](https://go.nodemaven.com/automation_proxy)
+- [Registration link - _Use F86 at checkout to get extra 2GB of proxy_]( https://nodemaven.com/?a_aid=faisal86&utm_source=github&utm_medium=affiliate&utm_campaign=gh_faisal86_intgr_17.05.2024&utm_term=faisal86)
 - [Documentation](https://docs.nodemaven.com/en/)
 - [Use Cases](https://nodemaven.com/#usecases-section)
 - [Advantages](https://nodemaven.com/#advantages-section)
