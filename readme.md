@@ -1730,29 +1730,48 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 </details>
 
-# AI/ML Courses
+# AI/ML Learning Materials
 
 <details>
-<summary>Free Learning Materials</summary>
+<summary>AI</summary>
 
 - [AI Engineer Roadmap](https://roadmap.sh/ai-engineer)
 - [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
 - [What is AI? A Quick-Start Guide For Beginners](https://www.datacamp.com/blog/what-is-ai-quick-start-guide-for-beginners)
 - [MIT 6.034 Artificial Intelligence](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
-- [MLOps Roadmap](https://roadmap.sh/mlops)
 - [Learn the Foundations of Machine Learning and Artificial Intelligence](https://www.freecodecamp.org/news/learn-the-foundations-of-machine-learning-and-artificial-intelligence/)
 - [What is Artificial Intelligence?](https://cloud.google.com/learn/what-is-artificial-intelligence)
 - [Elements of AI](https://www.elementsofai.com/)
+- [Generative AI - Course by Google](https://cloud.google.com/learn/training/machinelearning-ai)
+- [The AI Engineering Handbook – How to Start a Career and Excel as an AI Engineer](https://www.freecodecamp.org/news/the-ai-engineering-handbook-how-to-start-a-career-and-excel-as-an-ai-engineer/)
+- [Learn AI Engineering](https://github.com/ashishps1/learn-ai-engineering)
+- [DeepLearning - AI for everyone](https://www.deeplearning.ai/courses/ai-for-everyone/)
+- [Free AI/ML Resources Everyone Should Learn From in 2025](https://medium.com/@iamfaisalkhatri/free-ai-ml-resources-everyone-should-learn-from-in-2025-df50f18e82bf)
+- [AI for Beginners](https://github.com/microsoft/ai-for-beginners)
+- [IoT for Beginners](https://github.com/microsoft/IoT-For-Beginners)
+- [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+- [Prompting Guide](https://www.promptingguide.ai)
+- [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)
+- [LocalAI](https://github.com/mudler/LocalAI)
+
+</details>
+
+<details>
+<summary>Machine Learning</summary>
+
+- [MLOps Roadmap](https://roadmap.sh/mlops)
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 - [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python)
 - [A Beginner's Guide to LLMs – What's a Large-Language Model and How Does it Work?](https://www.freecodecamp.org/news/a-beginners-guide-to-large-language-models/)
-- [Generative AI - Course by Google](https://cloud.google.com/learn/training/machinelearning-ai)
 - [Leveraging LLM Models: A Comprehensive Guide for Developers and QA Professionals](https://oril.co/blog/leveraging-llm-models-a-comprehensive-guide-for-developers-and-qa-professionals/)
-- [The AI Engineering Handbook – How to Start a Career and Excel as an AI Engineer](https://www.freecodecamp.org/news/the-ai-engineering-handbook-how-to-start-a-career-and-excel-as-an-ai-engineer/)
 - [A collection of papers and resources about the utilization of large language models (LLMs) in software testing.](https://github.com/LLM-Testing/LLM4SoftwareTesting)
-- [Learn AI Engineering](https://github.com/ashishps1/learn-ai-engineering)
-- [AI for Beginners](https://github.com/microsoft/ai-for-beginners)
 - [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners)
-- [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
-- [IoT for Beginners](https://github.com/microsoft/IoT-For-Beginners)
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [100 Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+- [Machine Learning Tools in JavaScript](https://github.com/mljs/ml)
+- [Made with ML](https://github.com/GokuMohandas/Made-With-ML)
+- [Applied ML](https://github.com/eugeneyan/applied-ml)
+- [mlcourse.ai](https://github.com/Yorko/mlcourse.ai)
+- [ML from Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+- [ML Algorithms](https://github.com/rushter/MLAlgorithms)
 </details>
