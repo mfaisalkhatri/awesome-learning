@@ -351,6 +351,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Whole Team Approach to Continuous Testing](https://testautomationu.applitools.com/the-whole-team-approach-to-continuous-testing/)
 - [Free Learning Resources For Software Testers](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters)
 - [Awesome Sites to Test On](https://github.com/BMayhew/awesome-sites-to-test-on)
+- [How to Read an Excel File with Apache POI in Java](https://medium.com/@iamfaisalkhatri/how-to-read-an-excel-file-with-apache-poi-in-java-47b6d32282ce)
 
 </details>
 
@@ -671,6 +672,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Contact List App](https://thinking-tester-contact-list.herokuapp.com/)
 - [Candymapper](https://candymapper.com/)
 - [Live Chat Playground](https://github.com/mfaisalkhatri/live-chat-playground)
+- [75+ Testing Practice Websites to Master Software QA in 202](https://www.ministryoftesting.com/articles/75-testing-practice-websites-to-master-software-qa-in-2024)
 
 </details>
 
@@ -681,6 +683,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [API Design Roadmap](https://roadmap.sh/api-design)
 - [What is API Testing?](https://medium.com/@iamfaisalkhatri/what-is-api-testing-2921e3114afb)
+- [What is API Testing - Video Tutorial](https://youtu.be/VpIU2BunhUc?si=8Ct4a0qlmk7l4fSf)
 - [REST API Concepts and examples](https://www.youtube.com/watch?v=7YcW25PHnAA)
 - [Testing Strategies in a Microservice Architecture](https://martinfowler.com/articles/microservice-testing/)
 - [What is an API? API for Beginners](https://www.youtube.com/watch?v=GZvSYJDk-us)
@@ -748,7 +751,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [How to Test POST Requests with Rest-Assured Java for API Testing: Part I](https://medium.com/@iamfaisalkhatri/how-to-test-post-requests-with-rest-assured-for-api-testing-part-i-d697efab5875)
 - [How to Test POST Requests with Rest-Assured Java for API Testing: Part II](https://medium.com/javarevisited/how-to-test-post-requests-with-rest-assured-java-for-api-testing-part-ii-30dfe04a533a)
 - [How to test a SOAP API request with Rest-Assured Java](https://medium.com/javarevisited/how-to-test-a-soap-api-request-with-rest-assured-java-c7fbab845c46)
-- []()
+- [How to Perform Response Verification in REST-Assured Java for API Testing](https://medium.com/javarevisited/how-to-perform-response-verification-in-rest-assured-java-for-api-testing-666583f58334)
 
 </details>
 
@@ -1345,7 +1348,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 </details>
 
 <details>
-<summary>Database Testing </summary>
+<summary>Database Testing</summary>
 
 - [DataAnalyst Roadmap](https://roadmap.sh/data-analyst)
 - [Database Testing Complete Guide](https://www.softwaretestinghelp.com/database-testing-process/)
@@ -1540,7 +1543,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 </details>
 
 <details>
-<summary> Prometheus</summary>
+<summary>Prometheus</summary>
 
 - [Prometheus - Official Website](https://prometheus.io)
 - [Prometheus for Developers](https://github.com/danielfm/prometheus-for-developers)
@@ -1548,6 +1551,17 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Guides for Prometheus](https://www.civo.com/learn/categories/prometheus)
 - [Beginner’s Guide to Prometheus Metrics](https://logz.io/learn/prometheus-metrics-guide/)
 - [Get started with Grafana and Prometheus](https://grafana.com/docs/grafana/latest/getting-started/get-started-grafana-prometheus/)
+
+</details>
+
+<details>
+<summary>DevOps Playground<summary>
+
+- [Iximiuz Labs](https://labs.iximiuz.com/playgrounds)
+- [DevOps Playground](https://github.com/DevOpsPlayground)
+- [KodeKloud DevOps Pre-Requisites Labs](https://kodekloud.com/studio/labs/devops)
+- [Dive Into DevOps Playgrounds](https://diveinto.com/playgrounds)
+- [LabEx - DevOps Free Labs](https://labex.io/free-labs/devops)
 
 </details>
 
