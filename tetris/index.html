@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tetris Game</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>TETRIS</h1>
+
+        <div class="game-container">
+            <!-- Main game board -->
+            <canvas id="gameCanvas" width="300" height="600"></canvas>
+
+            <!-- Sidebar with game info -->
+            <div class="sidebar">
+                <div class="info-section">
+                    <h2>Next Piece</h2>
+                    <canvas id="nextPieceCanvas" width="120" height="120"></canvas>
+                </div>
+
+                <div class="info-section">
+                    <h2>Score</h2>
+                    <p id="score">0</p>
+                </div>
+
+                <div class="info-section">
+                    <h2>Level</h2>
+                    <p id="level">1</p>
+                </div>
+
+                <div class="info-section">
+                    <h2>Lines</h2>
+                    <p id="lines">0</p>
+                </div>
+
+                <div class="info-section controls">
+                    <h2>Controls</h2>
+                    <ul>
+                        <li><strong>←/→</strong> Move</li>
+                        <li><strong>↑</strong> Rotate</li>
+                        <li><strong>↓</strong> Soft Drop</li>
+                        <li><strong>Space</strong> Hard Drop</li>
+                        <li><strong>R</strong> Restart</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div id="gameOverScreen" class="game-over-screen hidden">
+            <div class="game-over-content">
+                <h2>GAME OVER</h2>
+                <p>Final Score: <span id="finalScore">0</span></p>
+                <p>Lines Cleared: <span id="finalLines">0</span></p>
+                <button id="restartButton">Play Again (R)</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="game.js"></script>
+</body>
+</html>
