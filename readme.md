@@ -185,7 +185,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-
 </details>
 
 <details>
@@ -1793,4 +1792,5 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai)
 - [ML from Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 - [ML Algorithms](https://github.com/rushter/MLAlgorithms)
+
 </details>
