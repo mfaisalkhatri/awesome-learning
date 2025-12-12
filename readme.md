@@ -192,7 +192,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 - [Programming in Java - An Interdisciplinary approach](https://introcs.cs.princeton.edu/java/home/)
-- [Python Cheat Sheet](https://pythoncheatsheet.org)
+- [Python Cheat Sheet](https://labex.io/pythoncheatsheet/)
 - [Free Computer Programming Books](https://freecomputerbooks.com/)
 - [300+ Best Free Programming Books](https://www.theinsaneapp.com/2021/01/free-programming-books.html)
 - [14 Excellent free books to learn Java](https://www.linuxlinks.com/excellent-free-books-learn-java/)
@@ -1608,7 +1608,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [BDD Community](https://cucumber.io/docs/bdd/)
 - [IntelliJ Cucumber Support](https://www.jetbrains.com/help/idea/cucumber-support.html)
 - [Pytest-BDD: the BDD framework for pytest](https://pytest-bdd.readthedocs.io/en/stable/)
-- [Behavior Driven Python with pytest-bdd](⁠https://testautomationu.applitools.com/behavior-driven-python-with-pytest-bdd/)
 - [A Complete Guide To Behavior-Driven Testing With Pytest BDD](https://pytest-with-eric.com/bdd/pytest-bdd/)
 - [Pypi- Pytest BDD](https://pypi.org/project/pytest-bdd/)
 </details>
