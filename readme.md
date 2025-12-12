@@ -171,7 +171,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Algo Deck](https://github.com/teivah/algodeck)
 - [Roadmap for DSA](https://www.codechef.com/roadmap/data-structures-and-algorithms)
 - [JavaScript Algorithm](https://github.com/trekhleb/javascript-algorithms)
-- []()
+- [Laws, Theories, Principles and Patterns for developers and technologists.](https://github.com/dwmkerr/hacker-laws)
 
 </details>
 
