@@ -171,7 +171,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Algo Deck](https://github.com/teivah/algodeck)
 - [Roadmap for DSA](https://www.codechef.com/roadmap/data-structures-and-algorithms)
 - [JavaScript Algorithm](https://github.com/trekhleb/javascript-algorithms)
-- []()
+- [Laws, Theories, Principles and Patterns for developers and technologists.](https://github.com/dwmkerr/hacker-laws)
 
 </details>
 
@@ -185,7 +185,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-
 </details>
 
 <details>
@@ -352,7 +351,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Free Learning Resources For Software Testers](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters)
 - [Awesome Sites to Test On](https://github.com/BMayhew/awesome-sites-to-test-on)
 - [How to Read an Excel File with Apache POI in Java](https://medium.com/@iamfaisalkhatri/how-to-read-an-excel-file-with-apache-poi-in-java-47b6d32282ce)
-
+- [Why is Critical Thinking important in Software Testing](https://medium.com/@iamfaisalkhatri/why-is-critical-thinking-important-in-software-testing-f72444fd3b30)
+- [The Real Struggles of Software Testers: Challenges No One Talks About!](https://medium.com/@iamfaisalkhatri/the-real-struggles-of-software-testers-challenges-no-one-talks-about-dfba2eb9bd33)
 </details>
 
 <details>
@@ -537,6 +537,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Selenium WebDriver Data Driven Testing| Reading data from JSON file](https://youtu.be/9a7WOl_VUog?si=ew1OOd1S1mQ3fRjS)
 - [How to Handle Mouse Actions in Selenium](https://levelup.gitconnected.com/how-to-handle-mouse-actions-in-selenium-bdf6c712f097)
 - [What Is Page Object Model (POM) Design Pattern](https://medium.com/@iamfaisalkhatri/what-is-page-object-model-pom-design-pattern-9d0f3e831bdc)
+- [Data Driven Testing using Excel Files with Apache POI and Selenium WebDriver](https://medium.com/javarevisited/data-driven-testing-using-excel-files-with-apache-poi-and-selenium-webdriver-6261b7fc77f5)
 
 </details>
 
@@ -547,6 +548,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Playwright Documentation - Java](https://playwright.dev/java/docs/intro)
 - [Playwright Documentation - Python](https://playwright.dev/python/docs/intro)
 - [Playwright Documentation - .NET](https://playwright.dev/dotnet/docs/intro)
+- [Latest Videos for learning Playwright](https://playwright.dev/community/learn-videos)
 - [Build your first end-to-end test with Playwright](https://learn.microsoft.com/en-us/training/modules/build-with-playwright/)
 - [Join Playwright Discord Server](https://discord.com/servers/playwright-807756831384403968)
 - [Awesome-Playwright](https://github.com/mxschmitt/awesome-playwright)
