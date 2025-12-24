@@ -1557,7 +1557,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 </details>
 
 <details>
-<summary>DevOps Playground<summary>
+<summary>DevOps Playground</summary>
 
 - [Iximiuz Labs](https://labs.iximiuz.com/playgrounds)
 - [DevOps Playground](https://github.com/DevOpsPlayground)
