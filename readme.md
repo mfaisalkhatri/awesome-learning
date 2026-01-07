@@ -1654,7 +1654,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Rainbow CSV - VS Code Extension](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
 - [Code Runner - VS Code Extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 - [Random Data Generator](https://softwium.com/mockium/)
-- [Ultra Reporter - Next.js based Test Automation reporter](https://www.ultra-reporter.com/)
 - [Table to Markdown](https://tabletomarkdown.com/)
 - [Online CSV Editor and Generator](https://tableconvert.com/csv-generator)
 - [Fake Name and Identity Generator](https://fauxid.com/)
@@ -1665,6 +1664,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Text Generator](https://www.blindtextgenerator.com/lorem-ipsum)
 - [Dummy Text Generator](https://www.webtools.services/dummy-text-generator)
 - [Top Ways to Boost Team Morale and Increase Productivity](https://medium.com/@iamfaisalkhatri/top-ways-to-boost-team-morale-and-increase-productivity-626219502e75)
+- [HTTP Cats - A website detailing different status codes](https://http.cat/)
 
 </details>
 
