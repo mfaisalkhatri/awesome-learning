@@ -16,6 +16,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 # RoadMaps
 - [QA Roadmap by Anas Fitiani](https://github.com/fityanos/awesome-quality-assurance-roadmap)
+- [Roadmap to learn Automation Testing](https://medium.com/@iamfaisalkhatri/how-do-i-switch-from-manual-to-automation-testing-dc726950c3a9)
 - [DevOps Roadmap by Milan Milanovic](https://github.com/milanm/DevOps-Roadmap)
 - [Threat Modelling Roadmap by Hysn Technologies Inc](https://github.com/hysnsec/awesome-threat-modelling)
 - [Developer Roadmaps](https://roadmap.sh/)
@@ -349,10 +350,11 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [A Complete Guide to Codeless Testing](https://medium.com/@iamfaisalkhatri/a-complete-guide-to-codeless-testing-2d43c8ba205c)
 - [Whole Team Approach to Continuous Testing](https://testautomationu.applitools.com/the-whole-team-approach-to-continuous-testing/)
 - [Free Learning Resources For Software Testers](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters)
-- [Awesome Sites to Test On](https://github.com/BMayhew/awesome-sites-to-test-on)
 - [How to Read an Excel File with Apache POI in Java](https://medium.com/@iamfaisalkhatri/how-to-read-an-excel-file-with-apache-poi-in-java-47b6d32282ce)
 - [Why is Critical Thinking important in Software Testing](https://medium.com/@iamfaisalkhatri/why-is-critical-thinking-important-in-software-testing-f72444fd3b30)
 - [The Real Struggles of Software Testers: Challenges No One Talks About!](https://medium.com/@iamfaisalkhatri/the-real-struggles-of-software-testers-challenges-no-one-talks-about-dfba2eb9bd33)
+- [Why is Critical Thinking important in Software Testing](https://medium.com/@iamfaisalkhatri/why-is-critical-thinking-important-in-software-testing-f72444fd3b30)
+
 </details>
 
 <details>
@@ -651,6 +653,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Demo Websites for Web Automation Testing Practice</summary>
 
+- [Awesome Sites to Test On](https://github.com/BMayhew/awesome-sites-to-test-on)
 - [Demo Websites - AutomationPanda.com](https://automationpanda.com/2021/12/29/want-to-practice-test-automation-try-these-demo-sites/)
 - [The-internet - herokuapp](https://the-internet.herokuapp.com/)
 - [LambdaTest Selenium Playground](https://www.lambdatest.com/selenium-playground/)
@@ -686,6 +689,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [API Design Roadmap](https://roadmap.sh/api-design)
 - [What is API Testing?](https://medium.com/@iamfaisalkhatri/what-is-api-testing-2921e3114afb)
 - [What is API Testing - Video Tutorial](https://youtu.be/VpIU2BunhUc?si=8Ct4a0qlmk7l4fSf)
+- [How to Test APIs Manually | Manual API Testing | Practical Guide to API Testing | API Testing](https://youtu.be/BWkAz72u6wg?si=pevUSu80XBwRWG4R)
 - [REST API Concepts and examples](https://www.youtube.com/watch?v=7YcW25PHnAA)
 - [Testing Strategies in a Microservice Architecture](https://martinfowler.com/articles/microservice-testing/)
 - [What is an API? API for Beginners](https://www.youtube.com/watch?v=GZvSYJDk-us)
@@ -781,6 +785,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [API Testing with Playwright - GitHub](https://github.com/microsoft/playwright/blob/main/docs/src/api-testing-js.md)
 - [How to perform End to End API Testing using Playwright with Java and TestNG](https://medium.com/@iamfaisalkhatri/how-to-perform-end-to-end-api-testing-using-playwright-with-java-and-testng-26b318927115)
 - [API Testing With Playwright](https://dzone.com/articles/api-testing-with-playwright)
+- [How to test GET API requests with Playwright TypeScript - Video Tutorial ](https://youtu.be/UOYuVCkUM5M?si=9fZHEaAmZX6X__Hi)
 
 </details>
 
@@ -951,7 +956,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Live Appium Testing Project: Android Mobile App Automation](https://www.guru99.com/live-mobile-testing-project.html)
 - [Handling Alerts and Popups in Appium](https://www.lambdatest.com/blog/alerts-and-popups-in-appium/)
 - [How to Test Biometric Authentication With Appium](https://www.lambdatest.com/blog/biometric-authentication-with-appium/)
-
+- [Appium Python: A Complete Tutorial for Mobile App Automation](https://medium.com/@iamfaisalkhatri/appium-python-a-complete-tutorial-for-mobile-app-automation-b002faac26a2)
 </details>
 
 <details>
@@ -1319,6 +1324,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [MongoDB Tutorial - W3Schools.com](https://www.w3schools.com/mongodb/)
 - [MongoDB Tutorial - Tutorialspoint](https://www.tutorialspoint.com/mongodb/index.htm)
 - [Awesome MongoDB](https://github.com/ramnes/awesome-mongodb)
+- [How to Set up and Install MongoDB with Docker Compose](https://medium.com/@iamfaisalkhatri/how-to-set-up-and-install-mongodb-with-docker-compose-8ac74ec1b41c)
 
 </details>
 
@@ -1610,6 +1616,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Pytest-BDD: the BDD framework for pytest](https://pytest-bdd.readthedocs.io/en/stable/)
 - [A Complete Guide To Behavior-Driven Testing With Pytest BDD](https://pytest-with-eric.com/bdd/pytest-bdd/)
 - [Pypi- Pytest BDD](https://pypi.org/project/pytest-bdd/)
+- [Cucumber Java Testing: A Step-by-Step Tutorial blog](https://medium.com/@iamfaisalkhatri/cucumber-java-testing-a-step-by-step-tutorial-3c463aac923e)
+
 </details>
 
 # Agile
@@ -1644,7 +1652,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [JSON comparison](https://jsoncompare.org/)
 - [Generate Fake files](https://www.fakefilegenerator.com/generate-file.php)
-- [Base64 Converter](https://base64.guru/converter/encode)
+- [Base64 Converter](https://www.base64decode.org/)
 - [Random Test Data Generator](https://www.mockaroo.com/)
 - [Free API Mocking - Beeceptor](https://beeceptor.com/)
 - [Random Data Generator Library](https://www.datafaker.net/)
