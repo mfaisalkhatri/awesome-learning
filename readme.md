@@ -1755,6 +1755,18 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 </details>
 
+<details
+
+<summary> Allure Report </summary>
+
+- [Allure Report](https://allurereport.org/)
+- [Allure Report with different frameworks](https://allurereport.org/docs/frameworks/)
+- [Allure Report hands-on guide](https://automation.eurostarsoftwaretesting.com/allure-report-hands-on-guide/)
+- [Allure Report with GitHub Actions](https://medium.com/@iamfaisalkhatri/how-do-i-switch-from-manual-to-automation-testing-dc726950c3a9)
+- [How to generate Allure Report with GitHub Actions](https://youtu.be/AAE-h9x1q_0?si=COi1Ay7C-xRe1nXt)
+
+</details>
+
 # AI/ML Learning Materials
 
 <details>
