@@ -192,6 +192,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Free Programming Books </summary>
 
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+- [Free Tech Books](https://freetechbooks.com/)
 - [Programming in Java - An Interdisciplinary approach](https://introcs.cs.princeton.edu/java/home/)
 - [Python Cheat Sheet](https://labex.io/pythoncheatsheet/)
 - [Free Computer Programming Books](https://freecomputerbooks.com/)
@@ -1797,6 +1798,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Machine Learning</summary>
 
 - [MLOps Roadmap](https://roadmap.sh/mlops)
+- [Machine Learning Free Course by Standford University](https://see.stanford.edu/Course/CS229)
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 - [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python)
 - [A Beginner's Guide to LLMs – What's a Large-Language Model and How Does it Work?](https://www.freecodecamp.org/news/a-beginners-guide-to-large-language-models/)
