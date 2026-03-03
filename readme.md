@@ -155,7 +155,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Advanced Python Course](https://python-course.eu/advanced-python/)
 - [Python CheatSheet](https://github.com/gto76/python-cheatsheet)
 - [Python Programming Exercises](https://inventwithpython.com/pythongently/)
-- [PRACTICE PYTHON - Beginner Python exercises]( https://www.practicepython.org/)
+- [PRACTICE PYTHON - Beginner Python exercises](https://www.practicepython.org/)
 - [The right way to install Python on a Mac](https://medium.com/marvelous-mlops/the-rightway-to-install-python-on-a-mac-f3146d9d9a32)
 
 </details>
@@ -480,7 +480,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 </details>
 
-
 # Web Automation 
 
 <details>
@@ -501,17 +500,17 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Selenium WebDriver example code](https://github.com/mfaisalkhatri/selenium4poc)
 - [Selenium Tutorial - SoftwareTestingMaterial](https://www.softwaretestingmaterial.com/selenium-tutorial/)
 - [Selenium Tutorial - SoftwareTestingHelp](https://www.softwaretestinghelp.com/selenium-tutorial-1/)
-- [Selenium 4 WebDriver Hierarchy: A Detailed Explanation]( https://www.testmuai.com/blog/selenium-4-webdriver-hierarchy/)
-- [Different Types of Locators in Selenium WebDriver]( https://www.testmuai.com/blog/locators-in-selenium-webdriver-with-examples/)
+- [Selenium 4 WebDriver Hierarchy: A Detailed Explanation](https://www.testmuai.com/blog/selenium-4-webdriver-hierarchy/)
+- [Different Types of Locators in Selenium WebDriver](https://www.testmuai.com/blog/locators-in-selenium-webdriver-with-examples/)
 - [Selenium Locators | ID, Name, Tag Name, Class, Link Text, Partial Link Text, CSS Selector, XPath](https://youtu.be/1Bw2JHoOg5U?si=ElOMxqAzyvyCdBcI)
-- [How to Locate Elements Using CSS Selectors in Selenium]( https://www.testmuai.com/learning-hub/css-selectors)
+- [How to Locate Elements Using CSS Selectors in Selenium](https://www.testmuai.com/learning-hub/css-selectors)
 - [CSS Selectors in Selenium WebDriver | Web Automation Testing | Free Tutorial - YouTube](https://www.youtube.com/live/bhZX7apMqR8?si=CC1i5cCo8NfaXKpS)
-- [How to Click Button in Selenium: A Complete Guide]( https://www.testmuai.com/blog/selenium-click-button-with-examples/)
-- [How to Use @FindBy Annotation in Selenium Java]( https://www.testmuai.com/blog/findby-annotation-selenium-java/)
-- [How to handle dynamic dropdowns in Selenium]( https://www.testmuai.com/blog/handling-dropdowns-in-selenium-webdriver-java/)
-- [How To Use WebDriverManager In Selenium]( https://www.testmuai.com/blog/webdrivermanager-in-selenium/)
-- [How To Automate Shadow DOM In Selenium WebDriver]( https://www.testmuai.com/blog/shadow-dom-in-selenium/)
-- [How To Automate Login Page Using Selenium WebDriver]( https://www.testmuai.com/blog/automate-login-page-using-selenium-webdriver/)
+- [How to Click Button in Selenium: A Complete Guide](https://www.testmuai.com/blog/selenium-click-button-with-examples/)
+- [How to Use @FindBy Annotation in Selenium Java](https://www.testmuai.com/blog/findby-annotation-selenium-java/)
+- [How to handle dynamic dropdowns in Selenium](https://www.testmuai.com/blog/handling-dropdowns-in-selenium-webdriver-java/)
+- [How To Use WebDriverManager In Selenium](https://www.testmuai.com/blog/webdrivermanager-in-selenium/)
+- [How To Automate Shadow DOM In Selenium WebDriver](https://www.testmuai.com/blog/shadow-dom-in-selenium/)
+- [How To Automate Login Page Using Selenium WebDriver](https://www.testmuai.com/blog/automate-login-page-using-selenium-webdriver/)
 - [How to automate Login page using Selenium WebDriver with Java? | Selenium WebDriver Tutorial](https://youtu.be/wSxnk3XkG58?si=hevB_37JB7cvlvNy)
 - [Writing Selenium Web Automation tests in Fluent way!](https://medium.com/@iamfaisalkhatri/writing-selenium-web-automation-tests-in-fluent-way-864db95ee67a)
 - [End to End Testing using Selenium WebDriver and Java](https://medium.com/@iamfaisalkhatri/end-to-end-testing-using-selenium-webdriver-and-java-4ff8667716ca)
@@ -521,20 +520,20 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Executing Parallel Test Sessions with TestNG and Selenium WebDriver](https://www.pcloudy.com/blogs/executing-parallel-test-sessions-with-testng-and-selenium-webdriver/)
 - [Selenium Manager in Selenium 4.11.0: New Features and Improvements](https://medium.com/@iamfaisalkhatri/selenium-manager-in-selenium-4-11-0-new-features-and-improvements-lambdatest-761593a7f009)
 - [Cross Browser Testing in Selenium using TestNG | Parallel Testing | Testing on cloud platforms](https://youtu.be/_hlXjVTa-jo?si=JxJaTJ-kNcq1_MIJ)
-- [How to Handle ElementClickInterceptedException in Selenium Java]( https://www.testmuai.com/blog/elementclickinterceptedexception-in-selenium-java/)
-- [How to Use Breakpoints for Debugging in Selenium WebDriver]( https://www.testmuai.com/blog/how-to-use-breakpoints-for-debugging-in-selenium-webdriver/)
+- [How to Handle ElementClickInterceptedException in Selenium Java](https://www.testmuai.com/blog/elementclickinterceptedexception-in-selenium-java/)
+- [How to Use Breakpoints for Debugging in Selenium WebDriver](https://www.testmuai.com/blog/how-to-use-breakpoints-for-debugging-in-selenium-webdriver/)
 - [How To Use Thread.sleep() in Selenium](https://dzone.com/articles/how-to-use-threadsleep-in-selenium)
 - [Handling “Element Is Not Clickable at Point” Exception in Selenium](https://dzone.com/articles/handling-element-is-not-clickable-at-point-excepti)
 - [How To Take Full Page Screenshots In Selenium WebDriver]( https://www.testmuai.com/blog/screenshots-with-selenium-webdriver/)
 - [LIVE Selenium WebDriver Demo Testing Project](https://www.guru99.com/live-selenium-project.html)
 - [Live Selenium Webdriver ECommerce Testing Project ](https://www.guru99.com/live-ecommerce-project.html)
-- [How to Use JavaScriptExecutor in Selenium?]( https://www.testmuai.com/blog/how-to-use-javascriptexecutor-in-selenium-webdriver/)
-- [How to Handle Mouse Actions in Selenium]( https://www.testmuai.com/blog/perform-mouse-actions-in-selenium-webdriver/)
-- [Selenium Pagination Tutorial: How to Handle Page Navigation]( https://www.testmuai.com/blog/selenium-pagination/)
-- [How to Use Assert and Verify in Selenium]( https://www.testmuai.com/blog/assert-and-verify-in-selenium-webdriver/)
-- [How to Handle File Upload in Selenium]( https://www.testmuai.com/blog/how-to-download-upload-files-using-selenium-with-java/)
-- [ExpectedConditions In Selenium: Types And Examples]( https://www.testmuai.com/blog/expected-conditions-in-selenium-examples/)
-- [How to Handle StaleElementReferenceException in Selenium]( https://www.testmuai.com/blog/handling-stale-element-exceptions-in-selenium-java/)
+- [How to Use JavaScriptExecutor in Selenium?](https://www.testmuai.com/blog/how-to-use-javascriptexecutor-in-selenium-webdriver/)
+- [How to Handle Mouse Actions in Selenium](https://www.testmuai.com/blog/perform-mouse-actions-in-selenium-webdriver/)
+- [Selenium Pagination Tutorial: How to Handle Page Navigation](https://www.testmuai.com/blog/selenium-pagination/)
+- [How to Use Assert and Verify in Selenium](https://www.testmuai.com/blog/assert-and-verify-in-selenium-webdriver/)
+- [How to Handle File Upload in Selenium](https://www.testmuai.com/blog/how-to-download-upload-files-using-selenium-with-java/)
+- [ExpectedConditions In Selenium: Types And Examples](https://www.testmuai.com/blog/expected-conditions-in-selenium-examples/)
+- [How to Handle StaleElementReferenceException in Selenium](https://www.testmuai.com/blog/handling-stale-element-exceptions-in-selenium-java/)
 - [Selenium WebDriver Tutorials](https://www.youtube.com/playlist?list=PLMer2TvhZIw8WP1C9Pp5hbd7Yd-l66dPT)
 - [Selenium Webdriver Data Driven Testing | Reading test data from Excel Sheet](https://youtu.be/KtsnA-F-nRs?si=Lj4kdV-anyMQBbr1)
 - [Selenium WebDriver Data Driven Testing| Reading data from JSON file](https://youtu.be/9a7WOl_VUog?si=ew1OOd1S1mQ3fRjS)
@@ -562,7 +561,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Testing Modern Web Apps with Playwright | OD110](https://www.youtube.com/watch?v=sAY9FmBih08)
 - [An End To End Playwright Testing with TypeScript](https://www.youtube.com/watch?v=wawbt1cATsk)
 - [Getting Started With Microsoft Tool Playwright for Automated Testing](https://dzone.com/articles/getting-started-with-playwright-for-testing)
-- [Playwright Tutorial: Getting Started With Playwright Framework]( https://www.testmuai.com/blog/playwright-framework/)
+- [Playwright Tutorial: Getting Started With Playwright Framework](https://www.testmuai.com/blog/playwright-framework/)
 - [Playwright - Github](https://github.com/microsoft/playwright)
 - [Playing with Playwright](https://applitools.com/blog/playing-with-playwright/)
 - [Interactive website to learn playwright](https://try.playwright.tech/)
@@ -708,7 +707,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Postman</summary>
 
-- [Postman Learning Center]( https://learning.postman.com/docs/introduction/overview)
+- [Postman Learning Center](https://learning.postman.com/docs/introduction/overview)
 - [15 days of Postman for Testers](https://www.postman.com/postman/workspace/15-days-of-postman-for-testers/overview)
 - [Postman Beginner's Course - API Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
 - [Postman API Crash Course - Clever Programmer](https://www.youtube.com/watch?v=Iq7eh6DhN6M)
@@ -810,7 +809,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Cypress</summary>
 
 - [API & Integration Tests](https://learn.cypress.io/advanced-cypress-concepts/integration-and-api-tests)
-- [A Step-By-Step Guide To Cypress API Testing]( https://www.testmuai.com/blog/cypress-api-testing/)
+- [A Step-By-Step Guide To Cypress API Testing](https://www.testmuai.com/blog/cypress-api-testing/)
 - [Cypress basics: API testing](https://filiphric.com/cypress-basics-api-testing)
 - [API Testing with Cypress Series' Articles](https://dev.to/murillowelsi/series/12873)
 - [Advanced Cypress](https://testautomationu.applitools.com/advanced-cypress-tutorial/)
@@ -880,7 +879,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Restful E-Commerce](https://github.com/mfaisalkhatri/restful-ecommerce)
 - [Restful Booker](https://restful-booker.herokuapp.com/apidoc/index.html)
 - [Eviltester - API challenges](https://www.eviltester.com/page/tools/apichallenges/)
-- [Reqres](https://reqres.in/)
 - [Toolshop API](https://api.practicesoftwaretesting.com/api/documentation)
 - [Petstore](https://petstore.swagger.io/)
 - [RESTful-api](https://restful-api.dev/)
@@ -918,12 +916,12 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [Guide to Mobile Testing](https://medium.com/@iamfaisalkhatri/guide-to-mobile-testing-d0dd2d9b59f1)
 - [Mobile App Testing Guide](https://blog.qatestlab.com/2020/09/04/mobile-app-testing-guide/)
-- [Mobile Automation Testing Tools]( https://www.testmuai.com/blog/best-mobile-automation-testing-tools/)
+- [Mobile Automation Testing Tools](https://www.testmuai.com/blog/best-mobile-automation-testing-tools/)
 - [How to install Android Studio on Windows 10](https://youtu.be/CMrfuCR6W94)
 - [What is an Android Emulator? How to Start and use it?](https://medium.com/@iamfaisalkhatri/what-is-an-android-emulator-how-to-start-and-use-it-66fdcf52be7e)
-- [Emulator vs Simulator For Mobile Testing: Differences & Setup]( https://www.testmuai.com/blog/difference-between-emulator-vs-simulator-for-mobile-testing/)
+- [Emulator vs Simulator For Mobile Testing: Differences & Setup](https://www.testmuai.com/blog/difference-between-emulator-vs-simulator-for-mobile-testing/)
 - [Mobile App Testing Tutorials (A Complete Guide With 30+ Tutorials)](https://www.softwaretestinghelp.com/beginners-guide-to-mobile-application-testing/)
-- [Mobile App Testing Tutorial: A Comprehensive Guide With Examples and Best Practices]( https://www.testmuai.com/learning-hub/mobile-app-testing)
+- [Mobile App Testing Tutorial: A Comprehensive Guide With Examples and Best Practices](https://www.testmuai.com/learning-hub/mobile-app-testing)
 - [Mobile Application Testing using Automation frameworks](https://www.browserstack.com/guide/mobile-application-testing-frameworks)
 - [How to Choose Mobile Devices for Testing ?](https://medium.com/@iamfaisalkhatri/how-to-choose-mobile-devices-for-testing-pcloudy-blog-96179529d0f3)
 </details>
@@ -945,11 +943,11 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Mobile Automation with Appium in JavaScript](https://testautomationu.applitools.com/appium-javascript-tutorial/)
 - [Appium 2 Migration Guide: Migrating From Appium 1.x To Appium 2.x](https://medium.com/@iamfaisalkhatri/appium-2-migration-guide-migrating-from-appium-1-x-to-appium-2-x-f1721b31197)
 - [Getting started with Appium 2.0: Your beginner’s guide](https://bitrise.io/blog/post/getting-started-with-appium-2-0-your-beginners-guide)
-- [How To Identify Locators In Appium [With Examples]]( https://www.testmuai.com/blog/locators-in-appium/)
+- [How To Identify Locators In Appium [With Examples]](https://www.testmuai.com/blog/locators-in-appium/)
 - [Handling Alerts and Popups in Appium](https://dzone.com/articles/handling-alerts-and-popups-in-appium)
 - [Automated App testing using Appium with TestNG]( https://www.testmuai.com/blog/appium-with-testng-tutorial/)
-- [How To Test React Native Apps On iOS And Android]( https://www.testmuai.com/blog/test-react-native-apps-on-ios-and-android/)
-- [Complete Tutorial On Appium Parallel Testing [With Examples]]( https://www.testmuai.com/blog/appium-parallel-testing/)
+- [How To Test React Native Apps On iOS And Android](https://www.testmuai.com/blog/test-react-native-apps-on-ios-and-android/)
+- [Complete Tutorial On Appium Parallel Testing [With Examples]](https://www.testmuai.com/blog/appium-parallel-testing/)
 - [How to start Appium Server Programmatically?](https://medium.com/@iamfaisalkhatri/how-to-start-appium-server-programmatically-ec07292ab59)
 - [Appium 2.0 Plugins](https://appium.github.io/appium/docs/en/2.0/ecosystem/#plugins)
 - [Appium Gestures Plugin](https://github.com/AppiumTestDistribution/appium-gestures-plugin)
@@ -976,7 +974,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Flutter App Test Automation poc | Appium Flutter Driver| Flutter Finder](https://www.youtube.com/watch?v=fsfMw_e7e9U)
 - [Automated Flutter App Testing - Testingbot](https://testingbot.com/support/mobile/flutter.html#start)
 - [Appium Flutter Driver - A Use Case Demo by Atmaram Naik](https://www.youtube.com/watch?v=hv74YaISJSg)
-- [Automating Flutter Apps Using Appium Flutter Driver With Java]( https://www.testmuai.com/blog/automating-flutter-apps-using-appium-flutter-driver/)
+- [Automating Flutter Apps Using Appium Flutter Driver With Java](https://www.testmuai.com/blog/automating-flutter-apps-using-appium-flutter-driver/)
 
 </details>
 
@@ -1756,8 +1754,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 </details>
 
-<details
-
+<details>
 <summary> Allure Report </summary>
 
 - [Allure Report](https://allurereport.org/)
