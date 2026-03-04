@@ -1266,6 +1266,17 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 </details>
 
+<details>
+<summary>Tools</summary>
+
+- [axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated web UI testing. Industry standard, used by Google, Microsoft, and gov agencies.
+- [WAVE](https://wave.webaim.org/) - Web Accessibility Evaluation Tool by WebAIM. Browser extension and API for identifying accessibility issues.
+- [Pa11y](https://pa11y.org/) - Set of free and open source tools to help designers and developers make their websites more accessible.
+- [RatedWithAI](https://ratedwithai.com) - AI-powered accessibility scanner that checks WCAG 2.2 and ADA compliance with a free website audit.
+- [Lighthouse](https://developer.chrome.com/docs/lighthouse/) - Google's automated tool for improving the quality of web pages, including accessibility audits.
+
+</details>
+
 # Database Testing
 <details>
 <summary>Learning Materials</summary>
