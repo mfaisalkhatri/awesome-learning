@@ -1266,6 +1266,17 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 </details>
 
+<details>
+<summary>Tools</summary>
+
+- [axe DevTools](https://www.deque.com/axe/devtools/) - Browser extension for accessibility testing by Deque Systems
+- [WAVE](https://wave.webaim.org/) - Web accessibility evaluation tool by WebAIM
+- [Pa11y](https://pa11y.org/) - Open-source automated accessibility testing tool
+- [RatedWithAI](https://ratedwithai.com) - AI-powered WCAG 2.2 and ADA compliance scanner
+- [Lighthouse](https://developer.chrome.com/docs/lighthouse/) - Google's automated tool for improving web page quality including accessibility
+- [Accessibility Insights](https://accessibilityinsights.io/) - Microsoft's accessibility testing tools for web and Windows
+</details>
+
 # Database Testing
 <details>
 <summary>Learning Materials</summary>
