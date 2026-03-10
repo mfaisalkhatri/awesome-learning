@@ -1800,6 +1800,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)
 - [LocalAI](https://github.com/mudler/LocalAI)
 - [Promptfoo - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs.](https://github.com/promptfoo/promptfoo)
+- [AI Security Training By ModernSecurity.io - Hands on AI Security course with labs](https://www.modernsecurity.io/courses/ai-security-certification)
 
 </details>
 
@@ -1822,4 +1823,5 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai)
 - [ML from Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 - [ML Algorithms](https://github.com/rushter/MLAlgorithms)
+
 </details>
