@@ -1,4 +1,3 @@
-
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 # Awesome Learning
@@ -57,11 +56,12 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Refactoring](https://refactoring.guru/refactoring)
 - [Awesome-Java](https://github.com/akullpp/awesome-java)
 - [Top 10 GitHub Repositories to Master Java: From Basics to Advanced Concepts!](https://medium.com/@iamfaisalkhatri/top-10-github-repositories-to-master-java-from-basics-to-advanced-concepts-80411bc6a2a7)
-- [How to Read JSON Files in Java Using the Google Gson Library](https://dzone.com/articles/how-to-read-json-files-in-java-using-google-gson-l)
-- [How to serialize JSON API requests using Java Records?](https://coderlegion.com/477/how-to-serialize-json-api-requests-using-java-records)
 - [Getting Started with Java for Data](https://www.datacamp.com/code-along/getting-started-with-java-for-data)
 - [Practice Java](https://www.codechef.com/practice/java)
 - [100+ Best System Design Resources for Interview and Learning](https://github.com/javabuddy/best-system-design-resources)
+- [Algorithms in Java](https://github.com/TheAlgorithms/Java)
+- [How to Read JSON Files in Java Using the Google Gson Library](https://dzone.com/articles/how-to-read-json-files-in-java-using-google-gson-l)
+- [How to serialize JSON API requests using Java Records?](https://coderlegion.com/477/how-to-serialize-json-api-requests-using-java-records)
 
 </details>
 
@@ -266,7 +266,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [system-design-interview](https://github.com/checkcheckzz/system-design-interview)
 - [System Design Preparation](https://github.com/shashank88/system_design)
 - [System Design Resources](https://github.com/InterviewReady/system-design-resources)
-- [System Design Learning Resources](https://github.com/JakobTheDev/awesome-devsecops)
+- [System Design Learning Resources](https://github.com/ashishps1/awesome-system-design-resources)
 - [Awesome System Design](https://github.com/alexpate/awesome-design-systems)
 - [ByteByteGo - YouTube](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw)
 - [System Design for Beginners Course](https://youtu.be/m8Icp_Cid5o?si=4gXNn79VpQLQDBoE)
@@ -307,7 +307,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Corina Pip's Blog](https://imalittletester.com/)
 - [Filip hrics's Blog](https://filiphric.com/)
 - [Alan Richardson's Blog](https://www.eviltester.com/blog/)
-- [Mohammad Faisal Khatri's Blog](https://medium.com/@iamfaisalkhatri)
+- [Mohammad Faisal Khatri's Medium Blog](https://medium.com/@iamfaisalkhatri)
 - [Jason Swett's Blog(Has a good collection of blogs related to ruby rails testing, docker and other testing stuff)](https://www.codewithjason.com/articles/)
 - [Test Guild by Joe Colantonio](https://testguild.com/blog/)
 - [Dan Ashby's Blog](https://danashby.co.uk/)
@@ -355,6 +355,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Why is Critical Thinking important in Software Testing](https://medium.com/@iamfaisalkhatri/why-is-critical-thinking-important-in-software-testing-f72444fd3b30)
 - [The Real Struggles of Software Testers: Challenges No One Talks About!](https://medium.com/@iamfaisalkhatri/the-real-struggles-of-software-testers-challenges-no-one-talks-about-dfba2eb9bd33)
 - [Why is Critical Thinking important in Software Testing](https://medium.com/@iamfaisalkhatri/why-is-critical-thinking-important-in-software-testing-f72444fd3b30)
+- [Why Curiosity Is a QA Engineer’s Strongest Skill](https://medium.com/@iamfaisalkhatri/why-curiosity-is-a-qa-engineers-strongest-skill-7057424612f8)
+- []()
 
 </details>
 
@@ -368,14 +370,14 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [O'Reilly](https://www.youtube.com/@oreilly)
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo)
 - [Free Code Camp](https://www.youtube.com/@freecodecamp)
-- [LambdaTest](https://www.youtube.com/@LambdaTest)
+- [TestMu AI](https://www.youtube.com/@TestMuAI)
 - [Automation Testing with Joe Colantonio](https://www.youtube.com/@JoeColantonio)
 - [Front-end Testing with Kevin](https://www.youtube.com/@frontendtesting)
 - [Simplilearn](https://www.youtube.com/@SimplilearnOfficial)
 - [edureka!](https://www.youtube.com/@edurekaIN)
 - [BrowserStack](https://www.youtube.com/@Browserstack)
 - [Sauce Labs](https://www.youtube.com/@SauceLabs_Official)
-- [Faisal Khatri](https://www.youtube.com/@faisalkhatriqa)
+- [Testing Talks with Faisal Khatri](https://www.youtube.com/@faisalkhatriqa)
 - [Learn Test Automation with Wasiq Bhamla](https://www.youtube.com/@WasiqBhamla)
 </details>
 
@@ -450,6 +452,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Software Testing Tutorials](https://medium.com/@iamfaisalkhatri/list/software-testing-tutorial-c2493bce0c24)
 - [Software Testing Interview Questions and Answers](https://www.geeksforgeeks.org/software-testing/software-testing-interview-questions/)
 - [Scenario Based Software Testing Interview Questions and Answers for Experienced](https://www.h2kinfosys.com/blog/scenario-based-software-testing-interview-questions-and-answers/)
+- [How do you test a Button?](https://medium.com/@iamfaisalkhatri/how-do-you-test-a-button-0e5ba627ee4f)
 
 </details>
 
@@ -758,6 +761,11 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [How to Test POST Requests with Rest-Assured Java for API Testing: Part II](https://medium.com/javarevisited/how-to-test-post-requests-with-rest-assured-java-for-api-testing-part-ii-30dfe04a533a)
 - [How to test a SOAP API request with Rest-Assured Java](https://medium.com/javarevisited/how-to-test-a-soap-api-request-with-rest-assured-java-c7fbab845c46)
 - [How to Perform Response Verification in REST-Assured Java for API Testing](https://medium.com/javarevisited/how-to-perform-response-verification-in-rest-assured-java-for-api-testing-666583f58334)
+- [Data Driven API Testing in Java with Rest-Assured and TestNG: Part 1](https://medium.com/javarevisited/data-driven-api-testing-in-java-with-rest-assured-and-testng-part-1-275795ca2c62)
+- [Data Driven API Testing in Java with Rest-Assured and TestNG: Part 2](https://medium.com/javarevisited/data-driven-api-testing-in-java-with-rest-assured-and-testng-part-2-06029e688efe)
+- [Data Driven API Testing in Java with Rest-Assured and TestNG: Part 3](https://medium.com/javarevisited/data-driven-api-testing-in-java-with-rest-assured-and-testng-part-3-3eed3cc1e39f)
+- [Data Driven API Testing in Java with Rest-Assured and TestNG: Part 4](https://medium.com/javarevisited/data-driven-api-testing-in-java-with-rest-assured-and-testng-part-4-3e90355085d5)
+- [Data Driven API Testing in Java with Rest-Assured and TestNG: Part 5](https://medium.com/javarevisited/data-driven-api-testing-in-java-with-rest-assured-and-testng-part-5-e7fcde4203cc)
 
 </details>
 
@@ -786,6 +794,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [How to perform End to End API Testing using Playwright with Java and TestNG](https://medium.com/@iamfaisalkhatri/how-to-perform-end-to-end-api-testing-using-playwright-with-java-and-testng-26b318927115)
 - [API Testing With Playwright](https://dzone.com/articles/api-testing-with-playwright)
 - [How to test GET API requests with Playwright TypeScript - Video Tutorial ](https://youtu.be/UOYuVCkUM5M?si=9fZHEaAmZX6X__Hi)
+- [How to test POST API Requests with Playwright TypeScript](https://levelup.gitconnected.com/how-to-test-post-api-requests-with-playwright-typescript-5a210ed2f500)
+- [Global Setup in Playwright TypeScript for API Testing](https://levelup.gitconnected.com/global-setup-in-playwright-typescript-for-api-testing-cea7abe0173cf)
 
 </details>
 
@@ -1258,7 +1268,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [What is Accessibility Testing - Guru99.com](https://www.guru99.com/accessibility-testing.html)
 - [What Is Accessibility Testing? A Comprehensive Guide](https://www.accelq.com/blog/accessibility-testing/)
-- [What is Accessibility Testing? - LambdaTest Learning Hub]( https://www.testmuai.com/learning-hub/accessibility-testing)
+- [What is Accessibility Testing? - LambdaTest Learning Hub]( https://www.testmuai.com/learning-hub/accessibility-testing/)
 - [Accessibility Testing Tools and Practices](https://accessibility.huit.harvard.edu/testing)
 - [Automated Tools for Testing Accessibility](https://accessibility.huit.harvard.edu/auto-tools-testing)
 - [Test your app's accessibility](https://developer.android.com/guide/topics/ui/accessibility/testing)
@@ -1627,6 +1637,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [A Complete Guide To Behavior-Driven Testing With Pytest BDD](https://pytest-with-eric.com/bdd/pytest-bdd/)
 - [Pypi- Pytest BDD](https://pypi.org/project/pytest-bdd/)
 - [Cucumber Java Testing: A Step-by-Step Tutorial blog](https://medium.com/@iamfaisalkhatri/cucumber-java-testing-a-step-by-step-tutorial-3c463aac923e)
+- [Gherkin Cucumber: A Definitive Guide for BDD Testing](https://levelup.gitconnected.com/gherkin-cucumber-a-definitive-guide-for-bdd-driven-testing-ca1987617eed)
 
 </details>
 
@@ -1771,7 +1782,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Allure Report](https://allurereport.org/)
 - [Allure Report with different frameworks](https://allurereport.org/docs/frameworks/)
 - [Allure Report hands-on guide](https://automation.eurostarsoftwaretesting.com/allure-report-hands-on-guide/)
-- [Allure Report with GitHub Actions](https://medium.com/@iamfaisalkhatri/how-do-i-switch-from-manual-to-automation-testing-dc726950c3a9)
+- [Allure Report with GitHub Actions](https://blog.devops.dev/allure-report-with-github-actions-36df3c9684a7)
 - [How to generate Allure Report with GitHub Actions](https://youtu.be/AAE-h9x1q_0?si=COi1Ay7C-xRe1nXt)
 
 </details>
@@ -1792,7 +1803,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [The AI Engineering Handbook – How to Start a Career and Excel as an AI Engineer](https://www.freecodecamp.org/news/the-ai-engineering-handbook-how-to-start-a-career-and-excel-as-an-ai-engineer/)
 - [Learn AI Engineering](https://github.com/ashishps1/learn-ai-engineering)
 - [DeepLearning - AI for everyone](https://www.deeplearning.ai/courses/ai-for-everyone/)
-- [Free AI/ML Resources Everyone Should Learn From in 2025](https://medium.com/@iamfaisalkhatri/free-ai-ml-resources-everyone-should-learn-from-in-2025-df50f18e82bf)
+- [Top Free AI Engineering Courses to Learn in 2026](https://medium.com/@iamfaisalkhatri/top-free-ai-engineering-courses-to-learn-in-2026-5b12e2b0b877)
 - [AI for Beginners](https://github.com/microsoft/ai-for-beginners)
 - [IoT for Beginners](https://github.com/microsoft/IoT-For-Beginners)
 - [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
