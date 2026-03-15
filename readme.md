@@ -1,4 +1,3 @@
-
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 # Awesome Learning
@@ -63,7 +62,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Algorithms in Java](https://github.com/TheAlgorithms/Java)
 - [How to Read JSON Files in Java Using the Google Gson Library](https://dzone.com/articles/how-to-read-json-files-in-java-using-google-gson-l)
 - [How to serialize JSON API requests using Java Records?](https://coderlegion.com/477/how-to-serialize-json-api-requests-using-java-records)
-
 
 </details>
 
@@ -309,7 +307,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Corina Pip's Blog](https://imalittletester.com/)
 - [Filip hrics's Blog](https://filiphric.com/)
 - [Alan Richardson's Blog](https://www.eviltester.com/blog/)
-- [Mohammad Faisal Khatri's Blog](https://medium.com/@iamfaisalkhatri)
+- [Mohammad Faisal Khatri's Medium Blog](https://medium.com/@iamfaisalkhatri)
 - [Jason Swett's Blog(Has a good collection of blogs related to ruby rails testing, docker and other testing stuff)](https://www.codewithjason.com/articles/)
 - [Test Guild by Joe Colantonio](https://testguild.com/blog/)
 - [Dan Ashby's Blog](https://danashby.co.uk/)
@@ -379,7 +377,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [edureka!](https://www.youtube.com/@edurekaIN)
 - [BrowserStack](https://www.youtube.com/@Browserstack)
 - [Sauce Labs](https://www.youtube.com/@SauceLabs_Official)
-- [Faisal Khatri](https://www.youtube.com/@faisalkhatriqa)
+- [Testing Talks with Faisal Khatri](https://www.youtube.com/@faisalkhatriqa)
 - [Learn Test Automation with Wasiq Bhamla](https://www.youtube.com/@WasiqBhamla)
 </details>
 
@@ -797,7 +795,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [API Testing With Playwright](https://dzone.com/articles/api-testing-with-playwright)
 - [How to test GET API requests with Playwright TypeScript - Video Tutorial ](https://youtu.be/UOYuVCkUM5M?si=9fZHEaAmZX6X__Hi)
 - [How to test POST API Requests with Playwright TypeScript](https://levelup.gitconnected.com/how-to-test-post-api-requests-with-playwright-typescript-5a210ed2f500)
-- [Global Setup in Playwright TypeScript for API Testing](https://levelup.gitconnected.com/global-setup-in-playwright-typescript-for-api-testing-ce7abe0173cf)
+- [Global Setup in Playwright TypeScript for API Testing](https://levelup.gitconnected.com/global-setup-in-playwright-typescript-for-api-testing-cea7abe0173cf)
 
 </details>
 
@@ -1270,7 +1268,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [What is Accessibility Testing - Guru99.com](https://www.guru99.com/accessibility-testing.html)
 - [What Is Accessibility Testing? A Comprehensive Guide](https://www.accelq.com/blog/accessibility-testing/)
-- [What is Accessibility Testing? - LambdaTest Learning Hub]( https://www.testmuai.com/learning-hub/accessibility-testing)
+- [What is Accessibility Testing? - LambdaTest Learning Hub]( https://www.testmuai.com/learning-hub/accessibility-testing/)
 - [Accessibility Testing Tools and Practices](https://accessibility.huit.harvard.edu/testing)
 - [Automated Tools for Testing Accessibility](https://accessibility.huit.harvard.edu/auto-tools-testing)
 - [Test your app's accessibility](https://developer.android.com/guide/topics/ui/accessibility/testing)
