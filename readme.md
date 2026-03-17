@@ -1258,6 +1258,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Automated Visual Testing with WebdriverIO](https://testautomationu.applitools.com/automated-visual-testing-javascript-webdriverio/)
 - [Advanced Automated Visual Testing](https://testautomationu.applitools.com/advanced-visual-testing/)
 - [Galen Framework](https://galenframework.com/)
+- [Wopee.io](https://wopee.io) - Autonomous visual regression testing platform with AI-powered test agents. Integrates with Playwright, Cypress, and Robot Framework.
 
 </details>
 
