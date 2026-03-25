@@ -617,6 +617,9 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [WebDriverIO and Extended Debugging with Christian Bromann](https://www.youtube.com/watch?v=aX5TLGKhTKM)
 - [WebDriverIO Wednesdays with Kevin](https://www.youtube.com/watch?v=k6FFwurWhf0&list=PL0y7qCn3hjLYGdFtm_qvF0mCdFnBKs2C7)
 - [WebdriverIO - Github](https://github.com/webdriverio/webdriverio)
+- [WebdriverIO+TypeScript Tutorial: Automating a Login Page](https://medium.com/gitconnected/webdriverio-typescript-tutorial-automating-a-login-page-a31779c6201a)
+- [WebdriverIO + TypeScript Tutorial: How to Automate a Chat Application](https://medium.com/@iamfaisalkhatri/webdriverio-typescript-tutorial-how-to-automate-a-chat-application-0333868c019d)
+
 </details>
 
 <details>
@@ -999,6 +1002,16 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Guide to setup appium webdriverIO project to test android | ios application](https://www.youtube.com/watch?v=Sk9CQ3BaW_w)
 - [WebdriverIO Appium Tutorial: A Getting Started Guide With Examples](https://medium.com/@iamfaisalkhatri/webdriverio-appium-tutorial-a-getting-started-guide-with-examples-b99dc713cb34)
 - [How to perform Android mobile automation using WebdriverIO Appium with TypeScript | Test Automation](https://youtu.be/zWm0F3-ayQw?si=YcFtXIgWM6U2ZQyz)
+</details>
+
+<details>
+<summary>Maestro </summary>
+
+- [Maestro.dev](https://maestro.dev/)
+- [Maestro Documentation](https://docs.maestro.dev/)
+- [Maestro blog](https://maestro.dev/blog)
+- [Maestro Github](https://github.com/mobile-dev-inc/Maestro)
+
 </details>
 
 <details>
