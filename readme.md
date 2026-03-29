@@ -119,6 +119,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Real Python Tutorials](https://realpython.com/)
 - [Learn Python](https://www.learnpython.org/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Free Python Certification - FreeCodeCamp](https://www.freecodecamp.org/learn/python-v9/)
 - [Introduction to Computer Science and Programming using Python 6.100L- MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB)
 - [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
 - [Google's Python Class](https://developers.google.com/edu/python)
@@ -1568,6 +1569,11 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Free Linux Basics - KodeKloud](https://github.com/kodekloudhub/linux-basics-course)
 - [Free Linux Course](https://labex.io/learn/linux)
 - [How to Secure a Linux Server]( https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
+- [Test drive Linux distros online!](https://distrosea.com/)
+- [31 popular Linux distributions](https://www.stackscale.com/blog/popular-linux-distributions/)
+- [14 Cool Things to Do with Linux](https://linuxopsys.com/cool-things-to-do-with-linux)
+- [Free Linux Books](https://www.freebookcentre.net/UnixCategory/Free-Linux-Books-Download.html)
+- [A website that explains shell commands](https://explainshell.com/)
 
 </details>
 
