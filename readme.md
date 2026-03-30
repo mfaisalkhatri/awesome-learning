@@ -682,7 +682,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [RESTful book - AutomationTesting online](https://automationintesting.online/)
 - [Example SaaS for testing](https://demo-saas.bugbug.io/)
 - [Contact List App](https://thinking-tester-contact-list.herokuapp.com/)
-- [Candymapper](https://candymapper.com/)
 - [Live Chat Playground](https://github.com/mfaisalkhatri/live-chat-playground)
 - [75+ Testing Practice Websites to Master Software QA in 202](https://www.ministryoftesting.com/articles/75-testing-practice-websites-to-master-software-qa-in-2024)
 
