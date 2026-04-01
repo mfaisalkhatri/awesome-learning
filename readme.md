@@ -394,6 +394,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Software Quality Engineering: Testing, Quality Assurance, and Quantifable Improvement](https://welib.org/md5/b8bf922da30669f4691aaa87e49ba69c)
 - [Fundamentals of Software Testing 2nd Edition, Revised and Updated](https://welib.org/md5/a9927f7835f1d1c648ac36aa69cfaeed)
 - [Software Testing Foundations, 5th Edition A Study Guide for the Certified Tester Exam](https://welib.org/md5/d1e633c5c7e555394b530dd312360721)
+- [Bug Bash: Exploratory software testing](https://www.manning.com/books/bug-bash)
 
 </details>
 
