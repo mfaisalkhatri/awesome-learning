@@ -24,6 +24,10 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [Goldmine of all Open Source softwares](https://awesomeopensource.com)
 
+# Computer Science Courses
+
+- [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
+
 # Programming languages 
 
 <details>
@@ -158,6 +162,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Python Programming Exercises](https://inventwithpython.com/pythongently/)
 - [PRACTICE PYTHON - Beginner Python exercises](https://www.practicepython.org/)
 - [The right way to install Python on a Mac](https://medium.com/marvelous-mlops/the-rightway-to-install-python-on-a-mac-f3146d9d9a32)
+- [What is Polymorphism in Python? Explained with an Example](https://www.freecodecamp.org/news/what-is-polymorphism-in-python-example/)
 
 </details>
 
@@ -187,6 +192,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+- [Learn 25+ Programming Languages by playing games](http://codingame.com)
+
 </details>
 
 <details>
@@ -1067,6 +1074,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [LabEx Cybersecurity Free Labs](https://labex.io/free-labs/cybersecurity)
 - [Awesome CICD Security](https://github.com/myugan/awesome-cicd-security)
 - [Cybersecurity for Beginners](https://github.com/microsoft/Security-101)
+- [Learn Cybersecurity by playing game](http://picoctf.org)
+
 </details>
 
 <details> 
@@ -1444,6 +1453,16 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [A collection of Linux Sysadmin Test Questions and Answers](https://github.com/trimstray/test-your-sysadmin-skills)
 - [A curated list of Site Reliability and Production Engineering resources](https://github.com/dastergon/awesome-sre)
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+
+</details>
+
+<details>
+<summary>Learn DevOps by playing Games</summary>
+
+ - [DevOps](https://devops.games/) 
+ - [Kubernetes](http://k8sgames.com)
+ - [Linux](http://overthewire.org)
+ - [Git](http://ohmygit.org)
 
 </details>
 
