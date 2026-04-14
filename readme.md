@@ -35,10 +35,10 @@ I have been asked by many about my career transformation journey from Manual Tes
     - [Accessibility Testing](#accessibility-testing)
     - [Database Testing](#database-testing)
     - [DevOps](#devops)
-    - [Test Driven Testing](#TDD)
+    - [Test Driven Development](#TDD)
     - [Behavior Driven Development](#bdd)
     - [Agile](#agile)
-    - [QA Assistance](#qa-assistance)
+    - [QA Assistance Tools](#qa-assistance-tools)
     - [AI/ML Learning Materials](#aiml-learning-materials)
 
 # RoadMaps
@@ -1669,6 +1669,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 </details>
 
 # TDD
+
 <details> 
 <summary>Learning Materials</summary>
 
@@ -1684,6 +1685,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 </details>
 
 # BDD
+
 <details> 
 <summary>Learning Materials</summary>
 
@@ -1741,7 +1743,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 </details>
 
-# QA Assistance
+# QA Assistance tools
 
 <details>
 <summary>Tools</summary>
