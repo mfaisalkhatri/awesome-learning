@@ -124,6 +124,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Learn Python](https://www.learnpython.org/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Free Python Certification - FreeCodeCamp](https://www.freecodecamp.org/learn/python-v9/)
+- [PRACTICE PYTHON - Beginner Python exercises](https://www.practicepython.org/)
 - [Introduction to Computer Science and Programming using Python 6.100L- MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB)
 - [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
 - [Google's Python Class](https://developers.google.com/edu/python)
@@ -160,7 +161,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Advanced Python Course](https://python-course.eu/advanced-python/)
 - [Python CheatSheet](https://github.com/gto76/python-cheatsheet)
 - [Python Programming Exercises](https://inventwithpython.com/pythongently/)
-- [PRACTICE PYTHON - Beginner Python exercises](https://www.practicepython.org/)
 - [The right way to install Python on a Mac](https://medium.com/marvelous-mlops/the-rightway-to-install-python-on-a-mac-f3146d9d9a32)
 - [What is Polymorphism in Python? Explained with an Example](https://www.freecodecamp.org/news/what-is-polymorphism-in-python-example/)
 
@@ -777,6 +777,10 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Data Driven API Testing in Java with Rest-Assured and TestNG: Part 3](https://medium.com/javarevisited/data-driven-api-testing-in-java-with-rest-assured-and-testng-part-3-3eed3cc1e39f)
 - [Data Driven API Testing in Java with Rest-Assured and TestNG: Part 4](https://medium.com/javarevisited/data-driven-api-testing-in-java-with-rest-assured-and-testng-part-4-3e90355085d5)
 - [Data Driven API Testing in Java with Rest-Assured and TestNG: Part 5](https://medium.com/javarevisited/data-driven-api-testing-in-java-with-rest-assured-and-testng-part-5-e7fcde4203cc)
+- [How to Test a GET API Request using Rest-Assured Java](https://medium.com/javarevisited/how-to-test-a-get-api-request-using-rest-assured-java-90c75eaccdd0)
+- [How to Test PUT API Request using Rest Assured Java](https://medium.com/javarevisited/how-to-test-put-api-request-using-rest-assured-java-da58fa361217)
+- [How to Test a PATCH API Request with Rest Assured Java](https://medium.com/javarevisited/how-to-test-a-patch-api-request-with-rest-assured-java-a78309500315)
+- [How to Test a DELETE API Request with Rest Assured Java](https://medium.com/@iamfaisalkhatri/how-to-test-a-delete-api-request-with-rest-assured-java-6b3ae9941760)
 
 </details>
 
@@ -807,6 +811,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [How to test GET API requests with Playwright TypeScript - Video Tutorial ](https://youtu.be/UOYuVCkUM5M?si=9fZHEaAmZX6X__Hi)
 - [How to test POST API Requests with Playwright TypeScript](https://levelup.gitconnected.com/how-to-test-post-api-requests-with-playwright-typescript-5a210ed2f500)
 - [Global Setup in Playwright TypeScript for API Testing](https://levelup.gitconnected.com/global-setup-in-playwright-typescript-for-api-testing-cea7abe0173cf)
+- [Builder Pattern + Faker in API Test Automation using Playwright with TypeScript](https://levelup.gitconnected.com/builder-pattern-faker-in-api-test-automation-using-playwright-with-typescript-447730272483)
 
 </details>
 
@@ -1010,6 +1015,9 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Guide to setup appium webdriverIO project to test android | ios application](https://www.youtube.com/watch?v=Sk9CQ3BaW_w)
 - [WebdriverIO Appium Tutorial: A Getting Started Guide With Examples](https://medium.com/@iamfaisalkhatri/webdriverio-appium-tutorial-a-getting-started-guide-with-examples-b99dc713cb34)
 - [How to perform Android mobile automation using WebdriverIO Appium with TypeScript | Test Automation](https://youtu.be/zWm0F3-ayQw?si=YcFtXIgWM6U2ZQyz)
+- [WebdriverIO+TypeScript Tutorial: Automating a Login Page](https://medium.com/gitconnected/webdriverio-typescript-tutorial-automating-a-login-page-a31779c6201a)
+- [WebdriverIO + TypeScript Tutorial: How to Automate a Chat Application](https://medium.com/gitconnected/webdriverio-typescript-tutorial-how-to-automate-a-chat-application-0333868c019d)
+
 </details>
 
 <details>
@@ -1422,7 +1430,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [DevOps Free Labs](https://kodekloud.com/free-labs/devops)
 - [What is DevOps? What Does it Really Mean?](https://devopscube.com/what-is-devops-what-does-it-really-mean/)
 - [DevOps - Step by Step](https://github.com/MohamedRadwan-DevOps/devops-step-by-step)
-- [Free DevOps Books](https://github.com/rootusercop/Free-DevOps-Books-1)
+- [DevOps Books](https://github.com/DevOps-Projects-Ideas/DevOps-Books)
 - [What is DevOps?](https://learn.microsoft.com/en-us/devops/what-is-devops)
 - [Introduction to DevOps](https://learn.microsoft.com/en-us/training/modules/introduction-to-devops/)
 - [DevOps Engineering Course for Beginners](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)
