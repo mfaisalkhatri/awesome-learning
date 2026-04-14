@@ -13,6 +13,34 @@ I have been asked by many about my career transformation journey from Manual Tes
 ## Don't forget to give a :star: to make the project popular
 - Check out links to my LinkedIn Profile, Medium blogs and other social media sites on [LinkTree](https://linktr.ee/faisalkhatri)
 
+> A curated list of awesome learning resources for a software test engineer
+- [Awesome Learning](#awesome-learning)
+    - [Roadmaps](#roadmaps)
+    - [Awesome Open Source](#awesome-open-source)
+    - [Computer Science Courses](#computer-science-courses)
+    - [Programming Languages](#programming-languages)
+    - [Coding Principles](#coding-principles)
+    - [Software Design and Architecture](#software-design-and-architecture)
+    - [Software Testing](#software-testing)
+    - [Git](#git)
+    - [Web Testing](#web-testing)
+    - [API Testing](#api-testing)
+    - [Contract Testing](#contract-testing)
+    - [Mobile Testing](#mobile-testing)
+    - [Security Testing](#security-testing)
+    - [Performance Testing](#performance-testing)
+    - [AR/VR/XR Testing](#arvrxr-testing)
+    - [IVR Testing](#ivr-testing)
+    - [Visual Regression Testing](#visual-regression-testing)
+    - [Accessibility Testing](#accessibility-testing)
+    - [Database Testing](#database-testing)
+    - [DevOps](#devops)
+    - [Test Driven Development](#TDD)
+    - [Behavior Driven Development](#bdd)
+    - [Agile](#agile)
+    - [QA Assistance Tools](#qa-assistance-tools)
+    - [AI/ML Learning Materials](#aiml-learning-materials)
+
 # RoadMaps
 - [QA Roadmap by Anas Fitiani](https://github.com/fityanos/awesome-quality-assurance-roadmap)
 - [Roadmap to learn Automation Testing](https://medium.com/@iamfaisalkhatri/how-do-i-switch-from-manual-to-automation-testing-dc726950c3a9)
@@ -492,7 +520,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 </details>
 
-# Web Automation 
+# Web Testing 
 
 <details>
 <Summary>Selenium WebDriver</Summary>
@@ -935,7 +963,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 </details>
 
 
-# Mobile Automation
+# Mobile Testing
 
 <details>
 <summary>Mobile Testing</summary>
@@ -1641,6 +1669,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 </details>
 
 # TDD
+
 <details> 
 <summary>Learning Materials</summary>
 
@@ -1656,6 +1685,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 </details>
 
 # BDD
+
 <details> 
 <summary>Learning Materials</summary>
 
@@ -1713,7 +1743,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 </details>
 
-# QA Assistance
+# QA Assistance tools
 
 <details>
 <summary>Tools</summary>
