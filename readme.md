@@ -623,6 +623,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Seamless CI/CD Integration: Playwright and GitHub Actions](https://dzone.com/articles/seamless-ci-cd-integration-playwright-and-github-actions)
 - [How to Run Playwright Tests Sequentially in Same Browser Context](https://dzone.com/articles/execute-playwright-test-sequentially-same-browser-context)
 - [How to Use the Playwright Click() Method in Test Automation](https://levelup.gitconnected.com/how-to-use-the-playwright-click-method-in-test-automation-2535a5ed12c2)
+- [Vibe Testing with Playwright MCP: Testing UX with AI Agents](https://medium.com/gitconnected/vibe-testing-with-playwright-mcp-testing-ux-with-ai-agents-6b1be03b388a)
 
 </details>
 
