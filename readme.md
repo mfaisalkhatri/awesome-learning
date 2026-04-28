@@ -6,40 +6,40 @@
 <img src="assets/poster.gif" width="500" height="300"/>
 </div>
 
-I have been into Software Testing role since last 16+ years, however I must tell you that my most of the time was spent in manual testing the applications. When I got into this role, specifically it was the time when there used to be a lot of desktop applications. I started my career in 2008, being a Commerce graduate and not knowing the basic alphabets of engineering, initially it was very difficult to understand what programming, testing, releases was all about! Thanks to all my mentors and guides, they helped me a lot to understand those basic concepts about testing and how the actual process works.
+I have been in the Software Testing role for the last 17+ years; however, I must tell you that most of my time was spent in manual testing. When I got into this role, specifically, it was the time when there used to be a lot of desktop applications. I started my career in 2008 as a Commerce graduate and had no background in engineering. At first, it was challenging to understand what programming, testing, and releases entailed. Thanks to all my mentors and guides, who helped me a lot to understand the basic concepts of software testing and how the actual process works.
 
-I have been asked by many about my career transformation journey from Manual Testing to a Test Automation Engineer, hence I thought of creating this repository which has the learning path I followed to become a Test Automation Engineer.
+I have been asked by many about my career transformation journey from Manual Testing to Test Automation Engineer, hence I thought of creating this repository, which has the learning path I followed to become a Test Automation Engineer.
 
 ## Don't forget to give a :star: to make the project popular
-- Check out links to my LinkedIn Profile, Medium blogs and other social media sites on [LinkTree](https://linktr.ee/faisalkhatri)
+- Check out links to my LinkedIn Profile, Medium blogs, and other social media sites on [LinkTree](https://linktr.ee/faisalkhatri)
 
 > A curated list of awesome learning resources for a software test engineer
 - [Awesome Learning](#awesome-learning)
-    - [Roadmaps](#roadmaps)
-    - [Awesome Open Source](#awesome-open-source)
-    - [Computer Science Courses](#computer-science-courses)
-    - [Programming Languages](#programming-languages)
-    - [Coding Principles](#coding-principles)
-    - [Software Design and Architecture](#software-design-and-architecture)
-    - [Software Testing](#software-testing)
-    - [Git](#git)
-    - [Web Testing](#web-testing)
-    - [API Testing](#api-testing)
-    - [Contract Testing](#contract-testing)
-    - [Mobile Testing](#mobile-testing)
-    - [Security Testing](#security-testing)
-    - [Performance Testing](#performance-testing)
-    - [AR/VR/XR Testing](#arvrxr-testing)
-    - [IVR Testing](#ivr-testing)
-    - [Visual Regression Testing](#visual-regression-testing)
-    - [Accessibility Testing](#accessibility-testing)
-    - [Database Testing](#database-testing)
-    - [DevOps](#devops)
-    - [Test Driven Development](#TDD)
-    - [Behavior Driven Development](#bdd)
-    - [Agile](#agile)
-    - [QA Assistance Tools](#qa-assistance-tools)
-    - [AI/ML Learning Materials](#aiml-learning-materials)
+  - [RoadMaps](#roadmaps)
+  - [Awesome Open Source](#awesome-open-source)
+  - [Computer Science Courses](#computer-science-courses)
+  - [Programming languages](#programming-languages)
+  - [Coding Principles](#coding-principles)
+  - [Software Design and Architecture](#software-design-and-architecture)
+  - [Software Testing](#software-testing)
+  - [Git](#git)
+  - [Web Testing](#web-testing)
+  - [API Testing](#api-testing)
+  - [Contract Testing](#contract-testing)
+  - [Mobile Testing](#mobile-testing)
+  - [Security Testing](#security-testing)
+  - [Performance Testing](#performance-testing)
+  - [AR/VR/XR Testing](#arvrxr-testing)
+  - [IVR Testing](#ivr-testing)
+  - [Visual Regression Testing](#visual-regression-testing)
+  - [Accessibility Testing](#accessibility-testing)
+  - [Database Testing](#database-testing)
+  - [DevOps](#devops)
+  - [TDD](#tdd)
+  - [BDD](#bdd)
+  - [Agile](#agile)
+  - [QA Assistance tools](#qa-assistance-tools)
+  - [AI/ML Learning Materials](#aiml-learning-materials)
 
 # RoadMaps
 - [QA Roadmap by Anas Fitiani](https://github.com/fityanos/awesome-quality-assurance-roadmap)
@@ -622,6 +622,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Seamless CI/CD Integration: Playwright and GitHub Actions](https://dzone.com/articles/seamless-ci-cd-integration-playwright-and-github-actions)
 - [How to Run Playwright Tests Sequentially in Same Browser Context](https://dzone.com/articles/execute-playwright-test-sequentially-same-browser-context)
 - [How to Use the Playwright Click() Method in Test Automation](https://levelup.gitconnected.com/how-to-use-the-playwright-click-method-in-test-automation-2535a5ed12c2)
+- [Vibe Testing with Playwright MCP: Testing UX with AI Agents](https://medium.com/gitconnected/vibe-testing-with-playwright-mcp-testing-ux-with-ai-agents-6b1be03b388a)
 
 </details>
 
@@ -1463,7 +1464,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Introduction to DevOps](https://learn.microsoft.com/en-us/training/modules/introduction-to-devops/)
 - [DevOps Engineering Course for Beginners](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)
 - [Training for DevOps Engineers](https://learn.microsoft.com/en-us/training/career-paths/devops-engineer)
-- [Free Devops Books](https://github.com/rootusercop/Free-DevOps-Books-1)
+- [Free Devops Books](https://github.com/ahmedamsaleh/Free-DevOps-Books-1)
 - [Lets-DevOps/awesome-learning](https://github.com/Lets-DevOps/awesome-learning)
 - [90 Days Of DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 - [Awesome-CIandCD](https://github.com/cicdops/awesome-ciandcd)
