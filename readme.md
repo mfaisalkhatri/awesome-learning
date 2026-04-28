@@ -6,12 +6,12 @@
 <img src="assets/poster.gif" width="500" height="300"/>
 </div>
 
-I have been into Software Testing role since last 16+ years, however I must tell you that my most of the time was spent in manual testing the applications. When I got into this role, specifically it was the time when there used to be a lot of desktop applications. I started my career in 2008, being a Commerce graduate and not knowing the basic alphabets of engineering, initially it was very difficult to understand what programming, testing, releases was all about! Thanks to all my mentors and guides, they helped me a lot to understand those basic concepts about testing and how the actual process works.
+I have been in the Software Testing role for the last 17+ years; however, I must tell you that most of my time was spent in manual testing. When I got into this role, specifically, it was the time when there used to be a lot of desktop applications. I started my career in 2008 as a Commerce graduate and had no background in engineering. At first, it was challenging to understand what programming, testing, and releases entailed. Thanks to all my mentors and guides, who helped me a lot to understand the basic concepts of software testing and how the actual process works.
 
-I have been asked by many about my career transformation journey from Manual Testing to a Test Automation Engineer, hence I thought of creating this repository which has the learning path I followed to become a Test Automation Engineer.
+I have been asked by many about my career transformation journey from Manual Testing to Test Automation Engineer, hence I thought of creating this repository, which has the learning path I followed to become a Test Automation Engineer.
 
 ## Don't forget to give a :star: to make the project popular
-- Check out links to my LinkedIn Profile, Medium blogs and other social media sites on [LinkTree](https://linktr.ee/faisalkhatri)
+- Check out links to my LinkedIn Profile, Medium blogs, and other social media sites on [LinkTree](https://linktr.ee/faisalkhatri)
 
 > A curated list of awesome learning resources for a software test engineer
 - [Awesome Learning](#awesome-learning)
