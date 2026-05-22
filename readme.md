@@ -62,6 +62,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Java</summary>
 
 - [Java Roadmap](https://roadmap.sh/java)
+- [Java Programming Notes](https://www3.ntu.edu.sg/home/ehchua/programming/)
 - [Java Programming Course by Angie Jones](https://testautomationu.applitools.com/java-programming-course/)
 - [Beginners Book - Java Tutorials](https://beginnersbook.com/java-tutorial-for-beginners-with-examples/)
 - [Learn Java Online](https://www.learnjavaonline.org/)
@@ -580,6 +581,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [How to Handle Mouse Actions in Selenium](https://levelup.gitconnected.com/how-to-handle-mouse-actions-in-selenium-bdf6c712f097)
 - [What Is Page Object Model (POM) Design Pattern](https://medium.com/@iamfaisalkhatri/what-is-page-object-model-pom-design-pattern-9d0f3e831bdc)
 - [Data Driven Testing using Excel Files with Apache POI and Selenium WebDriver](https://medium.com/javarevisited/data-driven-testing-using-excel-files-with-apache-poi-and-selenium-webdriver-6261b7fc77f5)
+- [Vibe Testing with Selenium: Evaluating Real User Experience](https://medium.com/gitconnected/vibe-testing-with-selenium-evaluating-real-user-experience-69f30810906b)
 
 </details>
 
@@ -607,13 +609,14 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Interactive website to learn playwright](https://try.playwright.tech/)
 - [A detailed tutorial on Playwright & Test Runner](https://github.com/ortoniKC/Playwright-Test-Runner)
 - [Playwright Fixtures vs POM: Which One Should You Choose?](https://dzone.com/articles/playwright-fixtures-vs-pom)
-- [Playwright Java Tutorial: Web Automation Testing | Installation and Setup](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-installation-and-setup-545c9c7661c8)
-- [Playwright Java Tutorial: Web Automation Testing | Writing and running tests on Chrome, Firefox and Edge browsers](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-writing-and-running-tests-on-chrome-firefox-and-d2446b9a69ce)
-- [Playwright Java Tutorial: Web Automation Testing | How to perform browser navigation?](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-how-to-perform-browser-navigation-043f14af5c97)
-- [Playwright Java Tutorial: Web Automation Testing | How to handle Single and Multi select dropdowns using Playwright?](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-how-to-handle-single-and-multi-select-dropdowns-426b65614e28)
-- [Playwright Java Tutorial: Web Automation Testing | How to work with text fields?](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-how-to-work-with-text-fields-6cc9982ed7b2)
-- [Playwright Java Tutorial: Web Automation Testing | How to perform Mouse Hover action?](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-how-to-perform-mouse-hover-action-08905e7996f7)
-- [Playwright Java Tutorial: Web Automation Testing | How to check if element is displayed, enabled and selected?](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-how-to-check-if-element-is-displayed-enabled-7b11c184e2df)
+- [Playwright Java Tutorial: Installation and Setup](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-installation-and-setup-545c9c7661c8)
+- [Playwright Java Tutorial: Writing and running tests on Chrome, Firefox and Edge browsers](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-writing-and-running-tests-on-chrome-firefox-and-d2446b9a69ce)
+- [Playwright Java Tutorial: How to perform browser navigation?](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-how-to-perform-browser-navigation-043f14af5c97)
+- [Playwright Java Tutorial: How to handle Single and Multi select dropdowns using Playwright?](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-how-to-handle-single-and-multi-select-dropdowns-426b65614e28)
+- [Playwright Java Tutorial: How to work with text fields?](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-how-to-work-with-text-fields-6cc9982ed7b2)
+- [Playwright Java Tutorial: How to perform Mouse Hover action?](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-how-to-perform-mouse-hover-action-08905e7996f7)
+- [Playwright Java Tutorial: How to check if element is displayed, enabled and selected?](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-how-to-check-if-element-is-displayed-enabled-7b11c184e2df)
+- [How to perform Mouse Click Actions using Playwright Java](https://medium.com/gitconnected/how-to-perform-different-mouse-click-actions-using-playwright-java-19ccacbec262)
 - [Modern Test Automation with AI(LLM) and Playwright MCP (Model Context Protocol)](https://medium.com/@kailash-pathak/modern-test-automation-with-ai-llm-and-playwright-mcp-model-context-protocol-0c311292c7fb)
 - [Automating a Web Form With Playwright MCP and MySQL MCP](https://dzone.com/articles/automate-web-form-playwright-mysql-mcp)
 - [Running and Debugging Tests With Playwright UI Mode](https://dzone.com/articles/running-debugging-tests-playwright-ui-mode)
@@ -737,9 +740,9 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Testing Strategies in a Microservice Architecture](https://martinfowler.com/articles/microservice-testing/)
 - [What is an API? API for Beginners](https://www.youtube.com/watch?v=GZvSYJDk-us)
 - [What is API Testing?](https://mfaisalkhatri.github.io/2020/08/08/apitesting/)
-- [API Testing Tutorial](https://www.softwaretestinghelp.com/api-testing-tutorial/)
+- [API Testing Tutorial](https://www.softwaretestinghelp.com/api-testing-tutorial/) 
 - [A Comprehensive API Testing Guide](https://www.softwaretestingmaterial.com/api-testing/)
-- [Getting Started With Testing Microservices](https://alexromanov.github.io/2021/06/28/microservices-test-resources/)
+- [Effective Microiservices testing Strategies](https://www.freecodecamp.org/news/these-are-the-most-effective-microservice-testing-strategies-according-to-the-experts-6fb584f2edde/)
 - [JSON.org](https://www.json.org/json-en.html)
 - [What is JSON?](https://www.w3schools.com/whatis/whatis_json.asp)
 - [APISec University - API Documentation Best Practices](https://www.apisecuniversity.com/courses/api-documentation-best-practices)
@@ -788,6 +791,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Rest Assured Usage Guide](https://github.com/rest-assured/rest-assured/wiki/Usage)
 - [Automating your API tests with REST Assured](https://testautomationu.applitools.com/automating-your-api-tests-with-rest-assured/)
 - [A Guide to REST-assured](https://www.baeldung.com/rest-assured-tutorial)
+- [API Test Automation with Rest-Assured - Free Course](https://youtube.com/playlist?list=PLMer2TvhZIw-8KszaIZFsOrE8MEJXVYoY&si=HMp81VMoyA-Vj4qY)
 - [End to End API Testing using rest-assured](https://medium.com/@iamfaisalkhatri/end-to-end-api-testing-using-rest-assured-a58c4ea80255)
 - [James Willett - Rest Assured blogs](https://www.james-willett.com/blog/restassured/)
 - [Rest Assured Example code](https://github.com/mfaisalkhatri/rest-assured-examples)
@@ -841,6 +845,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [How to test POST API Requests with Playwright TypeScript](https://levelup.gitconnected.com/how-to-test-post-api-requests-with-playwright-typescript-5a210ed2f500)
 - [Global Setup in Playwright TypeScript for API Testing](https://levelup.gitconnected.com/global-setup-in-playwright-typescript-for-api-testing-cea7abe0173cf)
 - [Builder Pattern + Faker in API Test Automation using Playwright with TypeScript](https://levelup.gitconnected.com/builder-pattern-faker-in-api-test-automation-using-playwright-with-typescript-447730272483)
+- [How to test a PUT, PATCH, and DELETE API request using Playwright TypeScript?](https://medium.com/gitconnected/how-to-test-a-put-patch-and-delete-api-request-using-playwright-typescript-2cd61e313b10)
 
 </details>
 
