@@ -512,6 +512,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 - [Learn Enough Git to Be Dangerous - Michael Hartl](https://www.learnenough.com/git-tutorial)
 - [Git cheat sheet download](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Git Cheat Sheet - Linux Journey](https://linuxjourney.org/cheat-sheets/git)
 - [Learn GitLab with Tutorials](https://docs.gitlab.com/tutorials/)
 - [Tutorials - Learn Git](https://docs.gitlab.com/tutorials/learn_git/)
 - [GitLab University](https://university.gitlab.com/)
@@ -1596,6 +1597,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Docke Compose GitHub](https://github.com/docker/compose)
 - [Awesome Docker Compose](https://github.com/docker/awesome-compose)
 - [Docker Tutorial for Beginners – Introduction & Getting Started](https://spacelift.io/blog/docker-tutorial)
+- [Docker Cheat Sheet - Linux Journey](https://linuxjourney.org/cheat-sheets/docker)
 - [Docker Cheat Sheet - Docker](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
 - [Docker Cheat Sheet - Dockerlabs](https://dockerlabs.collabnix.com/docker/cheatsheet/)
 - [Docker Cheat Sheet - GitHub](https://github.com/wsargent/docker-cheat-sheet)
@@ -1622,6 +1624,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Linux</summary>
 
+- [Linux Journey - Tutorials and lessons to learn Linux](https://linuxjourney.org/)
 - [LinuxZoo - Learn Linux](https://linuxzoo.net/)
 - [How to Use Vim – Tutorial for Beginners](https://www.freecodecamp.org/news/vim-beginners-guide/)
 - [Learn Linux for free](https://labex.io/linuxjourney)
