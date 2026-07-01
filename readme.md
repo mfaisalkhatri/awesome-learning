@@ -41,6 +41,15 @@ I have been asked by many about my career transformation journey from Manual Tes
   - [QA Assistance tools](#qa-assistance-tools)
   - [AI/ML Learning Materials](#aiml-learning-materials)
 
+## Sponsored By
+<div align="left">
+<img src="assets/swiftproxy_banner.png" width="600" height="300"/>
+  <a href="https://www.swiftproxy.net/?ref=mfaisalkhatri"/a>
+</div>
+
+This project is sponsored by [Swiftproxy](https://www.swiftproxy.net/?ref=mfaisalkhatri) — Premium residential proxies for developers, automation engineers, and data teams. 
+Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, and SOCKS5, rotating and sticky sessions, and non-expiring traffic. Ideal for web scraping, browser automation, AI data collection, testing, and large-scale web research.
+
 # RoadMaps
 - [QA Roadmap by Anas Fitiani](https://github.com/fityanos/awesome-quality-assurance-roadmap)
 - [Roadmap to learn Automation Testing](https://medium.com/@iamfaisalkhatri/how-do-i-switch-from-manual-to-automation-testing-dc726950c3a9)
