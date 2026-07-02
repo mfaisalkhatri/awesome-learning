@@ -1782,6 +1782,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 - [Random Test Data Generator](https://www.mockaroo.com/)
 - [Free API Mocking - Beeceptor](https://beeceptor.com/)
 - [Random Data Generator Library](https://www.datafaker.net/)
+- [agent-qa](https://github.com/vostride/agent-qa) - Self-improving agentic QA harness for writing natural-language web and mobile tests with memory-backed self-healing, dashboard/CLI, MCP/skills, and sandboxed hooks.
 - [Faker JS](https://fakerjs.dev/)
 - [Test Data Generator](https://generatedata.com/)
 - [Excel Viewer - VS Code Extension](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer)
