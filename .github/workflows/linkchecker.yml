@@ -22,6 +22,9 @@ jobs:
           args: >-
             --accept "403"
             --user-agent "Mozilla/5.0"
+            --verbose
+            --no-progress
+            './**/*.md' 
           fail: false
             
 
