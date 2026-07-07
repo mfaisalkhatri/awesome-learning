@@ -19,10 +19,10 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@v2
         with:
-          fail: false
-          options: >
+          args: >-
             --accept 403
             --user-agent "Mozilla/5.0"
+          fail: false
             
 
       - name: Create Issue From File
