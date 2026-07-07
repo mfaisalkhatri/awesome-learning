@@ -20,9 +20,8 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           args: >-
-            --accept '403'
+            --accept "403"
             --user-agent "Mozilla/5.0"
-            --format markdown
           fail: false
             
 
