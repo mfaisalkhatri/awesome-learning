@@ -20,7 +20,7 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           fail: false
-          args: >
+          options: >
             --accept 403
             --user-agent "Mozilla/5.0"
             
