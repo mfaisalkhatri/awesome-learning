@@ -23,7 +23,6 @@ jobs:
             --accept '403'
             --user-agent "Mozilla/5.0"
             --format markdown
-            --output ./lychee/out.md
           fail: false
             
 
