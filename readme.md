@@ -1799,6 +1799,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 - [Dummy Text Generator](https://www.webtools.services/dummy-text-generator)
 - [Top Ways to Boost Team Morale and Increase Productivity](https://medium.com/@iamfaisalkhatri/top-ways-to-boost-team-morale-and-increase-productivity-626219502e75)
 - [HTTP Cats - A website detailing different status codes](https://http.cat/)
+- [QASkills.sh - Registry of 400+ QA & testing skills installable into Claude Code, Cursor & 30+ AI coding agents](https://qaskills.sh)
 
 </details>
 
