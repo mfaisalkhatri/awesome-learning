@@ -1916,6 +1916,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 - [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)
 - [LocalAI](https://github.com/mudler/LocalAI)
 - [Promptfoo - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs.](https://github.com/promptfoo/promptfoo)
+- [BrowserBash - Learn AI browser testing: 27 tutorials and 500+ articles on running plain-English E2E tests through an AI agent in a real browser (open-source CLI + MCP server).](https://browserbash.com/tutorials)
 - [AI Security Training By ModernSecurity.io - Hands on AI Security course with labs](https://www.modernsecurity.io/courses/ai-security-certification)
 
 </details>
