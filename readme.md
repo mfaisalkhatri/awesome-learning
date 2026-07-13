@@ -248,7 +248,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <summary>Free Programming Books </summary>
 
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
-- [Free Tech Books](https://freetechbooks.com/)
+- [Free Tech Books](https://www.freebookcentre.net/)
 - [Programming in Java - An Interdisciplinary approach](https://introcs.cs.princeton.edu/java/home/)
 - [Python Cheat Sheet](https://labex.io/pythoncheatsheet/)
 - [Free Computer Programming Books](https://freecomputerbooks.com/)
@@ -1207,16 +1207,19 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 <summary>Performance Testing Tutorials</summary>
 
 - [A Complete Performance Testing Guide With Examples](https://www.softwaretestinghelp.com/introduction-to-performance-testing-loadrunner-training-tutorial-part-1/)
+- [Performance Testing Tutorial For Beginners | Performance Testing Using Jmeter | Simplilearn](https://youtu.be/thc14fLXU2k?si=OaXZEXud09IU-0SZ)
 - [What is Performance Testing?](https://www.techtarget.com/searchsoftwarequality/definition/performance-testing)
 - [Types of Performance Testing](https://www.globalapptesting.com/blog/performance-testing-types)
 - [Performance Testing vs. Load Testing vs. Stress Testing](https://www.blazemeter.com/blog/performance-testing-vs-load-testing-vs-stress-testing)
 - [What is Throughput in Performance Testing?](https://testguild.com/performance-testing-what-is-throughput/)
-- [Load Testing Best Practices](https://loadninja.com/load-testing/)
+- [Load Testing Best Practices](https://gatling.io/blog/load-testing-best-practices)
+- [Load Testing Best Practices: Tips, Pitfalls, and Checklist](https://loadster.com/guides/load-testing-best-practices/)
 - [Tools and Techniques for Performance and Load Testing](https://testautomationu.applitools.com/performance-and-load-testing/)
 - [awesome-performance-testing](https://github.com/andriisoldatenko/awesome-performance-testing)
 - [15 Top Load Testing Tools Open Source MUST KNOW in 2021](https://www.youtube.com/watch?v=KECr2BujqtM)
 - [15 BEST Performance Testing Tools (Load Testing Tools) In 2023](https://www.softwaretestinghelp.com/performance-testing-tools-load-testing-tools/)
 - [Different Types of Performance Testing Tools](https://www.headspin.io/blog/best-performance-testing-tools)
+- [Load Testing: An essential Guide for 2026](https://www.harness.io/blog/load-testing-an-essential-guide-for-2026)
 </details>
 
 <details> 
@@ -1648,13 +1651,13 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 - [How to Use Vim – Tutorial for Beginners](https://www.freecodecamp.org/news/vim-beginners-guide/)
 - [Learn Linux for free](https://labex.io/linuxjourney)
 - [Free Linux Tutorials](https://linuxsurvival.com/)
+- [Practical Linux Tutorials and Command-Line Guides](https://linuxize.com/)
 - [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
 - [Free Linux Basics - KodeKloud](https://github.com/kodekloudhub/linux-basics-course)
 - [Free Linux Course](https://labex.io/learn/linux)
 - [How to Secure a Linux Server]( https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 - [Test drive Linux distros online!](https://distrosea.com/)
 - [31 popular Linux distributions](https://www.stackscale.com/blog/popular-linux-distributions/)
-- [14 Cool Things to Do with Linux](https://linuxopsys.com/cool-things-to-do-with-linux)
 - [Free Linux Books](https://www.freebookcentre.net/UnixCategory/Free-Linux-Books-Download.html)
 - [A website that explains shell commands](https://explainshell.com/)
 
