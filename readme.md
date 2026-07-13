@@ -70,10 +70,12 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 # Awesome Open Source
 
 - [Goldmine of all Open Source softwares](https://awesomeopensource.com)
+- [List of Awesome Learning Resources](https://www.topcoder.com/thrive/articles/List%20of%20awesome%20learning%20resources)
 
 # Computer Science Courses
 
 - [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
+- [1200 Free Computer Science Courses from the World’s Top Universities](https://www.freecodecamp.org/news/free-courses-top-cs-universities/)
 
 # Programming languages 
 
@@ -602,6 +604,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 - [What Is Page Object Model (POM) Design Pattern](https://medium.com/@iamfaisalkhatri/what-is-page-object-model-pom-design-pattern-9d0f3e831bdc)
 - [Data Driven Testing using Excel Files with Apache POI and Selenium WebDriver](https://medium.com/javarevisited/data-driven-testing-using-excel-files-with-apache-poi-and-selenium-webdriver-6261b7fc77f5)
 - [Vibe Testing with Selenium: Evaluating Real User Experience](https://medium.com/gitconnected/vibe-testing-with-selenium-evaluating-real-user-experience-69f30810906b)
+- [How to Build an AI Agent to Generate Selenium WebDriver Tests in Java: A Practical Guide for Test Automation Engineers](https://medium.com/@iamfaisalkhatri/how-to-build-an-ai-agent-to-generate-selenium-webdriver-tests-in-java-a-practical-guide-for-test-6fbaf27c53cf)
 
 </details>
 
@@ -637,6 +640,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 - [Playwright Java Tutorial: How to perform Mouse Hover action?](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-how-to-perform-mouse-hover-action-08905e7996f7)
 - [Playwright Java Tutorial: How to check if element is displayed, enabled and selected?](https://medium.com/@iamfaisalkhatri/playwright-java-tutorial-web-automation-testing-how-to-check-if-element-is-displayed-enabled-7b11c184e2df)
 - [How to perform Mouse Click Actions using Playwright Java](https://medium.com/gitconnected/how-to-perform-different-mouse-click-actions-using-playwright-java-19ccacbec262)
+- [Working with Data Tables with Playwright Java](https://medium.com/javarevisited/working-with-data-tables-with-playwright-java-e0fed9d9e61a)
 - [Modern Test Automation with AI(LLM) and Playwright MCP (Model Context Protocol)](https://medium.com/@kailash-pathak/modern-test-automation-with-ai-llm-and-playwright-mcp-model-context-protocol-0c311292c7fb)
 - [Automating a Web Form With Playwright MCP and MySQL MCP](https://dzone.com/articles/automate-web-form-playwright-mysql-mcp)
 - [Running and Debugging Tests With Playwright UI Mode](https://dzone.com/articles/running-debugging-tests-playwright-ui-mode)
@@ -810,6 +814,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 - [rest-assured.io](https://rest-assured.io/)
 - [Rest Assured Usage Guide](https://github.com/rest-assured/rest-assured/wiki/Usage)
 - [Automating your API tests with REST Assured](https://testautomationu.applitools.com/automating-your-api-tests-with-rest-assured/)
+- [API Test Automation with Rest-Assured - Free Course](https://youtube.com/playlist?list=PLMer2TvhZIw-8KszaIZFsOrE8MEJXVYoY&si=2bRnRpVZHxsJDmku)
 - [A Guide to REST-assured](https://www.baeldung.com/rest-assured-tutorial)
 - [API Test Automation with Rest-Assured - Free Course](https://youtube.com/playlist?list=PLMer2TvhZIw-8KszaIZFsOrE8MEJXVYoY&si=HMp81VMoyA-Vj4qY)
 - [End to End API Testing using rest-assured](https://medium.com/@iamfaisalkhatri/end-to-end-api-testing-using-rest-assured-a58c4ea80255)
@@ -824,7 +829,9 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 - [How to Test POST Requests with Rest-Assured Java for API Testing: Part I](https://medium.com/@iamfaisalkhatri/how-to-test-post-requests-with-rest-assured-for-api-testing-part-i-d697efab5875)
 - [How to Test POST Requests with Rest-Assured Java for API Testing: Part II](https://medium.com/javarevisited/how-to-test-post-requests-with-rest-assured-java-for-api-testing-part-ii-30dfe04a533a)
 - [How to test a SOAP API request with Rest-Assured Java](https://medium.com/javarevisited/how-to-test-a-soap-api-request-with-rest-assured-java-c7fbab845c46)
-- [How to Perform Response Verification in REST-Assured Java for API Testing](https://medium.com/javarevisited/how-to-perform-response-verification-in-rest-assured-java-for-api-testing-666583f58334)
+- [How to Perform Response Verification in REST-Assured Java for API Testing: Part 1](https://medium.com/javarevisited/how-to-perform-response-verification-in-rest-assured-java-for-api-testing-666583f58334)
+- [How to Perform Response Verification in REST-Assured Java for API Testing: Part 2](https://medium.com/javarevisited/how-to-perform-response-verification-in-rest-assured-java-for-api-testing-part-2-8e1393ec3594)
+- [Rest-Assured Configuration and Specifications: Writing Maintainable API Tests](https://medium.com/javarevisited/rest-assured-configuration-and-specifications-writing-maintainable-api-tests-cfadda5fa671)
 - [Data Driven API Testing in Java with Rest-Assured and TestNG: Part 1](https://medium.com/javarevisited/data-driven-api-testing-in-java-with-rest-assured-and-testng-part-1-275795ca2c62)
 - [Data Driven API Testing in Java with Rest-Assured and TestNG: Part 2](https://medium.com/javarevisited/data-driven-api-testing-in-java-with-rest-assured-and-testng-part-2-06029e688efe)
 - [Data Driven API Testing in Java with Rest-Assured and TestNG: Part 3](https://medium.com/javarevisited/data-driven-api-testing-in-java-with-rest-assured-and-testng-part-3-3eed3cc1e39f)
@@ -834,6 +841,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 - [How to Test PUT API Request using Rest Assured Java](https://medium.com/javarevisited/how-to-test-put-api-request-using-rest-assured-java-da58fa361217)
 - [How to Test a PATCH API Request with Rest Assured Java](https://medium.com/javarevisited/how-to-test-a-patch-api-request-with-rest-assured-java-a78309500315)
 - [How to Test a DELETE API Request with Rest Assured Java](https://medium.com/@iamfaisalkhatri/how-to-test-a-delete-api-request-with-rest-assured-java-6b3ae9941760)
+
 
 </details>
 
@@ -845,11 +853,14 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 - [Dead-Simple API Tests With SuperTest, Mocha, and Chai](https://dev-tester.com/dead-simple-api-tests-with-supertest-mocha-and-chai/)
 - [API Testing using SuperTest](https://medium.com/@iamfaisalkhatri/api-testing-using-supertest-ea37522fa329)
 - [API Testing using Jest and SuperTest](https://www.testingwithmarie.com/posts/20210702-api-testing-using-jest-and-supertest/)
+- [How to Test POST API Requests with SuperTest in Node.js](https://medium.com/gitconnected/how-to-test-post-api-requests-with-supertest-in-node-js-97f5b9f9c8eb)
 </details>
 
 <details>
 <summary>Playwright</summary>
 
+- [API Testing with Playwright TypeScript](https://www.youtube.com/live/87EIQzJl2AY?si=7GlJTuFpnGIS65mu)
+- [API Testing with Playwright TypeScript - Free Course](https://youtube.com/playlist?list=PLMer2TvhZIw-N5p555hrlW_CLn2iaXfw7&si=84LDiUmEje7KNQbS)
 - [How to test POST API requests with Playwright Java](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-how-to-test-post-requests-4c9102d3ab03)
 - [How to test GET API requests with Playwright Java](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-how-to-test-get-requests-c036b984cc6d)
 - [How to test PUT API requests with Playwright Java](https://medium.com/@iamfaisalkhatri/playwright-java-api-testing-how-to-test-put-requests-d6b1d054d64b)
@@ -866,6 +877,8 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 - [Global Setup in Playwright TypeScript for API Testing](https://levelup.gitconnected.com/global-setup-in-playwright-typescript-for-api-testing-cea7abe0173cf)
 - [Builder Pattern + Faker in API Test Automation using Playwright with TypeScript](https://levelup.gitconnected.com/builder-pattern-faker-in-api-test-automation-using-playwright-with-typescript-447730272483)
 - [How to test a PUT, PATCH, and DELETE API request using Playwright TypeScript?](https://medium.com/gitconnected/how-to-test-a-put-patch-and-delete-api-request-using-playwright-typescript-2cd61e313b10)
+- [Data Driven API Testing in Playwright TypeScript: Part 1](https://levelup.gitconnected.com/data-driven-api-testing-in-playwright-typescript-part-1-cc4f7deaf74a)
+- [Data Driven API Testing in Playwright TypeScript: Part 2](https://levelup.gitconnected.com/data-driven-api-testing-in-playwright-typescript-part-2-5d6e84f5da45)
 
 </details>
 
@@ -1660,6 +1673,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 - [31 popular Linux distributions](https://www.stackscale.com/blog/popular-linux-distributions/)
 - [Free Linux Books](https://www.freebookcentre.net/UnixCategory/Free-Linux-Books-Download.html)
 - [A website that explains shell commands](https://explainshell.com/)
+- [25 Linux Commands Every Beginner Should Know](https://medium.com/devops-dev/25-linux-commands-every-beginner-should-know-e0bb4a7c6d3b)
 
 </details>
 
@@ -1920,6 +1934,8 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 - [LocalAI](https://github.com/mudler/LocalAI)
 - [Promptfoo - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs.](https://github.com/promptfoo/promptfoo)
 - [AI Security Training By ModernSecurity.io - Hands on AI Security course with labs](https://www.modernsecurity.io/courses/ai-security-certification)
+- [Docker + Ollama + Qwen3:8B + LibreChat + Playwright MCP | Build Your Own Local AI QA Engineer](https://youtu.be/j_ka0EWYXYo?si=uX8mThpvC2I1OTjB)
+- [Awesome MCP Servers](https://mcpservers.org/)
 
 </details>
 
@@ -1942,5 +1958,4 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai)
 - [ML from Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 - [ML Algorithms](https://github.com/rushter/MLAlgorithms)
-
 </details>
