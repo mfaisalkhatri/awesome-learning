@@ -1933,6 +1933,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 - [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)
 - [LocalAI](https://github.com/mudler/LocalAI)
 - [Promptfoo - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs.](https://github.com/promptfoo/promptfoo)
+- [Token-Saving Plugins Are Mostly a Stupid Idea](https://turaai.net/blog#token-saving-plugins-are-mostly-stupid-idea) - A complete-task analysis of coding-agent token-saving claims with public benchmark data and methodology.
 - [AI Security Training By ModernSecurity.io - Hands on AI Security course with labs](https://www.modernsecurity.io/courses/ai-security-certification)
 - [Docker + Ollama + Qwen3:8B + LibreChat + Playwright MCP | Build Your Own Local AI QA Engineer](https://youtu.be/j_ka0EWYXYo?si=uX8mThpvC2I1OTjB)
 - [Awesome MCP Servers](https://mcpservers.org/)
