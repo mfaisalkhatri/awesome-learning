@@ -414,7 +414,6 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 - [The Real Struggles of Software Testers: Challenges No One Talks About!](https://medium.com/@iamfaisalkhatri/the-real-struggles-of-software-testers-challenges-no-one-talks-about-dfba2eb9bd33)
 - [Why is Critical Thinking important in Software Testing](https://medium.com/@iamfaisalkhatri/why-is-critical-thinking-important-in-software-testing-f72444fd3b30)
 - [Why Curiosity Is a QA Engineer’s Strongest Skill](https://medium.com/@iamfaisalkhatri/why-curiosity-is-a-qa-engineers-strongest-skill-7057424612f8)
-- []()
 
 </details>
 
