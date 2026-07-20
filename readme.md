@@ -979,6 +979,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/)
 - [Beeceptor Mock APIs](https://beeceptor.com/docs/sample-api-for-testing/)
 - [JSONing](https://jsoning.com/api/)
+- [funapi](https://funapi.dev)
 
 </details>
 
