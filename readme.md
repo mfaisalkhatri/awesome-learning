@@ -1648,6 +1648,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 
 - [GitHub Actions Documentation](https://docs.github.com/en/actions)
 - [GitHub Actions Guide](https://docs.github.com/en/actions/tutorials)
+- [GitHub Actions Node 24 migration checklist](https://yunczo.github.io/ci-rescue-service/guides/github-actions-node24-migration.html)
 - [Automate your workflow from idea to production](https://github.com/features/actions)
 - [How to setup GitHub Actions for NodeJS project?](https://medium.com/@iamfaisalkhatri/how-to-setup-github-actions-for-node-js-project-1edd6ce1dbe1)
 - [GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker](https://www.youtube.com/watch?v=R8_veQiYBjI)
