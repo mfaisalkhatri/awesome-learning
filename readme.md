@@ -1211,6 +1211,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 - [Burp Suite Professional video tutorials](https://portswigger.net/burp/pro/video-tutorials)
 - [Burp Suite Tutorial – Getting Started With Burp Suite Tool - Software Testing Help](https://www.softwaretestinghelp.com/burp-suite-tutorial/)
 - [Burp Suite Tutorials - TryHackMe](https://tryhackme.com/module/learn-burp-suite)
+- [Next.js Security Headers Starter](https://github.com/poszothebuilder/nextjs-security-headers-starter) - MIT-licensed baseline with five security headers, a verification script, and a deployment checklist.
 
 </details>
 
