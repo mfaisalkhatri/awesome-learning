@@ -187,6 +187,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 - [Interactive Python Learning in your Browser](https://www.freecodecamp.org/news/python-curriculum-upgrade/)
 - [Awesome Python](https://github.com/vinta/awesome-python)
 - [Awesome Python Books](https://github.com/junnplus/awesome-python-books)
+- [Awesome Python website](https://www.awesomepython.org/)
 - [Free Python Books](https://github.com/revolunet/PythonBooks)
 - [Python Tutorial - W3Schools](https://www.w3schools.com/python/)
 - [Python Programming - Programiz](https://www.programiz.com/python-programming)
@@ -649,7 +650,10 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 - [How to Run Playwright Tests Sequentially in Same Browser Context](https://dzone.com/articles/execute-playwright-test-sequentially-same-browser-context)
 - [How to Use the Playwright Click() Method in Test Automation](https://levelup.gitconnected.com/how-to-use-the-playwright-click-method-in-test-automation-2535a5ed12c2)
 - [Vibe Testing with Playwright MCP: Testing UX with AI Agents](https://medium.com/gitconnected/vibe-testing-with-playwright-mcp-testing-ux-with-ai-agents-6b1be03b388a)
-
+- [Playwright TypeScript Multiple Environments: A Complete Real-World Guide](https://medium.com/gitconnected/playwright-typescript-multiple-environments-a-complete-real-world-guide-4173bb136d68?sharedUserId=iamfaisalkhatri)
+- [Playwright Browser vs BrowserContext vs Page: Complete Guide with Examples](https://medium.com/gitconnected/playwright-browser-vs-browsercontext-vs-page-complete-guide-with-examples-b6c771c8d371?sharedUserId=iamfaisalkhatri)
+- [How to Create Custom Fixtures in Playwright TypeScript: A Complete Practical Guide](https://medium.com/gitconnected/how-to-create-custom-fixtures-in-playwright-typescript-a-complete-practical-guide-4fa8b2fc2c82?sharedUserId=iamfaisalkhatri)
+- [Playwright TypeScript Multiple Environments | How to Use Projects, baseURL & .env](https://youtu.be/CgxQsT3jriI?si=Tuqenahtx4JcCH5V)
 </details>
 
 <details> 
@@ -1211,8 +1215,6 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 - [Burp Suite Professional video tutorials](https://portswigger.net/burp/pro/video-tutorials)
 - [Burp Suite Tutorial – Getting Started With Burp Suite Tool - Software Testing Help](https://www.softwaretestinghelp.com/burp-suite-tutorial/)
 - [Burp Suite Tutorials - TryHackMe](https://tryhackme.com/module/learn-burp-suite)
-- [Next.js Security Headers Starter](https://github.com/poszothebuilder/nextjs-security-headers-starter) - MIT-licensed baseline with five security headers, a verification script, and a deployment checklist.
-
 </details>
 
 # Performance Testing
@@ -1400,6 +1402,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 - [Types of Databases - Tutorialspoint](https://www.tutorialspoint.com/sql/sql-databases.htm)
 - [DBMC and SQL basics](https://www.freecodecamp.org/news/dbms-and-sql-basics/)
 - [Database Management System](https://www.w3schools.in/dbms)
+- [ETL Testing](https://www.tutorialspoint.com/etl_testing/index.htm)
 
 </details>
 
@@ -1934,10 +1937,17 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 - [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)
 - [LocalAI](https://github.com/mudler/LocalAI)
 - [Promptfoo - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs.](https://github.com/promptfoo/promptfoo)
-- [Token-Saving Plugins Are Mostly a Stupid Idea -  A complete task analysis of coding-agent token-saving claims with public benchmark data and methodology](https://turaai.net/blog#token-saving-plugins-are-mostly-stupid-idea) .
+- [A complete task analysis of coding-agent token-saving claims with public benchmark data and methodology](https://turaai.net/blog#token-saving-plugins-are-mostly-stupid-idea)
 - [AI Security Training By ModernSecurity.io - Hands on AI Security course with labs](https://www.modernsecurity.io/courses/ai-security-certification)
 - [Docker + Ollama + Qwen3:8B + LibreChat + Playwright MCP | Build Your Own Local AI QA Engineer - Video Tutorial](https://youtu.be/j_ka0EWYXYo?si=uX8mThpvC2I1OTjB)
+- [Build Your Own Local AI QA Engineer with Docker, Ollama, LibreChat, and Playwright MCP](https://medium.com/gitconnected/build-your-own-local-ai-qa-engineer-with-docker-ollama-librechat-and-playwright-mcp-1a254fab91d0?sharedUserId=iamfaisalkhatri)
 - [Awesome MCP Servers](https://mcpservers.org/)
+- [Hugging Face Courses - NLP + new AI Agents course](https://huggingface.co/learn) 
+- [DeepLearning.AI - Transformers, Agentic AI, LangGraph](https://www.deeplearning.ai/courses) 
+- [Cohere LLM University- free modules on architecture, RAG, agents](cohere.com/llmu)
+- [LLM Course - Roadmaps + Notebooks - GitHub](https://github.com/mlabonne/llm-course) 
+- [Fast.ai - Practical Deep Learning](https://www.fast.ai/)
+- [Courses - Fast.ai](https://course.fast.ai/)
 
 </details>
 
@@ -1961,4 +1971,3 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 - [ML from Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 - [ML Algorithms](https://github.com/rushter/MLAlgorithms)
 </details>
-
