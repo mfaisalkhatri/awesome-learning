@@ -1944,7 +1944,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 - [Awesome MCP Servers](https://mcpservers.org/)
 - [Hugging Face Courses - NLP + new AI Agents course](https://huggingface.co/learn) 
 - [DeepLearning.AI - Transformers, Agentic AI, LangGraph](https://www.deeplearning.ai/courses) 
-- [Cohere LLM University- free modules on architecture, RAG, agents](cohere.com/llmu)
+- [Cohere LLM University- free modules on architecture, RAG, agents](https://cohere.com/llmu)
 - [LLM Course - Roadmaps + Notebooks - GitHub](https://github.com/mlabonne/llm-course) 
 - [Fast.ai - Practical Deep Learning](https://www.fast.ai/)
 - [Courses - Fast.ai](https://course.fast.ai/)
