@@ -1224,7 +1224,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 
 - [A Complete Performance Testing Guide With Examples](https://www.softwaretestinghelp.com/introduction-to-performance-testing-loadrunner-training-tutorial-part-1/)
 - [Performance Testing Tutorial For Beginners | Performance Testing Using Jmeter | Simplilearn](https://youtu.be/thc14fLXU2k?si=OaXZEXud09IU-0SZ)
-- [What is Performance Testing?](https://www.techtarget.com/searchsoftwarequality/definition/performance-testing)
+- [What is Performance Testing?](https://www.ibm.com/think/topics/performance-testing)
 - [Types of Performance Testing](https://www.globalapptesting.com/blog/performance-testing-types)
 - [Performance Testing vs. Load Testing vs. Stress Testing](https://www.blazemeter.com/blog/performance-testing-vs-load-testing-vs-stress-testing)
 - [What is Throughput in Performance Testing?](https://testguild.com/performance-testing-what-is-throughput/)
@@ -1597,7 +1597,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 - [Jenkins Tutorial](https://testautomationu.applitools.com/jenkins-tutorial/)
 - [Jenkins YouTube Channel](https://www.youtube.com/@jenkinscicd)
 - [Selenium Continuous Integration with Jenkins](https://www.softwaretestingmaterial.com/selenium-continuous-integration/)
-- [What is Jenkins and How does it work?](https://www.techtarget.com/searchsoftwarequality/definition/Jenkins)
+- [What is Jenkins and How does it work?](https://octopus.com/devops/jenkins/)
 - [What is Jenkins? How to Use Jenkins for CI/CD and Testing](https://applitools.com/blog/what-is-jenkins-how-to-use-jenkins-ci-testing/)
 - [Jenkins Tutorial for Beginners: A Comprehensive Guide With Examples and Best Practices]( https://www.testmuai.com/learning-hub/jenkins)
 - [Jenkins Full Course in 4 Hours | Jenkins Tutorial For Beginners](https://www.youtube.com/watch?v=3a8KsB5wJDE)
