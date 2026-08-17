@@ -175,6 +175,7 @@ Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, 
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Free Python Certification - FreeCodeCamp](https://www.freecodecamp.org/learn/python-v9/)
 - [PRACTICE PYTHON - Beginner Python exercises](https://www.practicepython.org/)
+- [Pythonlings - Interactive Python exercises in a terminal TUI](https://github.com/abhiksark/pythonlings)
 - [Introduction to Computer Science and Programming using Python 6.100L- MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB)
 - [Practical Python Programming](https://github.com/dabeaz-course/practical-python)
 - [Google's Python Class](https://developers.google.com/edu/python)
