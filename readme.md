@@ -41,25 +41,6 @@ I have been asked by many about my career transformation journey from Manual Tes
   - [QA Assistance tools](#qa-assistance-tools)
   - [AI/ML Learning Materials](#aiml-learning-materials)
 
-## Sponsored By
-<div align="left">
-<img src="assets/swiftproxy_banner.png" width="600" height="300"/>
-  <a href="https://www.swiftproxy.net/?ref=mfaisalkhatri"/a>
-</div>
-
-[Swiftproxy](https://www.swiftproxy.net/?ref=mfaisalkhatri) — Premium residential proxies for developers, automation engineers, and data teams. 
-Access 80M+ residential IPs across 190+ countries with support for HTTP, HTTPS, and SOCKS5, rotating and sticky sessions, and non-expiring traffic. Ideal for web scraping, browser automation, AI data collection, testing, and large-scale web research.
-
-<div align="left">
-<img src="assets/rapidproxy_banner.png" width="600" height="300"/>
-  <a href="https://www.rapidproxy.io/?ref=awesome"/a>
-</div>
-
-[RapidProxy](https://www.rapidproxy.io/?ref=awesome) is a global residential proxy platform built for scraping developers and data collection teams, offering 90M+ real residential IPs across 200+ countries and regions. It supports dynamic rotation, precise geo-targeting, and high-concurrency data collection, helping improve success rates and reduce ban risks. 
-
-[Start your free trial today!](https://www.rapidproxy.io/?ref=awesome) _Use discount code RAPID10 to get 10% off._
-
-
 # RoadMaps
 - [QA Roadmap by Anas Fitiani](https://github.com/fityanos/awesome-quality-assurance-roadmap)
 - [Roadmap to learn Automation Testing](https://medium.com/@iamfaisalkhatri/how-do-i-switch-from-manual-to-automation-testing-dc726950c3a9)
