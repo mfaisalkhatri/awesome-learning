@@ -202,6 +202,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Data Structures & Algorithms</summary>
 
 - [DS & A Roadmap](https://roadmap.sh/datastructures-and-algorithms)
+- [Learn Data Structures and Algorithms Visually – Crash Course](https://youtu.be/RpLnQnurpLY)
+- [Data Structures and Algorithm Patterns for LeetCode Interviews](https://youtu.be/Z_c4byLrNBU)
 - [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
 - [Introduction to Algorithms MIT 6.006](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 - [DS & A - Programiz](https://www.programiz.com/dsa)
@@ -320,8 +322,9 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Free Tutorials and Courses</summary>
 
 - [QA Roadmap](https://roadmap.sh/qa)
+- [Software Testing Course – Playwright, E2E, and AI Agents](https://youtu.be/jydYq7oAtD8)
 - [Test Automation University](https://testautomationu.applitools.com/)
-- [Free Code Camp](https://www.freecodecamp.org/news/tag/software-testing/) 
+- [freeCodeCamp](https://www.freecodecamp.org/news/tag/software-testing/) 
 - [DZone - Testing, Tools and Frameworks](https://dzone.com/testing-tools-and-frameworks)
 - [LambdaTest Learning Hub]( https://www.testmuai.com/learning-hub/)
 - [Guru99.com](https://www.guru99.com/software-testing.html)
@@ -586,6 +589,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Data Driven Testing using Excel Files with Apache POI and Selenium WebDriver](https://medium.com/javarevisited/data-driven-testing-using-excel-files-with-apache-poi-and-selenium-webdriver-6261b7fc77f5)
 - [Vibe Testing with Selenium: Evaluating Real User Experience](https://medium.com/gitconnected/vibe-testing-with-selenium-evaluating-real-user-experience-69f30810906b)
 - [How to Build an AI Agent to Generate Selenium WebDriver Tests in Java: A Practical Guide for Test Automation Engineers](https://medium.com/@iamfaisalkhatri/how-to-build-an-ai-agent-to-generate-selenium-webdriver-tests-in-java-a-practical-guide-for-test-6fbaf27c53cf)
+- [Selenium AI Test Generator | Generate Selenium Java Automation Code Using AI from Plain English - Video Tutorial](https://youtu.be/YmukML3G2Wo)
 
 </details>
 
@@ -634,7 +638,13 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Playwright TypeScript Multiple Environments: A Complete Real-World Guide](https://medium.com/gitconnected/playwright-typescript-multiple-environments-a-complete-real-world-guide-4173bb136d68?sharedUserId=iamfaisalkhatri)
 - [Playwright Browser vs BrowserContext vs Page: Complete Guide with Examples](https://medium.com/gitconnected/playwright-browser-vs-browsercontext-vs-page-complete-guide-with-examples-b6c771c8d371?sharedUserId=iamfaisalkhatri)
 - [How to Create Custom Fixtures in Playwright TypeScript: A Complete Practical Guide](https://medium.com/gitconnected/how-to-create-custom-fixtures-in-playwright-typescript-a-complete-practical-guide-4fa8b2fc2c82?sharedUserId=iamfaisalkhatri)
-- [Playwright TypeScript Multiple Environments | How to Use Projects, baseURL & .env](https://youtu.be/CgxQsT3jriI?si=Tuqenahtx4JcCH5V)
+- [Parallel Testing in Playwright with TypeScript: A Practical Guide to Workers & Cross-Browser Testing](https://medium.com/gitconnected/parallel-testing-in-playwright-with-typescript-a-practical-guide-to-workers-cross-browser-testing-a407f6e7e2c2)
+- [Network Interception with Playwright TypeScript](https://medium.com/gitconnected/network-interception-with-playwright-typescript-0dd32195848b?sharedUserId=iamfaisalkhatri)
+- [How to use Authentication setup in Playwright TypeScript](https://medium.com/gitconnected/how-to-use-authentication-setup-in-playwright-typescript-f54bc68356f4?sharedUserId=iamfaisalkhatri)
+- [Stop Hardcoding URLs! Playwright Multi-Environment Guide | How to Use Projects, baseURL & .env - Video Tutorial](https://youtu.be/CgxQsT3jriI)
+- [Browser vs BrowserContext vs Page in Playwright TypeScript Finally Explained! - Video Tutorial](https://youtu.be/iJXXxNiF4iU)
+- [How to Create Custom Fixtures in Playwright TypeScript | Step-by-Step Tutorial | Automation Testing - Video Tutorial](https://youtu.be/mJg59jCwLgs)
+
 </details>
 
 <details> 
@@ -863,13 +873,15 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [How to test a PUT, PATCH, and DELETE API request using Playwright TypeScript?](https://medium.com/gitconnected/how-to-test-a-put-patch-and-delete-api-request-using-playwright-typescript-2cd61e313b10)
 - [Data Driven API Testing in Playwright TypeScript: Part 1](https://levelup.gitconnected.com/data-driven-api-testing-in-playwright-typescript-part-1-cc4f7deaf74a)
 - [Data Driven API Testing in Playwright TypeScript: Part 2](https://levelup.gitconnected.com/data-driven-api-testing-in-playwright-typescript-part-2-5d6e84f5da45)
+- [Data-Driven Testing in Playwright TypeScript with CSV Files](https://medium.com/@iamfaisalkhatri/data-driven-testing-in-playwright-typescript-with-csv-files-64158724dbb8?sharedUserId=iamfaisalkhatri)
+
 
 </details>
 
 <details>
 <summary>pytest</summary>
 
-- [API Testing using Pytest](https://testautomationu.applitools.com/python-api-testing/chapter1.html)
+- [Testing using Pytest](https://testautomationu.applitools.com/python-api-testing/chapter1.html)
 - [Automating your API tests using Python and Pytest](https://dev.to/m4rri4nne/automating-your-api-tests-using-python-and-pytest-23cc)
 - [A Complete Guide To pytest API Testing]( https://www.testmuai.com/learning-hub/pytest-api-testing)
 - [RESTful API Testing with PyTest: A Complete Guide](https://laerciosantanna.medium.com/mastering-restful-api-testing-with-pytest-56d22460a9c4)
@@ -1778,6 +1790,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 <details>
 <summary>Tools</summary>
 
+- [CheckSheets.zip](https://cheatsheets.zip/)
+- [DevSheets.io](https://devsheets.io/)
 - [JSON comparison](https://jsoncompare.org/)
 - [Generate Fake files](https://www.fakefilegenerator.com/generate-file.php)
 - [Base64 Converter](https://www.base64decode.org/)
@@ -1920,7 +1934,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Promptfoo - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs.](https://github.com/promptfoo/promptfoo)
 - [A complete task analysis of coding-agent token-saving claims with public benchmark data and methodology](https://turaai.net/blog#token-saving-plugins-are-mostly-stupid-idea)
 - [AI Security Training By ModernSecurity.io - Hands on AI Security course with labs](https://www.modernsecurity.io/courses/ai-security-certification)
-- [Docker + Ollama + Qwen3:8B + LibreChat + Playwright MCP | Build Your Own Local AI QA Engineer - Video Tutorial](https://youtu.be/j_ka0EWYXYo?si=uX8mThpvC2I1OTjB)
+- [Docker + Ollama + Qwen3:8B + LibreChat + Playwright MCP | Build Your Own Local AI QA Engineer: Video Tutorial](https://youtu.be/j_ka0EWYXYo?si=uX8mThpvC2I1OTjB)
 - [Build Your Own Local AI QA Engineer with Docker, Ollama, LibreChat, and Playwright MCP](https://medium.com/gitconnected/build-your-own-local-ai-qa-engineer-with-docker-ollama-librechat-and-playwright-mcp-1a254fab91d0?sharedUserId=iamfaisalkhatri)
 - [Awesome MCP Servers](https://mcpservers.org/)
 - [Hugging Face Courses - NLP + new AI Agents course](https://huggingface.co/learn) 
@@ -1929,6 +1943,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [LLM Course - Roadmaps + Notebooks - GitHub](https://github.com/mlabonne/llm-course) 
 - [Fast.ai - Practical Deep Learning](https://www.fast.ai/)
 - [Courses - Fast.ai](https://course.fast.ai/)
+- [RAG & MCP Fundamentals – A Hands-On Crash Course](https://youtu.be/I7_WXKhyGms)
+- [Hugging Face AI Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction)
 
 </details>
 
