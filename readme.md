@@ -753,8 +753,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Effective Microiservices testing Strategies](https://www.freecodecamp.org/news/these-are-the-most-effective-microservice-testing-strategies-according-to-the-experts-6fb584f2edde/)
 - [JSON.org](https://www.json.org/json-en.html)
 - [What is JSON?](https://www.w3schools.com/whatis/whatis_json.asp)
-- [APISec University - API Documentation Best Practices](https://www.apisecuniversity.com/courses/api-documentation-best-practices)
-- [APISec University - API Tools and Resources](https://www.apisecuniversity.com/resources)
+- [APISec University - Courses](https://au.apisec.ai/#courses)
+- [APISec University - API Tools and Resources](https://au.apisec.ai/api-tools-and-resources)
 
 </details>
 
@@ -1158,10 +1158,10 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [CyberSecurity - Codeacademy](https://www.codecademy.com/catalog/subject/cybersecurity)
 - [Collection of Penetration Testing resources](https://github.com/wtsxDev/Penetration-Testing#penetration-testing-resources)
 - [Penetration Testing Full Course - FreeCodeCamp.org](https://www.freecodecamp.org/news/full-penetration-testing-course/)
-- [APISec University - API Penetration Testing Free Course](https://www.apisecuniversity.com/courses/api-penetration-testing)
-- [APISec University - API Security Fundamentals](https://www.apisecuniversity.com/courses/api-security-fundamentals)
-- [APISec University - OWASP API Security Top 10 and Beyond!](https://www.apisecuniversity.com/courses/owasp-api-security-top-10)
-- [APISec University - API Security for PCI Compliance](https://www.apisecuniversity.com/courses/api-security-for-pci-compliance)
+- [APISec University - API Penetration Testing Free Course](https://au.apisec.ai/courses/api-penetration-testing)
+- [APISec University - API Security Fundamentals](https://au.apisec.ai/courses/api-security-fundamentals)
+- [APISec University - OWASP API Security Top 10 and Beyond!](https://au.apisec.ai/courses/owasp-api-security-top-10-and-beyond)
+- [APISec University - API Security for PCI Compliance](https://au.apisec.ai/courses/api-security-for-pci-compliance)
 - [Live Penetration Testing Project: Online Practice in Real Time](https://www.guru99.com/live-penetration-testing-project.html)
 
 </details>
