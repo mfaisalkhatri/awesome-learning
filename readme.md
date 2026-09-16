@@ -1815,6 +1815,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Dummy Text Generator](https://www.webtools.services/dummy-text-generator)
 - [Top Ways to Boost Team Morale and Increase Productivity](https://medium.com/@iamfaisalkhatri/top-ways-to-boost-team-morale-and-increase-productivity-626219502e75)
 - [HTTP Cats - A website detailing different status codes](https://http.cat/)
+- [OrcaReplay - Record an AI agent's run and replay it offline](https://github.com/Continuum-AI-Corp/OrcaReplay)
 
 </details>
 
