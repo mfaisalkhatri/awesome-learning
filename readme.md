@@ -543,7 +543,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Codeless Test automation with Selenium IDE](https://testautomationu.applitools.com/codeless-test-automation-with-selenium-ide/)
 - [Intro to Selenium WebDriver with .NET Core](https://testautomationu.applitools.com/intro-to-selenium-webdriver-with-net-core/)
 - [Selenium WebDriver with Ruby](https://testautomationu.applitools.com/selenium-webdriver-with-ruby/)
-- [Free Selenium WebDriver Course](https://automationintesting.com/selenium/java/course/)
 - [Selenium WebDriver example code](https://github.com/mfaisalkhatri/selenium4poc)
 - [Selenium Tutorial - SoftwareTestingMaterial](https://www.softwaretestingmaterial.com/selenium-tutorial/)
 - [Selenium Tutorial - SoftwareTestingHelp](https://www.softwaretestinghelp.com/selenium-tutorial-1/)
@@ -919,7 +918,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [GraphQL Guides](https://graphql.com/tutorials/)
 - [8 Free to Use GraphQL APIs for Your Projects and Demos](https://www.apollographql.com/blog/8-free-to-use-graphql-apis-for-your-projects-and-demos)
 - [From Zero to Hero: A GraphQL Testing Guide for Developers](https://www.parasoft.com/blog/what-is-graphql-testing/)
-- [OWASP - Testing GraphQL](https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/12-API_Testing/01-Testing_GraphQL)
+- [OWASP - Testing GraphQL](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html)
 
 </details>
 
@@ -1115,10 +1114,10 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Security Testing Guide](https://github.com/OWASP/wstg/tree/master/document)
 - [Security Testing Tutorial](https://www.softwaretestingmaterial.com/security-testing-tutorial/)
 - [OWASP Web Security Testing Guide](https://www.softwaretestinghelp.com/how-to-test-application-security-web-and-desktop-application-security-testing-techniques/)
-- [OWASP API Security Project](https://owasp.org/www-project-api-security/)
+- [OWASP API Security Project](https://owasp.org/projects/api-security-project)
 - [Web Application Security Testing Guide](https://www.softwaretestinghelp.com/security-testing-of-web-applications/)
 - [Security Testing](https://www.geeksforgeeks.org/software-testing/security-testing/)
-- [OWASP Mobile Security](https://owasp.org/www-project-mobile-app-security/)
+- [OWASP Mobile Security](https://owasp.org/projects/mobile-application-security)
 - [Hacksplaining](https://www.hacksplaining.com/owasp)
 - [OWASP Top 10 Vulnerabilities](https://www.softwaretestinghelp.com/owasp-top-10-security-vulnerabilities/)
 - [OWASP Top 10 2021](https://owasp.org/Top10/)
