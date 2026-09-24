@@ -1799,6 +1799,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Random Data Generator Library](https://www.datafaker.net/)
 - [Faker JS](https://fakerjs.dev/)
 - [Test Data Generator](https://generatedata.com/)
+- [Checksum-Valid Financial Test Data Generator - Mock Jutsu](https://github.com/altansayan/mock-jutsu-api)
 - [Excel Viewer - VS Code Extension](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer)
 - [Rainbow CSV - VS Code Extension](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
 - [Code Runner - VS Code Extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
