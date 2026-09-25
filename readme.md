@@ -1207,6 +1207,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Burp Suite Professional video tutorials](https://portswigger.net/burp/pro/video-tutorials)
 - [Burp Suite Tutorial – Getting Started With Burp Suite Tool - Software Testing Help](https://www.softwaretestinghelp.com/burp-suite-tutorial/)
 - [Burp Suite Tutorials - TryHackMe](https://tryhackme.com/module/learn-burp-suite)
+- [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 </details>
 
 # Performance Testing
