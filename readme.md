@@ -1670,6 +1670,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Free Linux Books](https://www.freebookcentre.net/UnixCategory/Free-Linux-Books-Download.html)
 - [A website that explains shell commands](https://explainshell.com/)
 - [25 Linux Commands Every Beginner Should Know](https://medium.com/devops-dev/25-linux-commands-every-beginner-should-know-e0bb4a7c6d3b)
+- [WebTerm Learn - Linux courses with exercises in a browser terminal](https://learn.webterm.app/en/courses)
 
 </details>
 
