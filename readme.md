@@ -721,7 +721,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Demo Websites - AutomationPanda.com](https://automationpanda.com/2021/12/29/want-to-practice-test-automation-try-these-demo-sites/)
 - [The-internet - herokuapp](https://the-internet.herokuapp.com/)
 - [LambdaTest Selenium Playground]( https://www.testmuai.com/selenium-playground/)
-- [OWASP Juice Shop](https://juice-shop.herokuapp.com/#/)
+- [OWASP Juice Shop](https://github.com/juice-shop/juice-shop)
 - [Swag Labs Demo](https://www.saucedemo.com)
 - [LambdaTest ECommerce Playground](https://ecommerce-playground.lambdatest.io/)
 - [Practice- Expand Testing](https://practice.expandtesting.com/)
@@ -1679,7 +1679,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [Terraform Tutorials](https://developer.hashicorp.com/terraform/tutorials)
 - [Terraform Tutorials - Getting Started](https://spacelift.io/blog/terraform-tutorial)
-- [A Comprehensive Terraform Tutorial for Beginners](https://zeet.co/blog/terraform-tutorial)
+- [A Comprehensive Terraform Tutorial for Beginners](https://k21academy.com/terraform/terraform-beginners-guide/)
 - [awesome-tf](https://github.com/shuaibiyy/awesome-tf)
 - [An Ultimate Terraform Hands-on Labs](https://collabnix.github.io/terraform/)
 - [Awesome Terraform - Azure](https://github.com/Azure/awesome-terraform)
