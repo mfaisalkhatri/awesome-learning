@@ -105,6 +105,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 
 - [JavaScript Roadmap](https://roadmap.sh/javascript)
 - [Beginners Series to JavaScript](https://learn.microsoft.com/en-us/shows/beginners-series-to-javascript/)
+- [JavaScript Certification - freeCodeCamp](https://www.freecodecamp.org/learn/javascript-v9/)
 - [Learn JavaScript for Beginners – JS Basics Handbook](https://www.freecodecamp.org/news/learn-javascript-for-beginners/)
 - [Learn JavaScript – Free JS Courses for Beginners](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 - [learn-js](https://www.learn-js.org/)
@@ -399,6 +400,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [The Real Struggles of Software Testers: Challenges No One Talks About!](https://medium.com/@iamfaisalkhatri/the-real-struggles-of-software-testers-challenges-no-one-talks-about-dfba2eb9bd33)
 - [Why is Critical Thinking important in Software Testing](https://medium.com/@iamfaisalkhatri/why-is-critical-thinking-important-in-software-testing-f72444fd3b30)
 - [Why Curiosity Is a QA Engineer’s Strongest Skill](https://medium.com/@iamfaisalkhatri/why-curiosity-is-a-qa-engineers-strongest-skill-7057424612f8)
+- [AI in Software Testing: What Testers Need to Know](https://levelup.gitconnected.com/ai-in-software-testing-what-testers-need-to-know-941900d0d26f?sharedUserId=iamfaisalkhatri)
 
 </details>
 
@@ -601,7 +603,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Playwright Documentation - .NET](https://playwright.dev/dotnet/docs/intro)
 - [Latest Videos for learning Playwright](https://playwright.dev/community/learn-videos)
 - [Build your first end-to-end test with Playwright](https://learn.microsoft.com/en-us/training/modules/build-with-playwright/)
-- [Join Playwright Discord Server](https://discord.com/servers/playwright-807756831384403968)
 - [Awesome-Playwright](https://github.com/mxschmitt/awesome-playwright)
 - [Playwright - YouTube](https://www.youtube.com/channel/UC46Zj8pDH5tDosqm1gd7WTg)
 - [Playwright Locators](https://playwright.dev/docs/locators)
@@ -609,6 +610,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [What is Microsoft Playwright JS?](https://testguild.com/what-is-microsoft-playwright-js/)
 - [Testing Modern Web Apps with Playwright | OD110](https://www.youtube.com/watch?v=sAY9FmBih08)
 - [An End To End Playwright Testing with TypeScript](https://www.youtube.com/watch?v=wawbt1cATsk)
+- [Join Playwright Discord Server](https://discord.com/servers/playwright-807756831384403968)
+- [Playwright TypeScript Advanced Tutorials](https://youtube.com/playlist?list=PLMer2TvhZIw-N5p555hrlW_CLn2iaXfw7&si=fl9FPJNZvH6d_ZU7)
 - [Getting Started With Microsoft Tool Playwright for Automated Testing](https://dzone.com/articles/getting-started-with-playwright-for-testing)
 - [Playwright Tutorial: Getting Started With Playwright Framework](https://www.testmuai.com/blog/playwright-framework/)
 - [Playwright - Github](https://github.com/microsoft/playwright)
@@ -643,6 +646,9 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Stop Hardcoding URLs! Playwright Multi-Environment Guide | How to Use Projects, baseURL & .env - Video Tutorial](https://youtu.be/CgxQsT3jriI)
 - [Browser vs BrowserContext vs Page in Playwright TypeScript Finally Explained! - Video Tutorial](https://youtu.be/iJXXxNiF4iU)
 - [How to Create Custom Fixtures in Playwright TypeScript | Step-by-Step Tutorial | Automation Testing - Video Tutorial](https://youtu.be/mJg59jCwLgs)
+- [How to use Authentication setup in Playwright TypeScript](https://medium.com/gitconnected/how-to-use-authentication-setup-in-playwright-typescript-f54bc68356f4?sharedUserId=iamfaisalkhatri)
+- [Network Interception with Playwright TypeScript](https://medium.com/gitconnected/network-interception-with-playwright-typescript-0dd32195848b?sharedUserId=iamfaisalkhatri)
+- [Parallel Testing in Playwright with TypeScript: A Practical Guide to Workers & Cross-Browser Testing](https://levelup.gitconnected.com/parallel-testing-in-playwright-with-typescript-a-practical-guide-to-workers-cross-browser-testing-a407f6e7e2c2?sharedUserId=iamfaisalkhatri)
 
 </details>
 
@@ -726,7 +732,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [LambdaTest ECommerce Playground](https://ecommerce-playground.lambdatest.io/)
 - [Practice- Expand Testing](https://practice.expandtesting.com/)
 - [Tools Shop Demo Website](https://practicesoftwaretesting.com/)
-- [QA Practice](https://qa-practice.netlify.app/)
+- [QA Practice](https://qa-practice.razvanvancea.ro/)
 - [Automation Test Store](https://automationteststore.com/)
 - [Demo QA](https://demoqa.com/)
 - [UI Testing Playground](http://uitestingplayground.com/)
@@ -847,6 +853,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [API Testing using SuperTest](https://medium.com/@iamfaisalkhatri/api-testing-using-supertest-ea37522fa329)
 - [API Testing using Jest and SuperTest](https://www.testingwithmarie.com/posts/20210702-api-testing-using-jest-and-supertest/)
 - [How to Test POST API Requests with SuperTest in Node.js](https://medium.com/gitconnected/how-to-test-post-api-requests-with-supertest-in-node-js-97f5b9f9c8eb)
+- [How to Test GET API Requests with SuperTest in Node.js](https://levelup.gitconnected.com/how-to-test-get-api-requests-with-supertest-in-node-js-1abf0bd3ef56?sharedUserId=iamfaisalkhatri)
+
 </details>
 
 <details>
@@ -873,6 +881,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Data Driven API Testing in Playwright TypeScript: Part 1](https://levelup.gitconnected.com/data-driven-api-testing-in-playwright-typescript-part-1-cc4f7deaf74a)
 - [Data Driven API Testing in Playwright TypeScript: Part 2](https://levelup.gitconnected.com/data-driven-api-testing-in-playwright-typescript-part-2-5d6e84f5da45)
 - [Data-Driven Testing in Playwright TypeScript with CSV Files](https://medium.com/@iamfaisalkhatri/data-driven-testing-in-playwright-typescript-with-csv-files-64158724dbb8?sharedUserId=iamfaisalkhatri)
+- [End-to-End API Testing with Playwright TypeScript](https://medium.com/@iamfaisalkhatri/end-to-end-api-testing-with-playwright-typescript-cfd63fdff7fa)
 
 
 </details>
@@ -1935,8 +1944,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Promptfoo - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs.](https://github.com/promptfoo/promptfoo)
 - [A complete task analysis of coding-agent token-saving claims with public benchmark data and methodology](https://turaai.net/blog#token-saving-plugins-are-mostly-stupid-idea)
 - [AI Security Training By ModernSecurity.io - Hands on AI Security course with labs](https://www.modernsecurity.io/courses/ai-security-certification)
-- [Docker + Ollama + Qwen3:8B + LibreChat + Playwright MCP | Build Your Own Local AI QA Engineer: Video Tutorial](https://youtu.be/j_ka0EWYXYo?si=uX8mThpvC2I1OTjB)
-- [Build Your Own Local AI QA Engineer with Docker, Ollama, LibreChat, and Playwright MCP](https://medium.com/gitconnected/build-your-own-local-ai-qa-engineer-with-docker-ollama-librechat-and-playwright-mcp-1a254fab91d0?sharedUserId=iamfaisalkhatri)
 - [Awesome MCP Servers](https://mcpservers.org/)
 - [Hugging Face Courses - NLP + new AI Agents course](https://huggingface.co/learn) 
 - [DeepLearning.AI - Transformers, Agentic AI, LangGraph](https://www.deeplearning.ai/courses) 
@@ -1946,6 +1953,9 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Courses - Fast.ai](https://course.fast.ai/)
 - [RAG & MCP Fundamentals – A Hands-On Crash Course](https://youtu.be/I7_WXKhyGms)
 - [Hugging Face AI Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction)
+- [Docker + Ollama + Qwen3:8B + LibreChat + Playwright MCP | Build Your Own Local AI QA Engineer: Video Tutorial](https://youtu.be/j_ka0EWYXYo?si=uX8mThpvC2I1OTjB)
+- [Build Your Own Local AI QA Engineer with Docker, Ollama, LibreChat, and Playwright MCP](https://medium.com/gitconnected/build-your-own-local-ai-qa-engineer-with-docker-ollama-librechat-and-playwright-mcp-1a254fab91d0?sharedUserId=iamfaisalkhatri)
+- [Building an AI Browser Test Agent: Run Automation Tests Using Plain English](https://medium.com/gitconnected/building-an-ai-browser-test-agent-run-automation-tests-using-plain-english-06fd8c47e12d?sharedUserId=iamfaisalkhatri)
 
 </details>
 
