@@ -1956,6 +1956,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Docker + Ollama + Qwen3:8B + LibreChat + Playwright MCP | Build Your Own Local AI QA Engineer: Video Tutorial](https://youtu.be/j_ka0EWYXYo?si=uX8mThpvC2I1OTjB)
 - [Build Your Own Local AI QA Engineer with Docker, Ollama, LibreChat, and Playwright MCP](https://medium.com/gitconnected/build-your-own-local-ai-qa-engineer-with-docker-ollama-librechat-and-playwright-mcp-1a254fab91d0?sharedUserId=iamfaisalkhatri)
 - [Building an AI Browser Test Agent: Run Automation Tests Using Plain English](https://medium.com/gitconnected/building-an-ai-browser-test-agent-run-automation-tests-using-plain-english-06fd8c47e12d?sharedUserId=iamfaisalkhatri)
+- [Check a browser-agent result before timing it](https://github.com/liubrain39/browsesprint-resources/blob/codex/public-resources/docs/browser-result-verification.md)
 
 </details>
 
