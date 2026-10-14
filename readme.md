@@ -1023,6 +1023,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Mobile App Testing Tutorial: A Comprehensive Guide With Examples and Best Practices](https://www.testmuai.com/learning-hub/mobile-app-testing)
 - [Mobile Application Testing using Automation frameworks](https://www.browserstack.com/guide/mobile-application-testing-frameworks)
 - [How to Choose Mobile Devices for Testing ?](https://medium.com/@iamfaisalkhatri/how-to-choose-mobile-devices-for-testing-pcloudy-blog-96179529d0f3)
+- [Test your Android app with an AI agent](https://phonebox.dev/guides/test-android-app-with-ai)
 </details>
 
 <details>
