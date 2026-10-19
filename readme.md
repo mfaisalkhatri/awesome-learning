@@ -883,6 +883,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Data Driven API Testing in Playwright TypeScript: Part 2](https://levelup.gitconnected.com/data-driven-api-testing-in-playwright-typescript-part-2-5d6e84f5da45)
 - [Data-Driven Testing in Playwright TypeScript with CSV Files](https://medium.com/@iamfaisalkhatri/data-driven-testing-in-playwright-typescript-with-csv-files-64158724dbb8?sharedUserId=iamfaisalkhatri)
 - [End-to-End API Testing with Playwright TypeScript](https://medium.com/@iamfaisalkhatri/end-to-end-api-testing-with-playwright-typescript-cfd63fdff7fa)
+- [Playwright API Testing: A Complete Guide (2026)](https://keploy.io/blog/community/playwright-api-testing)
 
 
 </details>
