@@ -805,6 +805,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Keploy VS Code Extension](https://marketplace.visualstudio.com/items?itemName=Keploy.keployio)
 - [Keploy PR Agent/App](https://github.com/apps/keploy)
 - [API Testing using Keploy](https://keploy.io/api-testing)
+- [Keploy API Test Recorder (Chrome Extension)](https://keploy.io/docs/running-keploy/api-testing-chrome-extension/)
+- [Mock Your Own Tests with Keploy (pytest, go test, jest)](https://keploy.io/docs/running-keploy/mock-your-tests/)
 
 </details>
 
