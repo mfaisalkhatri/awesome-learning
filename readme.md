@@ -1939,6 +1939,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Generative AI - Course by Google](https://cloud.google.com/learn/training/machinelearning-ai)
 - [The AI Engineering Handbook – How to Start a Career and Excel as an AI Engineer](https://www.freecodecamp.org/news/the-ai-engineering-handbook-how-to-start-a-career-and-excel-as-an-ai-engineer/)
 - [Learn AI Engineering](https://github.com/ashishps1/learn-ai-engineering)
+- [AI Engineer Portfolio Projects](https://github.com/landedjobs/ai-engineer-portfolio-projects)
 - [DeepLearning - AI for everyone](https://www.deeplearning.ai/courses/ai-for-everyone/)
 - [Top Free AI Engineering Courses to Learn in 2026](https://medium.com/@iamfaisalkhatri/top-free-ai-engineering-courses-to-learn-in-2026-5b12e2b0b877)
 - [AI for Beginners](https://github.com/microsoft/ai-for-beginners)
