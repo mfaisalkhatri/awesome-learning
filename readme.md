@@ -449,6 +449,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Test Pyramid </summary>
 
 - [Practical Test Pyramid - Martin Fowler](https://martinfowler.com/articles/practical-test-pyramid.html)
+- [The Test Pyramid in the Age of AI-Generated Code](https://medium.com/gitconnected/the-testing-pyramid-in-the-age-of-ai-generated-code-2114952f6c40?sharedUserId=iamfaisalkhatri)
 </details>
 
 <details>
@@ -1176,7 +1177,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [API Penetration Testing: A Full Guide](https://luxequality.com/blog/api-penetration-testing/)
 - [Hacking APIs: Workshop - Corey Ball](https://sway.cloud.microsoft/HVrL2AXUlWGNDHqy)
 - [API Security Tools](https://owasp.org/www-community/api_security_tools)
-- [MalAPI by mrd0x](https://malapi.io/)
 - [What is DAST?](https://www.softwaretestinghelp.com/what-is-dast/)
 - [What is RAST?](https://www.softwaretestinghelp.com/rasp-tutorial/)
 - [What is SAST](https://www.softwaretestinghelp.com/sast-tutorial/)
@@ -1363,7 +1363,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>Tools/Automation Frameworks</summary>
 
 - [Visual Testing WebdriverIO](https://webdriver.io/docs/visual-testing/)
-- [WDIO Image comparison service](https://webdriver.io/docs/wdio-image-comparison-service/)
+- [WDIO Image comparison service](https://webdriver.io/docs/wdio-visual-service#staying-on-v9)
 - [How To Perform Visual Regression Testing With Selenium And Smart UI]( https://www.testmuai.com/blog/selenium-visual-regression-testing/)
 - [Appium Visual Testing: A Step-By-Step Guide]( https://www.testmuai.com/learning-hub/appium-visual-testing)
 - [Automated Visual Testing with Python](https://testautomationu.applitools.com/visual-testing-python/)
@@ -1909,7 +1909,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 <summary>NodeMaven</summary>
 
 [NodeMaven](https://nodemaven.com/?) is a proxy provider that provides reliable residential proxies using which automation tests could be run to overcome IP blocks.
-
 - [Registration link - _Use F86 at checkout to get extra 2GB of proxy_]( https://nodemaven.com/?a_aid=faisal86&utm_source=github&utm_medium=affiliate&utm_campaign=gh_faisal86_intgr_17.05.2024&utm_term=faisal86)
 - [Documentation](https://docs.nodemaven.com/en/)
 - [Use Cases](https://nodemaven.com/#usecases-section)
@@ -1967,7 +1966,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Docker + Ollama + Qwen3:8B + LibreChat + Playwright MCP | Build Your Own Local AI QA Engineer: Video Tutorial](https://youtu.be/j_ka0EWYXYo?si=uX8mThpvC2I1OTjB)
 - [Build Your Own Local AI QA Engineer with Docker, Ollama, LibreChat, and Playwright MCP](https://medium.com/gitconnected/build-your-own-local-ai-qa-engineer-with-docker-ollama-librechat-and-playwright-mcp-1a254fab91d0?sharedUserId=iamfaisalkhatri)
 - [Building an AI Browser Test Agent: Run Automation Tests Using Plain English](https://medium.com/gitconnected/building-an-ai-browser-test-agent-run-automation-tests-using-plain-english-06fd8c47e12d?sharedUserId=iamfaisalkhatri)
-
+- [AI in Software Testing: What Testers Need to Know](https://medium.com/gitconnected/ai-in-software-testing-what-testers-need-to-know-941900d0d26f?sharedUserId=iamfaisalkhatri)
+- [AI in Software Testing: What Testers Need to Know - Video Tutorial](https://youtu.be/3qDq5Za5_30?si=47PohqWr0gs8sxEN)
 </details>
 
 <details>
