@@ -1825,6 +1825,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Table to Markdown](https://tabletomarkdown.com/)
 - [Online CSV Editor and Generator](https://tableconvert.com/csv-generator)
 - [Fake Name and Identity Generator](https://fauxid.com/)
+- [Spoof Me](https://spoof-me.com/) - Free Chrome and Firefox extension to test a site as users in other languages, timezones, locations and devices see it
 - [Código ao Ponto - Free Developer Tools](https://codigoaoponto.com/en/tools) - Test data generators (including valid Brazilian CPF, CNPJ and RG numbers) and utilities for JWT, Base64, hashes, UUIDs and JSON.
 - [Test Credit Card Account Numbers](https://www.paypalobjects.com/en_GB/vhelp/paypalmanager_help/credit_card_numbers.htm)
 - [Fake Credit Card Numbers for Testing](https://docs.stripe.com/testing)
