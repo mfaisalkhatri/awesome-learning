@@ -1372,6 +1372,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Advanced Automated Visual Testing](https://testautomationu.applitools.com/advanced-visual-testing/)
 - [Galen Framework](https://galenframework.com/)
 - [Wopee.io](https://wopee.io) - Autonomous visual regression testing platform with AI-powered test agents. Integrates with Playwright, Cypress, and Robot Framework.
+- [UI Verify](https://uiverify.ai) - Visual testing for UI written by coding agents, using your existing Storybook, Playwright or Vitest tests. Free for 10,000 snapshots a month, 50,000 for open source.
 
 </details>
 
