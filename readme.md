@@ -1827,6 +1827,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Fake Name and Identity Generator](https://fauxid.com/)
 - [Spoof Me](https://spoof-me.com/) - Free Chrome and Firefox extension to test a site as users in other languages, timezones, locations and devices see it
 - [Código ao Ponto - Free Developer Tools](https://codigoaoponto.com/en/tools) - Test data generators (including valid Brazilian CPF, CNPJ and RG numbers) and utilities for JWT, Base64, hashes, UUIDs and JSON.
+- [Proxy Format Converter](https://portproof.org/tools/proxy-format-converter) - Free tool that converts proxy lists between host:port:user:pass, user:pass@host:port and URL formats, or into curl commands, Python requests settings, environment variables and JSON, entirely in the browser.
 - [Test Credit Card Account Numbers](https://www.paypalobjects.com/en_GB/vhelp/paypalmanager_help/credit_card_numbers.htm)
 - [Fake Credit Card Numbers for Testing](https://docs.stripe.com/testing)
 - [Fake Credit Card Number Generator](https://www.vccgenerator.org/)
