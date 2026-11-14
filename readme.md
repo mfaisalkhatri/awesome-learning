@@ -197,6 +197,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [The right way to install Python on a Mac](https://medium.com/marvelous-mlops/the-rightway-to-install-python-on-a-mac-f3146d9d9a32)
 - [What is Polymorphism in Python? Explained with an Example](https://www.freecodecamp.org/news/what-is-polymorphism-in-python-example/)
 - [Learn Python - Coddy (free interactive course)](https://coddy.tech/landing/python)
+- [Coffee Break Python Workbook - 127 Python Puzzles to Push You from Zero to Hero](https://www.amazon.com/dp/B07WQR91PF)
 
 </details>
 
