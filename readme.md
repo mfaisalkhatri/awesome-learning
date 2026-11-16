@@ -1114,6 +1114,17 @@ I have been asked by many about my career transformation journey from Manual Tes
 </details>
 
 <details>
+<summary>e2e </summary>
+
+- [e2e.com](https://e2e.com/)
+- [e2e Documentation](https://e2e.com/docs)
+- [Mobile Testing with e2e](https://e2e.com/docs/mobile)
+- [Migrating from Appium to e2e](https://e2e.com/docs/migrate/appium)
+- [e2e Github](https://github.com/e2e-inc/e2e)
+
+</details>
+
+<details>
 <summary>Demo Apps for learning Mobile Testing</summary>
 
 - [Sauce labs Android App](https://github.com/saucelabs/my-demo-app-android/releases)
