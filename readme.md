@@ -753,6 +753,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Contact List App](https://thinking-tester-contact-list.herokuapp.com/)
 - [Live Chat Playground](https://github.com/mfaisalkhatri/live-chat-playground)
 - [75+ Testing Practice Websites to Master Software QA in 202](https://www.ministryoftesting.com/articles/75-testing-practice-websites-to-master-software-qa-in-2024)
+- [QA Testing Service – 39+ QA Practice Websites](https://qatestingservice.in/resources): A collection of 39+ demo websites and testing practice environments for learners to practice manual testing, explore web applications, and create test cases.
+
 
 </details>
 
