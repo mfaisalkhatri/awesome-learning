@@ -406,6 +406,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Why is Critical Thinking important in Software Testing](https://medium.com/@iamfaisalkhatri/why-is-critical-thinking-important-in-software-testing-f72444fd3b30)
 - [Why Curiosity Is a QA Engineer’s Strongest Skill](https://medium.com/@iamfaisalkhatri/why-curiosity-is-a-qa-engineers-strongest-skill-7057424612f8)
 - [AI in Software Testing: What Testers Need to Know](https://levelup.gitconnected.com/ai-in-software-testing-what-testers-need-to-know-941900d0d26f?sharedUserId=iamfaisalkhatri)
+- [What 27 merged PRs taught me about testing a Rust rewrite as a black box](https://dev.to/emirmrkaljevic/what-27-merged-prs-taught-me-about-testing-a-rust-rewrite-as-a-black-box-4je4)
 
 </details>
 
