@@ -1849,6 +1849,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Dummy Text Generator](https://www.webtools.services/dummy-text-generator)
 - [Top Ways to Boost Team Morale and Increase Productivity](https://medium.com/@iamfaisalkhatri/top-ways-to-boost-team-morale-and-increase-productivity-626219502e75)
 - [HTTP Cats - A website detailing different status codes](https://http.cat/)
+- [Text Compare](https://bestlatestapps.com/tools/text-compare/) - Free tool that compares two texts or files side by side or in one column, marking added, removed and changed lines and highlighting the changed words, entirely in the browser.
 
 </details>
 
