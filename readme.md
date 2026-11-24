@@ -407,6 +407,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Why Curiosity Is a QA Engineer’s Strongest Skill](https://medium.com/@iamfaisalkhatri/why-curiosity-is-a-qa-engineers-strongest-skill-7057424612f8)
 - [AI in Software Testing: What Testers Need to Know](https://levelup.gitconnected.com/ai-in-software-testing-what-testers-need-to-know-941900d0d26f?sharedUserId=iamfaisalkhatri)
 - [What 27 merged PRs taught me about testing a Rust rewrite as a black box](https://dev.to/emirmrkaljevic/what-27-merged-prs-taught-me-about-testing-a-rust-rewrite-as-a-black-box-4je4)
+- [What Could Go Wrong When Using AI Agents For Automation Testing?](https://medium.com/@iamfaisalkhatri/what-could-go-wrong-when-using-ai-agents-for-automation-testing-86e009d412f2)
 
 </details>
 
@@ -429,6 +430,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Sauce Labs](https://www.youtube.com/@SauceLabs_Official)
 - [Testing Talks with Faisal Khatri](https://www.youtube.com/@faisalkhatriqa)
 - [Learn Test Automation with Wasiq Bhamla](https://www.youtube.com/@WasiqBhamla)
+
 </details>
 
 <details>
@@ -617,7 +619,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [What is Microsoft Playwright JS?](https://testguild.com/what-is-microsoft-playwright-js/)
 - [Testing Modern Web Apps with Playwright | OD110](https://www.youtube.com/watch?v=sAY9FmBih08)
 - [An End To End Playwright Testing with TypeScript](https://www.youtube.com/watch?v=wawbt1cATsk)
-- [Join Playwright Discord Server](https://discord.com/servers/playwright-807756831384403968)
 - [Playwright TypeScript Advanced Tutorials](https://youtube.com/playlist?list=PLMer2TvhZIw-N5p555hrlW_CLn2iaXfw7&si=fl9FPJNZvH6d_ZU7)
 - [Getting Started With Microsoft Tool Playwright for Automated Testing](https://dzone.com/articles/getting-started-with-playwright-for-testing)
 - [Playwright Tutorial: Getting Started With Playwright Framework](https://www.testmuai.com/blog/playwright-framework/)
@@ -753,9 +754,8 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Example SaaS for testing](https://demo-saas.bugbug.io/)
 - [Contact List App](https://thinking-tester-contact-list.herokuapp.com/)
 - [Live Chat Playground](https://github.com/mfaisalkhatri/live-chat-playground)
-- [75+ Testing Practice Websites to Master Software QA in 202](https://www.ministryoftesting.com/articles/75-testing-practice-websites-to-master-software-qa-in-2024)
-- [QA Testing Service – 39+ QA Practice Websites](https://qatestingservice.in/resources): A collection of 39+ demo websites and testing practice environments for learners to practice manual testing, explore web applications, and create test cases.
-
+- [75+ Testing Practice Websites to Master Software QA](https://www.ministryoftesting.com/articles/75-testing-practice-websites-to-master-software-qa-in-2024)
+- [39+ QA Practice Websites](https://qatestingservice.in/resources)
 
 </details>
 
@@ -852,7 +852,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [How to Test a PATCH API Request with Rest Assured Java](https://medium.com/javarevisited/how-to-test-a-patch-api-request-with-rest-assured-java-a78309500315)
 - [How to Test a DELETE API Request with Rest Assured Java](https://medium.com/@iamfaisalkhatri/how-to-test-a-delete-api-request-with-rest-assured-java-6b3ae9941760)
 
-
 </details>
 
 <details>
@@ -912,7 +911,6 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [PyTest • REST API Integration Testing with Python](https://youtu.be/7dgQRVqF1N0?si=BOFHDoOLrfyaJngZ)
 
 </details>
-
 
 <details>
 <summary>Cypress</summary>
@@ -1663,7 +1661,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Awesome Docker Compose](https://github.com/docker/awesome-compose)
 - [Docker Tutorial for Beginners – Introduction & Getting Started](https://spacelift.io/blog/docker-tutorial)
 - [Docker Cheat Sheet - Linux Journey](https://linuxjourney.org/cheat-sheets/docker)
-- [Docker Cheat Sheet - Docker](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
+- [Docker Cheat Sheet](https://computingforgeeks.com/docker-cheat-sheet/)
 - [Docker Cheat Sheet - Dockerlabs](https://dockerlabs.collabnix.com/docker/cheatsheet/)
 - [Docker Cheat Sheet - GitHub](https://github.com/wsargent/docker-cheat-sheet)
 - [Docker Cheat Sheet – 36 Docker CLI Commands Spacelift.io](https://spacelift.io/blog/docker-commands-cheat-sheet)
