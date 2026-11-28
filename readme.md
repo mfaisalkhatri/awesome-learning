@@ -756,6 +756,7 @@ I have been asked by many about my career transformation journey from Manual Tes
 - [Live Chat Playground](https://github.com/mfaisalkhatri/live-chat-playground)
 - [75+ Testing Practice Websites to Master Software QA](https://www.ministryoftesting.com/articles/75-testing-practice-websites-to-master-software-qa-in-2024)
 - [39+ QA Practice Websites](https://qatestingservice.in/resources)
+- [GoodDeal - Demo store for E2E and visual regression practice](https://delta-qa.com/playground/)
 
 </details>
 
